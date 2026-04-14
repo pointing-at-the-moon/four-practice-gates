@@ -2,7 +2,8 @@
 # NIAN-Specific Provisions for *Mindful of the Buddha*
 
 > 本檔以 `dharma-research/PAPER_STYLE.md` v2.1 為基礎，新增以下 NIAN 專屬條款。
-> 凡未列出的條款，一律沿用 v2.1 原文（署名、引用原則、論文結構、分析框架、RAG 流程等）。
+> 凡未列出的條款，一律沿用 v2.1 原文（署名、引用原則、論文結構、分析框架等），
+> 但 **§3.7 RAG 流程已於 v2.2-NIAN 改寫**（見下方 §3.7 / §3.7.1）。
 
 ---
 
@@ -19,6 +20,8 @@
 **適用範圍**：Part I（P01–P04）為核心適用區；Part II–VIII 視引用內容決定是否啟動雙軌。
 
 **原則**：漢譯為主體引文（符合中文讀者需求），Pāli 為學術對照（符合西方讀者期待）。兩者不必逐字對譯，但必須指向同一經文段落。
+
+**操作備註（v2.2-NIAN）**：Chat Opus 現可直接 grep `~/Projects/tripitaka/vaults/vault-pali/`，Pāli 端查證與漢譯端同等便利，雙軌引用不再是額外成本。
 
 ---
 
@@ -57,6 +60,8 @@ T0670/T0671/T0672《楞伽經》在兩本書中使用**不同段落**：
 
 **寫 P17 時須嚴格避開 S5 預留的觀伎眾段落**，否則會劇透未寫的 S5 內容。
 
+**v2.2-NIAN 補充**：直接 grep vault 時，若搜尋 T0670 命中觀伎眾段落，須主動跳過，不得引入 P17 草稿。此為寫作紀律，非技術限制。
+
 ---
 
 ## NIAN-E：GRETIL 授權隔離 GRETIL License Isolation
@@ -65,16 +70,31 @@ vault-pali 中的 Visuddhimagga 檔案為 CC BY-SA 4.0（GRETIL），已標 `pub
 
 **規則**：NIAN book 引 Visuddhimagga 需用 Max 自譯或公有領域版本，不可直接引用 GRETIL 文本到出版物中。Paper 階段可用作研究參考，但 book 階段需替換。
 
+**v2.2-NIAN 補充**：Chat Opus 直接存取 vault 後，讀取任何 Visuddhimagga 檔案前，**必須先檢查 frontmatter 的 `publication_safe` 欄位**。若為 `false`，僅用於研究理解，草稿中的對應引文須標 `[待替換：GRETIL 隔離]`，交 Code Opus 於 book 階段處理。
+
 ---
 
-# 以下為 dharma-research PAPER_STYLE.md v2.1 原文
+## NIAN 雙 Claude 分工（v2.2-NIAN 更新）Dual-Claude Division of Labor
+
+自 v2.2-NIAN 起，RAG 擁有權從 Code Opus 移交給 Chat Opus：
+
+| 角色 | 職責 |
+|------|------|
+| **Chat Opus** | 全部智識工作、RAG（直接 grep vault）、引文查證、章節起草、雙語改寫、passdown 撰寫 |
+| **Code Opus** | git 操作、commit、punct_fix.py、build.sh、GitHub push、passdown 歸檔、批次腳本 |
+
+**關鍵轉變**：Chat Opus 不再「請 Code Opus 檢索後帶回」；Chat 自己負責所有經文查證。Code Opus 從檢索執行者變為純工程執行者。
+
+---
+
+# 以下為 dharma-research PAPER_STYLE.md v2.1 原文（§3.7 已於 v2.2-NIAN 改寫）
 
 ---
 
 # 指月研究論文風格指南
 # Point-to-the-moon Paper Style Guide
 
-Version: 2.1 | 2026-04
+Version: 2.2-NIAN | 2026-04
 
 ---
 
@@ -300,11 +320,33 @@ English Subtitle*
 
 ## 三之二、寫作方法論 Writing Methodology
 
-### 3.7 RAG 先行原則 RAG-First Principle
+### 3.7 RAG 先行原則 RAG-First Principle（v2.2-NIAN 改寫）
 
-每篇論文開寫前，**必須先用 sub-agent 平行 vault 搜索進行系統性查詢**。
+每篇論文開寫前，**必須先由 Chat Opus 直接 grep vault 進行系統性查詢**，完成所有經文定位與引文查證，方可進入草稿階段。
 
-> **重要：不使用 AnythingLLM API**。Sub-agent 直接 grep vault markdown 檔案的幻覺率為零。
+**技術背景的轉變：**
+- v2.1 以前：Chat Opus 提出查詢 → Code Opus 以 sub-agent 平行 grep → 結果回傳 → Chat 撰寫
+- v2.2-NIAN 起：Chat Opus 透過 Filesystem MCP 直接存取 `~/Projects/tripitaka/vaults/`，grep 與 view 在同一回合內完成
+
+**零幻覺原則不變**：所有引文來自 vault markdown 實際內容，不得憑記憶重建 T-number 或經文段落。
+
+**Vault 路徑（當前掛載）：**
+- 漢譯大藏經：`~/Projects/tripitaka/vaults/vault-taisho/`
+- Pāli Nikāya：`~/Projects/tripitaka/vaults/vault-pali/`
+- Fallback（vault 未收錄時）：`/Users/master/Projects/tripitaka/xml-p5-master/`（CBETA XML-P5 完整下載）
+
+### 3.7.1 Vault 存取紀律 Vault Access Discipline（v2.2-NIAN 新增）
+
+直接存取權限較高，紀律須同步收緊：
+
+1. **先 grep 後 view**：不得對經文檔案盲目 full-read。先用 `grep -rn` 定位段落，再以 `view` 配合 line range 讀取上下文。
+2. **引文必經眼驗證**：草稿中任何 T-number、任何經文引文，**必須在當次 session 實際打開對應 vault 檔案確認過**。不得依賴記憶、不得依賴過去 session 的快取、不得依賴 userMemories 中的摘要。
+3. **查詢紀錄寫入 passdown**：每篇論文的主要 grep 查詢（關鍵詞、命中檔案、採用段落）須列於該篇 passdown 的「RAG queries」章節，供 Code Opus 日後審計與重現。
+4. **Frontmatter 必檢**：讀取 vault 檔案後，先看 frontmatter 的 `publication_safe` 欄位。`false` 者僅供研究理解，不得直接引入草稿（見 NIAN-E）。
+5. **Fallback 觸發條件**：vault 未命中時，才可降至 `xml-p5-master` 的原始 CBETA XML 檔。XML 讀取需回寫成 vault markdown 或至少在 passdown 標注來源路徑。
+6. **雙軌查證（NIAN-A 配套）**：涉阿含／Nikāya 段落，漢譯端（vault-taisho）與 Pāli 端（vault-pali）須同時查證，兩邊都要實際打開確認。
+
+> **原則**：vault 直連不是省事，是換一種負責。Code Opus 不再幫你把關，Chat Opus 自己就是把關者。
 
 ### 3.8 雙語同步 Bilingual Dual-Track
 
@@ -314,6 +356,8 @@ English Subtitle*
 - 兩版共享相同的章節結構、腳注編號、經論索引
 - 英文版的經文引用保留中文原文，附英文翻譯
 - NIAN 字數預算：中文 6,000–8,000 字/篇，英文 4,500–6,000 字/篇
+
+**v2.2-NIAN 備註**：Pāli vault 已直接可查，NIAN-A 雙軌引用的 Pāli 端操作成本降至與漢譯端相當。
 
 ### 3.9 系列論文交叉引用 Cross-Reference Index
 
@@ -376,6 +420,7 @@ papers/
 - v2.0 (2026-04)：擴展至完整方法論指南
 - v2.1 (2026-04)：新增 S8 專屬條款（dharma-research only）
 - v2.1-NIAN (2026-04)：新增 NIAN 專屬條款 A–E，調整 hook/framing 為西方讀者
+- **v2.2-NIAN (2026-04)：RAG 流程改寫——Chat Opus 直接存取 vault（Filesystem MCP），§3.7 全面改寫，新增 §3.7.1 Vault 存取紀律，新增「NIAN 雙 Claude 分工」章節，NIAN-A/D/E 附 v2.2 操作補充**
 
 ---
 
