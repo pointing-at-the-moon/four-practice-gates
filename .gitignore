@@ -1,0 +1,27 @@
+.DS_Store
+*.swp
+*.swo
+*~
+.obsidian/
+.claude/
+
+# Internal working files (not for public repo)
+tasks/
+research/
+
+# RAG working directories
+papers/*/rag/
+
+# Draft ideas, plans, and archives (keep local, not for public repo)
+papers/*_draft*.md
+papers/*_ideas.md
+
+# Project instructions and roadmap (local only)
+CLAUDE.md
+
+# Local utility scripts
+scripts/
+
+# Book project — second phase, only .gitkeep for now
+# When book phase begins, adopt published/ gate model (same as dharma-research)
+book/build/output/
