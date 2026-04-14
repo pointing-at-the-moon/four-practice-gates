@@ -14,10 +14,12 @@ scripts/
 CLAUDE.md
 FOUR_GATES_MASTER_PLAN.md
 
-# Volume-level planning, style guides, and audit briefs (local only)
+# Series-level style guide (local only)
+PAPER_STYLE.md
+
+# Volume-level planning and audit briefs (local only)
 */*_PLAN.md
 */*_AUDIT_BRIEF.md
-*/PAPER_STYLE.md
 
 # Volume-level draft/RAG files (local only)
 */papers/*/rag/
