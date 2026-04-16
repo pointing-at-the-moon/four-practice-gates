@@ -20,6 +20,8 @@ PAPER_STYLE.md
 # Volume-level planning and audit briefs (local only)
 */*_PLAN.md
 */*_AUDIT_BRIEF.md
+*/*_REMEDIATION_BRIEF.md
+*/*_OUTLINE*.md
 
 # Volume-level draft/RAG files (local only)
 */papers/*/rag/
