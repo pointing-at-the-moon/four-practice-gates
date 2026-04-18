@@ -14,7 +14,15 @@ date: 2026-04-17
 
 Following P06's location of T0418 as the source of the visionary register in the Chinese reception of recollection-practice, this paper takes up an unresolved question: how does the ontology of the buddha-field (*buddha-kṣetra*) as a destination develop from T0418's nascent opening into a structurally complete form? The paper argues three points. First, T0418 already possesses a destination-grammar—Amitābha's own direct invitation, "let those who wish to be born in my land always recollect me"; the bodhisattva's explicit question, "what Dharma must I hold to be born in Amitābha's buddha-field"; and the cultivation-to-field causal chain expressed in *zhuāngyán zhū guótǔ* ("adorning the buddha-lands")—but it lacks a comparative dimension, and Sukhāvatī appears as a given existent rather than as an object of construction. Second, T0313 (the *Akṣobhyavyūha*) and T0361 (the earliest Chinese translation of a *Sukhāvatīvyūha*-type sūtra), both rendered in Lokakṣema's workshop within the same period, supply two structurally different answers to T0418's unfinished opening: the Akṣobhya line organizes the buddha-field around *bodhisattva self-restraint*—the "unshakable" vows of non-anger, non-injury, non-breach—with the field as the outward expression of the bodhisattva's own established non-disturbance; the Amitābha line organizes the buddha-field around *salvific reception of others*, with the decisive new ontological move being the *selection-and-combination* operation in which the bodhisattva Dharmākara is shown 210 billion pre-existent buddha-fields and composes his own field from their features through the twenty-four vows. Third, the two lines stand parallel at the ontological level; the eventual East Asian dominance of Sukhāvatī is an institutional-historical outcome, not a doctrinal necessity. Chinese early-Mahāyāna buddha-field imagination was, from its origin, a plural-structured spectrum; reading "Pure Land" as a single received cosmology projects a later outcome onto its earlier layers. The paper concludes with a heuristic dialogue with modal metaphysics (Kripke's possible-worlds semantics, Lewis's modal realism) and three non-reducible differences—teleological, ontological, upgrade-path—that prevent reduction of the buddha-field ontology to formal modal entities.
 
-**Keywords:** buddha-kṣetra, buddha-field, T0313 *Akṣobhyavyūha*, T0361 *Amitābha-sūtra* early recension, Akṣobhya, Amitābha, Dharmākara, twenty-four vows, 210 billion buddha-fields, Lokakṣema, dual-line thesis, buddha-field construction, selection-and-combination, possible-worlds semantics, modal metaphysics, early Mahāyāna
+**Keywords:** *buddha-kṣetra*, buddha-field, T0313 *Akṣobhyavyūha*, T0361 *Amitābha-sūtra* early recension, Akṣobhya, Amitābha, Dharmākara, twenty-four vows, 210 billion buddha-fields, Lokakṣema, dual-line thesis, buddha-field construction, selection-and-combination, possible-worlds semantics, modal metaphysics, early Mahāyāna
+
+---
+
+## 摘要
+
+本章接續 P06 對《般舟三昧經》（T0418）見佛層的處理，追蹤佛國（*buddha-kṣetra*）作為可往生目的地的存有論，如何在 T0418 的雛形開口之後於早期漢譯大乘譯場中獲得結構完型。主張三事：其一，T0418 已具備目的地的語法骨架——阿彌陀佛親口「欲來生我國者，常念我」的邀請、菩薩對入門法的明確提問、莊嚴諸國土的修行與國土因果鏈——但缺比較維度，須摩提（*Sukhāvatī*）是既定存在而非構築對象。其二，《阿閦佛國經》（T0313）與《佛說無量清淨平等覺經》（T0361）由同一譯師支婁迦讖於二世紀末至三世紀初譯出，各自以結構不同的救度論優化方向為 T0418 的開口填結構：阿閦線以**不動自守**為軸，佛國作為菩薩主體立定的外化；阿彌陀線以**他救接引**為軸，以法寶藏菩薩從二百一十億既有佛國中選擇組合構築二十四願佛國，引入一個決定性的新存有論操作。其三，漢譯早期大乘的佛國傳統從一開始就是雙線並行——須摩提在東亞後世的獨大是制度史的結果，不是教義階序。對「淨土」概念的理解必須回到其起點的多元結構光譜，而不能把後世的單線結果往前投射。
+
+**關鍵詞：** 佛國、*buddha-kṣetra*、T0313《阿閦佛國經》、T0361《無量清淨平等覺經》、阿閦（*Akṣobhya*）、阿彌陀（*Amitābha*）、法寶藏、二十四願、二百一十億佛國、支婁迦讖、雙線並行、佛國構築、選擇組合、可能世界語義學、模態形上學、早期大乘
 
 ---
 
@@ -104,7 +112,7 @@ T0361's 24-vow system is shorter than T0360's 48-vow system, but the architectur
 
 ### 2.4 The Zhi Qian Recension (T0362)
 
-*Fó shuō Āmítuó sānyé sānfó sàlóu fó tán guòdù réndào jīng* 佛說阿彌陀三耶三佛薩樓佛檀過度人道經, translated in the Wu kingdom by the Yuezhi lay translator Zhi Qian 支謙, two fascicles, *Taishō* vol. 12 no. 362, dating to approximately the early third century. It is another Chinese translation from the same Sukhāvatīvyūha text-family as T0361. The narrative structure runs closely parallel; Ānanda's question is almost word-for-word shared with T0361:
+*Fó shuō Āmítuó sānyé sānfó sàlóu fó tán guòdù réndào jīng* 佛說阿彌陀三耶三佛薩樓佛檀過度人道經, translated in the Wu kingdom by the Yuezhi lay translator Zhi Qian 支謙, two fascicles, *Taishō* vol. 12 no. 362, dating to approximately the early third century. It is another Chinese translation from the same *Sukhāvatīvyūha* text-family as T0361. The narrative structure runs closely parallel; Ānanda's question is almost word-for-word shared with T0361:
 
 > "One should only recollect the past buddhas, the future buddhas, and the buddhas of the other quarters now presently teaching the Dharma."[^10]
 
@@ -283,7 +291,7 @@ A structural completion of buddha-field ontology has taken place. In Luoyang in 
 
 [^9]: T0361, fascicle 1, vows (1) and (2) of the twenty-four. The conditional-vow format ("if this vow is not fulfilled, I shall not become a buddha") runs through all twenty-four vows and is the skeleton format of the Amitābha vow-family; in T0360's forty-eight-vow version the format is preserved, expanded, and refined, but the syntax is continuous.
 
-[^10]: T0362, fascicle 1. Translated by Zhi Qian, the Yuezhi lay translator working in the Wu kingdom. Ānanda's question shows substantial verbal overlap with the corresponding passage in T0361 fascicle 1, which is direct textual evidence that the two sūtras belong to a single Sukhāvatīvyūha text-cluster.
+[^10]: T0362, fascicle 1. Translated by Zhi Qian, the Yuezhi lay translator working in the Wu kingdom. Ānanda's question shows substantial verbal overlap with the corresponding passage in T0361 fascicle 1, which is direct textual evidence that the two sūtras belong to a single *Sukhāvatīvyūha* text-cluster.
 
 [^11]: Saul Kripke, "A Completeness Theorem in Modal Logic," *Journal of Symbolic Logic* 24.1 (1959): 1–14; "Semantical Considerations on Modal Logic," *Acta Philosophica Fennica* 16 (1963): 83–94. David Lewis, *On the Plurality of Worlds* (Oxford: Blackwell, 1986). Kripke semantics is the standard formal semantics for modal logic; Lewis's modal realism is one of the most ontologically radical interpretive positions in the possible-worlds tradition. This chapter takes only their methodological inspiration and does not transplant their full theoretical commitments.
 
