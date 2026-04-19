@@ -9,7 +9,7 @@ A companion to [*Mindful of the Buddha*](../nian/) (Volume 1). Where NIAN establ
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: Planned — awaiting NIAN completion
+- **Status**: Paper phase — Part 1 in progress (2 papers published)
 
 ### Planned Structure
 
@@ -24,3 +24,9 @@ Nine parts, ~30 papers:
 - **Part 7** The Lotus Sūtra: the gift of body and life
 - **Part 8** The Avataṃsaka: dharmadhātu offering
 - **Part 9** Contemporary diagnosis and AI coda
+
+### Published Papers
+
+**Part 1 — The semantics and roots of dāna**
+- **P01** [施究竟在做什麼](./papers/part1_pali_roots/P01_施究竟在做什麼.md) / [What Dāna Actually Means](./papers/part1_pali_roots/P01_what-dana-actually-means.md)
+- **P02** [捨作為預流之支](./papers/part1_pali_roots/P02_捨作為預流之支.md) / [Cāga as a Faculty of Stream-Entry](./papers/part1_pali_roots/P02_caga-as-a-faculty-of-stream-entry.md)

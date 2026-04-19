@@ -9,7 +9,7 @@ A 31-paper volume tracing Buddhānussati from its Pāli origins through Chinese 
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: Paper phase — pre-P01 (vault audit complete, 2026-Q2)
+- **Status**: Paper phase — 13/31 published (Parts I–IV complete, Part V in progress)
 - **Primary audience**: English-language Buddhist readers
 
 ### Structure
@@ -27,6 +27,31 @@ Nine parts, 31 papers:
 
 See [`NIAN_PLAN.md`](./NIAN_PLAN.md) for full skeleton and methodology.
 
+### Published Papers
+
+**Part I — Foundations (Pāli)** · 4/4 ✅
+- **P01** [隨念究竟在做什麼](./papers/part1_foundations_pali/P01_隨念究竟在做什麼.md) / [What Anussati Actually Means](./papers/part1_foundations_pali/P01_what-anussati-actually-means.md)
+- **P02** [九德號](./papers/part1_foundations_pali/P02_九德號.md) / [The Nine Epithets](./papers/part1_foundations_pali/P02_the-nine-epithets.md)
+- **P03** [六隨念](./papers/part1_foundations_pali/P03_六隨念.md) / [The Six Recollections](./papers/part1_foundations_pali/P03_the-six-recollections.md)
+- **P04** [隨念與禪那](./papers/part1_foundations_pali/P04_隨念與禪那.md) / [Recollection and the Jhānas](./papers/part1_foundations_pali/P04_recollection-and-the-jhanas.md)
+
+**Part II — The Earliest Chinese Reception** · 1/1 ✅
+- **P05** [未說念佛的早期念佛經](./papers/part2_earliest_chinese/P05_未說念佛的早期念佛經.md) / [The Early Niànfó Sūtra Before the Word](./papers/part2_earliest_chinese/P05_the-early-nianfo-sutra-before-the-word.md)
+
+**Part III — Early Mahāyāna Vision** · 3/3 ✅
+- **P06** [面見諸佛](./papers/part3_early_mahayana/P06_面見諸佛.md) / [Seeing the Buddhas Face to Face](./papers/part3_early_mahayana/P06_seeing-the-buddha-face-to-face.md)
+- **P07** [構築佛國](./papers/part3_early_mahayana/P07_構築佛國.md) / [Constructing the Buddha Field](./papers/part3_early_mahayana/P07_constructing-the-buddha-field.md)
+- **P08** [從憶念到稱名](./papers/part3_early_mahayana/P08_從憶念到稱名.md) / [From Recollection to Calling](./papers/part3_early_mahayana/P08_from-recollection-to-calling.md)
+
+**Part IV — The Three Pure Land Sūtras** · 3/3 ✅
+- **P09** [四十八願](./papers/part4_three_pure_land/P09_四十八願.md) / [The Forty-Eight Vows](./papers/part4_three_pure_land/P09_the-forty-eight-vows.md)
+- **P10** [十六觀](./papers/part4_three_pure_land/P10_十六觀.md) / [The Sixteen Contemplations](./papers/part4_three_pure_land/P10_the-sixteen-contemplations.md)
+- **P11** [執持名號](./papers/part4_three_pure_land/P11_執持名號.md) / [Holding the Name](./papers/part4_three_pure_land/P11_holding-the-name.md)
+
+**Part V — Recollection in the Great Mahāyāna Sūtras** · 2/8
+- **P12** [都攝六根](./papers/part5_great_mahayana/P12_都攝六根.md) / [Gathering in the Six Sense Roots](./papers/part5_great_mahayana/P12_gathering-in-the-six-sense-roots.md)
+- **P13** [普門稱名](./papers/part5_great_mahayana/P13_普門稱名.md) / [Universal-Gate Name-Invocation](./papers/part5_great_mahayana/P13_universal-gate-name-invocation.md)
+
 ### Citation
 
-Once papers ship, please cite as: Shi Huijing, *Mindful of the Buddha* (pointing-at-the-moon, 2026–).
+Once all papers ship, please cite as: Shi Huijing, *Mindful of the Buddha* (pointing-at-the-moon, 2026–).
