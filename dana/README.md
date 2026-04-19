@@ -9,7 +9,7 @@ A companion to [*Mindful of the Buddha*](../nian/) (Volume 1). Where NIAN establ
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: Paper phase — Part 1 in progress (2 papers published)
+- **Status**: Paper phase — Part 1 in progress (3 papers published)
 
 ### Planned Structure
 
@@ -30,3 +30,4 @@ Nine parts, ~30 papers:
 **Part 1 — The semantics and roots of dāna**
 - **P01** [施究竟在做什麼](./papers/part1_pali_roots/P01_施究竟在做什麼.md) / [What Dāna Actually Means](./papers/part1_pali_roots/P01_what-dana-actually-means.md)
 - **P02** [捨作為預流之支](./papers/part1_pali_roots/P02_捨作為預流之支.md) / [Cāga as a Faculty of Stream-Entry](./papers/part1_pali_roots/P02_caga-as-a-faculty-of-stream-entry.md)
+- **P03** [捨作為隨念對境](./papers/part1_pali_roots/P03_捨作為隨念對境.md) / [Cāga as an Object of Recollection](./papers/part1_pali_roots/P03_caga-as-an-object-of-recollection.md)
