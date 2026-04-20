@@ -9,7 +9,7 @@ A companion to [*Mindful of the Buddha*](../nian/) (Volume 1). Where NIAN establ
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: Paper phase — Part 2 opened (4 papers published)
+- **Status**: Paper phase — Part 2 opened (5 papers published)
 
 ### Planned Structure
 
@@ -34,3 +34,4 @@ Nine parts, ~30 papers:
 
 **Part 2 — Dāna in the Āgamas**
 - **P04** [八事布施](./papers/part2_agama_view/P04_八事布施.md) / [Eight Bases of Giving](./papers/part2_agama_view/P04_eight-bases-of-giving.md)
+- **P05** [鞞羅摩經](./papers/part2_agama_view/P05_鞞羅摩經.md) / [Velāma and the Apex of the Ladder](./papers/part2_agama_view/P05_velama-and-the-apex-of-the-ladder.md)
