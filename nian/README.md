@@ -9,7 +9,7 @@ A 31-paper volume tracing Buddhānussati from its Pāli origins through Chinese 
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: Paper phase — 13/31 published (Parts I–IV complete, Part V in progress)
+- **Status**: Paper phase — 14/31 published (Parts I–IV complete, Part V in progress)
 - **Primary audience**: English-language Buddhist readers
 
 ### Structure
@@ -48,9 +48,10 @@ See [`NIAN_PLAN.md`](./NIAN_PLAN.md) for full skeleton and methodology.
 - **P10** [十六觀](./papers/part4_three_pure_land/P10_十六觀.md) / [The Sixteen Contemplations](./papers/part4_three_pure_land/P10_the-sixteen-contemplations.md)
 - **P11** [執持名號](./papers/part4_three_pure_land/P11_執持名號.md) / [Holding the Name](./papers/part4_three_pure_land/P11_holding-the-name.md)
 
-**Part V — Recollection in the Great Mahāyāna Sūtras** · 2/8
+**Part V — Recollection in the Great Mahāyāna Sūtras** · 3/8
 - **P12** [都攝六根](./papers/part5_great_mahayana/P12_都攝六根.md) / [Gathering in the Six Sense Roots](./papers/part5_great_mahayana/P12_gathering-in-the-six-sense-roots.md)
 - **P13** [普門稱名](./papers/part5_great_mahayana/P13_普門稱名.md) / [Universal-Gate Name-Invocation](./papers/part5_great_mahayana/P13_universal-gate-name-invocation.md)
+- **P14** [結三期](./papers/part5_great_mahayana/P14_結三期.md) / [Binding the Three Periods](./papers/part5_great_mahayana/P14_binding-the-three-periods.md)
 
 ### Citation
 
