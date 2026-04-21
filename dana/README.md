@@ -37,3 +37,4 @@ Nine parts, ~30 papers:
 - **P05** [鞞羅摩經](./papers/part2_agama_view/P05_鞞羅摩經.md) / [Velāma and the Apex of the Ladder](./papers/part2_agama_view/P05_velama-and-the-apex-of-the-ladder.md)
 - **P06** [師子經](./papers/part2_agama_view/P06_師子經.md) / [Sīha Sutta and the Four-Plus-One](./papers/part2_agama_view/P06_siha-sutta-and-the-four-plus-one.md)
 - **P07** [施分別經](./papers/part2_agama_view/P07_施分別經.md) / [The Dakkhiṇāvibhaṅga Sutta and the Category-Switch](./papers/part2_agama_view/P07_dakkhinavibhanga-sutta-and-the-category-switch.md)
+- **P08** [三福業事](./papers/part2_agama_view/P08_三福業事.md) / [The Three Bases of Meritorious Activity](./papers/part2_agama_view/P08_three-bases-of-meritorious-activity.md)
