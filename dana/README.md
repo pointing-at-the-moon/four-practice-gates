@@ -38,3 +38,6 @@ Nine parts, ~30 papers:
 - **P06** [師子經](./papers/part2_agama_view/P06_師子經.md) / [Sīha Sutta and the Four-Plus-One](./papers/part2_agama_view/P06_siha-sutta-and-the-four-plus-one.md)
 - **P07** [施分別經](./papers/part2_agama_view/P07_施分別經.md) / [The Dakkhiṇāvibhaṅga Sutta and the Category-Switch](./papers/part2_agama_view/P07_dakkhinavibhanga-sutta-and-the-category-switch.md)
 - **P08** [三福業事](./papers/part2_agama_view/P08_三福業事.md) / [The Three Bases of Meritorious Activity](./papers/part2_agama_view/P08_three-bases-of-meritorious-activity.md)
+
+**Part 3 — Vinaya and early schools**
+- **P09** [僧伽作為施田](./papers/part3_vinaya_schools/P09_僧伽作為施田.md) / [The Saṅgha as a Field of Merit](./papers/part3_vinaya_schools/P09_the-sangha-as-a-field-of-merit.md)
