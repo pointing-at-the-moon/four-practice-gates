@@ -41,3 +41,4 @@ Nine parts, ~30 papers:
 
 **Part 3 — Vinaya and early schools**
 - **P09** [僧伽作為施田](./papers/part3_vinaya_schools/P09_僧伽作為施田.md) / [The Saṅgha as a Field of Merit](./papers/part3_vinaya_schools/P09_the-sangha-as-a-field-of-merit.md)
+- **P10** [無畏施的出現](./papers/part3_vinaya_schools/P10_無畏施的出現.md) / [The Emergence of Abhayadāna](./papers/part3_vinaya_schools/P10_the-emergence-of-abhayadana.md)
