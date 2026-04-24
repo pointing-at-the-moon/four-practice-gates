@@ -9,7 +9,7 @@ Four volumes, four gates of practice:
 
 | Vol. | Gate | Title | Status |
 |------|------|-------|--------|
-| 1 | **念** NIAN | [Mindful of the Buddha](./nian/) | In progress — 20/31 (Parts I–V complete, Part VI opener) |
+| 1 | **念** NIAN | [Mindful of the Buddha](./nian/) | In progress — 21/31 (Parts I–V complete, Part VI mid-arc) |
 | 2 | **施** DANA | [The Practice of Giving](./dana/) | In progress — 10 published |
 | 3 | **戒** SILA | *forthcoming* | -- |
 | 4 | **定** DHYANA | *forthcoming* | -- |

@@ -9,7 +9,7 @@ A 31-paper volume tracing Buddhānussati from its Pāli origins through Chinese 
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: Paper phase — 20/31 published (Parts I–V complete, Part VI opener)
+- **Status**: Paper phase — 21/31 published (Parts I–V complete, Part VI mid-arc)
 - **Primary audience**: English-language Buddhist readers
 
 ### Structure
@@ -58,8 +58,9 @@ See [`NIAN_PLAN.md`](./NIAN_PLAN.md) for full skeleton and methodology.
 - **P18** [密嚴](./papers/part5_great_mahayana/P18_密嚴.md) / [Buddha-Recollection as Ālaya-Parāvṛtti](./papers/part5_great_mahayana/P18_buddha-recollection-as-alaya-paravrtti.md)
 - **P19** [文殊般若與一行三昧](./papers/part5_great_mahayana/P19_文殊般若與一行三昧.md) / [The Mañjuśrī Prajñā Sūtra and One-Practice Samādhi](./papers/part5_great_mahayana/P19_manjusri-prajna-and-one-practice-samadhi.md)
 
-**Part VI — Two Streams** · 1/5 🟢
+**Part VI — Two Streams** · 2/5 🟢
 - **P20** [淨土祖師之一：曇鸞與道綽](./papers/part6_two_streams/P20_淨土祖師之一曇鸞與道綽.md) / [The Pure Land Patriarchs I: Tanluan and Daochuo](./papers/part6_two_streams/P20_the-pure-land-patriarchs-i-tanluan-and-daochuo.md)
+- **P21** [禪的反命題：念佛向內](./papers/part6_two_streams/P21_禪的反命題念佛向內.md) / [The Chan Counter-Thesis: Turning the Name Inward](./papers/part6_two_streams/P21_the-chan-counter-thesis-turning-the-name-inward.md)
 
 ### Citation
 
