@@ -58,9 +58,10 @@ See [`NIAN_PLAN.md`](./NIAN_PLAN.md) for full skeleton and methodology.
 - **P18** [密嚴](./papers/part5_great_mahayana/P18_密嚴.md) / [Buddha-Recollection as Ālaya-Parāvṛtti](./papers/part5_great_mahayana/P18_buddha-recollection-as-alaya-paravrtti.md)
 - **P19** [文殊般若與一行三昧](./papers/part5_great_mahayana/P19_文殊般若與一行三昧.md) / [The Mañjuśrī Prajñā Sūtra and One-Practice Samādhi](./papers/part5_great_mahayana/P19_manjusri-prajna-and-one-practice-samadhi.md)
 
-**Part VI — Two Streams** · 2/5 🟢
+**Part VI — Two Streams** · 3/5 🟢
 - **P20** [淨土祖師之一：曇鸞與道綽](./papers/part6_two_streams/P20_淨土祖師之一曇鸞與道綽.md) / [The Pure Land Patriarchs I: Tanluan and Daochuo](./papers/part6_two_streams/P20_the-pure-land-patriarchs-i-tanluan-and-daochuo.md)
 - **P21** [禪的反命題：念佛向內](./papers/part6_two_streams/P21_禪的反命題念佛向內.md) / [The Chan Counter-Thesis: Turning the Name Inward](./papers/part6_two_streams/P21_the-chan-counter-thesis-turning-the-name-inward.md)
+- **P22** [淨土祖師之二：善導對名號的安立](./papers/part6_two_streams/P22_淨土祖師之二善導對名號的安立.md) / [The Pure Land Patriarchs II: Shandao's Settling of the Name](./papers/part6_two_streams/P22_the-pure-land-patriarchs-ii-shandaos-settling-of-the-name.md)
 
 ### Citation
 
