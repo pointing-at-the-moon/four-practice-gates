@@ -9,6 +9,7 @@
 tasks/
 research/
 scripts/
+sessions/
 
 # Series-level planning (local only)
 CLAUDE.md
