@@ -9,7 +9,7 @@ A 31-paper volume tracing Buddhānussati from its Pāli origins through Chinese 
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: Paper phase — 21/31 published (Parts I–V complete, Part VI mid-arc)
+- **Status**: Paper phase — 25/31 published (Parts I–VI complete, Part VII opened)
 - **Primary audience**: English-language Buddhist readers
 
 ### Structure
@@ -58,10 +58,15 @@ See [`NIAN_PLAN.md`](./NIAN_PLAN.md) for full skeleton and methodology.
 - **P18** [密嚴](./papers/part5_great_mahayana/P18_密嚴.md) / [Buddha-Recollection as Ālaya-Parāvṛtti](./papers/part5_great_mahayana/P18_buddha-recollection-as-alaya-paravrtti.md)
 - **P19** [文殊般若與一行三昧](./papers/part5_great_mahayana/P19_文殊般若與一行三昧.md) / [The Mañjuśrī Prajñā Sūtra and One-Practice Samādhi](./papers/part5_great_mahayana/P19_manjusri-prajna-and-one-practice-samadhi.md)
 
-**Part VI — Two Streams** · 3/5 🟢
+**Part VI — Two Streams** · 5/5 ✅
 - **P20** [淨土祖師之一：曇鸞與道綽](./papers/part6_two_streams/P20_淨土祖師之一曇鸞與道綽.md) / [The Pure Land Patriarchs I: Tanluan and Daochuo](./papers/part6_two_streams/P20_the-pure-land-patriarchs-i-tanluan-and-daochuo.md)
 - **P21** [禪的反命題：念佛向內](./papers/part6_two_streams/P21_禪的反命題念佛向內.md) / [The Chan Counter-Thesis: Turning the Name Inward](./papers/part6_two_streams/P21_the-chan-counter-thesis-turning-the-name-inward.md)
 - **P22** [淨土祖師之二：善導對名號的安立](./papers/part6_two_streams/P22_淨土祖師之二善導對名號的安立.md) / [The Pure Land Patriarchs II: Shandao's Settling of the Name](./papers/part6_two_streams/P22_the-pure-land-patriarchs-ii-shandaos-settling-of-the-name.md)
+- **P23** [天台橋樑：智顗之四種三昧與《五方便念佛門》](./papers/part6_two_streams/P23_天台橋樑智顗之四種三昧與五方便念佛門.md) / [The Tiantai Bridge: Zhiyi's Four Samādhis and the Wǔ Fāngbiàn Niànfó Mén](./papers/part6_two_streams/P23_the-tiantai-bridge-zhiyis-four-samadhis-and-the-wu-fangbian-nianfo-men.md)
+- **P24** [永明—雲棲—蕅益之合流](./papers/part6_two_streams/P24_永明雲棲蕅益之合流.md) / [The Synthesis: From Yongming through Yunqi to Ouyi](./papers/part6_two_streams/P24_the-synthesis-from-yongming-through-yunqi-to-ouyi.md)
+
+**Part VII — The Flower Ornament Vision** · 1/5 🟢
+- **P25** [普賢十大願·導論](./papers/part7_flower_ornament/P25_普賢十大願導論.md) / [Samantabhadra's Ten Great Vows: An Introduction](./papers/part7_flower_ornament/P25_samantabhadras-ten-great-vows-an-introduction.md)
 
 ### Citation
 
