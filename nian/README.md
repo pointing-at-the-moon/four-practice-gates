@@ -65,10 +65,11 @@ See [`NIAN_PLAN.md`](./NIAN_PLAN.md) for full skeleton and methodology.
 - **P23** [天台橋樑：智顗之四種三昧與《五方便念佛門》](./papers/part6_two_streams/P23_天台橋樑智顗之四種三昧與五方便念佛門.md) / [The Tiantai Bridge: Zhiyi's Four Samādhis and the Wǔ Fāngbiàn Niànfó Mén](./papers/part6_two_streams/P23_the-tiantai-bridge-zhiyis-four-samadhis-and-the-wu-fangbian-nianfo-men.md)
 - **P24** [永明—雲棲—蕅益之合流](./papers/part6_two_streams/P24_永明雲棲蕅益之合流.md) / [The Synthesis: From Yongming through Yunqi to Ouyi](./papers/part6_two_streams/P24_the-synthesis-from-yongming-through-yunqi-to-ouyi.md)
 
-**Part VII — The Flower Ornament Vision** · 3/5 🟢
+**Part VII — The Flower Ornament Vision** · 4/5 🟢
 - **P25** [普賢十大願·導論](./papers/part7_flower_ornament/P25_普賢十大願導論.md) / [Samantabhadra's Ten Great Vows: An Introduction](./papers/part7_flower_ornament/P25_samantabhadras-ten-great-vows-an-introduction.md)
 - **P26** [禮敬諸佛・稱讚如來・廣修供養](./papers/part7_flower_ornament/P26_禮敬諸佛稱讚如來廣修供養.md) / [Reverencing Buddhas, Praising Tathāgatas, Cultivating Offerings](./papers/part7_flower_ornament/P26_reverencing-buddhas-praising-tathagatas-cultivating-offerings.md)
 - **P27** [懺悔業障・隨喜功德](./papers/part7_flower_ornament/P27_懺悔業障隨喜功德.md) / [Repenting Karmic Obstructions, Rejoicing in Merit](./papers/part7_flower_ornament/P27_repenting-karmic-obstructions-rejoicing-in-merit.md)
+- **P28** [請轉法輪・請佛住世](./papers/part7_flower_ornament/P28_請轉法輪請佛住世.md) / [Requesting the Turning of the Dharma-Wheel, Requesting the Buddhas to Abide](./papers/part7_flower_ornament/P28_requesting-the-turning-of-the-dharma-wheel-requesting-the-buddhas-to-abide.md)
 
 ### Citation
 
