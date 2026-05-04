@@ -2,10 +2,10 @@
 title: "Universal-Gate Name-Invocation: The Three-Karmic Architecture of Lotus Buddha-Recollection — From Universal-Gate Invocation to the Reverence of Never Disparaging"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
-paper_id: NIAN-P13
-date: 2026-04-18
+paper_id: "NIAN-P13"
+date: "2026-04-18"
 version: "1.0"
-license: CC BY-NC-SA 4.0
+license: "CC BY-NC-SA 4.0"
 ---
 
 # Universal-Gate Name-Invocation
@@ -24,18 +24,11 @@ license: CC BY-NC-SA 4.0
 ---
 
 ## Abstract
-
 This paper takes up the second member of Part V's Mahāyāna-Eight-Sūtras cluster — the *Lotus Sūtra* (*Miàofǎ liánhuā jīng* 妙法蓮華經, T0262) — with the Universal Gate Chapter (*Pǔmén pǐn* 普門品, Chapter 25, Fascicle 7) as the main axis, the Expedient Means Chapter (*Fāngbiàn pǐn* 方便品, Chapter 2, Fascicle 1) as supporting ground, and the Bodhisattva Never Disparaging Chapter (*Chángbùqīng púsà pǐn* 常不輕菩薩品, Chapter 20, Fascicle 6) as the distant axis. It argues three things. **First**, within T0262 itself, Lotus *name-invocation* (*chēngmíng* 稱名) is a three-karmic integrated practice — not a single, repetitive vocal act, but the simultaneous activation of vocal-karma (invocation of the name, centered in the Universal Gate), bodily-karma (reverence, centered in Never Disparaging), and mental-karma (deep respect, crystallized in Never Disparaging's "I deeply revere you all," *wǒ shēn jìng rǔděng* 我深敬汝等) — dismantling the Western flattened readings of Buddhist *chanting* as either *intercessory prayer* (Christian framework) or *mantra* (Indian sonic-ritual framework). **Second**, internal to the Universal Gate Chapter itself, the prose-section operates around the verb *chēng* 稱 ("to invoke by name") while the verse-section systematically shifts to the verb *niàn* 念 ("to recollect the power"), splitting the name-practice into outward vocal activation and inward return-to-merit-body across two literary registers. This split is the sūtra's own internal self-limitation on the verb *chēng* — the Lotus will not be reduced to sonic repetition, because the Lotus itself routes invocation back through the recollection of Avalokiteśvara's power (*niàn bǐ guānyīn lì* 念彼觀音力), twelve times in the closing verses. **Third**, T0262 internally unfolds a **single-sūtra dual-pole** structure — the Expedient Means Chapter's "a person with a scattered mind, stepping into a stūpa or shrine, invokes once 'Homage to the Buddha,' and has already completed the Buddha-path" (*ruò rén sànluàn xīn, rù yú tǎ-miào zhōng, yī chēng nāmó-fó, jiē yǐ chéng fódào* 若人散亂心、入於塔廟中、一稱南無佛、皆已成佛道) sets the lowest threshold with the highest fruition (already-completed Buddhahood), while the Universal Gate's "single-minded name-invocation" (*yīxīn chēngmíng* 一心稱名) sets the highest threshold with present-life liberation from suffering — the threshold-fruition cross-configuration reveals the Lotus's structural judgment that name-invocation is not a *tool for worldly efficacy* but rather *the embodied acknowledgment that all beings have already completed the Buddha-path*. Zhiyi's *Commentary on the Words of the Lotus Sūtra* (*Fǎhuá Wénjù* 法華文句, T1718) reads Fascicle 10's Universal Gate exposition through a *perfect-one-is-singular, partial-ones-are-many* (*yuán rén wéi yī, piān rén zé duō* 圓人唯一、偏人則多) qualitative ranking — a late-Tang precursor to late-Ming Zhixu's "a single utterance contains faith, vow, and practice simultaneously" doctrine, forming a **Tiantai twin-axis** across P10 (the contemplation axis of the *Great Calming and Contemplation*) and P13 (the invocation axis of the *Commentary on the Words of the Lotus Sūtra*). §V corrects three popular misreadings (name-invocation as Christian intercessory prayer; as sonic mantra; as a sectarian token in the Lotus-vs-Pure-Land comparison game) plus one philological correction (the *phenomenal-principial* (*shì-chí / lǐ-chí* 事持／理持) partition of name-invocation is Ming-Qing Pure Land commentarial vocabulary, not Zhiyi's).
 
 **Keywords:** Lotus name-invocation, T0262 *Lotus Sūtra*, Universal Gate Chapter, Bodhisattva Never Disparaging Chapter, Expedient Means Chapter, Avalokiteśvara, three-karmic architecture, vocal-karma name-invocation, bodily-karma reverence, mental-karma deep respect, prose-verse dual-track, recollection of Avalokiteśvara's power, scattered-mind single invocation, single-minded name-invocation, single-sūtra dual pole, "one invocation of Homage to the Buddha," "already completed the Buddha-path," "all attain liberation," mutual-reflecting subject-object, T0263 *Sūtra of the Correct Dharma-Flower*, Guangshiyin, holding-the-name, Zhiyi's *Commentary on the Words of the Lotus Sūtra*, ten senses of "universal," "perfect-one is singular, partial-ones are many," Tiantai twin-axis, capacity-response structure, three-fold exposition of the seven perils, middle-way-reality, non-sectarian recollection, T0262 and T0366 in parallel.
 
 ---
-
-## 摘要
-
-本章處理 Part V 大乘八經之第二篇《妙法蓮華經》(T0262)，以普門品第二十五（卷七）為主軸、方便品第二（卷一）為支撐、常不輕菩薩品第二十（卷六）為遠軸，論證法華稱名於 T0262 本經內部為三業並作之整合實踐——口業稱名、身業禮敬、意業深敬三者同時發起，不是單一口業動作之重複。其次，普門品本品內部長行以「一心稱名」為動詞、偈頌以「念彼觀音力」為動詞，系統性地把稱名之外向發聲與念力之內向回收分屬散文／韻文兩層——散文啟動能所相照、韻文收束至功德本體；二者於同一品內並行，是法華自身對「稱」動詞的結構性自我限定，破除 mantra 化之音聲讀法。第三，T0262 內部展開「方便品散亂心一稱／普門品一心稱名」之單經雙極——散心之最低門檻以「皆已成佛道」之最高果地收束，一心之最高門檻以「皆得解脫」之現世果地收束；兩極之門檻與果地交叉配置，反映法華對稱名本質之判定——稱名不是現世功效之工具、而是對眾生皆已成佛道此一事實之身體性承認。智顗《法華文句》(T1718) 普門品釋以「圓人唯一、偏人則多」之位階量化判，於晚唐前立下稱名密度飽和論之前驅；此與晚明蕅益智旭「信願行一聲圓具」之認知前提同具論形成天台詮釋傳統內之跨時代縱軸。§五 以功能性立場處理三項流行誤讀（稱名＝基督教代求祈禱、稱名＝音聲 mantra、法華念佛 vs 淨土念佛之宗派比較主義）加一項文獻學校正（事／理稱名非智顗語彙）。
-
-**關鍵詞：** 法華稱名、T0262《妙法蓮華經》、普門品、常不輕菩薩品、方便品、觀世音菩薩、三業架構、口業稱名、身業禮敬、意業深敬、長行偈頌雙軌、念彼觀音力、散心一稱、一心稱名、單經雙極、一稱南無佛、皆已成佛道、皆得解脫、能所相照、T0263《正法華經》、光世音、執持名號、智顗《法華文句》、普門十義、圓人唯一偏人則多、天台雙軸、機應結構、七難三番釋、中道實相、非宗派念佛、T0262 與 T0366 並列。
 
 ---
 
@@ -353,7 +346,7 @@ The Lotus self-sufficiently presents the name-invocation spectrum through its si
 
 ## References
 
-### I. Canonical Sources
+### I. Primary Buddhist Sources
 
 - Kumārajīva, trans. *Miàofǎ liánhuā jīng* 妙法蓮華經 (*Lotus Sūtra*), 7 fascicles. Taishō Volume 9, No. T0262. Later Qin, eighth year of Hongshi (406 CE).
 - Dharmarakṣa, trans. *Zhèng Fǎhuá jīng* 正法華經 (*Sūtra of the Correct Dharma-Flower*), 10 fascicles. Taishō Volume 9, No. T0263. Western Jin, seventh year of Taikang (286 CE).
@@ -380,7 +373,7 @@ The Lotus self-sufficiently presents the name-invocation spectrum through its si
 - Yü, Chün-fang. *Kuan-yin: The Chinese Transformation of Avalokiteśvara*. New York: Columbia University Press, 2001.
 - Yokochō Enichi 橫超慧日. *Hokke shisō no kenkyū* 法華思想の研究 (*Studies in Lotus Thought*). Kyoto: Heirakuji Shoten, 1971.
 
-### IV. Cross-References Within the Series
+### IV. Cross-Reference to Series Papers
 
 - P08: From Recollection to Name-Invocation — The Four-Step Coupling Analysis of the *niàn-chēng* Verbal Grammar.
 - P09: The Forty-Eight Vows — Dharmākara's Vow-System as a Designed Architecture.
@@ -389,7 +382,7 @@ The Lotus self-sufficiently presents the name-invocation spectrum through its si
 - P12: Gathering in the Six Sense-Roots — The Dual-Axis Deepening of the Verbal Grammar of Buddha-Recollection.
 - P14 (forthcoming): *Sūtra of Perfect Enlightenment* — Final-Age Buddha-Recollection and the Pure-*Samādhi*-Wheels.
 
-### V. Canonical Index
+### V. Sūtra & Śāstra Index
 
 | T# / X# | Title | Translator / Author | Date |
 |---------|-------|---------------------|------|
@@ -408,10 +401,8 @@ The Lotus self-sufficiently presents the name-invocation spectrum through its si
 
 ---
 
-**Author:** 釋慧鏡 (Shi Huijing)
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-**Repo:** github.com/pointing-at-the-moon/four-practice-gates
+*CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
-*CBETA verification: all T-number citations are entity-verified against the CBETA Electronic Tripiṭaka Collection, 2024 edition.*
+*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+
+*NIAN-P13 · 釋慧鏡 (Shi Huijing) · 2026-04-18*

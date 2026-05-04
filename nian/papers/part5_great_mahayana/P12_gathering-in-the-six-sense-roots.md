@@ -2,10 +2,10 @@
 title: "Gathering in the Six Sense-Roots: The Dual-Axis Deepening of the Verbal Grammar of Buddha-Recollection — From the Śūraṅgama's Perfect-Penetration Hierarchy to Jiaoguang's Straight-Vein Reading"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
-paper_id: NIAN-P12
-date: 2026-04-18
+paper_id: "NIAN-P12"
+date: "2026-04-18"
 version: "1.0"
-license: CC BY-NC-SA 4.0
+license: "CC BY-NC-SA 4.0"
 ---
 
 # Gathering in the Six Sense-Roots
@@ -24,18 +24,11 @@ license: CC BY-NC-SA 4.0
 ---
 
 ## Abstract
-
 This paper opens Part V, the Mahāyāna-Eight-Sūtras cluster, by taking up its first member: the *Śūraṅgama Sūtra* (*Dà Fódǐng Shǒuléngyán Jīng* 大佛頂首楞嚴經, T0945), Fascicle Five, the "Chapter on the Perfect Penetration of Buddha-Recollection by the Dharma-Prince Mahāsthāmaprāpta" (*Dàshìzhì niànfó yuántōng zhāng* 大勢至念佛圓通章) — "gathering in the six sense-roots, with pure recollection uninterrupted, attaining *samādhi* — this is foremost." It argues three things. **First**, T0945's "gathering in the six sense-roots, with pure recollection uninterrupted" (*dōushè liù-gēn, jìngniàn xiāngjì* 都攝六根、淨念相繼) is the dual-axis deepening of T0366's "holding the name, one mind undistracted" (*zhíchí míng-hào, yī-xīn bú-luàn* 執持名號、一心不亂) argued in P11 — the spatial axis extends from "the mind" to "the six sense-roots" (deepening from a single-organ or hierarchical model into a fully integrated model), and the temporal axis extends from "one-mind" non-distraction to "pure-recollection" continuation (deepening from a present-moment criterion into a diachronic continuity). **Second**, Mahāsthāmaprāpta's perfect-penetration chapter holds position 24 among the twenty-five chapters of perfect penetration (under the seven great elements, the "faculty-element" *gēn-dà* 根大), just one step below Avalokiteśvara's ear-faculty (position 25, selected by Mañjuśrī as "the true teaching-body of this realm," *cǐfāng zhēn-jiāotǐ* 此方真教體); but late-Ming Jiaoguang Zhenjian's *Commentary on the Straight Vein of the Śūraṅgama* (*Léngyán Zhèngmài Shū* 楞嚴正脈疏, X0275) judges openly that the seven-element sequence in Fascicle Five "ends with the faculty-element and not with the consciousness-element" — that this is the sūtra's own structural affirmation of the buddha-recollection dharma-gate: "that the seven elements conventionally terminate in the consciousness-element, and yet here terminate in the faculty-element — is because Mahāsthāmaprāpta's perfect-penetration of buddha-recollection stands just one step below Avalokiteśvara's great root"; "for those who cannot cultivate the *nirvāṇa* of their own mind, nothing is better than buddha-recollection and seeking rebirth" (translation mine). Thereby, on the axis of "response-to-capacity in this realm, at this time," buddha-recollection in fact serves as the first alternate — establishing the multi-axis reading in which **sequential position is not qualitative rank** (*wèi-cì fēi děng-dì* 位次非等第). **Third**, the late-Ming trio of *Śūraṅgama* commentators stand in parallel — Lianchi's *Commentary and Notes* (X0424) weights the technique of "holding"; Zhixu's *Essential Explanation* (T1762) weights the provisions of faith, vow, and practice; and Jiaoguang originates a distinctive verbal distinction between "faculty-gathering recollection" (*shè-gēn niàn* 攝根念) and "recollection by the discriminative mind-consciousness" (*fēnbié shíxīn suǒ niàn* 分別識心所念). Three irreducible verdicts — on the structural partition of the verb *recollection*, on the *Śūraṅgama*'s positional hierarchy, and on the ontology of *recollection* itself — meet in Jiaoguang as the middle figure, whose "straight-vein" classification threads the perfect-penetration of buddha-recollection through the entire twenty-five-chapter structure. §V treats the T0945 authenticity debate under a **functional stance**: it does not enter the philological controversy between Lü Cheng, Ouyang Jingwu, Robert Sharf, James Benn and others, but grounds its reading on Jiaoguang's "straight-vein" internal evidence — the perfect-penetration of buddha-recollection is not externally added to the *Śūraṅgama*, but is the straight-vein manifestation of the faculty-element's perfect penetration from within.
 
 **Keywords:** gathering in the six sense-roots, pure recollection uninterrupted, T0945 *Śūraṅgama Sūtra*, Chapter on the Perfect Penetration of Buddha-Recollection by Mahāsthāmaprāpta, twenty-five perfect-penetration chapters, seven great elements, faculty-element, Jiaoguang Zhenjian, X0275 *Commentary on the Straight Vein of the Śūraṅgama*, straight-vein classification, faculty-gathering recollection, recollection by the discriminative mind-consciousness, sequential position is not qualitative rank, the true teaching-body of this realm, Avalokiteśvara's ear-faculty perfect penetration, Mañjuśrī's verse of selection, fragrance-and-light adornment, mother and child recollecting each other, dual-axis deepening, late-Ming trio of *Śūraṅgama* commentators, functional stance, apocryphal scripture, Lianchi's *Commentary and Notes*, Zhixu's *Essential Explanation*, verbal grammar of "holding."
 
 ---
-
-## 摘要
-
-本章開啟第五部大乘八經系列，處理其第一部：《大佛頂首楞嚴經》(T0945) 卷五大勢至念佛圓通章——「都攝六根，淨念相繼，得三摩地，斯為第一」。主張三事：其一，T0945 的「都攝六根、淨念相繼」是 P11 所論 T0366「執持名號、一心不亂」的雙軸深化——空間軸從「心」擴展至「六根」（從單器官或層級模型深化為全整合模型），時間軸從「一心」不亂延展為「淨念」相繼（從當下狀態深化為貫時連續）。其二，大勢至圓通於 25 圓通中位列第 24（七大・根大），稍次觀音耳根（25，文殊揀選「此方真教體」）；但晚明交光真鑒《楞嚴正脈疏》(X0275) 明判 T0945 卷五七大序列「以根大終而非識大終」，乃經文自身對念佛法門之結構性肯定——「七大終於識大，而今終於根大者，以勢至念佛圓通，稍次觀音大本」；「不能修自心泥洹者，其次莫若念佛求往生也」；念佛於「此方此時」應機軸上反為第一備選，由此建立「位次非等第」之多軸讀法。其三，晚明楞嚴三疏並列——蓮池《疏鈔》(X0424) 重執持技法、智旭《要解》(T1762) 重信願行資糧、交光獨創「攝根念」對比「分別識心所念」之動詞分判——三家於「念」動詞之結構切割、楞嚴位階觀、對「念」之體性認定皆不可化約，交光作為三家中位以「正脈」判教貫通念佛圓通與 25 圓通結構。§五以功能性立場處理 T0945 真偽爭議——不介入近代呂澂、歐陽漸與當代 Robert Sharf、James Benn 等學者之文獻學論辯，而以交光「正脈」內證為基：念佛圓通非外加於楞嚴，乃根大圓通之正脈示現。
-
-**關鍵詞：** 都攝六根、淨念相繼、T0945《楞嚴經》、大勢至念佛圓通章、二十五圓通、七大・根大、交光真鑒、X0275《楞嚴正脈疏》、正脈判教、攝根念、分別識心所念、位次非等第、此方真教體、觀世音耳根圓通、文殊揀選偈、香光莊嚴、母子相憶、雙軸深化、晚明楞嚴三疏、功能性立場、apocryphal scripture、蓮池疏鈔、智旭要解、執持動詞學。
 
 ---
 
@@ -394,11 +387,6 @@ The eight sūtras each enter distinctively — neither a single-line derivation 
 
 ---
 
-**Author 作者:** 釋慧鏡 (Shi Huijing)
-**Date 日期:** April 2026
-**License 授權:** CC BY-NC-SA 4.0
-**Version 版本:** 1.0
-**Primary source 底本:** CBETA electronic Tripiṭaka (2024 edition)
-**Repo:** github.com/pointing-at-the-moon/four-practice-gates
+*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
 
-*Source: T0945 verified against CBETA Chinese Electronic Tripiṭaka 2024*
+*NIAN-P12 · 釋慧鏡 (Shi Huijing) · 2026-04-18*

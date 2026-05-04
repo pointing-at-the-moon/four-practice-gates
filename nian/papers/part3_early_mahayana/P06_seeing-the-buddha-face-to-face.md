@@ -12,7 +12,6 @@ license: "CC BY-NC-SA 4.0"
 
 ***The Pratyutpanna-Samādhi Sūtra* and the Arrival of the Visionary Register in China**
 
-
 ---
 
 **Author:** 釋慧鏡 (Shi Huijing)
@@ -24,7 +23,6 @@ license: "CC BY-NC-SA 4.0"
 ---
 
 ## Abstract
-
 This paper addresses the first register-jump in the Chinese reception history of recollection-practice: Lokakṣema's translation of the *Pratyutpanna-Buddha-Sammukhāvasthita-Samādhi-Sūtra* (T0418), completed at Luoyang in 179 CE. NIAN P05 established the dual-track origins of early Chinese *niànfó*—the ethical register of T0784 and the technical register of T0602. This paper argues that T0418 introduced a third register, the **visionary register**, whose canonical markers include the debut of the compound term *niànfó* as a central doctrinal lexeme, the first appearance of Amitābha Buddha and Sukhāvatī in Chinese Buddhist literature, and the configuration of *pratyutpanna-samādhi* around a three-fold semantics of "presence" (temporal immediacy, spatial facing, cognitive immediacy). The paper develops three arguments. First, the Pāli *buddhānussati* system has no procedure whatever for face-to-face encounter with a living buddha, and this structural absence reflects an ontological gap between two buddhologies—a single historical Buddha versus innumerable presently-living buddhas in the ten directions—rather than any Pāli deficiency or Mahāyāna completion. Second, the five-character Chinese phrase *xiàn-zài fó xī zài qián lì* ("all the presently-existing buddhas stand manifestly before one") precisely maps the tripartite semantics of *pratyutpanna-buddha-sammukhāvasthita* and can serve as a technical coordinate system for reading this *samādhi*. Third, T0418 internally couples visionary seeing-of-buddhas with *prajñā*-style self-deconstruction from its first textual moment—the injunction to see but not cling, the red-hot-iron simile, the mirror-oil-crystal parable of "neither from within nor from without," and the "mind is Buddha" formulation as hermeneutic closure of the visionary experience. This structural coupling, inherited by the whole Chinese *niànfó* tradition, refutes the common Western reading of visionary practice as an Eastern variant of mysticism. The paper thereby historicizes the three-sense framework of *niànfó sānmèi* established in NIAN P04 §3.5: the textual birth of sense C (Mahāyāna visionary) is located in T0418, in Luoyang, 179 CE.
 
 **Keywords:** *Pratyutpanna-samādhi*, T0418, Lokakṣema, *sammukhāvasthita*, vision of buddhas, Amitābha, Sukhāvatī, visionary register, ten-direction present buddhas, absence of Pāli parallel, *prajñā* coupling, early Mahāyāna
@@ -387,7 +385,7 @@ The three-sense framework of *niànfó sānmèi* in P04 §3.5 receives here its 
 
 ---
 
-## Cross-Reference Index
+### IV. Cross-Reference to Series Papers
 
 | Referenced paper | Section | Invoked at | Function |
 |---|---|---|---|

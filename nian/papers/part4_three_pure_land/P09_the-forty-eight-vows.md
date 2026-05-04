@@ -24,7 +24,6 @@ license: "CC BY-NC-SA 4.0"
 ---
 
 ## Abstract
-
 Continuing from P07's treatment of the T0361 buddha-field ontology and P08's four-step analysis of the *niàn*-*chēng* verbal coupling, this paper returns to the textual ground of the Three Pure Land Sūtras to address the forty-eight vows of T0360 as a **systematic architecture** in their own right — not a flat list of forty-eight independent promises, but a designed architecture with soteriology as its *telos*, classification as its skeleton, and an identifiable expansion trajectory as its diachronic signature. The paper argues three things. First, the deep structure of the forty-eight vows is a **container-world / sentient-world** (*bhājana-loka* / *sattva-loka*) dual-axis distribution. Vasubandhu's *Upadeśa on the Sūtra of Immeasurable Life* (T1524) gives its systematic statement through twenty-nine adornments (17 + 8 + 4); Tanluan's *Abridged Treatise on the Meaning of the Land of Peace and Bliss* (T1957) continues the dual axis with a seventeen-plus-twelve distribution and explicitly reads the vow-system and the adornment-system as two surfaces of one structural reality. Second, between T0362's twenty-four vows and T0360's forty-eight vows, four identifiable expansion moves take place — *granularization* (splitting compound vow-content into atomic conditions), *new-category addition* (especially the hearing-the-name outward-reaching cluster), *explicit access-mechanics* (the stage of definite assurance, the even-ten-recollections clause, the all-buddhas'-praise vow), and *verbal-circulation infrastructure*. Together these are not quantity-doubling but multi-dimensional architectural refinement. Third, the eighteenth vow sits in the system as the **floor** of the access architecture — minimal condition and maximum audience — not as pinnacle nor shortcut; its presence is what allows the other forty-seven vows to have beings to save. Daochuo's *Collection on the Land of Peace and Bliss* (T1958) names this "the dominant condition of the Tathāgata's great vow-power" (*adhipati-pratyaya* of Amitābha's vow-force). The paper engages Christopher Alexander's *A Pattern Language* and Herbert Simon's *The Sciences of the Artificial* as heuristic interlocutors, and delimits three non-reducible differences (*telos*, ontology, and upgrade path) as structural boundaries.
 
 **Keywords:** forty-eight vows, T0360 *Larger Sukhāvatīvyūha*, T0362 Zhi Qian recension, T0361 twenty-four vows, Dharmākara, Lokeśvararāja, 210 billion buddha-fields, Vasubandhu, T1524 *Upadeśa on the Sūtra of Immeasurable Life*, twenty-nine adornments, five contemplation-gates, container-world, sentient-world, Tanluan, T1957 *Abridged Treatise*, two purities, Daochuo, T1958 *Anle ji*, twelve great gates, five great benefits, eighteenth vow, stage of definite assurance, even-ten-recollections, Christopher Alexander, pattern language, Herbert Simon, *Sciences of the Artificial*, designed architecture, Three Pure Land Sūtras.
@@ -514,7 +513,7 @@ This caution follows the same methodological pattern as P06's Thompson-dialogue,
 
 ---
 
-## Cross-Reference Index
+### IV. Cross-Reference to Series Papers
 
 | Referenced Paper | Section | Invocation Point in Present Paper | Function |
 |---|---|---|---|

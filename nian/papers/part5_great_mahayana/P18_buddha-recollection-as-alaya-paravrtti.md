@@ -2,10 +2,10 @@
 title: "Buddha-Recollection as Ālaya-Parāvṛtti: The Two Ontological Anchors of the Ghanavyūha-sūtra and the Constructive-Bridge Thesis — The Eighth Layer of the Verb-Axis: Transformation-of-the-Base"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
-paper_id: NIAN-P18
-date: 2026-04-20
+paper_id: "NIAN-P18"
+date: "2026-04-20"
 version: "1.0"
-license: CC BY-NC-SA 4.0
+license: "CC BY-NC-SA 4.0"
 ---
 
 # Buddha-Recollection as Ālaya-Parāvṛtti
@@ -24,7 +24,6 @@ license: CC BY-NC-SA 4.0
 ---
 
 ## Abstract
-
 The *Ghanavyūha-sūtra* (*Dàshèng mìyán jīng* 大乘密嚴經; T0681, trans. Divākara; T0682, trans. Amoghavajra) deposits, respectively in its third and second fascicles, two key ontological statements — "**The Buddha declares the *tathāgatagarbha* and thereby sets it forth as the *ālaya*; as gold and its ring, they unfold without difference**" (T0682, fascicle 3, *Chapter 8: The Ālaya is Ghanavyūha* 阿賴耶即密嚴品第八), and "**The subtly-wrought realm of Ghanavyūha — its very substance is the consciousness-that-has-been-transmuted**" (T0682, fascicle 2, *Chapter 4: The Self-Wrought Objective Field* 自作境界品第四). The first anchor, through its simile of gold and gold ring, locks in the ontological identity of *tathāgatagarbha* and *ālaya-vijñāna*; the second defines the very substance of the Ghanavyūha buddha-field as the consciousness that has already undergone *āśraya-parāvṛtti* (the transmutation of the base). Each anchor, however, has its limit. The first is a static statement of identity — it says *what a thing is*, not *how it transforms*. The second presupposes a transmutation-event but does not unfold its internal mechanism. Taking as its textual foothold a third scriptural line from the same sūtra — "**This is the field of the contemplative practice of buddha-recollection, and it is called the *tathāgatagarbha*"** (T0682, fascicle 1, *Chapter 1: The Bodhimaṇḍa of Ghanavyūha* 密嚴道場品第一) — this paper argues that *buddha-recollection* (*niàn-fó* 念佛, *buddhānusmṛti*) can function as the constructive bridge that carries the two anchors from static ontological identity into dynamic soteriological mechanism: buddha-recollection as the contemplative entry-point to the pure-reliance face of the storehouse-consciousness, propelled along twin axes of the Buddhas' *adhiṣṭhāna* (sustaining power) and the practitioner's *śraddhā* (faith), continuously rotating the functional weight from defiled-reliance toward pure-reliance — the gradual unfolding of *parāvṛtti*. This bridge is explicitly declared as constructive interpretation, not exegetical assertion. The Yogācāra śāstras (*Cheng Weishi Lun* 成唯識論, T1585; *Yogācārabhūmi-śāstra* 瑜伽師地論, T1579; *Āryaśāsana-prakaraṇa* 顯揚聖教論, T1602) are entirely silent on "buddha-recollection as a trigger of the transmutation-of-the-base," and the *Ghanavyūha* itself does not textually weld the two together either. §IV stages Waldron's *The Buddhist Unconscious* as primary interlocutor, Lusthaus's *Buddhist Phenomenology* as phenomenological guardrail, and Schmithausen's *Ālayavijñāna* as conceptual-historical backing, to prevent the constructive thesis from sliding into Western frameworks of the unconscious. §V handles four typical Western misreadings — the transmutation-of-the-base is *not* neural plasticity, buddha-recollection is *not* a mantra-conditioned response, the Ghanavyūha buddha-field is *not* a collective-unconscious projection, and *ālaya* is *not* the Freudian unconscious — using Waldron's rigorous discipline as anchoring corrective. The eighth verb-axis layer, the transmutation-of-the-base, follows upon the seventh (*seeing-the-mind*) established in P17 on the *Laṅkāvatāra*; P19 on the *Mañjuśrī-prajñāpāramitā-sūtra*'s single-practice samādhi (*eka-vyūha-samādhi*) will carry the argument further into the precise methodological form of buddha-recollection.
 
 **Keywords:** *ālaya-vijñāna*, storehouse-consciousness, *zàng-shì* 藏識, *āśraya-parāvṛtti*, transmutation of the base, transformation of what is relied upon, *Ghanavyūha-sūtra*, *Dàshèng mìyán jīng* 大乘密嚴經, T0681, T0682, Divākara, 地婆訶羅, Amoghavajra, 不空, buddha-recollection, *buddhānusmṛti*, *niàn-fó* 念佛, *tathāgatagarbha*, 如來藏, *tathāgatagarbha*-*ālaya* identity, gold-and-ring simile, "The subtly-wrought realm of Ghanavyūha — its very substance is the consciousness-that-has-been-transmuted," "This is the field of the contemplative practice of buddha-recollection, and it is called the *tathāgatagarbha*," *Chapter 8: The Ālaya is Ghanavyūha*, *Chapter 4: The Self-Wrought Objective Field*, *Chapter 1: The Bodhimaṇḍa of Ghanavyūha*, constructive interpretation, exegetical assertion, double-anchor bridging thesis, cross-recension comparison, Yogācāra, Yogācārabhūmi-school, *Cheng Weishi Lun* (*Vijñaptimātratāsiddhi-śāstra*), T1585, six positions of transmutation (*liù zhuǎnwèi* 六轉位), four aspects of transmutation (*sì zhuǎnyì* 四轉義), *Yogācārabhūmi-śāstra*, T1579, gross obstructions of the ten grounds (*shí-dì cūzhòng* 十地麁重), *Āryaśāsana-prakaraṇa*, T1602, *cittasantāna*, mind-continuum, karmic continuum, *bīja*, seed, *adhipati-pratyaya*, contributory condition, *hetu-pratyaya*, causal condition, *adhiṣṭhāna*, sustaining power, *śraddhā*, faith, *prasāda*, pure faith, *vijñapti*, cognitive representation, Waldron, *The Buddhist Unconscious*, Lusthaus, *Buddhist Phenomenology*, Schmithausen, *Ālayavijñāna*, Initial Passage Hypothesis, Freudian unconscious, collective unconscious, cognitive unconscious, dynamic unconscious, neural-plasticity misreading, mantra-conditioning misreading, collective-unconscious-projection misreading, Freudian-unconscious misreading, common-share seeds (*sādhāraṇa-bīja*), *anādi-kālika*, beginningless, functional-stratum reversal, lived field (*Lebenswelt*), Ghanavyūha buddha-field, Amoghavajra's *prajñapti* syntax, P17 hand-off of "seeing-the-mind," P19 single-practice samādhi (*eka-vyūha-samādhi*), eighth verb-axis layer of transformation-of-the-base, Part V Eight Mahāyāna Sūtras, Western-reader framing, *McMindfulness*.
@@ -317,7 +316,7 @@ And concerning §3.2's third level — the fact that the Chinese Pure Land patri
 
 ## References
 
-### I. Buddhist Canonical Sources
+### I. Primary Buddhist Sources
 
 1. *Dàshèng mìyán jīng* 大乘密嚴經 (*Ghanavyūha-sūtra*), trans. Divākara, Tang, Chuigong era (c. 685–688 CE), *Taishō* vol. 16, No. T0681, three fascicles, thirteen chapters. The earlier translational layer of the principal text for P18.
 2. *Dàshèng mìyán jīng* 大乘密嚴經 (*Ghanavyūha-sūtra*), trans. Amoghavajra, Tang, Dali era (c. 766–774 CE), *Taishō* vol. 16, No. T0682, three fascicles, eight chapters. The later translational layer of the principal text for P18; *Chapter 8: The Ālaya is Ghanavyūha* stabilizes the sūtra's thesis in an identity-statement chapter-title.
@@ -360,7 +359,7 @@ And concerning §3.2's third level — the fact that the Chinese Pure Land patri
 14. Monier-Williams, Sir Monier. *A Sanskrit-English Dictionary*. Oxford: Clarendon Press, 1899. Standard Sanskrit-English lexicon; etymological basis for *ālaya*, *parāvṛtti*, *vijñapti*, *adhiṣṭhāna*, and related terms.
 15. Edgerton, Franklin. *Buddhist Hybrid Sanskrit Grammar and Dictionary*. New Haven: Yale University Press, 1953. Buddhist Hybrid Sanskrit lexicon; supplements Monier-Williams on Buddhist-specific technical vocabulary.
 
-### IV. Series-Internal Cross-References
+### IV. Cross-Reference to Series Papers
 
 - **P12 — *Gathering the Six Faculties: The Twin-Axis Deepening of the Buddha-Recollection Verb* (*Śūraṃgama*):** the Śūraṃgama "gathering of the six" — spatial integration as inward concentration; the description of "*manas*-grasping-loosened" in P18 §6.1 is homologous in internal structure with P12's inward-concentration architecture.
 - **P13 — *Universal-Gate Name-Invocation: The Three-Karmas Architecture of the Lotus's Buddha-Recollection*:** the three-karmas architecture as outward unfolding; pairs with P18 §6.1's "supplying *manas* with a not-self object at the moment of recollection" to form the inner-outer twin wings of the verb-axis.
@@ -371,7 +370,7 @@ And concerning §3.2's third level — the fact that the Chinese Pure Land patri
 - **P19 — *The Mañjuśrī-Prajñāpāramitā Single-Practice Samādhi* (forthcoming):** method-form (*eka-vyūha-samādhi*); P18 §6.2 marks the explicit forward handoff to P19's home territory — the complete tri-axis P17 → P18 → P19: object-substance → functional mechanism → method-form.
 - **P20–P24 — *The Two-Line Interweaving of Pure Land and the Chinese Confluence* (forthcoming):** P18 §6.2 notes the fact that the Chinese Pure Land patriarchs do not engage the *Ghanavyūha*, and marks P18 as a constructive-bridge proposal rather than historical inquiry; Part VI will treat the historical and doctrinal interweaving of the Pure Land and Chan lines head-on.
 
-### V. Sūtra-Śāstra Index
+### V. Sūtra & Śāstra Index
 
 | T# / X# | Title | Translator / Author | Date |
 |---------|-------|---------------------|------|
@@ -396,10 +395,8 @@ And concerning §3.2's third level — the fact that the Chinese Pure Land patri
 
 ---
 
-**Author:** 釋慧鏡 (Shi Huijing)
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-**Repo:** github.com/pointing-at-the-moon/four-practice-gates
+*CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
-*CBETA verification: all T-number citations have been verified against the CBETA Electronic Tripiṭaka Collection 2024 edition. Passages from T0681 and T0682 cited in §2.2 ([^7] [^8]), §2.3 ([^9] [^10] [^11]), and §2.4 ([^12] [^13] [^14]) are verbatim from Taishō vol. 16. Passages from T1585 fasc. 10 ([^15]) and T1579 fascicles 96 / 98 ([^16]) are from Taishō vol. 31 / 30 respectively; T1602 fasc. 8 ([^16]) from Taishō vol. 31. Page references for the Western academic sources (Waldron 2003, Lusthaus 2002, Schmithausen 1987) are from the Routledge, RoutledgeCurzon, and IIBS original editions respectively.*
+*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+
+*NIAN-P18 · 釋慧鏡 (Shi Huijing) · 2026-04-20*

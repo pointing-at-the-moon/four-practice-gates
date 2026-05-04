@@ -1,11 +1,11 @@
 ---
-title: "Binding the Three Periods: The Time-Dependent Verbal Grammar of Final-Age Buddha-Recollection in the *Sūtra of Perfect Enlightenment* — From the 'Severing → Leaving → Binding' Progression of the Three Final-Age Chapters to the Apex of 'Excepting Those of Sudden Awakening'"
+title: "Binding the Three Periods: The Time-Dependent Verbal Grammar of Final-Age Buddha-Recollection in the *Sūtra of Perfect Enlightenment* — From the 'Severing → Leaving → Binding' Progression of the Three Final-Age Chapters to the Apex of 'Excepting Those of Sudden Awakening"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
-paper_id: NIAN-P14
-date: 2026-04-18
+paper_id: "NIAN-P14"
+date: "2026-04-18"
 version: "1.0"
-license: CC BY-NC-SA 4.0
+license: "CC BY-NC-SA 4.0"
 ---
 
 # Binding the Three Periods
@@ -24,16 +24,11 @@ license: CC BY-NC-SA 4.0
 ---
 
 ## Abstract
-
 This paper takes up the third member of Part V's Mahāyāna-Eight-Sūtras cluster — the *Sūtra of Perfect Enlightenment* (*Yuánjué jīng* 圓覺經, T0842) — arguing three things. **First**, the three final-age chapters (Maitreya / Universal-Awakening / Perfect-Enlightenment) progressively stage the verb-structure of final-age buddha-recollection: Maitreya's **severing** (*duàn* 斷) the root of cyclic craving as inward origin, Universal-Awakening's **leaving** (*lí* 離) the four meditative diseases (fabrication / passivity / cessation / annihilation) as outward safeguarding, and Perfect-Enlightenment's **binding** (*jié* 結) the three periods (120 / 100 / 80 days) as temporal structuring — three axes operating simultaneously in every utterance of the Buddha's name, not as sequential stages. **Second**, Guifeng Zongmi's *Subcommentary on the Abridged Commentary to the Sūtra of Perfect Enlightenment* (X09n0248) establishes a dual-layer verb grammar through the tension between "thinking of the Buddha is also a samsaric mind" (*sīfó yì lúnhuí xīn* 思佛亦輪迴心) and "bowing to the names of the ten-direction Buddhas" (*jīshǒu shífāng fómíng* 稽首十方佛名) — phenomenal recollection (*shìniàn* 事念) is admissible for final-age entry, while noumenal recollection (*lǐniàn* 理念) must dissolve the subject-object structure; the four diseases mapped onto four misfires of buddha-recollection form the metronome of the verb. This parallels Jiaoguang's distinction in P12 between *faculty-gathering recollection* and *recollection by the discriminative mind-consciousness*, forming Part V's second commentarial axis. **Third**, the Bhadrasvara chapter's Twenty-Five Pure Cultivation Wheels — the apex of *chán* meditation theory as a permutational exhaustion of *śamatha* / *samāpatti* / *dhyāna* — conclude with the Buddha's own self-limitation: "excepting those of sudden awakening and those whom the dharma does not accord with" (*wéichú dùnjué-rén, bìng fǎ bù suíshùn* 唯除頓覺人，并法不隨順). This self-limitation, rarely foregrounded in the Chinese commentarial tradition, is the sūtra's own textual warrant for the gate of final-age buddha-recollection — a gate not externally imported, but opened by the Buddha himself in the verse's final line.
 
 **Keywords:** *Sūtra of Perfect Enlightenment*, T0842, final-age buddha-recollection, time-dependent verbal grammar, severing-leaving-binding, three final-age chapters, Maitreya chapter, Universal-Awakening chapter, Perfect-Enlightenment chapter, root of cyclic craving, four meditative diseases, fabrication, passivity, cessation, annihilation, three periods of cultivation, "binding the three periods," twenty-one-day repentance, three pure contemplations, *śamatha*, *samāpatti*, *dhyāna*, Bhadrasvara chapter, Twenty-Five Pure Cultivation Wheels, "excepting those of sudden awakening," "those whom the dharma does not accord with," dice-wheel method, "relying on the Buddha's great compassionate power," Guifeng Zongmi, *Subcommentary on the Abridged Commentary*, X09n0248, "thinking of the Buddha is also a samsaric mind," "bowing to the names of the ten-direction Buddhas," phenomenal and noumenal recollection, regulated-recollection and gathered-recollection, recollection of the Buddha's grace, phenomenal and noumenal repentance, "knowing-illusion is leaving-illusion," Universal-Worthy chapter, Great Bright Treasure of Spiritual Penetration, "the unsurpassed Dharma King possesses a great dhāraṇī-gate," empty-flower metaphor, final-age alternative gate, verb-metronome, four misfires of buddha-recollection.
 
 ---
-
-## 摘要
-
-本章以末世三章（彌勒／普覺／圓覺）之「斷→離→結」動作遞進為骨，論證《圓覺經》(T0842) 內部為末世念佛提供完整動詞學框架——彌勒章斷輪迴愛根為內向起點、普覺章離四禪病為外向護念、圓覺章結三期日限為時間結構化，三軸於每聲稱名中同時發起，非階段遞進。圭峰宗密《圓覺經略疏之鈔》（X09n0248) 以「思佛亦輪迴心」與「稽首十方佛名」立事念／理念雙層——事念入門可用、理念須破能所；四病（作／任／止／滅）對應念佛四向失位為動詞節拍器；此分判與 P12 交光「攝根念 vs 分別識心所念」結構同型，構成 Part V 跨篇註疏家軸線第二節點。辯音菩薩章二十五清淨定輪為禪修理論之巔峰表述，其重頌末句「唯除頓覺人，并法不隨順」為佛主動自限輪效、為末世別門留出經典位置——末世念佛非圓覺經外加方便，乃重頌末句主動開出之別門。§六以縱向預告接續 P15《梵網經》——時段結構（圓覺）與戒律邊界（梵網）合構末世修行之時空雙軸。
 
 ---
 
@@ -442,7 +437,7 @@ P14's answer: the action-rhythm of final-age buddha-recollection is jointly defi
 
 ## References
 
-### I. Canonical Sources
+### I. Primary Buddhist Sources
 
 - Buddhatrāta (attrib.), trans. *Dà fāngguǎng yuánjué xiūduōluó liǎoyì jīng* 大方廣圓覺修多羅了義經 (*Sūtra of Perfect Enlightenment*), 1 fascicle. Taishō Volume 17, No. T0842. Tang translation.
 - Kumārajīva, trans. *Miàofǎ liánhuā jīng* 妙法蓮華經 (*Lotus Sūtra*), 7 fascicles. Taishō Volume 9, No. T0262. Later Qin, 8th year of Hongshi (406 CE).
@@ -470,7 +465,7 @@ P14's answer: the action-rhythm of final-age buddha-recollection is jointly defi
 - Mochizuki Shinkō 望月信亨. *Bukkyō kyōten seiritsushi ron* 佛教經典成立史論. Kyōto: Hōzōkan 法藏館, 1946.
 - Lü Cheng 呂澂. "Lengyan bai wei" 楞嚴百偽 ("The Hundred Forgeries of the *Śūraṅgama*"). *Neixue* 內學 (annual), Zhina Neixueyuan 支那內學院, 1943; collected in *Selected Buddhist Writings of Lü Cheng* 呂澂佛學論著選集, Qilu shushe 齊魯書社, 1991.
 
-### IV. Cross-References Within the Series
+### IV. Cross-Reference to Series Papers
 
 - P08: From Recollection to Name-Invocation — The Four-Step Coupling Analysis of the *niàn-chēng* Verbal Grammar.
 - P09: The Forty-Eight Vows — Dharmākara's Vow-System as a Designed Architecture.
@@ -480,7 +475,7 @@ P14's answer: the action-rhythm of final-age buddha-recollection is jointly defi
 - P13: Universal-Gate Name-Invocation — The Three-Karmic Architecture of Lotus Buddha-Recollection.
 - P15 (forthcoming): *Brahma Net Sūtra* — The Bodhisattva Precepts and the Precept-Dependent Verbal Grammar of Sustained Buddha-Recollection.
 
-### V. Canonical Index
+### V. Sūtra & Śāstra Index
 
 | T# / X# | Title | Translator / Author | Date |
 |---------|-------|---------------------|------|
@@ -501,10 +496,8 @@ P14's answer: the action-rhythm of final-age buddha-recollection is jointly defi
 
 ---
 
-**Author:** 釋慧鏡 (Shi Huijing)
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-**Repo:** github.com/pointing-at-the-moon/four-practice-gates
+*CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
-*CBETA verification: all T-number and X-number citations are entity-verified against the CBETA Electronic Tripiṭaka Collection, 2024 edition.*
+*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+
+*NIAN-P14 · 釋慧鏡 (Shi Huijing) · 2026-04-18*

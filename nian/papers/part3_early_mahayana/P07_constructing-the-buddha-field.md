@@ -12,7 +12,6 @@ license: "CC BY-NC-SA 4.0"
 
 **The Akṣobhya and Amitābha Lines as Parallel Answers to T0418's Opening**
 
-
 ---
 
 **Author:** 釋慧鏡 (Shi Huijing)
@@ -24,7 +23,6 @@ license: "CC BY-NC-SA 4.0"
 ---
 
 ## Abstract
-
 Following P06's location of T0418 as the source of the visionary register in the Chinese reception of recollection-practice, this paper takes up an unresolved question: how does the ontology of the buddha-field (*buddha-kṣetra*) as a destination develop from T0418's nascent opening into a structurally complete form? The paper argues three points. First, T0418 already possesses a destination-grammar—Amitābha's own direct invitation, "let those who wish to be born in my land always recollect me"; the bodhisattva's explicit question, "what Dharma must I hold to be born in Amitābha's buddha-field"; and the cultivation-to-field causal chain expressed in *zhuāngyán zhū guótǔ* ("adorning the buddha-lands")—but it lacks a comparative dimension, and Sukhāvatī appears as a given existent rather than as an object of construction. Second, T0313 (the *Akṣobhyavyūha*) and T0361 (the earliest Chinese translation of a *Sukhāvatīvyūha*-type sūtra), both rendered in Lokakṣema's workshop within the same period, supply two structurally different answers to T0418's unfinished opening: the Akṣobhya line organizes the buddha-field around *bodhisattva self-restraint*—the "unshakable" vows of non-anger, non-injury, non-breach—with the field as the outward expression of the bodhisattva's own established non-disturbance; the Amitābha line organizes the buddha-field around *salvific reception of others*, with the decisive new ontological move being the *selection-and-combination* operation in which the bodhisattva Dharmākara is shown 210 billion pre-existent buddha-fields and composes his own field from their features through the twenty-four vows. Third, the two lines stand parallel at the ontological level; the eventual East Asian dominance of Sukhāvatī is an institutional-historical outcome, not a doctrinal necessity. Chinese early-Mahāyāna buddha-field imagination was, from its origin, a plural-structured spectrum; reading "Pure Land" as a single received cosmology projects a later outcome onto its earlier layers. The paper concludes with a heuristic dialogue with modal metaphysics (Kripke's possible-worlds semantics, Lewis's modal realism) and three non-reducible differences—teleological, ontological, upgrade-path—that prevent reduction of the buddha-field ontology to formal modal entities.
 
 **Keywords:** *buddha-kṣetra*, buddha-field, T0313 *Akṣobhyavyūha*, T0361 *Amitābha-sūtra* early recension, Akṣobhya, Amitābha, Dharmākara, twenty-four vows, 210 billion buddha-fields, Lokakṣema, dual-line thesis, buddha-field construction, selection-and-combination, possible-worlds semantics, modal metaphysics, early Mahāyāna
@@ -350,7 +348,7 @@ A structural completion of buddha-field ontology has taken place. In Luoyang in 
 
 ---
 
-## Cross-Reference Index
+### IV. Cross-Reference to Series Papers
 
 | Referenced paper | Section | Invoked at | Function |
 |---|---|---|---|

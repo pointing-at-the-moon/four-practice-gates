@@ -2,10 +2,10 @@
 title: "Confession as Buddha-Recollection: The Dream-Drum of the *Golden Light Sūtra* and the Distributed-Agency Event-Chain — From the Three Chinese Recensions (T0663 / T0664 / T0665) to the Tiantai Liturgization of Repentance"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
-paper_id: NIAN-P16
-date: 2026-04-20
+paper_id: "NIAN-P16"
+date: "2026-04-20"
 version: "1.0"
-license: CC BY-NC-SA 4.0
+license: "CC BY-NC-SA 4.0"
 ---
 
 # Confession as Buddha-Recollection
@@ -24,18 +24,11 @@ license: CC BY-NC-SA 4.0
 ---
 
 ## Abstract
-
 This paper takes up the fifth member of Part V's Mahāyāna-Eight-Sūtras cluster — the *Golden Light Sūtra* (*Jīn guāngmíng jīng* 金光明經) in its three Chinese recensions (T0663 Dharmakṣema; T0664 Baogui's combined recension with Paramārtha's supplementary translation; T0665 Yijing) — arguing three things. **First**, the Chapter of the Dream-Golden-Drum Repentance (*Mèng jiàn jīngǔ chànhuǐ pǐn* 夢見金鼓懺悔品), progressively extracted from a diffuse multi-thread narrative context in T0663 into a self-contained chapter in T0665, articulates a three-segment dynamic mechanism for confession: **(i) reception-in-dream** — Bodhisattva Ruciraketu (信相 in T0663 / 妙幢 in T0665) sees in a dream a brahmin striking a golden drum, the drum emitting a subtle voice that speaks confession verses; **(ii) waking recitation** — upon awakening, the bodhisattva recites before the Buddha what was heard; **(iii) collective ratification** — the buddhas of the ten directions collectively confirm the verses as their own, and karmic obstruction is thereby extinguished. Under this mechanism, confession is not a voluntarist act initiated by the practitioner's resolve but a **distributed-agency event-chain** whose agency is dispersed across seven nodes — golden drum, dream, brahmin, radiance, ten-direction buddhas, practitioner's recitation, and collective ratification — in which the practitioner occupies only the sixth node (the re-telling), never the first. **Second**, this mechanism was systematized in two successive commentarial phases: Zhiyi (*Zhìyǐ* 智顗, 538–597), in his *Profound Meaning of the Golden Light Sūtra* (T1783) and *Text-Lines of the Golden Light Sūtra* (T1785), reconfigured the dream-drum event-chain into the **Five Repentances** (*wǔ huǐ* 五悔: confession, requesting-the-teaching, sympathetic-joy, dedication, aspiration) — a repeatable liturgical sequence that temporalizes the single revelation into cyclically re-performable units; Jizang (*Jízàng* 吉藏, 549–623) in his *Commentary on the Golden Light Sūtra* (T1787) offered an alternative Sanlun reading (Five Repentances as counter-inversions of the Five Evil Roots; the three obstructions analyzed through cause, time, and place) that represents a **philosophical-deconstructive** branch not absorbed into the later Tiantai liturgy; Zhili (*Zhīlǐ* 知禮, 960–1028) in his *Record of the Text-Lines* (T1786) and *Record of Gleanings on the Profound Meaning* (T1784) carried Zhiyi's liturgy to a new philosophical depth, distinguishing **phenomenal repentance** (*shì chàn* 事懺 — bodily, vocal, time-structured ritual performance) from **noumenal repentance** (*lǐ chàn* 理懺 — the contemplation that confessor, confessed offense, and act of confession are all empty of inherent existence), and specifying that the two must run in parallel — phenomenal alone degenerates into ritual formalism; noumenal alone degenerates into empty talk. **Third**, in the distinctive geometry of Part V, the *Golden Light* occupies the **ritual-mechanism axis** complementary to P15's (the *Brahma Net*'s) **ontological-structure axis** — P15 processed Fazang's ontology of the precept-body as "the container of the primordial buddha"; P16 processes Zhiyi's and Zhili's ritualization of the confession event-chain as the repeating machinery by which that container is restored when damaged. Together P15 and P16 constitute the precept-and-repentance twin-axis at the center of Part V. §V's Middle-Way Corrections distinguishes the dream-drum mechanism from Augustinian confession on three structural grounds (double-subject vs distributed-agency; soteriological guilt vs conditioned obstruction; single God's absolution vs ten-direction buddhas' collective ratification), refuses the reduction of Golden Light to pure ritualism (phenomenal and noumenal must co-operate), and resists the misreading that the three Chinese recensions are three attempts at one and the same text (they correspond to three distinct Indic recensions attested by Nobel's 1937 Sanskrit edition and the three Derge Tibetan witnesses D556 / D557 / D558). §VI concludes with the forecast that the *Golden Light* solves the question **how to confess**, while the next paper (P17) on the *Laṅkāvatāra* will solve the deeper question that the *Golden Light* deliberately brackets — **what, ontologically, is the buddha who is being recollected?**
 
 **Keywords:** *Golden Light Sūtra*, *Jīn guāngmíng jīng* 金光明經, *Suvarṇaprabhāsottamasūtra*, T0663, T0664, T0665, Dharmakṣema, Paramārtha, Yijing, recensions, dream-drum, *Mèng jiàn jīngǔ chànhuǐ pǐn* 夢見金鼓懺悔品, Ruciraketu, 信相菩薩, 妙幢菩薩, confession-as-buddha-recollection, distributed-agency event-chain, ten-direction buddhas' collective ratification, Five Repentances, *wǔ huǐ* 五悔, phenomenal repentance, noumenal repentance, *shì chàn* 事懺, *lǐ chàn* 理懺, Zhiyi, Guanding, Jizang, Zhili, *Xuányì* 玄義, *Wénjù* 文句, *Wénjù jì* 文句記, *Shíyí jì* 拾遺記, *Sanlun* 三論, Tiantai Golden Light Repentance Liturgy, Song-dynasty state repentance, karmic-obstruction extinction, *yè zhàng miè* 業障滅, *Mahāsupina Sutta*, AN 5.196, Augustinian confession, Middle-Way Corrections.
 
 ---
-
-## 摘要
-
-本文以金光明經〈夢見金鼓懺悔品〉為核心文本，結合 T0663 曇無讖、T0664 真諦合本、T0665 義淨三層漢譯之演化軸，論證金光明懺悔機制是一個 distributed-agency event-chain 的 buddha-recollection 啟動裝置——其啟動端不在修行者意志，而在金鼓、夢境、婆羅門、十方諸佛集體印可這條分散於七環節的事件鏈。本文進一步分析智顗五悔之儀軌化、吉藏《金光明經疏》之三論宗對翻異路、知禮事理二懺之 philosophical 深化、以及宋代金光明懺法之邦國實踐，顯示金光明在漢傳懺法傳統中如何從經文機制逐步發展為成熟儀軌系統。本文並將金光明之 confession 機制與 Augustine 告解、圓覺（P14）結三期、梵網（P15）見好相相區別，並為 P17 楞伽念心一體預留 ontological 追問之入口——金光明解決 how to confess，楞伽解決 what is being recollected。
-
-**關鍵詞：** 金光明經、夢見金鼓、懺悔念佛、信相菩薩、妙幢菩薩、五悔、事懺、理懺、智顗、知禮、吉藏、金光明懺法、業障滅、distributed agency、十方諸佛印可、義淨、曇無讖、*Suvarṇaprabhāsottamasūtra*、recension、confession-mechanism、天台懺法。
 
 ---
 
@@ -242,7 +235,7 @@ The next paper, P17 on the *Laṅkāvatāra Sūtra*, will take up this suspended
 
 ## References
 
-### I. Buddhist Canonical Sources
+### I. Primary Buddhist Sources
 
 1. *Jīn guāngmíng jīng* 金光明經 (*Golden Light Sūtra*; *Suvarṇaprabhāsa-sūtra*), trans. Dharmakṣema, Northern Liang Xuanshi reign (414–421 CE); Taishō Volume 16, No. T0663, 4 fascicles. The earliest Chinese layer of this paper's primary sūtra.
 2. *Hé-bù jīn guāngmíng jīng* 合部金光明經 (*Combined Golden Light Sūtra*; Baogui's combined recension, incorporating translations by Paramārtha, Jñānagupta, Dharmakṣema, and Yaśogupta), Sui Kaihuang 17 (597 CE); Taishō Volume 16, No. T0664, 8 fascicles. The middle combined-recension layer of this paper's primary sūtra.
@@ -271,7 +264,7 @@ The next paper, P17 on the *Laṅkāvatāra Sūtra*, will take up this suspended
 6. Ikeda Rosan 池田魯參. 1982. *Kokushin hyakuroku no kenkyū* 國清百錄の研究 (*Studies on the Guoqing Baolu*). Tokyo: Daizō shuppan. The standard Japanese-language study of the documentary history of Tiantai repentance liturgy.
 7. Foucault, Michel. 1978. *The History of Sexuality, Volume 1: An Introduction*. Trans. Robert Hurley. New York: Pantheon. Comparative background for §V(a) on confession-as-Western-subject-formation-technology.
 
-### IV. Cross-References Within the Series
+### IV. Cross-Reference to Series Papers
 
 - **P08 *From Recollection to Invocation***: The four-step verb-compound coupling of *niàn-chēng* (recollection / invocation / remembrance / holding) — the verb-ontological starting point. P16's §III "memory-recitation" node presupposes the "remembrance-holding" sub-structure of this four-step coupling.
 - **P11 *Holding the Name***: Resolute severing paired with preservation of the name. P16's §VI conclusion stands in contrast — P11 is single-subject active holding; P16 is multi-node passive reception within the event-chain.
@@ -281,7 +274,7 @@ The next paper, P17 on the *Laṅkāvatāra Sūtra*, will take up this suspended
 - **P15 *Seeing the Sign, Obtaining the Precept***: The precept-body ontology of the *Brahma Net* — Fazang's thousand-flower thousand-hundred-million source-ontology and the three-fold negation of precept-essence as the primordial buddha. P16 §IV opening and §V(b) are in counterpoint — P15's ontology-axis vs P16's ritual-axis; together the two papers compose Part V's dual-ledger of commentator ontology ↔ ritual.
 - **P17 *Laṅkāvatāra*** (forthcoming): "The minds of the buddhas are foremost," "to recollect the buddha is to recollect the mind," the Bodhidharma "sealing of the mind" tradition. P16 §VI's open question and the P17 forecast explicitly reserve the *what-is-being-recollected* ontological inquiry for P17: the *Golden Light* solves *how to confess*; the *Laṅkāvatāra* solves *what is being recollected*.
 
-### V. Canonical Index
+### V. Sūtra & Śāstra Index
 
 | T# / X# | Title | Translator / Author | Date |
 |---------|-------|---------------------|------|
@@ -301,10 +294,8 @@ The next paper, P17 on the *Laṅkāvatāra Sūtra*, will take up this suspended
 
 ---
 
-**Author:** 釋慧鏡 (Shi Huijing)
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-**Repo:** github.com/pointing-at-the-moon/four-practice-gates
+*CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
-*CBETA verification: All T-number and X-number citations are verified against the CBETA Electronic Tripiṭaka Collection 2024 edition. T0663 / T0664 / T0665 citations rely on CBETA Taishō Volume 16; T1783 / T1785 (Zhiyi's principal discussions) rely on CBETA Taishō Volume 39; T1786 / T1787 (Zhili and Jizang commentaries) rely on the same volume. The core passage of the Dream-Golden-Drum Repentance is from T0665, fascicle 3.*
+*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+
+*NIAN-P16 · 釋慧鏡 (Shi Huijing) · 2026-04-20*

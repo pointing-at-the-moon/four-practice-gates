@@ -2,10 +2,10 @@
 title: "Hearts of All Buddhas First: Laṅkā's Absence of Buddha-Recollection as the Scriptural Ground of Bodhidharma's Mind-Seal — The Seventh Layer of the Verb-Axis: Seeing-the-Mind"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
-paper_id: NIAN-P17
-date: 2026-04-20
+paper_id: "NIAN-P17"
+date: "2026-04-20"
 version: "1.0"
-license: CC BY-NC-SA 4.0
+license: "CC BY-NC-SA 4.0"
 ---
 
 # Hearts of All Buddhas First
@@ -24,7 +24,6 @@ license: CC BY-NC-SA 4.0
 ---
 
 ## Abstract
-
 This paper takes as its point of departure a philological fact: Guṇabhadra's four-fascicle recension of the *Laṅkāvatāra-sūtra* (T0670) contains not a single instance of *niàn-fó* 念佛, *niàn-rúlái* 念如來, or *guān-fó* 觀佛. The absence is not a coverage gap but a structural invitation. The paper argues in three movements. **First**, the ontological reconstruction of "the hearts of all buddhas first" (*zhū-fó xīn dì-yī* 諸佛心第一, T0670, p.481c01-03): the original interlinear gloss "like the solid heartwood of a tree, not a deliberating mind" (*shùmù jiānshí xīn, fēi niànlǜ xīn* 樹木堅實心，非念慮心) locks the term *xīn* here as *hṛdaya* — the essential heart-substance — rather than as *citta* — deliberating consciousness. The object of buddha-recollection thereby shifts from external name to internal heart-essence. **Second**, the absence of *niàn-fó* language is itself the structural invitation. T0672's *Kṣaṇika-parivarta* welds *tathāgatagarbha* and *ālaya-vijñāna* into the compound *tathāgatagarbhālayavijñāna*, collecting the object of recollection into "one mind that is the common ground of the defiled and the pure." The *Laṅkāvatāra*'s silence on *niàn-fó* invites its radical interiorization rather than symptomizing a textual omission. **Third**, Daoxin's *Entry into the Path of Pacifying-the-Mind* (*Rù-dào ānxīn yào fāngbiàn fǎmén* 入道安心要方便法門, preserved at T2837, T85, 1286c–1287a) encodes this interiorization in a seventh-century Chan formula: "Relying on the *Laṅkā*'s 'hearts of all buddhas first,' and relying further on the *Mañjuśrī Prajñā Sūtra*'s 'single-practice samādhi' — thus the mind that recollects the Buddha *is* the Buddha" (*jí niàn-fó xīn shì fó* 即念佛心是佛). This shows that the turn from *buddha-recollection* to *mind-recollection* was complete within early Chan before the rise of the Southern School under Huineng. §V's Middle-Way Corrections grounds the warning against collapsing *tathāgatagarbha* and *ālaya-vijñāna* not in editorial voice but in the Dharmapāla-Xuanzang *Cheng Weishi Lun* (T1585) itself, which explicitly reframes "intrinsically pure mind" as "the suchness disclosed by the emptiness-principle of mind" (*xīn kōng lǐ suǒ xiǎn zhēnrú* 心空理所顯真如); the false-friend warning concerning T0671's "Buddha-Mind Chapter Four" (whose content is actually the *manomaya-kāya* doctrine, not *hṛdaya*) is likewise articulated from within the translation-divergence register. The seventh verb-layer — *seeing-the-mind* — completed, P18 (the *Ghanavyūha*) carries it into the eighth layer: buddha-recollection as *ālaya-parāvṛtti*, the transmutation of the storehouse consciousness.
 
 **Keywords:** *Laṅkāvatāra-sūtra*, T0670, T0671, T0672, hearts-of-all-buddhas-first, *zhū-fó xīn dì-yī*, *hṛdaya*, *citta*, "solid-heartwood-not-deliberating-mind" interlinear gloss, Bodhidharma, mind-seal (*yìn-xīn* 印心), attaching-to-the-teaching-awakening-to-the-source (*jiè-jiào wù-zōng* 藉教悟宗), two-entries-and-four-practices, Daoxin, *Entry into the Path of Pacifying-the-Mind*, single-practice samādhi (*yī-xíng sānmèi* 一行三昧), "the mind that recollects the Buddha *is* the Buddha" (*jí niàn-fó xīn shì fó*), *tathāgatagarbha*, *ālaya-vijñāna*, *tathāgatagarbhālayavijñāna*, *Kṣaṇika-parivarta*, "Buddha-Mind Chapter Four" false friend, *manomaya-kāya*, constantly-recollecting-suchness (*héng yìniàn zhēnrú* 常憶念真如), thus-constantly-contemplating-the-Buddha (*rúshì héng guān-fó* 如是恒觀佛), quiescence-called-one-mind (*jì-miè zhě míng wéi yī-xīn* 寂滅者名為一心), intrinsically-pure-mind, pure-dharma-body-of-the-Tathāgata, mind-only (*citta-mātra*), own-mind (*svacitta*), self-realized state (*pratyātmagati*), finger-pointing-at-the-moon (*zhǐ yuè* 指月), dharma-is-apart-from-letters, four-kinds-of-dhyāna, tathāgata's pure dhyāna, verbal-penetration-and-principle-penetration (*zōng-tōng shuō-tōng* 宗通說通), Dharmapāla, Xuanzang, *Cheng Weishi Lun*, "suchness-disclosed-by-the-emptiness-principle-of-mind" (*xīn kōng lǐ suǒ xiǎn zhēnrú*), Yogācāra spectrum of adoption versus distancing, *Mahāyāna-sūtrālaṅkāra*, *Madhyānta-vibhāga*, *Mahāyāna-saṃgraha-bhāṣya* (Paramārtha), *Awakening of Faith in the Mahāyāna* (*Dàshèng qǐxìn lùn* 大乘起信論), one-mind-two-gates, Kuiji, *Essentials in the Palm of the Cheng Weishi Lun*, Southern-road versus Northern-road controversy, *Record of the Masters and Disciples of the Laṅkā*, Jìngjué, Guṇabhadra, Bodhiruci, Śikṣānanda, Hongren, Shenxiu, East Mountain Teaching, *Jingde Record of the Transmission of the Lamp* (T2076), mind-seal as a technical term, seeing-the-nature (*jiàn-xìng* 見性), *Six Gates of Shaoshi* (T2009), *Blood-Vessel Treatise*, Guifeng Zongmi's *Preface to the Collected Essays on the Source of Chan* (T2015), *Vajracchedikā* and *Laṅkāvatāra* as heart-essence of Bodhidharma's transmission, absence of buddha-recollection as structural invitation, Western-reader framing, McMindfulness, seventh verb-axis layer (*seeing-the-mind*, *jiàn-xīn* 見心), interiorization of buddha-recollection (*niàn-fó nèi-zhuǎn* 念佛內轉), vertical succession of the verb-axis in Part V (P11–P17), *Ghanavyūha* (P18), *ālaya-parāvṛtti*, storehouse-consciousness transmutation.
@@ -418,9 +417,9 @@ P17's argument is here concluded. The seventh layer of the verb-axis, seeing-the
 
 ---
 
-## Bibliography
+## References
 
-### I. Buddhist Primary Sources
+### I. Primary Buddhist Sources
 
 1. *Laṅkāvatāra-sūtra* (*Léngqié ābáduōluó bǎo jīng* 楞伽阿跋多羅寶經), trans. Guṇabhadra, Liu-Song Yuanjia 20 (443 CE), *Taishō* vol. 16, no. T0670, 4 fascicles. Primary sūtra of P17, early translation layer; Bodhidharma's mind-sealing text.
 2. *Laṅkāvatāra-sūtra* (*Rù Léngqié jīng* 入楞伽經), trans. Bodhiruci, Northern Wei Yanchang 4 to Zhengguang 1 (513–520 CE), *Taishō* vol. 16, no. T0671, 10 fascicles. Primary sūtra of P17, middle translation layer; Yogācāra-leaning expansion.
@@ -463,7 +462,7 @@ P17's argument is here concluded. The seventh layer of the verb-axis, seeing-the
 12. Monier-Williams, Sir Monier. *A Sanskrit-English Dictionary*. Oxford: Clarendon Press, 1899. Standard Sanskrit-English dictionary.
 13. Edgerton, Franklin. *Buddhist Hybrid Sanskrit Grammar and Dictionary*. New Haven: Yale University Press, 1953. Dictionary of Buddhist Hybrid Sanskrit.
 
-### IV. Cross-Series Internal References
+### IV. Cross-Reference to Series Papers
 
 - **P08 "From Calling-to-Mind to Name-Invocation — A Four-Step Analysis of *Niàn-Chēng* Verb-Coupling"**: the beginning of the verb-axis; the four-step coupling of recollection / invocation / remembrance / holding. P17 §III's seventh layer of "seeing-the-mind" extends this four-step basis into the ontological dimension of the object.
 - **P11 "Holding the Name — Juxtaposed Name-Layers"**: the resolute-severance and steady-preservation name-acts stand side by side; first layer of P17's §I vertical.
@@ -505,10 +504,8 @@ P17's argument is here concluded. The seventh layer of the verb-axis, seeing-the
 
 ---
 
-**Author:** 釋慧鏡 (Shi Huijing)
-**Date:** April 2026
-**License:** CC BY-NC-SA 4.0
-**Version:** 1.0
-**Repo:** github.com/pointing-at-the-moon/four-practice-gates
+*CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
-*CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka Collection 2024 edition. T0670 / T0671 / T0672 citations drawn from CBETA *Taishō* vol. 16; the Daoxin passage from T2837, fascicle one (T85 vol.); the Dharmapāla-Xuanzang passage from T1585, fascicle two (T31 vol.); other patriarchal commentaries and Yogācāra treatises follow the respective volumes. The T0670 interlinear gloss "like the solid heartwood of a tree, not a deliberating mind" is marked as `<note place="inline">` in the CBETA XML at T0670 p.481c03.*
+*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+
+*NIAN-P17 · 釋慧鏡 (Shi Huijing) · 2026-04-20*

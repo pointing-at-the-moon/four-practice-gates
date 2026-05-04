@@ -2,10 +2,10 @@
 title: "The Mañjuśrī Prajñā Sūtra and One-Practice Samādhi: The Lodestone of Six Chinese Masters and the Genealogical Close of Part V"
 author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
-paper_id: NIAN-P19
-date: 2026-04-21
+paper_id: "NIAN-P19"
+date: "2026-04-21"
 version: "1.0"
-license: CC BY-NC-SA 4.0
+license: "CC BY-NC-SA 4.0"
 ---
 
 # The Mañjuśrī Prajñā Sūtra and One-Practice Samādhi
@@ -24,7 +24,6 @@ license: CC BY-NC-SA 4.0
 ---
 
 ## Abstract
-
 This paper challenges a textbook narrative widely circulated in Western introductions to Chinese Buddhism: that the *eka-vyūha-samādhi* (*yī-xíng sānmèi* 一行三昧, one-practice samādhi) passage in the second fascicle of Mandrasena's *Mañjuśrī-prajñāpāramitā-sūtra* (*Wénshū shīlì suǒ shuō móhē bōrěbōluómì jīng* 文殊師利所說摩訶般若波羅蜜經; T0232) is the shared scriptural root of Chinese buddha-recollection practice, uniting the six most influential Chinese masters — Daoxin (*Dàoxìn* 道信), Zhiyi (*Zhìyǐ* 智顗), Huineng (*Huìnéng* 慧能), Shandao (*Shàndǎo* 善導), Daochuo (*Dàochuò* 道綽), and Yongming Yanshou (*Yǒngmíng Yánshòu* 永明延壽) — as co-heirs of one and the same passage. Close textual examination reveals this narrative as untenable. The six masters' commitment-weights toward T0232 are fundamentally asymmetric. Daoxin transplants the passage verbatim into his *Entry into the Path of Pacifying-the-Mind* (*Rù-dào ānxīn yào fāngbiàn fǎmén* 入道安心要方便法門; preserved at T2837) as one of two co-foundations of the East Mountain Teaching (*Dōngshān fǎmén* 東山法門) — **foundation**. Huineng's *Platform Sūtra* (*Liùzǔ dàshī fǎbǎo tánjīng* 六祖大師法寶壇經; T2008) preserves the compound "*yī-xíng sānmèi*" verbatim at two distinct sites but overturns its content and openly criticizes the literal reading as an "obstacle to the Way" — **polemical inversion**. Zhiyi's *Mohe Zhiguan* (*Móhē zhǐguān* 摩訶止觀; T1911), fascicle two, performs a philologically creative conflation of T0232 with T0233 to install the passage as the first of Tiantai's Four Kinds of Samādhi — **systemic absorption**. Shandao's canonical four-fascicle *Guan-jing Commentary* (*Guānjīng Sìtiè Shū* 觀經四帖疏; T1753) cites the passage zero times, while his smaller practice manual *Guannian Famen* (*Guānniàn Ēmítuófó Xiānghǎi Sānmèi Gōngdé Fǎmén* 觀念阿彌陀佛相海三昧功德法門; T1959) cites it once but re-keys it as *adhipati-pratyaya* (sustaining contributory condition) under other-power Pure Land logic — **genre-sensitive selection**. Daochuo's *Anle Ji* (*Ānlè Jí* 安樂集; T1958), fascicle two, lists it as the second of eight scriptural pillars for *buddhānusmṛti-samādhi* — **parity pillar**. Yongming's three-fascicle *Wanshan Tonggui Ji* (*Wànshàn Tóngguī Jí* 萬善同歸集; T2017) contains exactly one citation, placed as a rhetorical closure to a polemical exchange — **peripheral endorsement**. These six stances are non-reducible; together they constitute the scriptural starting point of Chinese Chan–Pure Land–Tiantai divergence. Divergence flows not from a common source but from differential stances on a single lodestone. Part V closes here; Part VI (P20–P24) paves forward.
 
 **Keywords:** *eka-vyūha-samādhi*, one-practice samādhi, *yī-xíng sānmèi* 一行三昧, *Mañjuśrī-prajñāpāramitā-sūtra*, T0232, Mandrasena (*Màntuóluóxiān* 曼陀羅仙), T0233, Saṃghavarman (*Sēngqiépóluó* 僧伽婆羅), lodestone, six commitment-weights, foundation, polemical inversion, systemic absorption, genre-sensitive selection, parity pillar, peripheral endorsement, Daoxin, Huineng, Zhiyi, Shandao, Daochuo, Yongming Yanshou, East Mountain Teaching, *Record of the Masters and Disciples of the Laṅkāvatāra* (*Léngqié shīzī jì* 楞伽師資記, T2837), Jìngjué (*Jìngjué* 淨覺), *Entry into the Path of Pacifying-the-Mind*, *Platform Sūtra*, T2008, *Mohe Zhiguan*, T1911, *Guan-jing Sishu* (four-fascicle *Guan-jing Commentary*), T1753, *Guannian Famen*, T1959, *Anle Ji*, T1958, *Wanshan Tonggui Ji*, T2017, *Jingde Record of the Transmission of the Lamp* (*Jǐngdé chuándēng lù* 景德傳燈錄, T2076), binding-the-mind-to-one-buddha (*jì-xīn yī-fó* 繫心一佛), solely-invoking-the-name (*zhuān chēng míngzì* 專稱名字), following-the-direction-of-the-buddha (*suí fó fāngsuǒ* 隨佛方所), uninterrupted moment-to-moment recollection (*niàn-niàn xiāngxù* 念念相續), dharmadhātu-of-a-single-mark (*fǎjiè yī-xiàng* 法界一相, *dharmadhātu-ekalakṣaṇa*), all-riding-on-one-suchness (*jiē chéng yī-rú* 皆乘一如), "not-thinkable samādhi" (*bù sīyì sānmèi* 不思議三昧, T0233's substitute), "fixing-the-mind-on-one-object" (*jì-xīn yī-yuán* 繫心一緣, T0233's reduction), constant-sitting samādhi (*chángzuò sānmèi* 常坐三昧), one-aspect samādhi (*yī-xiàng sānmèi* 一相三昧), "binding-the-mind-to-one-buddha, solely invoking the name" protocol, the mind that recollects the Buddha is the Buddha (*jí niàn-fó xīn shì fó* 即念佛心是佛), "at all places, walking-standing-sitting-lying-down, constantly practicing the single straight mind" (*yú yīqiè chù, xíng-zhù-zuò-wò, cháng xíng yī-zhí-xīn* 於一切處行住坐臥，常行一直心), "unmoving ritual-field is truly a Pure Land" (*bù-dòng dàochǎng, zhēn chéng jìngtǔ* 不動道場，真成淨土), self-power and other-power parity (*zì-lì tā-lì bìnglì* 自力他力並立), *buddhānusmṛti-samādhi* (念佛三昧), genre-sensitive selection, canonical commentary vs. practice manual, cross-sectarian reception history, McRae, *Seeing through Zen*, *The Northern School*, McRae's Rules, Sharf, Buddhist modernism critique, meditative experience as rhetoric, Stevenson, Four Kinds of Samādhi in Early Tiantai, Anglophone scholarly gap, McMindfulness, concentration-training reductio, mantric-conditioning reductio, secular-mindfulness projection, Pure Land anachronistic retrojection, lodestone as structural feature of low-threshold Mahāyāna prajñā scripture, variable-direction parameter, abstract-one-buddha parameter, seventh verb-axis layer handoff (P17 *hṛdaya* lock-in), eighth verb-axis layer handoff (P18 *ālaya-parāvṛtti*), methodological-genealogy axis of Part V, Part VI paving (P20 Tanluan–Daochuo, P21 Chan Daoxin-to-Huineng, P22 Shandao's nianming institutionalization, P23 Tiantai Four Samādhis, P24 late-Ming confluence).
@@ -504,7 +503,7 @@ Part V, across its eight papers — P12 (the *Śūraṃgama* on "gathering the s
 
 ---
 
-## Cross-Reference Index for Series Papers
+### IV. Cross-Reference to Series Papers
 
 **Backward cross-references (within Part V and earlier):**
 
@@ -530,3 +529,9 @@ This paper is published under CC BY-NC-SA 4.0.
 CBETA citations collated against the 2024 electronic edition.
 
 GitHub: https://github.com/pointing-at-the-moon/four-practice-gates
+
+---
+
+*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+
+*NIAN-P19 · 釋慧鏡 (Shi Huijing) · 2026-04-21*
