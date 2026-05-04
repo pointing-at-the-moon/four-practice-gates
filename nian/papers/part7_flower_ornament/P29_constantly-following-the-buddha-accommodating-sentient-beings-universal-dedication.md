@@ -364,7 +364,7 @@ Williams, Paul. *Mahāyāna Buddhism: The Doctrinal Foundations*. 2nd ed. London
 
 ---
 
-## Series Cross-Reference Index
+### IV. Cross-Reference to Series Papers
 
 - **NIAN P25** (Part VII opener): the framing entry-point question — *what is the meaning of Samantabhadra's vow-king as a totality?* The present paper's §VI first-and-last echo answers this question.
 - **NIAN P26** (vows 1–3): the three-karma assembly thesis. Retrospectively paired with *substance* in the present paper's §III.5.

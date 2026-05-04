@@ -300,7 +300,7 @@ This perfect-teaching positioning of *niànfó*, in the late sixth century, is t
 
 ---
 
-## Series Cross-Reference Index
+### IV. Cross-Reference to Series Papers
 
 ### Backward references
 

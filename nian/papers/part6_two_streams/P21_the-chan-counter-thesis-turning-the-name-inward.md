@@ -435,7 +435,7 @@ One open question is left to the reader: if Part VI's Two Streams have, througho
 
 ---
 
-## Series Cross-Reference Index
+### IV. Cross-Reference to Series Papers
 
 **Backward references within the NIAN volume:**
 

@@ -264,7 +264,7 @@ The open question of the present paper, in single-line form: *Yongming gave the 
 
 ---
 
-## Series Cross-Reference Index
+### IV. Cross-Reference to Series Papers
 
 ### Backward references
 

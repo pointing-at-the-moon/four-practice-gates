@@ -309,7 +309,7 @@ The open question left for the reader: if Shandao's act is the *Tang-completed d
 
 ---
 
-## Series Cross-Reference Index
+### IV. Cross-Reference to Series Papers
 
 **Backward references within the NIAN volume (Part VI):**
 
