@@ -1,33 +1,35 @@
 ---
-title: Recollection and the Jhānas — Access, Absorption, and the Limits of Multi-Faceted Objects
-author: 釋慧鏡 (Shi Huijing)
-series: *Mindful of the Buddha*, Volume I of *The Four Practice Gates*
-paper_id: NIAN-P04
-license: CC BY-NC-SA 4.0
-date: 2026-04-15
+title: "Recollection and the Jhānas — Access, Absorption, and the Limits of Multi-Faceted Objects"
+author: "釋慧鏡 (Shi Huijing)"
+series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+paper_id: "NIAN-P04"
+date: "2026-04-15"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
 ---
 
 # Recollection and the Jhānas: Access, Absorption, and the Limits of Multi-Faceted Objects
 
-## 摘要
 
-本篇精確界定近行定（*upacāra-samādhi*）與安止定（*appanā-samādhi*）兩詞之技術差別，並從對境類型的結構特性說明為什麼六／十念中只有念安般、念身兩念可達 *appanā*，其餘諸念停在 *upacāra* 為設計終點。本篇提出一個業處的結構再分類——**特相對境**（single-faceted object）可以生成穩定之 *paṭibhāga-nimitta* 讓 *ekaggatā* lock-in、達 *appanā*；**複面對境**（multi-faceted object）天然 resist 此收斂。Buddhaghosa 於《清淨道論》VII.1 末段給出 *buddhānussati* 只達 *upacāra* 的兩個理由（佛德之深、念種種德之心向），本篇據此提出第一個方法論判定：「移動於多面之間」是 *anussati* 的 functional 要素，不是修習缺陷。另一個原創判定處理漢譯「念佛三昧」一詞的語用 latitude——此詞在《大智度論》等漢譯文獻中至少承擔三義：*upacāra* 平台義、*appanā* 壓縮義、大乘 visionary 義——後世漢傳念佛諸流派（持名、觀想、實相）事實上在此三義 latitude 內分流取義。本篇只定名技術坐標系，歷史軌跡留 Part VI 展開。跨學科會通以 Csikszentmihalyi 心流概念與 *upacāra-samādhi* 作三層現象學對照，同時指認三個不可約差異（目的論、對境本體、升級路徑）。
+---
+
+**Author:** 釋慧鏡 (Shi Huijing)
+**Date:** April 2026
+**License:** CC BY-NC-SA 4.0
+**Version:** 1.0
+**Series:** NIAN — Mindful of the Buddha
+
+---
 
 ## Abstract
 
 This paper offers a precise delineation of the technical difference between *upacāra-samādhi* (access concentration) and *appanā-samādhi* (absorption), and explains, through a structural analysis of meditation objects, why only two of the ten *anussati* (*ānāpānasati* and *kāyagatāsati*) reach *appanā*, while the remaining practices stop at *upacāra* as their designed terminus. The paper proposes a structural re-classification of the forty *kammaṭṭhāna*: **single-faceted objects** can generate a stable *paṭibhāga-nimitta* that allows *ekaggatā* to lock in, reaching *appanā*; **multi-faceted objects** structurally resist such convergence. Drawing on Buddhaghosa's two reasons in *Visuddhimagga* VII.1 for why *buddhānussati* reaches only *upacāra* (the depth of the Buddha's qualities; the mind's commitment to recollecting various kinds of qualities), the paper advances its first methodological finding: "movement among multiple facets" is a *functional* requirement of *anussati*, not a deficiency of practice. A second original finding addresses the semantic latitude of the Chinese term *niànfó sānmèi* 念佛三昧 ("buddha-recollection samādhi"): in *Dà zhìdù lùn* and related texts this term carries at least three distinct meanings—the *upacāra*-platform sense, the *appanā*-compression sense, and the Mahāyāna visionary sense—and the later Chinese *niànfó* streams (nāma-recitation, visualization, reality-principle) in fact draw upon this tri-semantic latitude for their differentiation. This paper maps only the technical coordinates; the historical trajectory is reserved for Part VI. Cross-disciplinary engagement compares Csikszentmihalyi's flow state with *upacāra* across three phenomenological parallels, while naming three non-reducible structural differences (teleology, object ontology, upgrade path).
 
-## 關鍵詞
-
-隨念；禪那；近行定；安止定；一境性；佛隨念；念佛三昧；對境分類；清淨道論；大智度論；心流；Phussadeva
-
-## Keywords
-
-anussati; jhāna; upacāra-samādhi; appanā-samādhi; ekaggatā; buddhānussati; niànfó sānmèi; object classification; Visuddhimagga; Dà zhìdù lùn; flow state; Phussadeva
+**Keywords:** anussati; jhāna; upacāra-samādhi; appanā-samādhi; ekaggatā; buddhānussati; niànfó sānmèi; object classification; Visuddhimagga; Dà zhìdù lùn; flow state; Phussadeva
 
 ---
 
-## 1. Introduction: Why Is Buddha-Recollection Not Jhāna?
+## I. Introduction: Why Is Buddha-Recollection Not Jhāna?
 
 A recurring question in Western mindfulness circles runs like this: does *niànfó*—Buddha-recollection—count as meditation? If a ten-minute secular mindfulness breathing app can induce a measurable meditative state, should not a dozen repetitions of *Itipi so*—the Pāli formula for the nine epithets of the Buddha—do the same, or more?
 
@@ -47,7 +49,7 @@ The paper assumes familiarity with NIAN-P02 (the nine epithets and the grammatic
 
 ---
 
-## 2. Canonical Basis
+## II. Canonical Basis
 
 The paper draws on four suttas as primary canonical ground, and on *Visuddhimagga* and *Mahāprajñāpāramitā-śāstra* (*Dà zhìdù lùn*, hereafter DZDL) passages as commentarial support, with parallel citation of Pāli and Chinese references.
 
@@ -74,6 +76,8 @@ The second *jhāna* drops *vitakka* and *vicāra*, keeping *pīti*, *sukha*, and
 
 **Visuddhimagga VII.1 *Buddhānussati-niddesa***: Buddhaghosa unfolds each of the nine epithets in turn and, at the end of the *bhagavā* discussion, explicitly states that *buddhānussati* reaches only *upacāra*, not *appanā*. He gives two reasons—the depth of the Buddha's qualities (*gambhīratā*) and the mind's commitment to recollecting various kinds of qualities (*nānappakāra-guṇānussaraṇa-adhimutti*)—which form the direct doctrinal basis for §3.2 below[^7].
 
+
+*中文主題：近行定、安止定，與多面對境的邊界*
 **Visuddhimagga VII.7 *Cha-anussati-niddesa-samāpana***: The conclusion of the six-recollection chapter reaffirms the *upacāra* limit and illustrates it with the example of the elder Phussadeva, who developed *vipassanā* from the *upacāra* platform of *buddhānussati* and attained arahatship. This is the principal textual support for §3.4[^8].
 
 **DZDL scroll 21** (*Exposition of the Eight Releases, bā bèi shě yì* 八背捨義): The Chinese commentarial account of the four-*dhyāna* stratification; *bā bèi shě* releases, the later four *abhibhū-āyatanāni*, and *kasiṇa* totality-practices are all placed within the fourth *dhyāna*. This scaffolding converges with Pāli *appanā*-depth analysis[^9].
@@ -84,7 +88,7 @@ The second *jhāna* drops *vitakka* and *vicāra*, keeping *pīti*, *sukha*, and
 
 The Chinese *Ekottara Āgama* T0125, scroll 2 (*Guǎngyǎn pǐn* 廣演品, "Chapter on Expansive Discourses"), lists the ten *anussati* in full: recollection of the Buddha, the Dharma, the Saṅgha, virtue, generosity, the deities, peace (*upasama*), the in-breath and out-breath, the body, and death. This matches the *Visuddhimagga*'s ten *anussati* exactly. The two traditions converge on the list; they diverge in that the Chinese material does not provide an explicit *upacāra*/*appanā* discrimination[^12].
 
-## 3. Central Argument
+## III. Central Argument
 
 ### 3.1 Access and Absorption, Precisely Defined
 
@@ -217,7 +221,7 @@ The paper makes no historical evaluation. It only names the tri-semantic structu
 
 ---
 
-## 4. Cross-Disciplinary Engagement: Recollection and Flow State
+## IV. Cross-Disciplinary Engagement: Recollection and Flow State
 
 Mihaly Csikszentmihalyi proposed the "flow state" concept in 1975 and systematized it in his 1990 book *Flow: The Psychology of Optimal Experience*. The phenomenology he describes includes narrowed attention, backgrounded self-referential thought, attenuated time perception, deepening task absorption, and a dynamic balance between skill and challenge.
 
@@ -237,11 +241,11 @@ There are three observable parallels between flow and *upacāra-samādhi*:
 
 **Upgrade-path difference.** Flow has no *appanā* or *jhāna* five-factor structure, no *vipassanā* linkage; its terminus is "this particular experience ends." *Anussati* belongs to the *samatha* wing of the twin *samatha-vipassanā* path; its terminus is not the experience itself, but the liberative observation that the experience platforms.
 
-**Guarding against a McMindfulness-style misreading.** To read *anussati* as a form of flow-style attention management is to demote liberative practice to the status of a performance tool. This misreading has in recent years become widespread in "mindfulness as productivity hack" discourse—secular mindfulness has been absorbed by corporate HR as an employee stress-management device. The warning here echoes P02 §4's cross-disciplinary methodology: when Buddhist concepts enter secular contexts, they must carry their soteriological anchor with them; they cannot be permitted to settle into lifestyle register.
+**Guarding against a McMindfulness-style misreading.** To read *anussati* as a form of flow-style attention management is to demote liberative practice to the status of a performance tool. This misreading has in recent years become widespread in "mindfulness as productivity hack" discourse—secular mindfulness has been absorbed by corporate HR as an employee stress-management device. The warning here echoes P02 §IV's cross-disciplinary methodology: when Buddhist concepts enter secular contexts, they must carry their soteriological anchor with them; they cannot be permitted to settle into lifestyle register.
 
 ---
 
-## 5. Middle-Way Corrections
+## V. Middle-Way Corrections
 
 - **❌-1**: "The six recollections reach only access concentration, so they are an incomplete *samatha* training." *Mistaken.* The designed terminus of the six recollections is *upacāra*; this is a function of *anussati*'s portability design (for in-the-world conditions). Reading *upacāra* as "not-yet-attained *appanā*" is to use the retreat-standard to judge a daily-life practice by its wrong criterion.
 
@@ -251,7 +255,7 @@ There are three observable parallels between flow and *upacāra-samādhi*:
 
 ---
 
-## 6. Conclusion
+## VI. Conclusion
 
 A technical boundary has been clearly mapped. Within the forty *kammaṭṭhāna*, the *anussati* family as a whole reaches *upacāra-samādhi* and not *appanā-samādhi*. The structural ground for this judgment lies in object type: single-faceted objects can generate the *paṭibhāga-nimitta* that permits *ekaggatā* to lock in; multi-faceted objects structurally resist this convergence, and the mind's movement among their facets is a *functional* requirement of the practice, not a deficit. Of the ten *anussati*, only breath-recollection and body-recollection reach *appanā* on a strict reading; the remaining eight—including buddha-, dharma-, saṅgha-, virtue-, generosity-, deity-, peace-, and death-recollection—stop at *upacāra* as their designed terminus, from which *vipassanā* is to be launched.
 
@@ -303,7 +307,7 @@ The next paper, P05, takes up the first wave of Chinese *niànfó* reception: th
 
 ## References
 
-### Primary Sources (Sūtra and Vinaya)
+### I. Primary Buddhist Sources
 
 - *Aṅguttara Nikāya*, 11-section *Mahānāma-sutta* (AN 11.11, AN 11.12), PTS AN v 328, v 332. Mahāsaṅgīti edition; Bhikkhu Sujato English translation (CC0), SuttaCentral.
 - *Aṅguttara Nikāya*, 6-section *Mahānāma-sutta* (AN 6.10), PTS AN iii 285. Same sources.
@@ -319,20 +323,20 @@ The next paper, P05, takes up the first wave of Chinese *niànfó* reception: th
 - *Zuòchán sānmèi jīng* (坐禪三昧經), translated by Kumārajīva, *Taishō Tripiṭaka* vol. 15, T0613.
 - *Guānfó sānmèi hǎi jīng* (觀佛三昧海經), translated by Buddhabhadra, *Taishō Tripiṭaka* vol. 15, T0643.
 
-### Commentaries & Śāstras
+### II. Patriarchal Commentaries
 
 - *Visuddhimagga* (《清淨道論》), Buddhaghosa, chapter VII (*Cha-anussati-niddesa*, covering VII.1–VII.7), PTS Vism 197–228. Rhys Davids 1920–21 PTS edition; GRETIL digital text (CC BY-SA 4.0).
 - *Visuddhimagga* VIII.8 *Upasamānussati-niddesa*, PTS Vism 293–294.
 - *Mahāprajñāpāramitā-śāstra* (《大智度論》), attributed to Nāgārjuna, translated by Kumārajīva, *Taishō Tripiṭaka* vol. 25, No. 1509. This paper draws principally on scroll 7 (the *niànfó sānmèi* passage), scroll 21 (*bā bèi shě yì* 八背捨義), and scroll 22 (*bā niàn yì* 八念義).
 
-### Secondary Literature
+### III. Modern Scholarship
 
 - Csikszentmihalyi, Mihaly. 1990. *Flow: The Psychology of Optimal Experience*. New York: Harper & Row.
 - Piatigorsky, Alexander. 1984. *The Buddhist Philosophy of Thought*. London: Curzon.
 - Bodhi, Bhikkhu, trans. 2012. *The Numerical Discourses of the Buddha: A Translation of the Aṅguttara Nikāya*. Boston: Wisdom Publications.
 - Ñāṇamoli, Bhikkhu, trans. 1975 (rev. 2010). *The Path of Purification: Visuddhimagga*. Kandy: Buddhist Publication Society.
 
-### Cross-Reference Index
+### IV. Cross-Reference to Series Papers
 
 | Note | In-Text Location | Text | Licensing |
 |---|---|---|---|
@@ -348,8 +352,6 @@ The next paper, P05, takes up the first wave of Chinese *niànfó* reception: th
 
 ---
 
-*This paper is released under CC BY-NC-SA 4.0. Free to share and adapt for non-commercial use with attribution and share-alike.*
-*Chinese canonical citations verified against the CBETA edition of the *Taishō Tripiṭaka* (https://cbetaonline.dila.edu.tw).*
-*Project repository: github.com/pointing-at-the-moon/four-practice-gates*
+*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
 
 *NIAN-P04 · 釋慧鏡 (Shi Huijing) · 2026-04-15*

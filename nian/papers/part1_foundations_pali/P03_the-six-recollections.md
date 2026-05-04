@@ -1,31 +1,40 @@
 ---
 title: "The Six Recollections: One Engine, Six Objects"
-author: Shi Huijing (釋慧鏡)
-series: NIAN · Part I · Foundations (Pāli)
-paper_id: NIAN-P03
-license: CC BY-NC-SA 4.0
+author: "釋慧鏡 (Shi Huijing)"
+series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+paper_id: "NIAN-P03"
+date: "2026-04-15"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
 ---
 
 # The Six Recollections
-## One Engine, Six Objects
 
-**Abstract**
+**One Engine, Six Objects**
 
+
+*中文主題：一個引擎，六個對境*
+
+---
+
+**Author:** 釋慧鏡 (Shi Huijing)
+**Date:** April 2026
+**License:** CC BY-NC-SA 4.0
+**Version:** 1.0
+**Series:** NIAN — Mindful of the Buddha
+
+---
+
+## Abstract
 The six recollections (*cha anussatiyo*) recorded in the *Aṅguttara Nikāya*—recollection of the Buddha, the Dhamma, the Saṅgha, virtue, generosity, and the deities—are typically treated in contemporary Anglophone Buddhist literature as six independent devotional practices. This paper argues that the six are not a list but a system. AN 6.10 *Mahānāmasutta* repeats a single formulaic syntax six times, disclosing that all six share one dynamic engine; the six objects form a clear bidirectional anchoring structure—the first three (Buddha, Dhamma, Saṅgha) borrow qualities outward from external referents, the last three (virtue, generosity, deities) verify qualities already present within the practitioner. The paper further identifies the special position of *devatānussati*: the five qualities enumerated in AN 6.10's internal formula (*saddhā*, *sīla*, *suta*, *cāga*, *paññā*—faith, virtue, learning, generosity, wisdom) correspond exactly to the five qualities the Buddha gives Mahānāma in the SN 55.21 street-elephant episode as what carries the mind upward at death—*devatānussati* is the system's hidden terminus, designed for the **moment of death**. The cluster "a heart everywhere like space—abundant, expansive, limitless, free from enmity, free from ill will" in AN 6.26 *Mahākaccānasutta* shares its formula with the four *brahmavihāras*, embedding an *appamāṇa* (limitless) mechanism within the recollections—laying the early Āgama foundation for the later Mahāyāna theology of Infinite Light and Infinite Life. Working through the *Aṅguttara Nikāya* Books of the Sixes and Elevens and the *Saṃyutta Nikāya* Sotāpattisaṃyutta 55, with the Chinese *Saṃyukta Āgama* 930–933 and *Ekottara Āgama* "Wider Exposition" chapter, and consulting Buddhaghosa's *Visuddhimagga* chapter VII and the *Mahāprajñāpāramitā-śāstra* fascicles 21–22, the paper exhibits the internal architecture of the six recollections as a **complete recollective system, bidirectionally anchored, internally carrying the brahmavihāra mechanism, and designed jointly for daily life and for death**, while identifying Buddhaghosa as the systematizer (the *Ekottara Āgama* "Wider Exposition" ten-recollection set corresponds item for item to the *Visuddhimagga*'s ten, indicating he integrated rather than innovated) and Nāgārjuna as the Mahāyāna pivot (expansion of *cāga*, restructuring of *devatā*, the two seals of bodhisattva eight-recollection practice).
 
 **Keywords:** six recollections, *cha anussatiyo*, bidirectional structure, external borrowing and internal verification, *devatānussati*, deathbed five qualities, faith-virtue-learning-generosity-wisdom, *appamāṇa*, four *brahmavihāras*, *Visuddhimagga*, *Mahāprajñāpāramitā-śāstra*, *buddhānussati*
 
 ---
 
-**摘要**
-
-巴利尼柯耶所載「六隨念」（*cha anussatiyo*）——念佛、念法、念僧、念戒、念捨、念天——在當代英語佛教文獻中通常被處理為六種獨立的獻身練習。本文主張：六念不是清單，而是一個系統。《增支部》六集第十經（*Mahānāmasutta*）以高度公式化的句構重複六次，揭示六者共享同一動力引擎；六個對境構成清晰的雙向錨定結構——前三念（佛、法、僧）向外借調他者已成就之品質，後三念（戒、捨、天）向內確認修行者自身已具備之品質。本文進一步指認念天章的特殊地位：AN 6.10 念天內部公式所列的五德（*saddhā*、*sīla*、*suta*、*cāga*、*paññā* —— 信、戒、聞、施、慧）與《相應部》第 55 相應第 21 經「街道狂象」事件中佛給摩訶男的臨終五德完全對應——念天章是六念系統為**死亡時刻**設計的隱藏結尾，把整個系統錨在臨終一刻。本文亦指出《增支部》六集第二十六經（*Mahākaccānasutta*）「心如虛空、廣、大、無量、無瞋、無害」公式與四梵住（*brahmavihārā*）共用同一語法，使六念內含 *appamāṇa*（無量）機制——為大乘「無量光無量壽」念佛傳統埋下阿含層次的結構依據。透過《增支部》六、十一集與《相應部》第 55 相應，對照《雜阿含》卷三十三第 930–933 經與《增一阿含》卷二〈廣演品〉，並參《清淨道論》第七章與《大智度論》卷二十一至二十二，本文展示六隨念作為一個**內含雙向結構、隱藏梵住機制、為日常與死亡共同設計的完整覺知系統**的內部構造。
-
-**關鍵詞：** 六隨念、*cha anussatiyo*、雙向結構、外借與內確、念天、臨終五德、信戒聞施慧、*appamāṇa*、四梵住、*Visuddhimagga*、《大智度論》、*buddhānussati*
-
 ---
 
-## 1. Introduction
+## I. Introduction
 
 There is a recurring blind spot in the way contemporary Western literature handles *buddhānussati* (recollection of the Buddha). The practice almost always gets isolated from its larger context and presented as a self-contained meditation method. Once the Buddha-recollection is introduced, the standard move is to introduce *dhammānussati* (recollection of the Dhamma) as another self-contained method. Then *saṅghānussati* (recollection of the Saṅgha) as yet another. Six iterations, six freestanding practices. The reader walks away with a list: six Buddhist devotional exercises.
 
@@ -39,7 +48,7 @@ Several things this chapter will not cover. The Chinese tradition's compression 
 
 ---
 
-## 2. Sources
+## II. Sources
 
 ### 2.1 The Pāli Core Suttas
 
@@ -89,15 +98,15 @@ The ten-recollection set in *Ekottara Āgama* "Wider Exposition" chapter 3—Bud
 
 | Treatise | Source | Use in this chapter |
 |---|---|---|
-| *Visuddhimagga* VII §2–§7 | Vism 213–228 | Item-by-item commentary on the six recollections + conclusion |
+| *Visuddhimagga* VII §II–§VII | Vism 213–228 | Item-by-item commentary on the six recollections + conclusion |
 | *Mahāprajñāpāramitā-śāstra* (大智度論) ch. 21–22, "Eight Recollections" | T1509 | Nāgārjuna's reading + the two seals that turn śrāvaka practice into bodhisattva practice |
 
 Buddhaghosa places the six recollections within the forty meditation subjects of the *Visuddhimagga*'s system and gives each its own treatise section. §3.5 organizes these. Citation discipline note: the *Visuddhimagga* materials accessed through GRETIL are licensed CC BY-SA 4.0, whose share-alike clause conflicts with this book's CC BY-NC-SA license. The chapter therefore handles all *Visuddhimagga* content through paraphrase only, never direct quotation, following the formula established in NIAN-P02 ("Buddhaghosa renders this as…", "the *Visuddhimagga* unpacks this as…").
 
-The *Mahāprajñāpāramitā-śāstra* is in the public domain and may be cited directly. Chapters 21–22 treat what Nāgārjuna calls the "eight recollections" (six classical recollections plus recollection of breathing and recollection of death), and at the end of chapter 22 introduce two structural seals—"non-abiding abode in *prajñāpāramitā*" and "because [the object] is unobtainable"—that mark the bodhisattva transposition. §4 develops these.
+The *Mahāprajñāpāramitā-śāstra* is in the public domain and may be cited directly. Chapters 21–22 treat what Nāgārjuna calls the "eight recollections" (six classical recollections plus recollection of breathing and recollection of death), and at the end of chapter 22 introduce two structural seals—"non-abiding abode in *prajñāpāramitā*" and "because [the object] is unobtainable"—that mark the bodhisattva transposition. §IV develops these.
 
 The Pāli suttas and the Chinese Āgamas are public-domain or CC0-licensed. They may be quoted directly.
-## 3. Core Argument
+## III. Core Argument
 
 ### 3.1 One Engine, Six Objects
 
@@ -145,7 +154,7 @@ The object of *devatānussati* is the most easily misread. On the surface it app
 
 The object is nominally the deities; substantively it is **one's own five qualities**. The deities serve only as a benchmark.
 
-Buddhaghosa makes this commentarial correction explicit in *Visuddhimagga* §6: the deities are "placed as witness" (*sakkhiṭṭhāne ṭhapetvā*); what is actually recollected is the practitioner's own faith, virtue, learning, generosity, and wisdom. In other words, the *Visuddhimagga* directly classifies *devatānussati* as an internal-verification practice and clearly differentiates it from anything Western readers might intuitively call "thinking about gods."
+Buddhaghosa makes this commentarial correction explicit in *Visuddhimagga* §VI: the deities are "placed as witness" (*sakkhiṭṭhāne ṭhapetvā*); what is actually recollected is the practitioner's own faith, virtue, learning, generosity, and wisdom. In other words, the *Visuddhimagga* directly classifies *devatānussati* as an internal-verification practice and clearly differentiates it from anything Western readers might intuitively call "thinking about gods."
 
 Together, the three internal recollections establish a triangulated inner anchor: **virtue established + miserliness departed + the five qualities present**.
 
@@ -211,19 +220,19 @@ P12 (the chapter on Mahāsthāmaprāpta) will return to this thread. The present
 
 Buddhaghosa places the six recollections within the forty-meditation-subject system of *Visuddhimagga* chapter VII and gives each its own section. Following the paraphrase-only discipline established in P02, this section summarizes the structure as briefly as possible without quotation.
 
-**§1 Buddha-recollection**: covered in P02; not retraced here.
+**§I Buddha-recollection**: covered in P02; not retraced here.
 
-**§2 Dhamma-recollection**: Buddhaghosa unpacks "well-explained" (*svākkhāto*) into multiple senses—suitable both for instruction and for the path; meaning-rich and elegantly phrased; beautiful at beginning, middle, and end; free from extremes (sense-pleasure and self-mortification, eternalism and annihilationism, being and non-being). The remaining five predicates (visible here-and-now, immediately effective, inviting inspection, leading inward, individually known by the wise) receive parallel treatment. **Structurally identical to the nine-epithet treatment**: dhamma-recollection presents a six-predicate map analogous to the Buddha-recollection's nine-epithet map.
+**§II Dhamma-recollection**: Buddhaghosa unpacks "well-explained" (*svākkhāto*) into multiple senses—suitable both for instruction and for the path; meaning-rich and elegantly phrased; beautiful at beginning, middle, and end; free from extremes (sense-pleasure and self-mortification, eternalism and annihilationism, being and non-being). The remaining five predicates (visible here-and-now, immediately effective, inviting inspection, leading inward, individually known by the wise) receive parallel treatment. **Structurally identical to the nine-epithet treatment**: dhamma-recollection presents a six-predicate map analogous to the Buddha-recollection's nine-epithet map.
 
-**§3 Saṅgha-recollection**: the four pairs and eight individuals are arranged by attainment level; "supreme field of merit" gets agricultural imagery. Buddhaghosa adds a striking concrete formulation: the practitioner of saṅgha-recollection comes to experience her own body as **"like the assembled Saṅgha in an Uposatha hall"**—the qualities of the Saṅgha internalize as the practitioner's own internal architecture.
+**§III Saṅgha-recollection**: the four pairs and eight individuals are arranged by attainment level; "supreme field of merit" gets agricultural imagery. Buddhaghosa adds a striking concrete formulation: the practitioner of saṅgha-recollection comes to experience her own body as **"like the assembled Saṅgha in an Uposatha hall"**—the qualities of the Saṅgha internalize as the practitioner's own internal architecture.
 
-**§4 Virtue-recollection**: the eight standard predicates of virtue (*akhaṇḍa*, etc.) are unpacked one by one, each illustrated through concrete imagery—a torn cloth, a spotted cow—so that subtle gaps in virtue become visualizable.
+**§IV Virtue-recollection**: the eight standard predicates of virtue (*akhaṇḍa*, etc.) are unpacked one by one, each illustrated through concrete imagery—a torn cloth, a spotted cow—so that subtle gaps in virtue become visualizable.
 
-**§5 Generosity-recollection**: Buddhaghosa lays down an operational discipline. The practitioner of cāgānussati must already be **cāgādhimutta**—someone naturally inclined to giving. If the beginner has not yet developed this disposition, she should first vow: "From this day on, if a worthy recipient comes, I will not eat without first giving even a single morsel." The practical habit must precede the recollection. The discipline is significant: the object of cāgānussati is "the generosity I have actually performed"; without actual generosity to recollect, the recollection cannot get off the ground.
+**§V Generosity-recollection**: Buddhaghosa lays down an operational discipline. The practitioner of cāgānussati must already be **cāgādhimutta**—someone naturally inclined to giving. If the beginner has not yet developed this disposition, she should first vow: "From this day on, if a worthy recipient comes, I will not eat without first giving even a single morsel." The practical habit must precede the recollection. The discipline is significant: the object of cāgānussati is "the generosity I have actually performed"; without actual generosity to recollect, the recollection cannot get off the ground.
 
-**§6 Deity-recollection**: as already cited in §3.2 above—the deities are "placed as witness" (*sakkhiṭṭhāne ṭhapetvā*); what is actually recollected is the practitioner's own faith, virtue, learning, generosity, and wisdom. This is the explicit commentarial ruling that "deity-recollection ≠ thinking about gods."
+**§VI Deity-recollection**: as already cited in §3.2 above—the deities are "placed as witness" (*sakkhiṭṭhāne ṭhapetvā*); what is actually recollected is the practitioner's own faith, virtue, learning, generosity, and wisdom. This is the explicit commentarial ruling that "deity-recollection ≠ thinking about gods."
 
-**§7 Conclusion**: Buddhaghosa integrates five canonical contexts in which the Buddha taught the six recollections—Mahānāma, Gedha (AN 6.25), Sambādh-okāsa (AN 6.26), Uposatha, and AN 11.11—and issues two crucial verdicts.[^10]
+**§VII Conclusion**: Buddhaghosa integrates five canonical contexts in which the Buddha taught the six recollections—Mahānāma, Gedha (AN 6.25), Sambādh-okāsa (AN 6.26), Uposatha, and AN 11.11—and issues two crucial verdicts.[^10]
 
 First: because of the depth and multiplicity of the recollection-objects, the six recollections **only reach access concentration (*upacāra*); they do not reach absorption concentration (*appanā*)**. This is not a defect; it is a design choice. *Anussati* is built for ordinary life, not for retreat-hall absorption. P04 will pursue this line to its full statement—the boundary between *upacāra* and *appanā* is the principal axis of that chapter.
 
@@ -237,13 +246,13 @@ Open the Chinese *Ekottara Āgama*'s "Wider Exposition" chapter 3, however, and 
 
 The methodological significance is large. It means Buddhaghosa **was not the originator**—he did not personally invent "add four to the six." He was the **systematizer**—he organized into the *Visuddhimagga*'s commentarial structure a skeletal set already present in pre-sectarian Buddhism, inherited independently by both southern and northern traditions. The ten recollections were already formed before the sectarian period.
 
-The two traditions also show distinctive expansion paths. Chinese *Saṃyukta Āgama* sūtra 933 represents one independent trajectory—inserting "**emptiness**" (*śūnyatā*) into the foundational five qualities, expanding five into six and the total of eleven into twelve.[^12] This early "emptiness" insertion, peculiar to the Chinese tradition, foreshadows later Mahāyāna emptiness-thought. Nāgārjuna's *Mahāprajñāpāramitā-śāstra* chapters 21–22 represent a third trajectory—six recollections plus recollection of breathing and recollection of death (eight total), without recollection of body or recollection of peace—Nāgārjuna's particular selection, with death-recollection repositioned as a tool against fear (§4 below).
+The two traditions also show distinctive expansion paths. Chinese *Saṃyukta Āgama* sūtra 933 represents one independent trajectory—inserting "**emptiness**" (*śūnyatā*) into the foundational five qualities, expanding five into six and the total of eleven into twelve.[^12] This early "emptiness" insertion, peculiar to the Chinese tradition, foreshadows later Mahāyāna emptiness-thought. Nāgārjuna's *Mahāprajñāpāramitā-śāstra* chapters 21–22 represent a third trajectory—six recollections plus recollection of breathing and recollection of death (eight total), without recollection of body or recollection of peace—Nāgārjuna's particular selection, with death-recollection repositioned as a tool against fear (§IV below).
 
 Three trajectories together suggest: the six recollections form a stable core skeleton; expansion is a peripheral move. Each tradition adds its own items, but the choices are constrained by the tradition's overall doctrinal preferences—the Sarvāstivāda/Theravāda lineages select "body, death, breathing, peace"; the Chinese tradition foregrounds "emptiness"; Nāgārjuna foregrounds "death" and "breathing" with a new functional positioning. The skeleton is invariant; the periphery is elastic.
 
 ---
 
-## 4. Cross-Tradition and Mahāyāna Preparation
+## IV. Cross-Tradition and Mahāyāna Preparation
 
 ### 4.1 Nāgārjuna's Expansion of *Cāga*: The Seed of *Dāna-Pāramitā*
 
@@ -288,13 +297,13 @@ The first reads the six as **six Buddhist affirmation practices**—a Buddhist v
 The second reads the six as **six forms of veneration of the qualities of the awakened ones**—a Buddhist version of Christian devotion or Hindu *bhakti*. This reading captures the outward-pointing character of the first three but completely misses the reflexive structure of the last three, flattening the entire system into one-directional reverence.
 
 Both misreadings reduce the six recollections to a list. The Western-reader framing task of this book is to restore the six recollections to what they are: **a complete recollective system with internal bidirectional structure, a hidden brahmavihāra mechanism, designed jointly for daily life and for the moment of death**.
-## 5. Middle-Way Corrections
+## V. Middle-Way Corrections
 
 Before closing, three readings should be marked explicitly as **misreadings** (❌), and two as **suggestive cross-disciplinary analogies that should not be equated** (⚠️).
 
 **❌ *Devatānussati* = theistic worship.**
 
-The most common misreading. "Recollection of the deities" gets interpreted as "taking the deities as objects of worship." Correction: *Visuddhimagga* §6 explicitly states that the deities are "placed as witness" (*sakkhiṭṭhāne ṭhapetvā*); what is actually recollected is one's own faith, virtue, learning, generosity, and wisdom. The internal formula of AN 6.10 is also overtly reflexive: "I too possess such faith, virtue, learning, generosity, and wisdom." *Devatānussati* belongs to the internal-verification class, not the external-worship class. Reading it as theistic worship flattens the bidirectional structure into one-direction and entirely obscures the death-anchor function identified in §3.3.
+The most common misreading. "Recollection of the deities" gets interpreted as "taking the deities as objects of worship." Correction: *Visuddhimagga* §VI explicitly states that the deities are "placed as witness" (*sakkhiṭṭhāne ṭhapetvā*); what is actually recollected is one's own faith, virtue, learning, generosity, and wisdom. The internal formula of AN 6.10 is also overtly reflexive: "I too possess such faith, virtue, learning, generosity, and wisdom." *Devatānussati* belongs to the internal-verification class, not the external-worship class. Reading it as theistic worship flattens the bidirectional structure into one-direction and entirely obscures the death-anchor function identified in §3.3.
 
 **❌ *Sīlānussati* = guilt review of broken precepts.**
 
@@ -308,7 +317,7 @@ The third common misreading. "Recollection of the Saṅgha" gets interpreted as 
 
 Cross-disciplinary heuristic value: cognitive behavioral therapy's reframing techniques and self-compassion practices share a structure with the recollections—using positive statements to counter negative emotion. The analogy can help Western readers find an entry point.
 
-Caution: affirmation operates at the ego level—"saying encouraging things to oneself"—and its efficacy rests on repetition itself, not on the truth of the content. The recollection-objects are **already-verified facts**: the Buddha has cut, the Dhamma has been verified, the Saṅgha has walked through, virtue has been established, generosity has arisen, the five qualities are present. If the object has not yet been verified in the practitioner's experience, the dynamic chain does not start (the *Visuddhimagga* §7 verdict). Affirmation lacks this "evidential grounding," and therefore differs from the recollections **structurally, not just in degree**.
+Caution: affirmation operates at the ego level—"saying encouraging things to oneself"—and its efficacy rests on repetition itself, not on the truth of the content. The recollection-objects are **already-verified facts**: the Buddha has cut, the Dhamma has been verified, the Saṅgha has walked through, virtue has been established, generosity has arisen, the five qualities are present. If the object has not yet been verified in the practitioner's experience, the dynamic chain does not start (the *Visuddhimagga* §VII verdict). Affirmation lacks this "evidential grounding," and therefore differs from the recollections **structurally, not just in degree**.
 
 **⚠️ The first three recollections ≈ Carl Jung's internalization of the *imago Dei*.**
 
@@ -318,7 +327,7 @@ Caution: the object in the Jungian model is an *archetype*—a universal structu
 
 ---
 
-## 6. Conclusion
+## VI. Conclusion
 
 This chapter has treated the six recollections. Six points summarize what it has done.
 
@@ -336,12 +345,11 @@ Sixth, Nāgārjuna was the Mahāyāna pivot. He expanded *cāga* into material g
 
 The three questions left open at the end of P02—why six, why these six, how do the other five operate—have now received their direct answer. What the Buddha left is not a list. It is a map.
 
-The next chapter, P04, will treat one boundary the present chapter has not pursued: the interface within the six (and ten) recollections between *anussati* and *jhāna*—the distinction between access concentration (*upacāra*) and absorption concentration (*appanā*). The *Visuddhimagga* §7 marks this boundary but does not unfold it fully. The boundary is the key to understanding why *anussati* is *anussati* (rather than a kind of *jhāna*), and the key to understanding how the Chinese "buddha-recollection samādhi" and "name-holding recollection" both inherited and transformed the original *anussati* structure.
+The next chapter, P04, will treat one boundary the present chapter has not pursued: the interface within the six (and ten) recollections between *anussati* and *jhāna*—the distinction between access concentration (*upacāra*) and absorption concentration (*appanā*). The *Visuddhimagga* §VII marks this boundary but does not unfold it fully. The boundary is the key to understanding why *anussati* is *anussati* (rather than a kind of *jhāna*), and the key to understanding how the Chinese "buddha-recollection samādhi" and "name-holding recollection" both inherited and transformed the original *anussati* structure.
 
 Nine words open nine small doors; the six recollections open six larger doors; the ten recollections open ten through-doors. One engine, six objects, bidirectional anchoring, internal infinity. This is the map the Buddha left.
 
 *Namo tassa bhagavato arahato sammāsambuddhassa.*
-
 
 ---
 
@@ -365,7 +373,7 @@ Nine words open nine small doors; the six recollections open six larger doors; t
 
 [^9]: Representative passages of the four-*brahmavihāra* formula: DN 13 *Tevijjasutta* (PTS DN i 250); MN 99 *Subhasutta* (PTS MN ii 207); and numerous parallel sections throughout the *Dīgha* and *Majjhima Nikāyas*. Each passage uses the identical formula *sabbaso ākāsasamena cetasā ... vipulena mahaggatena appamāṇena averena abyāpajjena* to describe the achieved state of *mettā*, *karuṇā*, *muditā*, and *upekkhā*. Chinese parallels include *Saṃyukta Āgama* sūtras 743–744 in fascicle 29.
 
-[^10]: *Visuddhimagga* VII §7 *Cha-anussati-niddesa-samāpana* (PTS Vism 227–228). This paper paraphrases throughout, never quoting from the GRETIL electronic text directly, in order to avoid the share-alike conflict between the GRETIL CC-BY-SA license and this book's CC-BY-NC-SA license. Buddhaghosa here integrates five canonical contexts (Mahānāma, Gedha, Sambādh-okāsa, Uposatha, AN 11.11) and issues the verdict that the six recollections, owing to the depth and multiplicity of their objects, "do not attain absorption but only access concentration" (*appanaṃ appatvā upacāramattaṃ jhānaṃ hoti*).
+[^10]: *Visuddhimagga* VII §VII *Cha-anussati-niddesa-samāpana* (PTS Vism 227–228). This paper paraphrases throughout, never quoting from the GRETIL electronic text directly, in order to avoid the share-alike conflict between the GRETIL CC-BY-SA license and this book's CC-BY-NC-SA license. Buddhaghosa here integrates five canonical contexts (Mahānāma, Gedha, Sambādh-okāsa, Uposatha, AN 11.11) and issues the verdict that the six recollections, owing to the depth and multiplicity of their objects, "do not attain absorption but only access concentration" (*appanaṃ appatvā upacāramattaṃ jhānaṃ hoti*).
 
 [^11]: *Ekottara Āgama* "Wider Exposition" chapter 3, T0125 fascicle 2 (T02, pp. 553b–556a). Translated by Gautama Saṅghadeva (Eastern Jin dynasty). The chapter treats in sequence from sūtra 1 to sūtra 10: recollection of the Buddha, of the Dharma, of the Saṅgha, of virtue, of generosity, of the deities, of repose, of breathing, of the body, and of death—corresponding item for item to the *Visuddhimagga* chapter VII set of ten recollections.
 
@@ -381,7 +389,7 @@ Nine words open nine small doors; the six recollections open six larger doors; t
 
 ## References
 
-### I. Primary Buddhist Sources 佛教原典
+### I. Primary Buddhist Sources
 
 **Pāli Canon 巴利原典**
 
@@ -389,7 +397,7 @@ Nine words open nine small doors; the six recollections open six larger doors; t
 - *Saṃyutta Nikāya*. Mahāsaṅgīti Tipiṭaka edition. Principal references: SN 55.21, 55.22; with reference to SN 11.3 *Dhajagga Sutta* and the wider SN 55 Sotāpattisaṃyutta.
 - *Dīgha Nikāya*. Mahāsaṅgīti Tipiṭaka edition. Reference: DN 13 *Tevijjasutta* (for the four-brahmavihāra formula).
 - *Majjhima Nikāya*. Mahāsaṅgīti Tipiṭaka edition. Reference: MN 99 *Subhasutta* (for the four-brahmavihāra formula).
-- Buddhaghosa, *Visuddhimagga*. Pali Text Society edition (Rhys Davids 1920–21); GRETIL electronic edition (CC-BY-SA 4.0; this paper cites paraphrastically only). Principal references: chapter VII §2–§7 (the six recollections in detail and the concluding section).
+- Buddhaghosa, *Visuddhimagga*. Pali Text Society edition (Rhys Davids 1920–21); GRETIL electronic edition (CC-BY-SA 4.0; this paper cites paraphrastically only). Principal references: chapter VII §II–§VII (the six recollections in detail and the concluding section).
 
 **Chinese Canon (Taishō Tripiṭaka) 漢譯原典**
 
@@ -397,7 +405,7 @@ Nine words open nine small doors; the six recollections open six larger doors; t
 - *Ekottara Āgama* (《增壹阿含經》). Taishō T02 No. 125. Translated by Gautama Saṅghadeva (Eastern Jin dynasty). Principal reference: fascicle 2, "Wider Exposition" chapter 3 (the ten-recollection set).
 - *Mahāprajñāpāramitā-śāstra* (《大智度論》). Taishō T25 No. 1509. Attributed to Nāgārjuna (traditional attribution); translated by Kumārajīva (Later Qin dynasty). Principal references: fascicles 21, 22, "Exposition of the Eight Recollections, §36."
 
-### II. Modern Scholarship 現代學術著作
+### II. Modern Scholarship
 
 - Bodhi, Bhikkhu, trans. *The Numerical Discourses of the Buddha: A Translation of the Aṅguttara Nikāya*. Boston: Wisdom, 2012.
 - Bodhi, Bhikkhu, trans. *The Connected Discourses of the Buddha: A Translation of the Saṃyutta Nikāya*. Boston: Wisdom, 2000.
@@ -409,7 +417,7 @@ Nine words open nine small doors; the six recollections open six larger doors; t
 - Williams, Paul. *Mahāyāna Buddhism: The Doctrinal Foundations*. 2nd ed. London: Routledge, 2009. (Chapter 6 treats Mahāyāna recollection-of-the-Buddha and the *Mahāprajñāpāramitā-śāstra*'s position.)
 - Gethin, Rupert. *The Buddhist Path to Awakening*. Oxford: Oneworld, 2001. (Chapter 7 treats the recollections and the *bodhi-pakkhiya* system.)
 
-### III. Sūtra & Śāstra Index 經論索引
+### III. Sūtra & Śāstra Index
 
 | Reference | Full title (Pāli / Sanskrit / Chinese) | Edition / Number | Author / Translator |
 |---|---|---|---|
@@ -428,19 +436,17 @@ Nine words open nine small doors; the six recollections open six larger doors; t
 | Saṃyukta Āgama 932 | 《雜阿含經》卷三十三第 932 經 | Taishō T02 No. 99 | Guṇabhadra |
 | Saṃyukta Āgama 933 | 《雜阿含經》卷三十三第 933 經 | Taishō T02 No. 99 | Guṇabhadra |
 | Ekottara Āgama "Wider Exposition" | 《增壹阿含經》卷二〈廣演品〉第三 | Taishō T02 No. 125 | Saṅghadeva |
-| *Visuddhimagga* VII §2 | *Dhammānussati-kathā* (Recollection of the Dhamma) | PTS *Vism* 213–218 | Buddhaghosa |
-| *Visuddhimagga* VII §3 | *Saṅghānussati-kathā* (Recollection of the Saṅgha) | PTS *Vism* 218–221 | Buddhaghosa |
-| *Visuddhimagga* VII §4 | *Sīlānussati-kathā* (Recollection of Virtue) | PTS *Vism* 221–222 | Buddhaghosa |
-| *Visuddhimagga* VII §5 | *Cāgānussati-kathā* (Recollection of Generosity) | PTS *Vism* 223–224 | Buddhaghosa |
-| *Visuddhimagga* VII §6 | *Devatānussati-kathā* (Recollection of the Deities) | PTS *Vism* 225–227 | Buddhaghosa |
-| *Visuddhimagga* VII §7 | *Cha-anussati-niddesa-samāpana* (Conclusion) | PTS *Vism* 227–228 | Buddhaghosa |
+| *Visuddhimagga* VII §II | *Dhammānussati-kathā* (Recollection of the Dhamma) | PTS *Vism* 213–218 | Buddhaghosa |
+| *Visuddhimagga* VII §III | *Saṅghānussati-kathā* (Recollection of the Saṅgha) | PTS *Vism* 218–221 | Buddhaghosa |
+| *Visuddhimagga* VII §IV | *Sīlānussati-kathā* (Recollection of Virtue) | PTS *Vism* 221–222 | Buddhaghosa |
+| *Visuddhimagga* VII §V | *Cāgānussati-kathā* (Recollection of Generosity) | PTS *Vism* 223–224 | Buddhaghosa |
+| *Visuddhimagga* VII §VI | *Devatānussati-kathā* (Recollection of the Deities) | PTS *Vism* 225–227 | Buddhaghosa |
+| *Visuddhimagga* VII §VII | *Cha-anussati-niddesa-samāpana* (Conclusion) | PTS *Vism* 227–228 | Buddhaghosa |
 | *Mahāprajñāpāramitā-śāstra* 21 | "Exposition of the Eight Releases, Nine Recognitions, Eight Recollections, §34–36 (1st)" | Taishō T25 No. 1509 | Nāgārjuna (attr.) / Kumārajīva |
 | *Mahāprajñāpāramitā-śāstra* 22 | "Exposition of the Eight Recollections, §36, continued" | Taishō T25 No. 1509 | Nāgārjuna (attr.) / Kumārajīva |
 
 ---
 
-*This work is licensed under CC BY-NC-SA 4.0. Free to share and adapt, with attribution, non-commercial use, and share-alike.*
-*Citations of Chinese canonical texts use CBETA's Taishō Tripiṭaka electronic edition for collation (https://cbetaonline.dila.edu.tw).*
-*Project repo: github.com/pointing-at-the-moon/four-practice-gates*
+*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
 
-*NIAN-P03 · Shi Huijing · 2026-04-15*
+*NIAN-P03 · 釋慧鏡 (Shi Huijing) · 2026-04-15*

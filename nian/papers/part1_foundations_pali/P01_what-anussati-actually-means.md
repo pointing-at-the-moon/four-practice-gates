@@ -1,23 +1,38 @@
 ---
-title: What Anussati Actually Means — The Semantic, Attentional, and Structural Separation from Sati
-author: Shi Huijing
-series: NIAN · Part I · Foundations (Pāli)
-paper_id: NIAN-P01
-license: CC BY-NC-SA 4.0
+title: "What Anussati Actually Means — The Semantic, Attentional, and Structural Separation from Sati"
+author: "釋慧鏡 (Shi Huijing)"
+series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+paper_id: "NIAN-P01"
+date: "2026-04-14"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
 ---
 
 # What *Anussati* Actually Means
-## The Semantic, Attentional, and Structural Separation from *Sati*
 
-**Abstract**
+**The Semantic, Attentional, and Structural Separation from *Sati***
 
+
+*中文主題：隨念的字義、作意結構、與 *sati* 的分軌*
+
+---
+
+**Author:** 釋慧鏡 (Shi Huijing)
+**Date:** April 2026
+**License:** CC BY-NC-SA 4.0
+**Version:** 1.0
+**Series:** NIAN — Mindful of the Buddha
+
+---
+
+## Abstract
 Contemporary Western Buddhist discourse routinely treats *anussati* (recollection) as a specialized application of *sati* (mindfulness) — "mindfulness of the Buddha," "mindfulness of the Dhamma," and so on. This paper argues that this framing is a structural misreading. *Anussati* is not *sati* plus a religious object; it is a separate track of practice with its own attentional structure, its own cluster of mental factors, and its own soteriological endpoint. Drawing on MN 10, DN 22, AN 6.10, AN 6.25, and AN 11.11 alongside their Chinese-translation parallels in the *Saṃyukta-*, *Madhyama-*, and *Ekottara-āgamas*, and supplemented by Buddhaghosa's treatment of the six recollections in *Visuddhimagga* VII, this paper demonstrates *anussati* as the paradigmatic case of "directed *yoniso manasikāra*" — an attentional practice with a fourfold rhythm: establishing the object, adhering along it, arising of confidence and joy, and softening into workability. Recognizing this track as distinct from *sati* is the interpretive key for reading the thirty chapters that follow, from the *Sūtra in Forty-Two Sections* through the Pure Land corpus to Samantabhadra's Ten Great Vows in the *Avataṃsaka*.
 
 **Keywords:** anussati, sati, recollection, mindfulness, yoniso manasikāra, six recollections, Visuddhimagga, Buddhānussati
 
 ---
 
-## 1. Introduction
+## I. Introduction
 
 Jon Kabat-Zinn's canonical definition of mindfulness has been cited in hundreds of thousands of contexts: "paying attention on purpose, in the present moment, non-judgmentally." It appears in the opening pages of meditation apps, in MBSR course handouts, in corporate wellness slides.
 
@@ -43,7 +58,7 @@ That is what this chapter does.
 
 ---
 
-## 2. Scriptural Basis
+## II. Scriptural Basis
 
 ### 2.1 Sūtra references (dual-tradition parallel citation)
 
@@ -81,7 +96,7 @@ This passage gives the clearest technical description of *anussati*'s operationa
 This paper does *not* draw on later Chinese Pure Land commentaries (Shandao, Yongming, Zhuhong, Hanshan, Ouyi). Those materials belong to Part VI. The task of this chapter is to set the foundation cleanly, not to unfold sixteen centuries of reception.
 ---
 
-## 3. Core Argument
+## III. Core Argument
 
 ### 3.1 The semantic and attentional structure of *sati*
 
@@ -214,7 +229,7 @@ The Yogācāra *Śrāvakabhūmi*, in its Chinese translation, employs the single
 Recognizing the cooperative relation prevents *anussati* from being seen as an affective practice standing apart from right view and right wisdom. It is *one tool in the full toolbox of the liberative path*, with a defined range of application, a defined fruit, and defined boundaries.
 ---
 
-## 4. Cross-disciplinary Touchpoints (restrained)
+## IV. Cross-disciplinary Touchpoints (restrained)
 
 This chapter is the book's semantic foundation. Cross-disciplinary analogies must be few and precise, so as not to dilute the textual argument. The following two brief notes are offered only to give Western readers a minimal point of entry, and are immediately qualified by the middle-way corrections that follow.
 
@@ -226,7 +241,7 @@ These two analogies exist to offer a starting reference frame. The following thi
 
 ---
 
-## 5. Middle-way Corrections
+## V. Middle-way Corrections
 
 ### ❌ Misreading one: "*Anussati* is mindfulness of something"
 
@@ -242,7 +257,7 @@ Common in comparative religion contexts. The Hindu *bhakti* tradition centers on
 
 ### ⚠️ Caution one: The focused-attention / open-monitoring neuroscientific analogy
 
-As noted in §4, the direction is roughly correct but imprecise. *Anussati*'s object carries content; the focused-attention experimental paradigm uses neutral targets. The confidence dimension is excised by experimental design — yet it is precisely the most distinctive feature of *anussati*. Useful as an entrance, not as a terminus.
+As noted in §IV, the direction is roughly correct but imprecise. *Anussati*'s object carries content; the focused-attention experimental paradigm uses neutral targets. The confidence dimension is excised by experimental design — yet it is precisely the most distinctive feature of *anussati*. Useful as an entrance, not as a terminus.
 
 ### ⚠️ Caution two: The Augustinian *memoria Dei* analogy
 
@@ -250,7 +265,7 @@ Structurally similar, teleologically different. Christian recollection aims at m
 
 ---
 
-## 6. Conclusion
+## VI. Conclusion
 
 Treating *anussati* as *sati* plus a religious object is the most widespread — and most costly — misreading in recent English-language Buddhist discourse. It flattens the six recollections into "mindfulness of six items," deletes the confidence dimension, deletes the pliancy-of-mind as fruit, and reduces an entire practice category to a religious-flavored branch of mindfulness.
 
@@ -308,4 +323,6 @@ In the Pāli canon, *Buddhānussati* — the first of the six, and the most deve
 
 ---
 
-*NIAN-P01 · Shi Huijing · 2026-04-14*
+*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+
+*NIAN-P01 · 釋慧鏡 (Shi Huijing) · 2026-04-14*
