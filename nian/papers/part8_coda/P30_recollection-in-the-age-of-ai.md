@@ -1,16 +1,16 @@
 ---
 title: "Recollection in the Age of AI: The Manas-Turning Operator Still Operative"
 author: "釋慧鏡 (Shi Huijing)"
-series: "NIAN"
+series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
 paper_id: "NIAN-P30"
-date: "2026-05"
+date: "2026-05-04"
 version: "1.0"
 license: "CC BY-NC-SA 4.0"
 ---
 
 # Recollection in the Age of AI
 
-## The *Manas*-Turning Operator Still Operative
+**The *Manas*-Turning Operator Still Operative**
 
 **Part VIII Coda · *Buddhānusmṛti* in the Age of AI · Paper 30 of *Mindful of the Buddha*'s thirty-one**
 
@@ -18,27 +18,20 @@ license: "CC BY-NC-SA 4.0"
 
 ---
 
-**Author:** Shi Huijing (釋慧鏡)
+**Author:** 釋慧鏡 (Shi Huijing)
 **Date:** May 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
-**Series:** NIAN — *Mindful of the Buddha*, P30 · Part VIII Coda
+**Series:** NIAN — Mindful of the Buddha
 
 ---
 
 ## Abstract
-
 This paper takes up a question that the closing of *Mindful of the Buddha* cannot avoid: in 2026, with AI already part of everyday cognition, does *buddhānusmṛti* (念佛, buddha-recollection) still count as recollection? The argument proceeds in three layers. First, taking the *Cheng weishi lun* (*Vijñaptimātratāsiddhi*) fascicle 4 thesis-line — "in the pre-turning state, [*manas*] continuously and discerningly cognises the appropriated self-mark; in the post-turning state, it likewise discerningly cognises the no-self mark" — as its central proposition, the paper argues that *buddhānusmṛti* functions as a doctrinally-licensed *manas*-turning operator. Its mechanism is the sixth consciousness as opening-and-guiding support (*kai-dao yi*, 開導依) for the initial arising of *samatā-jñāna*-correlated *manas*; AI's presence neither replaces nor cancels this chain. Second, drawing on the *Abhidharmakośabhāṣya*'s lifespan tables, the eight inopportune births (the long-lifespan heaven among them), the twenty-four non-associated formations of the *Mahāyānaśatadharmavidyādvāraśāstra*, and *smṛti* as object-specific *caitta* in *Cheng weishi lun* fascicle 5, LLM token-streams are categorically located within non-associated formations plus indeterminate (*avyākṛta*) — their high cycle-rate does not equal recollective capacity. Third, drawing on the *Mahāparinirvāṇa-sūtra*'s universality, Zhanran's "even insentient have buddha-nature," and the lowest grade's ten recitations in the *Guan wuliangshou jing*, the paper articulates a dharma-ending floor and a universal buddha-nature ceiling whose joint span absorbs civilisational stress; the AI era's configuration falls within. The iron-snail public framing's boundary question — "where is that line drawn" — is honoured as deliberately open; NIAN's coda answers only this: the one-thought correspondence between recollector and recollected does not lie inside the AI.
 
 **Keywords:** *manas*-turning operator, *buddhānusmṛti*, sixth-consciousness as opening-and-guiding support, *samatā-jñāna*, *adhipati-pratyaya*, *hetu-pratyaya*, non-associated formations, *saṃsāra*-rate asymmetry, brief-window human birth, long-lifespan heaven as obstruction, dharma-ending floor, universal buddha-nature ceiling, lowest-grade ten recitations, Zhanran on insentient buddha-nature, Zhaozhou's "*wu*", one-thought correspondence, age of AI, Hershock, Schneider's binary, psychologisation
 
 ---
-
-## 摘要
-
-本文處理一個《念》全書收尾不得不直面的問題：在 AI 已成日常認知工具之 2026 年，念佛是否仍為「念」？論證進路分三層。其一，以《成唯識論》卷四「未轉依位，恒、審思量所執我相；已轉依位，亦審思量無我相故」為論題核心，主張念佛為一經教 license 之末那-轉依機制——其運作為第六意識作開導依、相應於平等性智初起之鏈，AI 之到場不替換亦不取消此鏈。其二，依《俱舍論》六道壽量、長壽天為八難之一、《百法明門論》二十四不相應行與《成唯識論》卷五念為別境心所之四重教證配置，將 LLM 字元流嚴格定位為不相應行加無記，其速率快不等於念之能力。其三，以《大般涅槃經》一切眾生悉有佛性、湛然《金剛錍》無情有性、《觀無量壽佛經》下品下生十念稱名三條，立末法之 floor 與一切眾生佛性 ceiling 之雙向幅度，AI 文明之壓力落於此幅度內側。鐵殼蝸牛之公共立論「線畫在哪」於本論留為開放，NIAN 之答僅落於：能念-所念之間那一閃相應，不在 AI 內。
-
-**關鍵詞：** 末那-轉依機制、念佛、第六意識開導依、平等性智、增上緣、因緣、不相應行、輪迴速率不對稱、暫復人身、長壽天、末法之 floor、一切眾生佛性 ceiling、下品下生十念、湛然無情有性、趙州狗子無、一念相應、AI 時代、Hershock、Schneider 二元、心理學化
 
 ---
 
@@ -373,7 +366,7 @@ NIAN's coda business stops here. *Buddhānusmṛti* is still *buddhānusmṛti*.
 
 ---
 
-## Series Cross-Reference Index
+### IV. Cross-Reference to Series Papers
 
 The doctrinal connections between this paper and adjacent papers are as follows.
 
@@ -388,8 +381,14 @@ The doctrinal connections between this paper and adjacent papers are as follows.
 - S4-P06, *How the Buddha Would Use AI* — the distinction between *adhipati-pratyaya* and *hetu-pratyaya* is S4's home court; this paper inherits it directly without re-derivation (§3.3).
 - S4-P07, *The Living Eye* — the negative-space frame of "hearing the sound from another" is S4's home court; this paper's increment is to add "*buddhānusmṛti*'s one-thought correspondence" to that cannot-give list (§3.6).
 
----
-
 *This paper is the Part VIII Coda opener of *Mindful of the Buddha*, Volume One of *The Four Practice Gates*. © Shi Huijing 2026 · CC BY-NC-SA 4.0 · All Taishō references are drawn from the CBETA Electronic Tripiṭaka Collection. Source files for this paper and the full series are open at github.com/pointing-at-the-moon/four-practice-gates.*
 
-8.1
+---
+
+§ 8.1 — NIAN Part VIII Coda Opener · NIAN 30/31
+
+---
+
+*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+
+*NIAN-P30 · 釋慧鏡 (Shi Huijing) · 2026-05-04*

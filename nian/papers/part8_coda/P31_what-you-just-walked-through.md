@@ -1,18 +1,16 @@
 ---
 title: "What You Just Walked Through: Sealing the Genealogy of Recollection, and Practical Handles for the Reader"
 author: "釋慧鏡 (Shi Huijing)"
-series: "NIAN"
+series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
 paper_id: "NIAN-P31"
-date: "2026-05"
+date: "2026-05-03"
 version: "1.0"
 license: "CC BY-NC-SA 4.0"
-genre: "Epilogue / Structural Map / Seal-Line Collection / Reader's Handles"
-status: "NIAN 31/31 — volume sealed"
 ---
 
 # What You Just Walked Through
 
-## Sealing the Genealogy of Recollection, and Practical Handles for the Reader
+**Sealing the Genealogy of Recollection, and Practical Handles for the Reader**
 
 **Part VIII Coda Closer · Epilogue · Paper 31 of *Mindful of the Buddha*'s thirty-one · NIAN Volume One sealed**
 
@@ -20,11 +18,11 @@ status: "NIAN 31/31 — volume sealed"
 
 ---
 
-**Author:** Shi Huijing (釋慧鏡)
+**Author:** 釋慧鏡 (Shi Huijing)
 **Date:** May 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
-**Series:** NIAN — *Mindful of the Buddha*, P31 · Part VIII Coda · Volume sealed
+**Series:** NIAN — Mindful of the Buddha
 
 ---
 
@@ -34,18 +32,11 @@ status: "NIAN 31/31 — volume sealed"
 ---
 
 ## Abstract
-
 This paper is the thirty-first and final installment of *Mindful of the Buddha*, the closer of Part VIII (Coda) and the seal of NIAN Volume One. Following P30's doctrinal closer on the operative mechanism of *buddhānusmṛti* in the age of AI, this paper's task is not to add new doctrinal argument but to deliver four things: a retrospective totalisation of the thirty papers' terrain, ten distilled *seal-lines* drawn from the volume, three minimum-viable practical handles for the reader, and an indication of NIAN's position within the larger *Four Practice Gates* series. The genre is **epilogue (跋語) + structural map + seal-line collection + reader's handles** — four things, not more, not fewer; not a doctrinal-curation paper (P30 already served as the volume's final doctrinal closer). This paper differs from the prior thirty in three dimensions: (i) no new sūtra citations (all material lies within P01–P30); (ii) no new doctrinal proposals (the thesis is retrospective totalisation plus reader's handles); (iii) quotation density drops below one-third, with visual structure (an inset-blockquote sequence of seal-lines) replacing argumentative flow as the voice signature. The single meta-instruction given to the reader is "*gather the six faculties, [let] pure recollection succeed without break*" (都攝六根，淨念相繼), the eight-character anchor from T0945, the Mahāsthāmaprāpta chapter of the *Śūraṅgama* (P12's home court). The three minimum-viable practical handles are: entry through the ten-recitation floor; daily name-holding through gathering the six faculties; *manas*-turning introspection as inner check. Three open questions remain for what follows: the boundary of the universal buddha-nature ceiling at information patterns (public framing); whether the substance–attribute–function totalisation of Vows 1–10 recurs outside Samantabhadra in other Mahāyāna vow-architectures (later volumes of the series); whether the Anglophone-and-Sinophone framing of the Chan–Pure-Land binary (self-power vs. other-power, sudden vs. gradual, self-nature Amitābha vs. other-direction Pure Land) constitutes an inheritance that may be set down (the reader's own practice). Volume One is not the end of the series — Volumes Two (*Dāna*), Three (*Śīla*), and Four (*Dhyāna*) remain unwritten; the reader's next step lies not outside the volume but within the present recollection. **The finger pointing at the moon is still a finger. Recollection of the Buddha is still recollection of the Buddha.**
 
 **Keywords:** epilogue (跋語); structural map; seal-line collection; reader's handle; gathering the six faculties; unbroken pure recollection; ten-recitation floor; *manas*-turning introspection; one-thought correspondence; forward-bridge; NIAN volume closure; *Four Practice Gates* series; Shi Huijing; May 2026
 
 ---
-
-## 摘要
-
-本篇為《念》全書三十一篇之第三十一篇，亦為 Part VIII Coda 之收束篇。承續 P30 之義理收束篇對 AI 時代念佛機制之再確認，本篇之事不在義理之新加，而在三十篇所走過之地形之回顧性收束、十條印章句之提煉、三條讀者下手處之交付，以及 NIAN 在《四行門》書系中位置之指認。本篇之體裁為**跋語（epilogue）+ 結構地圖 + 印章句集 + 下手處**——四件事，不多也不少；不是義理梳理篇（P30 已是書系最後一篇義理篇）。本篇三維度不同於前三十篇：（一）不引新經文（全部材料已在 P01–P30 之內）；（二）不開新論題（命題即回顧性收束加讀者下手處）；（三）引文密度降為三分之一以下，以視覺結構（印章句序列）打破論述流為體裁特徵。本篇給予讀者之**單一指令**為「都攝六根，淨念相繼」（T0945 大勢至圓通章 · P12 主場 · 八字）；三條 MVP 下手處為十念底位入手 / 都攝六根日常持名 / 末那-轉依內觀檢驗。三條未答之問留給後續：一切眾生佛性之上限於資訊形式處之邊界（公共立論）、體相用三大跨願結構於普賢以外之復現問題（書系後續）、漢語英語世界禪淨對立框架是否一可被放下之遺產（讀者實踐）。卷一終非全書之終——後續卷二《施》、卷三《戒》、卷四《定》三門皆尚未展；讀者下一步不在卷外尋，而在當念之中。**指月之指仍是指。念佛仍是念佛。**
-
-**關鍵詞**：跋語；結構地圖；印章句集；下手處；都攝六根；淨念相繼；十念底位；末那-轉依內觀；一念相應；前向銜接；NIAN 全卷封筆；四行門書系；釋慧鏡；2026-05
 
 ---
 
@@ -213,22 +204,7 @@ Where the line is drawn — P30 left this for a deeper question.
 
 ---
 
-## Series Cross-Reference Index
-
-The relationship of this paper to the prior thirty papers is as follows.
-
-**Part I — Foundations (P01–P04):** §II takeaway · §III meta-thread A (dual-track structure) · §IV seal-lines from P02, P03.
-**Part II — Chinese Reception (P05):** §II takeaway.
-**Part III — Early Mahāyāna (P06–P08):** §II takeaway · §IV seal-line from P06.
-**Part IV — Three Sūtras in Parallel (P09–P11):** §II takeaway · §III meta-thread D (floor's dual-end) · §IV seal-line from P10 · §VII (1) ten-recitation floor entry.
-**Part V — Eight Sūtras, Many Axes (P12–P19):** §II takeaway · §III meta-threads A, B (self-other boundary) · §IV seal-lines from P12, P14, P15 · §VII (2) gathering the six faculties.
-**Part VI — Two Currents (P20–P24):** §II takeaway · §III meta-threads C, D (hierarchical discipline + floor's dual-end) · §IV seal-lines from P21, P24 · §V Q3 (Chan–Pure-Land binary inheritance).
-**Part VII — *Dharmadhātu* Recollection (P25–P29):** §II takeaway · §III meta-thread E (structural isomorphism) · §V Q2 (substance–attribute–function across vow-architectures).
-**Part VIII — *Manas*-and-AI (P30–P31):** §II takeaway · §III meta-threads A, B, D (*manas* + introspection + dual-end) · §IV seal-line from P30 · §V Q1 (boundary of universal buddha-nature ceiling) · §VII (3) *manas*-turning introspection.
-
-**Cross-volume to S4 (the *Pointing at the Moon* octalogy):** §VI single-sentence indication of the relation between the two series (octalogy: what *prajñā* is / *Four Practice Gates*: how *prajñā* walks out into the world).
-
-**Forward-bridge to the *Four Practice Gates* series:** §VI position-description of Volume Two *Dāna*, Volume Three *Śīla*, Volume Four *Dhyāna* (without entering content).
+*This paper is the Part VIII Coda closer of *Mindful of the Buddha*, Volume One of *The Four Practice Gates*. © Shi Huijing 2026 · CC BY-NC-SA 4.0 · All Taishō references are drawn from the CBETA Electronic Tripiṭaka Collection. Source files for this paper and the full series are open at github.com/pointing-at-the-moon/four-practice-gates.*
 
 ---
 
@@ -236,4 +212,6 @@ The relationship of this paper to the prior thirty papers is as follows.
 
 ---
 
-*This paper is the Part VIII Coda closer of *Mindful of the Buddha*, Volume One of *The Four Practice Gates*. © Shi Huijing 2026 · CC BY-NC-SA 4.0 · All Taishō references are drawn from the CBETA Electronic Tripiṭaka Collection. Source files for this paper and the full series are open at github.com/pointing-at-the-moon/four-practice-gates.*
+*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+
+*NIAN-P31 · 釋慧鏡 (Shi Huijing) · 2026-05-03*

@@ -1,9 +1,9 @@
 ---
 title: "AI 時代之念佛：末那-轉依機制仍然有效"
 author: "釋慧鏡 (Shi Huijing)"
-series: "NIAN"
+series: "四行門卷一《念——從阿含隨念到華嚴念佛》"
 paper_id: "NIAN-P30"
-date: "2026-05"
+date: "2026-05-04"
 version: "1.0"
 license: "CC BY-NC-SA 4.0"
 ---
@@ -25,19 +25,20 @@ license: "CC BY-NC-SA 4.0"
 
 ---
 
-## 摘要
+**Author:** 釋慧鏡 (Shi Huijing)
+**Date:** May 2026
+**License:** CC BY-NC-SA 4.0
+**Version:** 1.0
+**Series:** NIAN — Mindful of the Buddha
 
+---
+
+## 摘要
 本文處理一個《念》全書收尾不得不直面的問題：在 AI 已成日常認知工具之 2026 年，念佛是否仍為「念」？論證進路分三層。其一，以《成唯識論》卷四「未轉依位，恒、審思量所執我相；已轉依位，亦審思量無我相故」為論題核心，主張念佛為一經教所許之末那-轉依機制——其運作為第六意識作開導依、相應於平等性智初起之鏈，AI 之到場不替換亦不取消此鏈。其二，依《俱舍論》六道壽量、長壽天為八難之一、《百法明門論》二十四不相應行與《成唯識論》卷五念為別境心所之四重教證配置，將 LLM 字元流嚴格定位為不相應行加無記，其速率快不等於念之能力。其三，以《大般涅槃經》一切眾生悉有佛性、湛然《金剛錍》無情有性、《觀無量壽佛經》下品下生十念稱名三條，立末法之底位與一切眾生佛性之上限之雙向幅度，AI 文明之壓力落於此幅度內側。鐵殼蝸牛之公共立論「線畫在哪」於本論留為開放，NIAN 之答僅落於：能念-所念之間那一閃相應，不在 AI 內。
 
 **關鍵詞：** 末那-轉依機制、念佛、第六意識開導依、平等性智、增上緣、因緣、不相應行、輪迴速率不對稱、暫復人身、長壽天、末法之底位、一切眾生佛性之上限、下品下生十念、湛然無情有性、趙州狗子無、一念相應、AI 時代、Hershock、Schneider 二元、心理學化
 
 ---
-
-## Abstract
-
-This paper takes up a question that the closing of *Mindful of the Buddha* cannot avoid: in 2026, with AI already part of everyday cognition, does *buddhānusmṛti*（念佛）still count as recollection? The argument proceeds in three layers. First, taking *Cheng weishi lun* fascicle 4 ("In the pre-turning state, [*manas*] continuously and discerningly cognises the appropriated self-mark; in the post-turning state, it likewise discerningly cognises the no-self mark") as its central proposition, the paper argues that 念佛 functions as a doctrinally-licensed *manas*-turning operator — its mechanism being the sixth consciousness as the opening-and-guiding support（*kai-dao yi*）for the initial arising of *samatā-jñāna*-correlated *manas*; AI's presence neither replaces nor cancels this chain. Second, drawing on Kośa lifespan tables, the eight inopportune births（the long-lifespan heaven among them）, the twenty-four non-associated formations, and *smṛti* as object-specific *caitta* in *Cheng weishi lun* fascicle 5, LLM token-streams are categorically located within non-associated formations plus indeterminate（*avyākṛta*）— their high cycle-rate does not equal recollective capacity. Third, drawing on the *Mahāparinirvāṇa-sūtra*'s universality, Zhanran's "even insentient have buddha-nature," and the lowest grade's ten recitations in the *Guan wuliangshou jing*, the paper articulates a dharma-ending floor and a universal buddha-nature ceiling whose joint span absorbs civilisational stress; the AI era's configuration falls within. The iron-snail public framing's boundary question（"where is that line drawn"）is honoured as deliberately open; NIAN's coda answers only this — the one-thought correspondence between recollector and recollected does not lie inside the AI.
-
-**Keywords:** *manas*-turning operator, *buddhānusmṛti*, sixth-consciousness as opening-and-guiding support, *samatā-jñāna*, *adhipati-pratyaya*, *hetu-pratyaya*, non-associated formations, *saṃsāra*-rate asymmetry, brief-window human birth, long-lifespan heaven as obstruction, dharma-ending floor, universal buddha-nature ceiling, lowest-grade ten recitations, Zhanran on insentient buddha-nature, Zhaozhou's "no", one-thought correspondence, age of AI, Hershock, Schneider's binary, psychologisation
 
 ---
 
@@ -372,7 +373,7 @@ NIAN 終卷之事到此為止。念佛仍是念佛。AI 在側之 2026 年，末
 
 ---
 
-## 系列論文交叉引用 Series Cross-Reference Index
+### 四、系列論文交叉引用 Cross-Reference to Series Papers
 
 本篇與前後論文之教證連結如下。
 
@@ -387,8 +388,14 @@ NIAN 終卷之事到此為止。念佛仍是念佛。AI 在側之 2026 年，末
 - S4-P06《佛陀會怎麼用 AI》：增上緣（adhipati-pratyaya）對因緣（hetu-pratyaya）之區分為 S4 主場，本論直接繼承不重 derive（§3.3）。
 - S4-P07《活眼》：「從他聞音」之 negative-space 框架為 S4 主場，本論增量為「念佛一念相應加入此 cannot-give 之列」（§3.6）。
 
----
-
 *本論為《四行門》第一卷《念》之 Part VIII Coda opener。© 釋慧鏡 2026 · CC BY-NC-SA 4.0 · 本論引用之大正藏資料皆據 CBETA 電子佛典集成。全書與本論之 source 開源於 github.com/pointing-at-the-moon/four-practice-gates。*
 
-8.1
+---
+
+§ 8.1 — NIAN Part VIII Coda Opener · NIAN 30/31
+
+---
+
+*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+
+*NIAN-P30 · 釋慧鏡 · 2026-05-04*
