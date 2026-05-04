@@ -72,6 +72,9 @@ See [`NIAN_PLAN.md`](./NIAN_PLAN.md) for full skeleton and methodology.
 - **P28** [請轉法輪・請佛住世](./papers/part7_flower_ornament/P28_請轉法輪請佛住世.md) / [Requesting the Turning of the Dharma-Wheel, Requesting the Buddhas to Abide](./papers/part7_flower_ornament/P28_requesting-the-turning-of-the-dharma-wheel-requesting-the-buddhas-to-abide.md)
 - **P29** [常隨佛學・恆順眾生・普皆迴向](./papers/part7_flower_ornament/P29_常隨佛學恆順眾生普皆迴向.md) / [Constantly Following the Buddha, Accommodating Sentient Beings, Universal Dedication](./papers/part7_flower_ornament/P29_constantly-following-the-buddha-accommodating-sentient-beings-universal-dedication.md)
 
+**Part VIII — Coda** · 1/2
+- **P30** [AI 時代之念佛](./papers/part8_coda/P30_AI時代之念佛.md) / [Recollection in the Age of AI](./papers/part8_coda/P30_recollection-in-the-age-of-ai.md)
+
 ### Citation
 
 Once all papers ship, please cite as: Shi Huijing, *Mindful of the Buddha* (pointing-at-the-moon, 2026–).
