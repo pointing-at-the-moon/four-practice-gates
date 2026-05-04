@@ -1,14 +1,27 @@
 ---
-title: Constructing the Buddha-Field — The Akṣobhya and Amitābha Lines as Parallel Answers to T0418's Opening
-author: 釋慧鏡 (Shi Huijing)
-series: *Mindful of the Buddha*, Volume I of *The Four Practice Gates*
-paper_id: NIAN-P07
-license: CC BY-NC-SA 4.0
-date: 2026-04-17
+title: "Constructing the Buddha-Field — The Akṣobhya and Amitābha Lines as Parallel Answers to T0418's Opening"
+author: "釋慧鏡 (Shi Huijing)"
+series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+paper_id: "NIAN-P07"
+date: "2026-04-17"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
 ---
 
 # Constructing the Buddha-Field
-## The Akṣobhya and Amitābha Lines as Parallel Answers to T0418's Opening
+
+**The Akṣobhya and Amitābha Lines as Parallel Answers to T0418's Opening**
+
+
+---
+
+**Author:** 釋慧鏡 (Shi Huijing)
+**Date:** April 2026
+**License:** CC BY-NC-SA 4.0
+**Version:** 1.0
+**Series:** NIAN — Mindful of the Buddha
+
+---
 
 ## Abstract
 
@@ -17,12 +30,6 @@ Following P06's location of T0418 as the source of the visionary register in the
 **Keywords:** *buddha-kṣetra*, buddha-field, T0313 *Akṣobhyavyūha*, T0361 *Amitābha-sūtra* early recension, Akṣobhya, Amitābha, Dharmākara, twenty-four vows, 210 billion buddha-fields, Lokakṣema, dual-line thesis, buddha-field construction, selection-and-combination, possible-worlds semantics, modal metaphysics, early Mahāyāna
 
 ---
-
-## 摘要
-
-本章接續 P06 對《般舟三昧經》（T0418）見佛層的處理，追蹤佛國（*buddha-kṣetra*）作為可往生目的地的存有論，如何在 T0418 的雛形開口之後於早期漢譯大乘譯場中獲得結構完型。主張三事：其一，T0418 已具備目的地的語法骨架——阿彌陀佛親口「欲來生我國者，常念我」的邀請、菩薩對入門法的明確提問、莊嚴諸國土的修行與國土因果鏈——但缺比較維度，須摩提（*Sukhāvatī*）是既定存在而非構築對象。其二，《阿閦佛國經》（T0313）與《佛說無量清淨平等覺經》（T0361）由同一譯師支婁迦讖於二世紀末至三世紀初譯出，各自以結構不同的救度論優化方向為 T0418 的開口填結構：阿閦線以**不動自守**為軸，佛國作為菩薩主體立定的外化；阿彌陀線以**他救接引**為軸，以法寶藏菩薩從二百一十億既有佛國中選擇組合構築二十四願佛國，引入一個決定性的新存有論操作。其三，漢譯早期大乘的佛國傳統從一開始就是雙線並行——須摩提在東亞後世的獨大是制度史的結果，不是教義階序。對「淨土」概念的理解必須回到其起點的多元結構光譜，而不能把後世的單線結果往前投射。
-
-**關鍵詞：** 佛國、*buddha-kṣetra*、T0313《阿閦佛國經》、T0361《無量清淨平等覺經》、阿閦（*Akṣobhya*）、阿彌陀（*Amitābha*）、法寶藏、二十四願、二百一十億佛國、支婁迦讖、雙線並行、佛國構築、選擇組合、可能世界語義學、模態形上學、早期大乘
 
 ---
 
@@ -361,8 +368,6 @@ A structural completion of buddha-field ontology has taken place. In Luoyang in 
 
 ---
 
-*This paper is released under CC BY-NC-SA 4.0. Free to share and adapt for non-commercial use with attribution and share-alike.*
-*Chinese canonical citations verified against the CBETA edition of the Taishō Tripiṭaka (https://cbetaonline.dila.edu.tw); T0313 cited from the CBETA XML-P5 source text.*
-*Project repository: github.com/pointing-at-the-moon/four-practice-gates*
+*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
 
 *NIAN-P07 · 釋慧鏡 (Shi Huijing) · 2026-04-17*

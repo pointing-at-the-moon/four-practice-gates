@@ -1,14 +1,27 @@
 ---
-title: From Recollection to Calling — The Four-Step Coupling of Niàn and Chēng in Chinese Buddha-Recollection
-author: 釋慧鏡 (Shi Huijing)
-series: *Mindful of the Buddha*, Volume I of *The Four Practice Gates*
-paper_id: NIAN-P08
-license: CC BY-NC-SA 4.0
-date: 2026-04-17
+title: "From Recollection to Calling — The Four-Step Coupling of Niàn and Chēng in Chinese Buddha-Recollection"
+author: "釋慧鏡 (Shi Huijing)"
+series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+paper_id: "NIAN-P08"
+date: "2026-04-17"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
 ---
 
 # From Recollection to Calling
-## The Four-Step Coupling of *Niàn* and *Chēng* in Chinese Buddha-Recollection
+
+**The Four-Step Coupling of *Niàn* and *Chēng* in Chinese Buddha-Recollection**
+
+
+---
+
+**Author:** 釋慧鏡 (Shi Huijing)
+**Date:** April 2026
+**License:** CC BY-NC-SA 4.0
+**Version:** 1.0
+**Series:** NIAN — Mindful of the Buddha
+
+---
 
 ## Abstract
 
@@ -17,12 +30,6 @@ Continuing from P07's treatment of the buddha-field ontological shift from T0418
 **Keywords:** *niàn*, *chēng*, hearing-the-name, ten recollections, calling-the-name, lowest-grade lower rebirth, Shandao, 正定業 (primary settled act), one-mindedly-holding-the-name, One-Practice Samādhi, speech-act theory, illocutionary act, verbal coupling, Chinese Pure Land, T0361, T0360, T0365, T1753, T0232
 
 ---
-
-## 摘要
-
-本章接續 P07 對 T0418 至 T0361 佛國存有論轉變的處理，回答 P07 結尾提出的開放問題：*niàn*（念、憶念）如何讓位給 *chēng*（稱、稱名）？主張三事：其一，兩動詞在漢譯淨土傳統中並非替代關係，而是動態耦合——四個經文節點（《佛說無量清淨平等覺經》T0361 第十七願「聞名」入門、《無量壽經》T0360 第十八願「乃至十念」樞紐、《觀無量壽經》T0365 下品上生「稱佛名故」浮現與下品下生「稱／念」同段交替、善導《觀經四帖疏》T1753「一心專念彌陀名號」正定業系統化）依序打開兩動詞的耦合空間，不是 *niàn* 的墮落史也不是 *chēng* 的完成史。其二，善導把 *chēng* 系統化為正定業的典範定義中，承重動詞仍是 *niàn*——「一心專**念**彌陀名號」「**念念**不捨」——這反駁了「善導把念佛變成稱名」的流行誤讀。其三，耦合結構非淨土宗獨有：《文殊般若》（T0232）一行三昧「繫心一佛，專稱名字，能於一佛念念相續」同以三動詞鏈出現，證明 *niàn*-*chēng* 耦合是漢傳念佛動詞學的一般結構。本章以 Austin 與 Searle 的言語行為理論作啟發式對話，論證稱名作為行為言語（*illocutionary act*）而非言語發聲（*locutionary act*）的結構意義，並以三個不可化約的差異（目的論／本體論／升級路徑）劃清邊界。
-
-**關鍵詞：** 念、稱、*niàn*、*chēng*、聞名、乃至十念、稱名、下品下生、善導、正定業、一心專念彌陀名號、一行三昧、言語行為理論、行為言語、動詞耦合、漢傳念佛、T0361、T0360、T0365、T1753、T0232
 
 ---
 
@@ -458,7 +465,7 @@ This warning continues the Kripke-Lewis dialogue structure of P07 §IV and the T
 
 ---
 
-## Cross-Reference Index
+### IV. Cross-Reference to Series Papers
 
 | Referenced paper | Section | Invoked at | Function |
 |---|---|---|---|
@@ -476,8 +483,6 @@ This warning continues the Kripke-Lewis dialogue structure of P07 §IV and the T
 
 ---
 
-*This paper is released under CC BY-NC-SA 4.0. Free to share and adapt for non-commercial use with attribution and share-alike.*
-*Chinese canonical citations verified against the CBETA edition of the Taishō Tripiṭaka (https://cbetaonline.dila.edu.tw); RAG passages drawn from this repository's `nian/papers/part3_early_mahayana/rag/P08/` curated set, cross-checked against CBETA XML-P5 source text.*
-*Project repository: github.com/pointing-at-the-moon/four-practice-gates*
+*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
 
 *NIAN-P08 · 釋慧鏡 (Shi Huijing) · 2026-04-17*

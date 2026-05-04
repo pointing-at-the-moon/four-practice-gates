@@ -1,14 +1,27 @@
 ---
-title: Seeing the Buddhas Face to Face — *The Pratyutpanna-Samādhi Sūtra* and the Arrival of the Visionary Register in China
-author: 釋慧鏡 (Shi Huijing)
-series: *Mindful of the Buddha*, Volume I of *The Four Practice Gates*
-paper_id: NIAN-P06
-license: CC BY-NC-SA 4.0
-date: 2026-04-16
+title: "Seeing the Buddhas Face to Face — *The Pratyutpanna-Samādhi Sūtra* and the Arrival of the Visionary Register in China"
+author: "釋慧鏡 (Shi Huijing)"
+series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+paper_id: "NIAN-P06"
+date: "2026-04-16"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
 ---
 
 # Seeing the Buddhas Face to Face
-## *The Pratyutpanna-Samādhi Sūtra* and the Arrival of the Visionary Register in China
+
+***The Pratyutpanna-Samādhi Sūtra* and the Arrival of the Visionary Register in China**
+
+
+---
+
+**Author:** 釋慧鏡 (Shi Huijing)
+**Date:** April 2026
+**License:** CC BY-NC-SA 4.0
+**Version:** 1.0
+**Series:** NIAN — Mindful of the Buddha
+
+---
 
 ## Abstract
 
@@ -17,12 +30,6 @@ This paper addresses the first register-jump in the Chinese reception history of
 **Keywords:** *Pratyutpanna-samādhi*, T0418, Lokakṣema, *sammukhāvasthita*, vision of buddhas, Amitābha, Sukhāvatī, visionary register, ten-direction present buddhas, absence of Pāli parallel, *prajñā* coupling, early Mahāyāna
 
 ---
-
-## 摘要
-
-本篇處理漢傳念佛修學接受史上的第一次層級跳躍——後漢靈帝光和二年（公元 179 年）支婁迦讖於洛陽譯出的《般舟三昧經》（T0418）。NIAN P05 已立漢地早期雙軌源流（《四十二章經》T0784 的倫理層、《佛說大安般守意經》T0602 的技術層），本篇論證 T0418 引入第三條層級——**見佛層**，其典籍標誌包括：「念佛」複合詞作為教義核心的首現、阿彌陀佛與須摩提（極樂，*Sukhāvatī*）在漢傳佛典的首現、以及以「現前」三重語意（時間當下性／空間面對性／認知親歷性）為結構骨架的現前三昧（*pratyutpanna-samādhi*）技術。本篇提出三重論證：其一，巴利（*Pāli*）佛隨念（*buddhānussati*）系統沒有面見在世諸佛的任何程序，這個結構性缺席不是巴利傳統的缺陷或大乘的「補齊」，而是兩種佛陀論（歷史一佛與十方現在諸佛）之間的存有論落差；其二，漢譯「現在佛悉在前立」五字精確對應 *pratyutpanna-buddha-sammukhāvasthita* 的三重語意，可作為理解此三昧的技術坐標；其三，T0418 從文本內部就把見佛與般若自我解構耦合在一起——見佛不當著佛、紅熱鐵塊喻、鏡油水精不內不外、心是佛作為見佛經驗的詮釋收束——這個結構耦合是漢傳念佛傳統的傳承稟賦，反駁了西方讀者常見的「見佛修法即神秘主義之東方版本」誤讀。P04 §3.5「念佛三昧三義」框架在此獲得歷史精確化：義 C（大乘見佛）的文本誕生就在 T0418，公元 179 年的洛陽。
-
-**關鍵詞：** 般舟三昧、T0418、支婁迦讖、*pratyutpanna-samādhi*、現前三昧、見佛、阿彌陀佛、見佛層、十方現在諸佛、*buddhānussati* 缺席、般若耦合、早期大乘
 
 ---
 
@@ -398,8 +405,6 @@ The three-sense framework of *niànfó sānmèi* in P04 §3.5 receives here its 
 
 ---
 
-*This paper is released under CC BY-NC-SA 4.0. Free to share and adapt for non-commercial use with attribution and share-alike.*
-*Chinese canonical citations verified against the CBETA edition of the Taishō Tripiṭaka (https://cbetaonline.dila.edu.tw).*
-*Project repository: github.com/pointing-at-the-moon/four-practice-gates*
+*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
 
 *NIAN-P06 · 釋慧鏡 (Shi Huijing) · 2026-04-16*
