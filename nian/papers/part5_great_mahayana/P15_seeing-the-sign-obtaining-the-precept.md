@@ -493,7 +493,7 @@ P15's argument here concludes. The sixth layer, grounding-in-precepts, has estab
 
 ---
 
-*CBETA verification: all T-number and X-number citations are entity-verified against the CBETA Electronic Tripiṭaka Collection, 2024 edition. T1484 citations follow the original text of fascicle two; T1501 citations follow Xuanzang's translated *Bodhisattva-prātimokṣa*; T1813 citations follow Fazang's six-fascicle commentary.*
+*CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition. T1484 citations follow the original text of fascicle two; T1501 citations follow Xuanzang's translated *Bodhisattva-prātimokṣa*; T1813 citations follow Fazang's six-fascicle commentary.*
 
 *Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
 
