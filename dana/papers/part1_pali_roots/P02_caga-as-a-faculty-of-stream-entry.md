@@ -1,7 +1,7 @@
 ---
 title: "Cāga as a Faculty of Stream-Entry — The Independent Position of Cāga on the Path of Liberation"
 author: "Shi Huijing"
-series: "DĀNA · Part I · Pāli Roots"
+series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu · Part I · Pāli Roots"
 paper_id: "DANA-P02"
 license: "CC BY-NC-SA 4.0"
 ---
