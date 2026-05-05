@@ -455,11 +455,7 @@ Sharf, Robert H. "Ritual." In *Critical Terms for the Study of Buddhism*, edited
 
 ---
 
-© 2026 釋慧鏡 (Shi Huijing). Licensed under CC BY-NC-SA 4.0.
-Primary source citations verified against CBETA Taishō (T) and *Wàn xùzàng* (X).
-Series GitHub repository: https://github.com/pointing-at-the-moon/four-practice-gates
-
----
+*CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
 *Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
 
