@@ -14,7 +14,7 @@ license: "CC BY-NC-SA 4.0"
 
 **Part VIII Coda Closer · Epilogue · Paper 31 of *Mindful of the Buddha*'s thirty-one · NIAN Volume One sealed**
 
-*你剛走過了什麼——念之譜系封筆 + 給讀者的下手處*
+*中文主題：你剛走過了什麼——念之譜系封筆 + 給讀者的下手處*
 
 ---
 
@@ -208,9 +208,7 @@ Where the line is drawn — P30 left this for a deeper question.
 
 ---
 
-§ 8.2 — NIAN Part VIII Coda Closer · NIAN 31/31 ✅ Volume sealed · Volume One is not the end of the series · The three remaining volumes of *Dāna*, *Śīla*, *Dhyāna* await unfolding.
-
----
+*CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
 *Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
 
