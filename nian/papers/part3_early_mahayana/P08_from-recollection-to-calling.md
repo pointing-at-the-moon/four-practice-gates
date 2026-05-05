@@ -12,6 +12,7 @@ license: "CC BY-NC-SA 4.0"
 
 **The Four-Step Coupling of *Niàn* and *Chēng* in Chinese Buddha-Recollection**
 
+*中文主題：從憶念到稱名——漢傳念佛動詞學的四步耦合*
 
 ---
 
@@ -482,6 +483,8 @@ This warning continues the Kripke-Lewis dialogue structure of P07 §IV and the T
 | NIAN-P24 (forthcoming) | *The Synthesis: From Yongming to the Late Ming Masters* | §V Caveat 2 | Re-framing of calling-verb-grammar in the Ming-dynasty Chan-Pure Land synthesis |
 
 ---
+
+*CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
 *Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
 
