@@ -14,8 +14,6 @@ license: "CC BY-NC-SA 4.0"
 
 *中文主題：常隨佛學・恆順眾生・普皆迴向——普賢願 8+9+10 為上承下化迴向收攝三聯*
 
-*Sub-thesis: vows one through ten as a retrospective substance-attribute-function closure · Part VII closer*
-
 ---
 
 **Author:** 釋慧鏡 (Shi Huijing)
@@ -383,11 +381,7 @@ Williams, Paul. *Mahāyāna Buddhism: The Doctrinal Foundations*. 2nd ed. London
 
 ---
 
-© 2026 釋慧鏡 (Shi Huijing). Licensed under CC BY-NC-SA 4.0.
-Primary source citations verified against CBETA *Taishō* (T) and *Wàn xùzàng* (X).
-Series GitHub repository: https://github.com/pointing-at-the-moon/four-practice-gates
-
----
+*CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
 *Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
 
