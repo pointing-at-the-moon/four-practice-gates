@@ -8,7 +8,9 @@ version: "1.0"
 license: "CC BY-NC-SA 4.0"
 ---
 
-# AI 時代之念佛——末那-轉依機制仍然有效
+# AI 時代之念佛
+
+**末那-轉依機制仍然有效**
 
 **Part VIII Coda · 念佛 in age of AI · NIAN 三十一篇之第三十**
 
@@ -392,9 +394,7 @@ NIAN 終卷之事到此為止。念佛仍是念佛。AI 在側之 2026 年，末
 
 ---
 
-§ 8.1 — NIAN Part VIII Coda Opener · NIAN 30/31
-
----
+*CBETA 校對：所有 T-number 引文均據 CBETA 電子佛典集成 2024 版實體驗證。*
 
 *Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
 
