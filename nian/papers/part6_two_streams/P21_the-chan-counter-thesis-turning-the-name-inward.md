@@ -8,7 +8,9 @@ version: "1.0"
 license: "CC BY-NC-SA 4.0"
 ---
 
-# The Chan Counter-Thesis: Turning the Name Inward
+# The Chan Counter-Thesis
+
+**Turning the Name Inward**
 
 **From Daoxin to Late-Ming Kànhuà Chan — Part VI's Second Paper on the Two Streams**
 
@@ -457,11 +459,7 @@ One open question is left to the reader: if Part VI's Two Streams have, througho
 
 ---
 
-© 2026 釋慧鏡 (Shi Huijing). This work is distributed under the CC BY-NC-SA 4.0 license.
-Primary-source citations are from the CBETA Electronic Buddhist Text Association's editions of the Taishō (T) and Wànxù cáng (X), verified.
-Book series GitHub repository: https://github.com/pointing-at-the-moon/four-practice-gates
-
----
+*CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
 *Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
 
