@@ -482,6 +482,8 @@ A distant foreshadowing left here: the access/absorption boundary repeatedly not
 
 ---
 
+*CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
+
 *Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
 
 *NIAN-P02 · 釋慧鏡 (Shi Huijing) · 2026-04-14*
