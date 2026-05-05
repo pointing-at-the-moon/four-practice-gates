@@ -8,8 +8,11 @@ version: "1.0"
 license: "CC BY-NC-SA 4.0"
 ---
 
-# Recollection and the Jhānas: Access, Absorption, and the Limits of Multi-Faceted Objects
+# Recollection and the Jhānas
 
+**Access, Absorption, and the Limits of Multi-Faceted Objects**
+
+*中文主題：近行定、安止定，與多面對境的邊界*
 
 ---
 
@@ -76,8 +79,6 @@ The second *jhāna* drops *vitakka* and *vicāra*, keeping *pīti*, *sukha*, and
 
 **Visuddhimagga VII.1 *Buddhānussati-niddesa***: Buddhaghosa unfolds each of the nine epithets in turn and, at the end of the *bhagavā* discussion, explicitly states that *buddhānussati* reaches only *upacāra*, not *appanā*. He gives two reasons—the depth of the Buddha's qualities (*gambhīratā*) and the mind's commitment to recollecting various kinds of qualities (*nānappakāra-guṇānussaraṇa-adhimutti*)—which form the direct doctrinal basis for §3.2 below[^7].
 
-
-*中文主題：近行定、安止定，與多面對境的邊界*
 **Visuddhimagga VII.7 *Cha-anussati-niddesa-samāpana***: The conclusion of the six-recollection chapter reaffirms the *upacāra* limit and illustrates it with the example of the elder Phussadeva, who developed *vipassanā* from the *upacāra* platform of *buddhānussati* and attained arahatship. This is the principal textual support for §3.4[^8].
 
 **DZDL scroll 21** (*Exposition of the Eight Releases, bā bèi shě yì* 八背捨義): The Chinese commentarial account of the four-*dhyāna* stratification; *bā bèi shě* releases, the later four *abhibhū-āyatanāni*, and *kasiṇa* totality-practices are all placed within the fourth *dhyāna*. This scaffolding converges with Pāli *appanā*-depth analysis[^9].
@@ -351,6 +352,8 @@ The next paper, P05, takes up the first wave of Chinese *niànfó* reception: th
 | [^13] | §3.1 | Piatigorsky 1984 | — |
 
 ---
+
+*CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
 *Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
 
