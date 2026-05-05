@@ -12,6 +12,8 @@ license: "CC BY-NC-SA 4.0"
 
 **The Akṣobhya and Amitābha Lines as Parallel Answers to T0418's Opening**
 
+*中文主題：構築佛國——從《般舟三昧》殘餘到《阿閦佛國》與《無量清淨平等覺》的雙線結構*
+
 ---
 
 **Author:** 釋慧鏡 (Shi Huijing)
@@ -365,6 +367,8 @@ A structural completion of buddha-field ontology has taken place. In Luoyang in 
 | NIAN-P22 (forthcoming) | *Shandao's Settling of the Name* | §V Caveat 2, §VI | The systematic uptake of name-recitation rebirth and its relation to the present chapter's ontological parity thesis |
 
 ---
+
+*CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
 *Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
 
