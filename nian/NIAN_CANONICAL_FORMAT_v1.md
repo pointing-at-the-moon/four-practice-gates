@@ -1,5 +1,5 @@
 ---
-title: NIAN Canonical Format · v1.2
+title: NIAN Canonical Format · v1.2.1
 author: 釋慧鏡 (Shi Huijing) · drafted with Chat Opus
 date: 2026-05-04
 type: canonical_format_specification
@@ -9,7 +9,7 @@ supersedes_drift: NIAN_FORMAT_AUDIT_2026Q2 (2026-05-04, Code Sonnet 4.6)
 parser_contract: aligns with waken/lib/papers.ts header expectations (see §5)
 ---
 
-# NIAN Canonical Format · v1.2
+# NIAN Canonical Format · v1.2.1
 
 **Purpose**: Single normative specification for the format of NIAN papers (`Mindful of the Buddha`, Volume 1 of *The Four Practice Gates*). This document locks the conventions revealed by the 2026-05-04 audit and provides the contract for: (a) the upcoming format-remediation pass against all 62 files, (b) the SĪLA / DĀNA / DHYĀNA volumes' format from first paper, (c) the future Waken site parser's ingestion of these files, (d) `PAPER_STYLE.md v2.2` of the four-practice-gates repo (which inherits from this).
 
@@ -33,7 +33,8 @@ parser_contract: aligns with waken/lib/papers.ts header expectations (see §5)
 | 8 | EN punctuation Type B — Chinese-source quotes | Keep `「...」` intact when the content is an intentional citation of a Chinese-language term or phrase |
 | 9 | Footer block | Three italic paragraphs, in this order: (i) optional CBETA collation notice, (ii) repo + license line, (iii) Form B attribution: `*NIAN-P## · 釋慧鏡 (Shi Huijing) · YYYY-MM-DD*` (EN) or `*NIAN-P## · 釋慧鏡 · YYYY-MM-DD*` (ZH) |
 | 10 | References section | EN heading `## References` (kill `Bibliography`) · ZH heading `## 參考文獻` (restore where missing) · 3-part Roman sub-headings as default; 5-part expansion only when content warrants |
-| 11 | Coda title-block second bold line | Permitted ONLY for P30/P31; first bold line under H1 is the subtitle (parser-extracted), second bold line is the Coda-position marker |
+| 11 | Title-block second bold line | Permitted for **Coda papers (P30/P31)** AND **Part-opener papers (P01, P05, P06, P09, P12, P20, P25)**; first bold line under H1 is the subtitle (parser-extracted), second bold line is the structural-position marker |
+| 12 | CBETA collation notice | **Required** when paper cites ≥1 T/X/A number; canonical italic template per §2.6 |
 
 ---
 
@@ -401,7 +402,12 @@ The canonical footer block sits at the very end of the file, separated from body
 ```
 
 Three italic paragraphs in this order:
-1. **CBETA collation notice** — *optional*, present only when the paper substantively cites Taishō / Wàn xùzàng. Single-line italic. May extend to two lines if specific volume/edition disambiguation is required (the P15–P18 pattern).
+1. **CBETA collation notice** — *required when the paper substantively cites Taishō / Wàn xùzàng* (defined as: ≥1 T-number, X-number, or A-number citation in body or references). Single-line italic paragraph. May extend to two lines if specific volume/edition disambiguation is required (the P15–P18 pattern). The canonical text is exactly:
+   - EN: `*CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*`
+   - ZH: `*CBETA 校對：所有 T-number 引文均據 CBETA 電子佛典集成 2024 版實體驗證。*`
+   - Append ` / X-number` (EN) or `／X-number` (ZH) before the period if the paper cites X-numbers in addition to T-numbers.
+   
+   Where existing footers carry a non-canonical CBETA-related statement (e.g., `*CBETA verification: ...*` label variant, plain non-italic English statement, embedded in copyright preamble), Phase E remediation normalizes to the canonical form. Volume/edition disambiguation is preserved when present (the P15 case).
 2. **Repo + license line** — *always present*. Single line, italic. Identical across all NIAN papers; can be programmatically inserted.
 3. **Attribution (Form B)** — *always present*. Italic, single line.
    - EN: `*NIAN-P## · 釋慧鏡 (Shi Huijing) · YYYY-MM-DD*`
@@ -460,11 +466,35 @@ Notes:
 
 This second bold line is permitted ONLY for Coda papers (P30, P31) and ONLY in the title block. It is the structural counterpart of the `§ 8.X` body marker: the §8.X marker names the position before the body-end, the title-block second bold line names the position before the body begins. Both are body-content markers in italic-bold form, not parser-anchor lines. The Waken parser extracts `subtitle_en` from the **first** bold line under H1; the second bold line is treated as supplementary metadata and rendered below the subtitle.
 
+**Part-opener papers may also carry a second bold line in the title block**, immediately below the primary bold subtitle, marking the paper's structural position within its Part. Permitted for the first paper of each Part (typically P01, P05, P06, P09, P12, P20, P25 — and P30 is covered by the Coda exception above). The second bold line names the editorial position; the parser treats the first bold line as the subtitle landmark and the second as supplementary metadata. Same rendering treatment as Coda second-bold-line.
+
+Example (P25 EN):
+
+```
+# Samantabhadra's Ten Great Vows
+
+**An Introduction**
+
+**From within the *Avataṃsaka*'s Fortieth Fascicle to Part VI's Confluence as Textual Seam — Part VII's Opening Paper on the Flower Ornament Vision**
+
+*中文主題：普賢十大願·導論*
+
+---
+```
+
+The part-opener second bold line is OPTIONAL — papers that don't have a structural-position marker simply omit it. ZH counterparts may carry a translated parallel second bold line; same rendering rules apply.
+
 ---
 
 ## 3. Punctuation conventions
 
-### 3.1 EN files — Type A: transliteration parens (Decision #7)
+### 3.1 EN and ZH H1 separator conventions (Phase E v1.2.1 amendment)
+
+**ZH H1 separator list (canonical for Phase E and onward)**: Where ZH H1 is split into title-only + bold-subtitle per §2.1, the recognized separator characters are: ` — ` (space + en-dash + space, U+2014 with ASCII spaces), `——` (CJK em-dash run, two U+2014), `：` (full-width colon, U+FF1A), and ` · ` (space + middle-dot + space, U+00B7) when used as subtitle separator (NOT when used as compound-title separator like `普賢十大願·導論` or `禮敬諸佛・稱讚如來・廣修供養`). The audit script disambiguates by comparing H1 against YAML title — if YAML title uses the same compound form, `·` is treated as compound, not separator.
+
+EN H1 separator list: `: ` (half-width colon + space) and ` — ` (space + em-dash + space). Disambiguation rule for EN: same heuristic — compound vs separator decided by YAML title.
+
+### 3.3 EN files — Type A: transliteration parens (Decision #7)
 
 When a parenthetical inside EN prose contains romanized text, mixed romanized+CJK, or Sanskrit/Pāli IAST, use **half-width parens** `( ... )`.
 
@@ -493,7 +523,7 @@ ZH papers retain `公元 N 年` as the natural ZH form; this rule applies only t
 
 The audit found ~640 raw FW-punct hits across 28 EN files; the majority are Type A and resolve to half-width.
 
-### 3.2 EN files — Type B: Chinese-source citation quotes (Decision #8)
+### 3.4 EN files — Type B: Chinese-source citation quotes (Decision #8)
 
 When an EN sentence cites a specific Chinese-source phrase or term verbatim, **keep the `「...」` quotation marks intact**:
 
@@ -512,11 +542,11 @@ When in doubt:
 - If the marks are `「」` and the content is verbatim Chinese-source → Type B → keep
 - If the parens are `（）` and the content is Chinese-source quotation → likely Type A drift; convert to `「」` (Type B convention)
 
-### 3.3 EN files — full-width comma `，` and period `。`
+### 3.5 EN files — full-width comma `，` and period `。`
 
 These have no place in EN prose. Convert to `,` and `.`. The audit found these only inside Type A parens (`（迦葉摩騰）` → `（迦葉摩騰， T0784）`); they go away when Type A is fixed.
 
-### 3.4 ZH files
+### 3.6 ZH files
 
 ZH files use full-width punctuation throughout: `，。、；：「」『』（）——……`
 
@@ -676,6 +706,11 @@ This canonical is **v1.1**, dated 2026-05-04. v1.0 was published earlier the sam
 
 - **v1.2** (2026-05-04, post-Phase-D): Coda-paper title-block second bold line codified as permissible structural exception for P30/P31 only (§2.7 amendment + §0 quick-ref row 11). Phase E discovery and fix sub-phase prevents reintroduction of drift in this slot.
 
+- **v1.2.1** (2026-05-04, post-Phase-E-discovery): three clarifying amendments surfaced by Phase E sub-phase 1 discovery:
+  - §2.7 generalized: title-block second bold line permitted for Part-opener papers (P01, P05, P06, P09, P12, P20, P25), parallel to existing Coda exception
+  - §3.1 ZH separator list explicit: `：` (U+FF1A) added as recognized H1 subtitle-separator; compound-vs-separator disambiguation via YAML title comparison
+  - §2.6 CBETA notice tightened from "optional" to "required when ≥1 T/X/A citation"; canonical templates fixed; existing non-canonical variants normalize during remediation
+
 Future revisions:
 - `v1.x`: clarifications, typo fixes, additional examples — same conventions
 - `v2.0`: substantive convention change (e.g., switching from Roman to Arabic top-level, or restructuring References into 4-part) — requires explicit author approval and produces a remediation pass for all volumes already shipped
@@ -687,4 +722,4 @@ The remediation pass dispatched against this v1.0 spec produces the **NIAN forma
 
 ---
 
-*釋慧鏡 · 指月 · 四行門 · NIAN canonical format · v1.2 · 2026-05-04*
+*釋慧鏡 · 指月 · 四行門 · NIAN canonical format · v1.2.1 · 2026-05-04*
