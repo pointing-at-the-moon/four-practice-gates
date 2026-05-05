@@ -8,11 +8,13 @@ version: "1.0"
 license: "CC BY-NC-SA 4.0"
 ---
 
-# The Pure Land Patriarchs II: Shandao's Settling of the Name
+# The Pure Land Patriarchs II
+
+**Shandao's Settling of the Name**
 
 **From the Doctrinal Anchor of "Ordinary Beings Entering the Recompense Land" to the Institutionalization of "Single-Hearted Recitation" in the *Guanjing Sitie Shu* — Part VI's Third Paper on the Two Streams**
 
-*中文主題：淨土祖師之二:善導對名號的安立*
+*中文主題：淨土祖師之二：善導對名號的安立*
 
 ---
 
@@ -328,11 +330,7 @@ The open question left for the reader: if Shandao's act is the *Tang-completed d
 
 ---
 
-© 2026 釋慧鏡 (Shi Huijing). Licensed under CC BY-NC-SA 4.0.
-Primary source citations verified against CBETA Taishō (T).
-Series GitHub repository: https://github.com/pointing-at-the-moon/four-practice-gates
-
----
+*CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
 *Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
 
