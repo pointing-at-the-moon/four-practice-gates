@@ -513,6 +513,8 @@ The question is not answered within P10's scope. The convergence-differentiation
 
 ---
 
+*CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
+
 *Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
 
 *NIAN-P10 · 釋慧鏡 (Shi Huijing) · 2026-04-17*
