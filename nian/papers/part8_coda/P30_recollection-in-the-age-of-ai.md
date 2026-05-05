@@ -14,7 +14,7 @@ license: "CC BY-NC-SA 4.0"
 
 **Part VIII Coda · *Buddhānusmṛti* in the Age of AI · Paper 30 of *Mindful of the Buddha*'s thirty-one**
 
-*AI 時代之念佛——末那-轉依機制仍然有效*
+*中文主題：AI 時代之念佛——末那-轉依機制仍然有效*
 
 ---
 
@@ -385,9 +385,7 @@ The doctrinal connections between this paper and adjacent papers are as follows.
 
 ---
 
-§ 8.1 — NIAN Part VIII Coda Opener · NIAN 30/31
-
----
+*CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
 *Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
 
