@@ -8,7 +8,9 @@ version: "1.0"
 license: "CC BY-NC-SA 4.0"
 ---
 
-# The Tiantai Bridge — Zhiyi's Four Samādhis and the *Wu-fangbian-nianfo-men*
+# The Tiantai Bridge
+
+**Zhiyi's Four Samādhis and the *Wu-fangbian-nianfo-men***
 
 **Classificatory Bridge, Not Synthesis: Three Strata of Tiantai Doxography on Buddha-Recollection — Part VI's Fourth Paper on the Two Streams**
 
@@ -322,11 +324,7 @@ This perfect-teaching positioning of *niànfó*, in the late sixth century, is t
 
 ---
 
-© 2026 釋慧鏡 (Shi Huijing). Licensed under CC BY-NC-SA 4.0.
-Primary source citations verified against CBETA Taishō (T).
-Series GitHub repository: https://github.com/pointing-at-the-moon/four-practice-gates
-
----
+*CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
 *Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
 
