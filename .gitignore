@@ -32,3 +32,7 @@ PAPER_STYLE.md
 
 # Book build outputs
 */book/build/output/
+
+# Volume-level canonical format & audit docs (private reference docs)
+nian/NIAN_CANONICAL_FORMAT_*.md
+nian/NIAN_FORMAT_AUDIT_*.md
