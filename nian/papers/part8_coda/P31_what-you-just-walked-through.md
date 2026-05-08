@@ -17,6 +17,8 @@ language: "en"
 
 **Part VIII Coda · NIAN Thirty-First Paper of the Thirty · Closure of the Entire Volume**
 
+*中文主題：念佛的內部步驟*
+
 *Niàn de nèibù bùzhòu — cóng jiūdéhào dào fǎjiè fó*
 
 ---
@@ -184,7 +186,15 @@ The degree of loosening varies by practitioner. A beginner may loosen for only a
 
 An advanced practitioner may sustain loosening for longer periods in one session. But even advanced practitioners cannot maintain permanent loosening. Loosening is a process, not a result. The purpose of recollection is not to achieve permanent loosening, but to repeat this loosening process in every recollection.
 
-The method of testing whether loosening has occurred is Jiaoguang's verb classification: during recollection, are you using distinguishing-awareness recollection or six-roots-integrated recollection? The former means you are still using the sixth consciousness to analytically dissect the Buddha's qualities—a structure of "I am recollecting, the Buddha is the object," with manas's attachment still operating. The latter means six roots are equal and pacified—the structure of attachment is loosening automatically while you recollect. Both types can occur simultaneously in recollection, but in different proportions. A beginner's recollection is mostly distinguishing-awareness with occasional moments of six-roots-integration—those moments are the loosening. An advanced practitioner's recollection has more moments of six-roots-integration and fewer of distinguishing-awareness. The test is not "how many times have I recollecte
+The method of testing whether loosening has occurred is Jiaoguang's verb classification: during recollection, are you using distinguishing-awareness recollection or six-roots-integrated recollection? The former means you are still using the sixth consciousness to analytically dissect the Buddha's qualities—a structure of "I am recollecting, the Buddha is the object," with manas's attachment still operating. The latter means six roots are equal and pacified—the structure of attachment is loosening automatically while you recollect. Both types can occur simultaneously in recollection, but in different proportions. A beginner's recollection is mostly distinguishing-awareness with occasional moments of six-roots-integration—those moments are the loosening. An advanced practitioner's recollection has more moments of six-roots-integration and fewer of distinguishing-awareness. The test is not "how many times have I re
+
+---
+
+*CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
+
+*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+
+*NIAN-P31 · 釋慧鏡 (Shi Huijing) · 2026-05-04*
 
 
 

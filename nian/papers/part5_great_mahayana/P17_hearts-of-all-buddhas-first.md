@@ -20,6 +20,7 @@ license: "CC BY-NC-SA 4.0"
 **Date:** April 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
+**Series:** NIAN — Mindful of the Buddha
 
 ---
 
@@ -462,7 +463,7 @@ P17's argument is here concluded. The seventh layer of the verb-axis, seeing-the
 12. Monier-Williams, Sir Monier. *A Sanskrit-English Dictionary*. Oxford: Clarendon Press, 1899. Standard Sanskrit-English dictionary.
 13. Edgerton, Franklin. *Buddhist Hybrid Sanskrit Grammar and Dictionary*. New Haven: Yale University Press, 1953. Dictionary of Buddhist Hybrid Sanskrit.
 
-### IV. Index of Sūtras and Treatises
+### IV. Sūtra & Śāstra Index
 
 | T# / X# | Title | Translator / Author | Date |
 |---------|--------|-----------|------|

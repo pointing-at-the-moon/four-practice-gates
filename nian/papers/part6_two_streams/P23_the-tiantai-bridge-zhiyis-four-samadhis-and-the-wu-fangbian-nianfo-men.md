@@ -22,6 +22,7 @@ license: "CC BY-NC-SA 4.0"
 **Date:** May 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
+**Series:** NIAN — Mindful of the Buddha
 
 ---
 
@@ -309,7 +310,7 @@ This perfect-teaching positioning of *niànfó*, in the late sixth century, is t
 
 ---
 
-### III. Sūtra & Śāstra Index
+### IV. Sūtra & Śāstra Index
 
 | Abbr. | Full Title | Translator / Author | Date |
 |---|---|--|------|
@@ -325,15 +326,10 @@ This perfect-teaching positioning of *niànfó*, in the late sixth century, is t
 
 ### V. Cross-Reference to Series Papers
 
-### Backward references
-
 - **P06 (*Face-to-Face with the Buddhas*)**: *Bānzhōu-sānmèi-jīng* (T0418) on the threefold semantic register of *pratyutpanna*, the seven-day vision threshold, the red-hot iron-ball simile, and the *"mind is buddha"* closing turn. The present paper invokes T0418 only as cross-reference in §II and §III.2, and does not re-argue T0418's own doctrinal substance.
 - **P19 (*The Mañjuśrī Prajñāpāramitā and the One-Practice Samādhi*)**: T0232 *Wénshū-bōrě-jīng* and the *yī-xíng-sānmèi* of Mañjuśrī's devotion. The present paper's §III.1 invokes T0232 only in passing as the canonical source for *constantly seated samādhi*; the doctrinal substance of *yī-xíng-sānmèi* is not re-developed.
 - **P21 (*The Inward Reading of Patriarchal Chan*)**: *zì-xìng Mítuó* (self-nature Amitābha), *niànfó shì shéi* (who is reciting?), the *Liù-zǔ tán-jīng*'s *Yí-wèn-pǐn* (Chapter on Doubts), and Zongmi's (780–841) four kinds of *niànfó* in X05n0229. The present paper §I echoes the *inward stream* line; §III.2 establishes the common-ancestor thesis; §IV.1 references Zongmi (developed in P24); §V establishes the 6th–9th-century non-conflation while adding the new third stratum at the 16th–17th century.
 - **P22 (*The Pure Land Patriarchs II: Shandao on the Establishment of the Name*)**: Shandao (613–681), the entry of the ordinary unenlightened being into the Recompense Land, the threefold mind, the exclusive name-holding, the *Guān-jīng sì-tiē shū* (T1753). The present paper §I directly continues the doctrinal-pluralism tension established at the close of P22; §V Warning Two cross-references T1750 (attributed Zhiyi) versus T1753 (Shandao authentic) as two commentaries on the same sūtra at different historical-authorial levels, but does not re-develop.
-
-### Forward references
-
 - **P24 (*The Yongming–Yunqi–Ouyi Synthesis*, working title)**: Yongming Yanshou (904–975), *Wàn-shàn tóng-guī jí* (T2017) and *Zōng-jìng-lù* (T2016); Yunqi Zhuhong (1535–1615), *Āmítuó-jīng shūchāo* and the *shì-chí / lǐ-chí* distinction; Zhongfeng Mingben (1263–1323), *Sān-shí xì-niàn*; Hanshan Deqing (1546–1623); Ouyi Zhixu (1599–1655), *Āmítuó-jīng yāo-jiě* — the late-Ming Chan/Pure-Land/Tiantai synthesis. The present paper's §III.3 perfect-teaching ceiling, §IV's extension of Stevenson's classificatory architecture, §V's third stratum on Yunqi's compression, and §VI's open question all point forward to P24. *Zhiyi gave the classificatory vocabulary; how the later line performed the synthesis on that vocabulary is P24's main subject.*
 
 ---

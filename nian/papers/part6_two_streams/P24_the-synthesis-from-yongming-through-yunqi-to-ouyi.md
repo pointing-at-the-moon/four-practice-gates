@@ -22,6 +22,7 @@ license: "CC BY-NC-SA 4.0"
 **Date:** May 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
+**Series:** NIAN — Mindful of the Buddha
 
 ---
 
@@ -297,14 +298,10 @@ The open question of the present paper, in single-line form: *Yongming gave the 
 
 ### V. Cross-Reference to Series Papers
 
-### Backward references
-
 - **P20 (*The Pure Land Patriarchs I: Tanluan and Daochuo*)**: The other-power doctrinal warrant of the *easy-practice path* (*yì-xíng dào* 易行道) and the *time-far-name-is-primary* inversion. The present paper §III.1 echoes Tanluan and Daochuo's *dependent-arising co-operation* of conditional support and inward direction; §III.4 receives Ouyi's *xìn-zì / xìn-tā* dyad as completing the inward-and-other reciprocity P20 first articulated.
 - **P21 (*The Chan Position: Turning the Name Inward*)**: The ninth-century Zongmi gradient and the *self-nature Amitābha* inward-redirection. The present paper §III.4 distinguishes Hanshan's sixteenth-century *buddha-recollection-is-Chan-inquiry* declaration from Zongmi's ninth-century fourfold *niànfó* gradient: the two operations belong to distinct historical strata and must not be conflated. §III.4 explicitly flags the distinction.
 - **P22 (*The Pure Land Patriarchs II: Shandao on the Establishment of the Name*)**: The *axial transposition* of name-recitation in the seventh century. The present paper §I sets out the *re-reading* framing across six centuries of integrated cultivation; §III throughout positions the synthesis vis-à-vis P22's central thesis; §IV.1 names the *occlusion* dimension that Yü's harmonious-synthesis frame leaves under-described, recovering the cost P22 documented.
 - **P23 (*The Tiantai Bridge: Zhiyi's Four Samādhis and the *Wǔ-fāngbiàn niànfó-mén**)**: The *classificatory bridge* established by Zhiyi (594) and redeployed by Zongmi, Zhili, Yongming, Yunqi, and Ouyi. The present paper picks up P23's closing thread on the millennium-long doctrinal genealogy (§I); §III.2 distinguishes *Yunqi's fourfold compression of T1962* (P23's main subject) from *Yunqi's shì-chí / lǐ-chí architecture* (P24's main subject) — the two are distinct codifications by the same figure for distinct purposes.
-
-### Forward references
 
 - **P25 (*Samantabhadra's Ten Great Vows: Introduction*, Part VII opens)**: The bodhisattva-path development of the synthesis's held tension. The Ten Great Vows — reverence, praise, offering, repentance, rejoicing, requesting the turning of the dharma wheel, requesting the buddhas' abiding, learning, accord, dedication — supply the framework within which the synthesis's held tension is *enacted* as a sustained directional life rather than *codified* as a doctrinal formula. The present paper's §III.4 *xìn-yuàn-xíng* enrollment, §III.4 *yuán-shōu yuán-chāo* keystone, and §VI open question all point forward to P25. *Part VI gave the bridge; Part VII will give the road across it.*
 

@@ -25,7 +25,7 @@ language: "en"
 **Date:** May 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
-**Series:** NIAN — *Mindful of the Buddha*
+**Series:** NIAN — Mindful of the Buddha
 **Paper:** P31 · Part VIII Coda
 
 ---

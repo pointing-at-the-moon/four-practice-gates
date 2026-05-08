@@ -411,7 +411,15 @@ DN 16. *Mahāparinibbāna-sutta*. Pali Text Society edition. Pending second-pass
 
 MN 26. *Ariyapariyesanā-sutta*. Pali Text Society edition. Pending second-pass verification.
 
-### II. Modern Scholarship
+### II. Patriarchal Commentaries
+
+- Chengguan. *Huayan-jing Xingyuan-pin Shu* (Commentary on the Practice-and-Vow Chapter). X05n0227, *Wàn xùzàng* vol. 5.
+- Zongmi. *Huayan-jing Xingyuan-pin Bie-xing Shuchao* (Detailed Sub-Commentary on the Practice-and-Vow Chapter). X05n0229, *Wàn xùzàng* vol. 5.
+- Zhiyi. *Fahua Sanmei Chan Yi* (Lotus Samādhi Repentance Liturgy). T1941, *Taishō* vol. 46. 十科儀軌之奉請段.
+- Shandao. *Wangsheng Lizan Ge* (Verses for the Six Times of Reverence-Praise). T1980, *Taishō* vol. 47. 六時禮讚奉請-勸請-讚請三聯.
+- Yongming Yanshou. *Zongjing lu* (Mirror of the Source-Record). T2016, *Taishō* vol. 48.
+
+### III. Modern Scholarship
 
 Anālayo. *A Comparative Study of the Majjhima-nikāya*. Taipei: Dharma Drum Publishing Corporation, 2011.
 
@@ -422,14 +430,6 @@ Faure, Bernard. *The Rhetoric of Immediacy: A Cultural Critique of Chan/Zen Budd
 Gummer, Natalie. "Sūtra as Body." *Journal of the American Academy of Religion* 82, no. 4 (2014): 1095–1109.
 
 Schopen, Gregory. *Bones, Stones, and Buddhist Monks: Collected Papers on the Archaeology, Epigraphy, and Texts of Monastic Buddhism in India*. Honolulu: University of Hawai'i Press, 1997.
-
-### III. Patriarchal Commentaries
-
-- Chengguan. *Huayan-jing Xingyuan-pin Shu* (Commentary on the Practice-and-Vow Chapter). X05n0227, *Wàn xùzàng* vol. 5.
-- Zongmi. *Huayan-jing Xingyuan-pin Bie-xing Shuchao* (Detailed Sub-Commentary on the Practice-and-Vow Chapter). X05n0229, *Wàn xùzàng* vol. 5.
-- Zhiyi. *Fahua Sanmei Chan Yi* (Lotus Samādhi Repentance Liturgy). T1941, *Taishō* vol. 46. 十科儀軌之奉請段.
-- Shandao. *Wangsheng Lizan Ge* (Verses for the Six Times of Reverence-Praise). T1980, *Taishō* vol. 47. 六時禮讚奉請-勸請-讚請三聯.
-- Yongming Yanshou. *Zongjing lu* (Mirror of the Source-Record). T2016, *Taishō* vol. 48.
 
 ### IV. Cross-Reference to Series Papers
 
