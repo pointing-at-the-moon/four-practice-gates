@@ -423,6 +423,45 @@ Gummer, Natalie. "Sūtra as Body." *Journal of the American Academy of Religion*
 
 Schopen, Gregory. *Bones, Stones, and Buddhist Monks: Collected Papers on the Archaeology, Epigraphy, and Texts of Monastic Buddhism in India*. Honolulu: University of Hawai'i Press, 1997.
 
+### III. Patriarchal Commentaries
+
+- Chengguan. *Huayan-jing Xingyuan-pin Shu* (Commentary on the Practice-and-Vow Chapter). X05n0227, *Wàn xùzàng* vol. 5.
+- Zongmi. *Huayan-jing Xingyuan-pin Bie-xing Shuchao* (Detailed Sub-Commentary on the Practice-and-Vow Chapter). X05n0229, *Wàn xùzàng* vol. 5.
+- Zhiyi. *Fahua Sanmei Chan Yi* (Lotus Samādhi Repentance Liturgy). T1941, *Taishō* vol. 46. 十科儀軌之奉請段.
+- Shandao. *Wangsheng Lizan Ge* (Verses for the Six Times of Reverence-Praise). T1980, *Taishō* vol. 47. 六時禮讚奉請-勸請-讚請三聯.
+- Yongming Yanshou. *Zongjing lu* (Mirror of the Source-Record). T2016, *Taishō* vol. 48.
+
+### IV. Cross-Reference to Series Papers
+
+- P25 *Samantabhadra's Ten Great Vows: An Introduction*: the vow-king structural operator;愿王整体化;愿王 as the收攝 mechanism.
+- P26 *Reverencing Buddhas, Praising Tathāgatas, Cultivating Offerings*:愿1-3 as the body-speech-mind triad.
+- P27 *Repenting Karmic Obstructions, Rejoicing in Merit*:愿4-5 as karma's twin wings (減損/增益).
+- P29 *Constantly Following the Buddha, Accommodating Sentient Beings, Universal Dedication*:愿8-10 as the upward-downward + dedication triad.
+- P24 *The Synthesis from Yongming through Yunqi to Ouyi*: Pure Land-Huayan confluence textual seam.
+- P11 *Holding the Name*:六時禮讚奉請-勸請-讚請三聯 as practical framework.
+
+### V. Sūtra & Śāstra Index
+
+| 簡稱 | 全名 | 造／譯者 | T／X 編號 | 冊數 |
+|------|------|----------|-----------|------|
+| 長阿含 | 《長阿含經》 | 佛陀耶舍譯 | T0001 | 1 |
+| 中阿含 | 《中阿含經》 | 僧伽提婆譯 | T026 | 1 |
+| 雜阿含 | 《雜阿含經》 | 求那跋陀羅譯 | T099 | 2 |
+| 法華經 | 《妙法蓮華經》 | 鳩摩羅什譯 | T262 | 9 |
+| 行願品 | 《大方廣佛華嚴經·普賢行願品》 | 般若譯 | T0293 | 10 |
+| 維摩詰經 | 《維摩詰所說經》 | 鳩摩羅什譯 | T0475 | 14 |
+| 大智度論 | 《大智度論》 | 龍樹造、鳩摩羅什譯 | T1509 | 25 |
+| 成唯識論 | 《成唯識論》 | 護法等造、玄奘譯 | T1585 | 31 |
+| 攝大乘論 | 《攝大乘論釋》 | 世親造、玄奘譯 | T1593 | 31 |
+| 起信論 | 《大乘起信論》 | 傳馬鳴造、真諦譯 | T1666 | 32 |
+| 阿弥陀經要解 | 《阿彌陀經要解》 | 蕅益智旭撰 | T1762 | 37 |
+| 法華懺儀 | 《法華三昧懺儀》 | 智顗撰 | T1941 | 46 |
+| 往生禮讚偈 | 《往生禮讚偈》 | 善導集記 | T1980 | 47 |
+| 宗鏡錄 | 《宗鏡錄》 | 永明延壽集 | T2016 | 48 |
+| 行願品疏 | 《華嚴經行願品疏》 | 澄觀撰 | X0227 | 卍續 5 |
+| 行願品疏鈔 | 《華嚴經行願品疏鈔》（別行疏鈔） | 宗密述 | X0229 | 卍續 5 |
+| 阿弥陀經疏鈔 | 《阿彌陀經疏鈔》 | 雲棲祩宏撰 | X0424 | 卍續 22 |
+
 ---
 
 *CBETA collation: all T-number and X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*

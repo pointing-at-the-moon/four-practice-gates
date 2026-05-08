@@ -386,6 +386,40 @@ Gimello, Robert M. "Li T'ung-hsüan and the Practical Dimensions of Hua-yen." In
 
 Gregory, Peter N. *Tsung-mi and the Sinification of Buddhism*. Princeton: Princeton University Press, 1991. Reprinted Honolulu: University of Hawaiʻi Press, 2002.
 
+### III. Patriarchal Commentaries
+
+- Chengguan. *Huayan-jing Xingyuan-pin Shu* (Commentary on the Practice-and-Vow Chapter). X05n0227, *Wàn xùzàng* vol. 5. 體相用三方向、大悲下化大智上求.
+- Zongmi. *Huayan-jing Xingyuan-pin Bie-xing Shuchao* (Detailed Sub-Commentary on the Practice-and-Vow Chapter). X05n0229, *Wàn xùzàng* vol. 5. 三處迴向圖式.
+- Zhiyi. *Fahua Sanmei Chan Yi* (Lotus Samādhi Repentance Liturgy). T1941, *Taishō* vol. 46. 十科儀軌之迴向發願定型.
+- Shandao. *Wangsheng Lizan Ge* (Verses for the Six Times of Reverence-Praise). T1980, *Taishō* vol. 47. 五念門中第五迴向門.
+- Ouyi Zhixu. *Amituo Jing Yaojie* (Essentials of the Amitābha Sūtra). T1762, *Taishō* vol. 37. 萬行司南.
+- Yongming Yanshou. *Wanshan Tonggui Ji* (Universal Convergence of the Ten Thousand Goods). T2017, *Taishō* vol. 48. 普賢以行嚴理.
+
+### IV. Cross-Reference to Series Papers
+
+- P26 *Reverencing Buddhas, Praising Tathāgatas, Cultivating Offerings*: vows 1-3 as the three-业合構 structure (body-speech-mind triad).
+- P27 *Repenting Karmic Obstructions, Rejoicing in Merit*: vows 4-5 as karma's twin wings (減損/增益).
+- P28 *Requesting the Turning of the Dharma-wheel, Requesting the Buddhas to Abide*: vows 6-7 as法之久住雙模.
+- P29 *Constantly Following the Buddha, Accommodating Sentient Beings, Universal Dedication*: vows 8-10 as the upward-downward + dedication triad.
+- P24 *The Synthesis from Yongming through Yunqi to Ouyi*: the textual seam of Pure Land-Huayan confluence (§三.4 of P25).
+
+### V. Sūtra & Śāstra Index
+
+| 簡稱 | 全名 | 造／譯者 | T／X 編號 | 冊數 |
+|------|------|----------|-----------|------|
+| 六十華嚴 | 《大方廣佛華嚴經》（六十華嚴） | 佛馱跋陀羅譯 | T0278 | 9 |
+| 八十華嚴 | 《大方廣佛華嚴經》（八十華嚴） | 實叉難陀譯 | T0279 | 10 |
+| 行願品 | 《大方廣佛華嚴經·普賢行願品》 | 般若譯 | T0293 | 10 |
+| 華嚴經疏 | 《大方廣佛華嚴經疏》 | 澄觀撰 | T1735 | 35–36 |
+| 宗鏡錄 | 《宗鏡錄》 | 永明延壽集 | T2016 | 48 |
+| 阿弥陀經疏鈔 | 《阿彌陀經疏鈔》 | 雲棲祩宏撰 | X0424 | 卍續 22 |
+| 行願品疏 | 《華嚴經行願品疏》 | 澄觀撰 | X0227 | 卍續 5 |
+| 行願品疏鈔 | 《華嚴經行願品疏鈔》（別行疏鈔） | 宗密述 | X0229 | 卍續 5 |
+| 法華懺儀 | 《法華三昧懺儀》 | 智顗撰 | T1941 | 46 |
+| 往生禮讚偈 | 《往生禮讚偈》 | 善導集記 | T1980 | 47 |
+| 阿弥陀經要解 | 《阿彌陀經要解》 | 蕅益智旭撰 | T1762 | 37 |
+| 萬善同歸集 | 《萬善同歸集》 | 永明延壽撰 | T2017 | 48 |
+
 ---
 
 > **Pointing at the Moon Research · Four Practice Gates, Volume One: *Mindful of the Buddha* · Part VII The Flower Ornament Vision · 7.1**

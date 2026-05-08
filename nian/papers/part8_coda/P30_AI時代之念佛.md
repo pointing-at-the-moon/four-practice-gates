@@ -340,7 +340,19 @@ NIAN 終卷之事到此為止。念佛仍是念佛。AI 在側之 2026 年，末
 -《安樂集》（道綽撰），T1958。
 -《禪宗無門關》（無門慧開撰），T2005。
 
-### 二、現代學術著作 Modern Scholarship
+### 二、祖師註疏 Patriarchal Commentaries
+
+- 宗密。《華嚴經行願品別行疏鈔》（X05n0229，卍續藏第五冊）。三處迴向、七種懺前方便。
+- 宗密。《禪源諸詮集都序》（T2015，大正藏第四十八冊）。三宗配三門、覺知即報佛事。
+- 永明延壽。《宗鏡錄》（T2016，大正藏第四十八冊）。萬法唯心、一心總攝。
+- 永明延壽。《萬善同歸集》（T2017，大正藏第四十八冊）。普賢以行嚴理。
+- 雲棲祩宏。《阿彌陀經疏鈔》（X22n0424，卍續藏第二十二冊）。事持—理持、普賢願王不離當念。
+- 蕅益智旭。《阿彌陀經要解》（T1762，大正藏第三十七冊）。萬行司南。
+- 憨山德清。《觀心無門》（X73n1453，卍續藏第七十三冊）。觀心法要。
+- 憨山德清。《夢遊集》（X73n1456，卍續藏第七十三冊）。
+- 中峰明本。《三時繫念》（X74n1464，卍續藏第七十四冊）。十願全套。
+
+### 三、現代學術著作 Modern Scholarship
 
 - Hershock, Peter D. *Buddhism and Intelligent Technology: Toward a More Humane Future*. London: Bloomsbury Academic, 2021.
 - Lopez, Donald S., Jr. *The Scientific Buddha: His Short and Happy Life*. Terry Lectures. New Haven: Yale University Press, 2012.
@@ -349,7 +361,7 @@ NIAN 終卷之事到此為止。念佛仍是念佛。AI 在側之 2026 年，末
 - Sharf, Robert H. "Buddhist Modernism and the Rhetoric of Meditative Experience." *Numen* 42, no. 3 (1995): 228–283.
 - Cox, Collett. (cited via convention for "non-associated formations"; see her work on Sarvāstivāda *abhidharma*, especially her treatment of *cittaviprayuktasaṃskāra*.)
 
-### 三、經論索引 Sūtra & Śāstra Index
+### 四、經論索引 Sūtra & Śāstra Index
 
 | 簡稱 | 全名 | 造者／譯者 | 大正藏 |
 |------|------|------------|--------|
@@ -375,7 +387,7 @@ NIAN 終卷之事到此為止。念佛仍是念佛。AI 在側之 2026 年，末
 
 ---
 
-### 四、系列論文交叉引用 Cross-Reference to Series Papers
+### 五、系列論文交叉引用 Cross-Reference to Series Papers
 
 本篇與前後論文之教證連結如下。
 

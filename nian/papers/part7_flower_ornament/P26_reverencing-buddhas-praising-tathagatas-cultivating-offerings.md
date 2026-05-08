@@ -434,7 +434,15 @@ X05n0229. *Detailed Sub-Commentary on the Practice-and-Vow Chapter* (also known 
 
 *Vinaya, Mahāvagga* I.22. Pali Text Society edition, *Vin* i 35.
 
-### II. Modern Scholarship
+### II. Patriarchal Commentaries
+
+- Chengguan. *Huayan-jing Xingyuan-pin Shu* (Commentary on the Practice-and-Vow Chapter). X05n0227, *Wàn xùzàng* vol. 5. 體相用三方向、大悲下化大智上求.
+- Zongmi. *Huayan-jing Xingyuan-pin Bie-xing Shuchao* (Detailed Sub-Commentary on the Practice-and-Vow Chapter). X05n0229, *Wàn xùzàng* vol. 5. 三處迴向圖式.
+- Zhiyi. *Fahua Sanmei Chan Yi* (Lotus Samādhi Repentance Liturgy). T1941, *Taishō* vol. 46. 十科儀軌之迴向發願定型.
+- Shandao. *Wangsheng Lizan Ge* (Verses for the Six Times of Reverence-Praise). T1980, *Taishō* vol. 47. 五念門中第五迴向門.
+- Ouyi Zhixu. *Amituo Jing Yaojie* (Essentials of the Amitābha Sūtra). T1762, *Taishō* vol. 37. 萬行司南.
+
+### III. Modern Scholarship
 
 Bell, Catherine. *Ritual Theory, Ritual Practice*. New York: Oxford University Press, 1992.
 
@@ -445,6 +453,29 @@ Schopen, Gregory. *Bones, Stones, and Buddhist Monks: Collected Papers on the Ar
 Sharf, Robert H. *Coming to Terms with Chinese Buddhism: A Reading of the Treasure Store Treatise*. Honolulu: University of Hawai'i Press, 2002.
 
 Sharf, Robert H. "Ritual." In *Critical Terms for the Study of Buddhism*, edited by Donald S. Lopez, Jr., 245–270. Chicago: University of Chicago Press, 2005.
+
+### IV. Cross-Reference to Series Papers
+
+- P25 *Samantabhadra's Ten Great Vows: An Introduction*: the vow-king (願王) structural operator and the four-exhaustion-four-inexhaustion closure formula.
+- P27 *Repenting Karmic Obstructions, Rejoicing in Merit*:愿4+5 following愿1-3; the业 of twin wings.
+- P28 *Requesting the Turning of the Dharma-wheel, Requesting the Buddhas to Abide*:愿6+7 as法之久住雙模.
+- P29 *Constantly Following the Buddha, Accommodating Sentient Beings, Universal Dedication*:愿8-10 as the upward-downward + dedication triad.
+- P11 *Holding the Name*: six times of reverence-praise (六時禮讚) as practical framework.
+
+### V. Sūtra & Śāstra Index
+
+| 簡稱 | 全名 | 造／譯者 | T／X 編號 | 冊數 |
+|------|------|----------|-----------|------|
+| 雜阿含 | 《雜阿含經》 | 求那跋陀羅譯 | T099 | 2 |
+| 增一阿含 | 《增壹阿含經》 | 僧伽提婆譯 | T125 | 2 |
+| 法華經 | 《妙法蓮華經》 | 鳩摩羅什譯 | T262 | 9 |
+| 行願品 | 《大方廣佛華嚴經·普賢行願品》 | 般若譯 | T0293 | 10 |
+| 觀經疏 | 《觀無量壽佛經疏》 | 善導撰 | T1753 | 37 |
+| 阿弥陀經要解 | 《阿彌陀經要解》 | 蕅益智旭撰 | T1762 | 37 |
+| 法華懺儀 | 《法華三昧懺儀》 | 智顗撰 | T1941 | 46 |
+| 往生禮讚偈 | 《往生禮讚偈》 | 善導集記 | T1980 | 47 |
+| 行願品疏 | 《華嚴經行願品疏》 | 澄觀撰 | X0227 | 卍續 5 |
+| 行願品疏鈔 | 《華嚴經行願品疏鈔》（別行疏鈔） | 宗密述 | X0229 | 卍續 5 |
 
 ---
 

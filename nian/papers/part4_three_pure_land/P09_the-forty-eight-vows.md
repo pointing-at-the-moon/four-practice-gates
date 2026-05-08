@@ -485,7 +485,11 @@ This caution follows the same methodological pattern as P06's Thompson-dialogue,
 
 - The *sati*/*anussati* baseline established in Part I (P01–P04) is not directly cited in this paper; P04's discussion of the stage of definite assurance (*sammatta-niyāma*) as a stream-entry status is complementary to the analysis of vow 11 in §2.3.
 
-### II. Modern Scholarship
+### II. Patriarchal Commentaries
+
+_N/A_ — This paper's canonical basis (T0360 / T0362 / Vasubandhu's *Upadeśa*) does not situate patriarchal commentaries as a primary referent for the architecture of the forty-eight vows.
+
+### III. Modern Scholarship
 
 - Alexander, Christopher, Sara Ishikawa, and Murray Silverstein. *A Pattern Language: Towns, Buildings, Construction*. New York: Oxford University Press, 1977.
 - Gómez, Luis O. *The Land of Bliss: The Paradise of the Buddha of Measureless Light*. Honolulu: University of Hawai'i Press, 1996.
@@ -496,7 +500,7 @@ This caution follows the same methodological pattern as P06's Thompson-dialogue,
 - Tanaka, Kenneth K. *The Dawn of Chinese Pure Land Buddhist Doctrine: Ching-ying Hui-yüan's Commentary on the Visualization Sutra*. Albany: SUNY Press, 1990.
 - Williams, Paul. *Mahāyāna Buddhism: The Doctrinal Foundations*. 2nd ed. London: Routledge, 2009.
 
-### III. Sūtra & Śāstra Index
+### IV. Sūtra & Śāstra Index
 
 | Abbr. | Full Title | Reference | Translator/Author | Function |
 |---|---|---|---|---|
@@ -513,7 +517,7 @@ This caution follows the same methodological pattern as P06's Thompson-dialogue,
 
 ---
 
-### IV. Cross-Reference to Series Papers
+### V. Cross-Reference to Series Papers
 
 | Referenced Paper | Section | Invocation Point in Present Paper | Function |
 |---|---|---|---|

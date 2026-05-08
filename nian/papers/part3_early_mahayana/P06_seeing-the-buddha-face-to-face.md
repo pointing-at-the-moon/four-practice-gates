@@ -358,7 +358,11 @@ The three-sense framework of *niànfó sānmèi* in P04 §3.5 receives here its 
 - *Majjhima Nikāya*, MN 10 *Satipaṭṭhāna-sutta*, PTS MN i 55; *Dīgha Nikāya*, DN 22 *Mahā-satipaṭṭhāna-sutta*, PTS DN ii 290.
 - *Visuddhimagga*, Buddhaghosa, chapter VII *Cha-anussati-niddesa*, PTS Vism 197–228. Cited here only by paraphrase via Part I's determinations.
 
-### II. Modern Scholarship
+### II. Patriarchal Commentaries
+
+_N/A_ — This paper's canonical basis (T0418 / Nikāya / *Visuddhimagga*) does not situate patriarchal commentaries as a primary referent.
+
+### III. Modern Scholarship
 
 - Harrison, Paul. *The Samādhi of Direct Encounter with the Buddhas of the Present: An Annotated English Translation of the Tibetan Version of the Pratyutpanna-Buddha-Saṃmukhāvasthita-Samādhi-Sūtra*. Studia Philologica Buddhica, Monograph Series V. Tokyo: International Institute for Buddhist Studies, 1990. The principal English annotated translation of the sūtra, from the Tibetan version; Western scholarship's foundational reference for T0418 studies.
 - Harrison, Paul. "Buddhānusmṛti in the *Pratyutpanna-buddha-saṃmukhāvasthita-samādhi-sūtra*." *Journal of Indian Philosophy* 6 (1978): 35–57. A key precursor study; detailed analysis of the *buddhānusmṛti* structure in T0418.
@@ -367,7 +371,7 @@ The three-sense framework of *niànfó sānmèi* in P04 §3.5 receives here its 
 - Nattier, Jan. *A Guide to the Earliest Chinese Buddhist Translations: Texts from the Eastern Han 東漢 and Three Kingdoms 三國 Periods*. Bibliotheca Philologica et Philosophica Buddhica X. Tokyo: International Research Institute for Advanced Buddhology, Soka University, 2008. The authoritative reference for the chronology and attribution of early Chinese translations.
 - Williams, Paul. *Mahāyāna Buddhism: The Doctrinal Foundations*. 2nd ed. London: Routledge, 2009. A standard introduction to Mahāyāna doctrine; contains a brief discussion of *pratyutpanna-samādhi*'s position in early Mahāyāna.
 
-### III. Sūtra & Śāstra Index
+### IV. Sūtra & Śāstra Index
 
 | Abbr. | Full title | Catalogue no. | Translator / author | Use in this paper |
 |---|---|---|---|---|
@@ -387,7 +391,7 @@ The three-sense framework of *niànfó sānmèi* in P04 §3.5 receives here its 
 
 ---
 
-### IV. Cross-Reference to Series Papers
+### V. Cross-Reference to Series Papers
 
 | Referenced paper | Section | Invoked at | Function |
 |---|---|---|---|

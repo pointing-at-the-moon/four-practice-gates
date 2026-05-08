@@ -330,14 +330,36 @@ The next paper, P05, takes up the first wave of Chinese *niànfó* reception: th
 - *Visuddhimagga* VIII.8 *Upasamānussati-niddesa*, PTS Vism 293–294.
 - *Mahāprajñāpāramitā-śāstra* (《大智度論》), attributed to Nāgārjuna, translated by Kumārajīva, *Taishō Tripiṭaka* vol. 25, No. 1509. This paper draws principally on scroll 7 (the *niànfó sānmèi* passage), scroll 21 (*bā bèi shě yì* 八背捨義), and scroll 22 (*bā niàn yì* 八念義).
 
-### III. Modern Scholarship
+### III. Sūtra & Śāstra Index
+
+| Classification | Work | Location | Role |
+|------|--|--|---|
+| **Pāli Sutta** | AN 6.10 *Mahānāma Sutta* | AN III.285 (PTS) | six recollections framework |
+| **Pāli Sutta** | AN 11.11–12 *Mahānāma Suttas* | AN V.328, 332 (PTS) | eleven recollections expanded |
+| **Pāli Sutta** | SN 54.1–20 *Ānāpāna Saṃyutta* | SN V.311ff (PTS) | ānāpānasati corpus |
+| **Pāli Sutta** | MN 10 *Satipaṭṭhāna Sutta* | MN I.55 (PTS) | sati structural baseline |
+| **Pāli Sutta** | DN 22 *Mahā-satipaṭṭhāna Sutta* | DN II.290 (PTS) | sati structural baseline |
+| **Pāli Sutta** | MN 27 *Cūḷa-hatthipadopama Sutta* | MN I.162 (PTS) | first-jhāna formula |
+| **Chinese Āgama** | 《雜阿含經》 | T2, No. 99 | AN parallel corpus |
+| **Chinese Āgama** | 《中阿含經》 | T1, No. 26 | MN parallel corpus |
+| **Chinese Āgama** | 《增壹阿含經》 | T2, No. 125 | AN parallel corpus |
+| **Early Chinese** | 《四十二章經》 | T17, No. 784 | P05 context |
+| **Early Chinese** | 《般舟三昧經》 | T13, No. 418 | Part III preview |
+| **Early Chinese** | 《坐禪三昧經》 | T15, No. 613 | Part V preview |
+| **Early Chinese** | 《觀佛三昧海經》 | T15, No. 643 | Part V preview |
+| **Indian Śāstra** | 《大智度論》卷 7, 21, 22 | T25, No. 1509 | *buddhānussati* / *anusmṛti* |
+| **Indian Śāstra** | Buddhaghosa, *Visuddhimagga* VII | PTS pp. 197–228 | six recollections commentary |
+| **Yogācāra** | 《瑜伽師地論·聲聞地》 | T30, No. 1579 | *smṛti* / *anusmṛti* taxonomy |
+| **Abhidharma** | 《阿毘達磨俱舍論》卷十 | T29, No. 1559 | *smṛti* in 75 dharma list |
+
+### IV. Modern Scholarship
 
 - Csikszentmihalyi, Mihaly. 1990. *Flow: The Psychology of Optimal Experience*. New York: Harper & Row.
 - Piatigorsky, Alexander. 1984. *The Buddhist Philosophy of Thought*. London: Curzon.
 - Bodhi, Bhikkhu, trans. 2012. *The Numerical Discourses of the Buddha: A Translation of the Aṅguttara Nikāya*. Boston: Wisdom Publications.
 - Ñāṇamoli, Bhikkhu, trans. 1975 (rev. 2010). *The Path of Purification: Visuddhimagga*. Kandy: Buddhist Publication Society.
 
-### IV. Cross-Reference to Series Papers
+### V. Cross-Reference to Series Papers
 
 | Note | In-Text Location | Text | Licensing |
 |---|---|---|---|

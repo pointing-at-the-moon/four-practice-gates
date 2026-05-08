@@ -455,7 +455,11 @@ A distant foreshadowing left here: the access/absorption boundary repeatedly not
 - *Ekottara Āgama* (《增壹阿含經》). T02 No. 125. Translated by Saṃghadeva (僧伽提婆), Eastern Jin dynasty.
 - *Dà zhìdù lùn* / *Mahāprajñāpāramitāśāstra* (《大智度論》). T25 No. 1509. Attributed to Nāgārjuna; translated by Kumārajīva (Kumārajīva), Later Qin dynasty.
 
-### II. Modern Scholarship
+### II. Patriarchal Commentaries
+
+[Not applicable — this paper focuses on suttanta epithets from AN 11.11–12 rather than patriarchal commentary. Buddhaghosa's *Vism* VII is listed under Primary Sources (Pāli Canon).]
+
+### III. Modern Scholarship
 
 - Bodhi, Bhikkhu, trans. *The Numerical Discourses of the Buddha: A Translation of the Aṅguttara Nikāya*. Boston: Wisdom, 2012.
 - Bodhi, Bhikkhu, trans. *The Connected Discourses of the Buddha: A Translation of the Saṃyutta Nikāya*. Boston: Wisdom, 2000.
@@ -465,7 +469,13 @@ A distant foreshadowing left here: the access/absorption boundary repeatedly not
 - Harrison, Paul. *The Samādhi of Direct Encounter with the Buddhas of the Present*. Tokyo: International Institute for Buddhist Studies, 1990.
 - Skilling, Peter. *Mahāsūtras: Great Discourses of the Buddha*, 2 vols. Oxford: Pali Text Society, 1994–1997. (Vol. II discusses transmission of *Dhajagga* across Pāli, Sanskrit, Tibetan, and Chinese.)
 
-### III. Sūtra & Śāstra Index
+### IV. Cross-Reference to Series Papers
+
+- P01：*Anussati* 字義辨析——隨念作為心理機制。
+- P03：六隨念——同一引擎（anussati）的六個對境。
+- P04：隨念與禪那——*upacāra* 近行定的定位。
+
+### V. Sūtra & Śāstra Index
 
 | Abbreviation | Full Title (Pāli / Sanskrit / Chinese) | Edition / *Taishō* No. | Author / Translator |
 |---|---|---|---|

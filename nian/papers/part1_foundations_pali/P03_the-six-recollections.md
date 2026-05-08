@@ -405,7 +405,12 @@ Nine words open nine small doors; the six recollections open six larger doors; t
 - *Ekottara Āgama* (《增壹阿含經》). Taishō T02 No. 125. Translated by Gautama Saṅghadeva (Eastern Jin dynasty). Principal reference: fascicle 2, "Wider Exposition" chapter 3 (the ten-recollection set).
 - *Mahāprajñāpāramitā-śāstra* (《大智度論》). Taishō T25 No. 1509. Attributed to Nāgārjuna (traditional attribution); translated by Kumārajīva (Later Qin dynasty). Principal references: fascicles 21, 22, "Exposition of the Eight Recollections, §36."
 
-### II. Modern Scholarship
+### II. Patriarchal Commentaries
+
+- Buddhaghosa. *Visuddhimagga* VII (*Cha-anussati-niddesa*). PTS pp. 197–228. Six *anussati* commentarial exposition — primary source for each recollection's psychological dynamics.
+- *Mahāprajñāpāramitā-śāstra* (《大智度論》), scrolls 21–22. Nāgārjuna (attrib.), Kumārajīva trans. T25 No. 1509. Eight recollections exposition — bridges Pāli six-recollections with Mahāyāna framework.
+
+### III. Modern Scholarship
 
 - Bodhi, Bhikkhu, trans. *The Numerical Discourses of the Buddha: A Translation of the Aṅguttara Nikāya*. Boston: Wisdom, 2012.
 - Bodhi, Bhikkhu, trans. *The Connected Discourses of the Buddha: A Translation of the Saṃyutta Nikāya*. Boston: Wisdom, 2000.
@@ -417,7 +422,14 @@ Nine words open nine small doors; the six recollections open six larger doors; t
 - Williams, Paul. *Mahāyāna Buddhism: The Doctrinal Foundations*. 2nd ed. London: Routledge, 2009. (Chapter 6 treats Mahāyāna recollection-of-the-Buddha and the *Mahāprajñāpāramitā-śāstra*'s position.)
 - Gethin, Rupert. *The Buddhist Path to Awakening*. Oxford: Oneworld, 2001. (Chapter 7 treats the recollections and the *bodhi-pakkhiya* system.)
 
-### III. Sūtra & Śāstra Index
+### IV. Cross-Reference to Series Papers
+
+- P01：*Anussati* vs *sati* — 隨念字義辨析與心理機制。
+- P02：九德號 — 同一引擎的德號擴展。
+- P04：隨念與禪那 — *upacāra* 近行定與六隨念之關係。
+- P05：未說念佛 — 漢譯「念」字之關鍵性缺席。
+
+### V. Sūtra & Śāstra Index
 
 | Reference | Full title (Pāli / Sanskrit / Chinese) | Edition / Number | Author / Translator |
 |---|---|---|---|

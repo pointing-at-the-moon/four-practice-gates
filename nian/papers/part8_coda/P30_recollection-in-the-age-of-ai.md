@@ -331,7 +331,19 @@ NIAN's coda business stops here. *Buddhānusmṛti* is still *buddhānusmṛti*.
 - *Anluo ji* (Daochuo), T1958.
 - *Wumenguan* (Wumen Huikai), T2005.
 
-### II. Modern Scholarship
+### II. Patriarchal Commentaries
+
+- Zongmi (宗密). *Huáyán-jīng xíng-yuàn pǐn biéxíng shūchāo* (華嚴經行願品別行疏鈔), X05n0229, *Wàn xùzàng* vol. 5. Three-place dedication schema; seven pre-penitential preparations.
+- Zongmi (宗密). *Chányuán zhūquánjí dūxù* (禪源諸詮集都序), T2015, Taishō vol. 48. Three schools matched to three gates; "awareness as the Buddha's responsive activity."
+- Yongming Yanshou (永明延壽). *Zōngjìng lù* (宗鏡錄), T2016, Taishō vol. 48. All phenomena as mind; mind as the totalizing principle.
+- Yongming Yanshou (永明延壽). *Wànshàn tóngguī jí* (萬善同歸集), T2017, Taishō vol. 48. Samantabhadra's action as the discipline of principle.
+- Yunqi Zhuhong (雲棲祩宏). *Āmítuó-jīng shūchāo* (阿彌陀經疏鈔), X22n0424, *Wàn xùzàng* vol. 22. Phenomenal-holding / principial-holding (*shì-chí / lǐ-chí*); Samantabhadra's vow-king does not depart from the present thought.
+- Ouyi Zhixu (蕅益智旭). *Āmítuó-jīng yàojiě* (阿彌陀經要解), T1762, Taishō vol. 37. The guiding wheel of all practices.
+- Hanshan Deqing (憨山德清). *Guānxīn wúmén* (觀心無門), X73n1453, *Wàn xùzàng* vol. 73. The method of observing-the-mind.
+- Hanshan Deqing (憨山德清). *Mèng yóu jí* (夢遊集), X73n1456, *Wàn xùzàng* vol. 73.
+- Zhongfeng Mingben (中峰明本). *Sānshí xìniàn* (三時繫念), X74n1464, *Wàn xùzàng* vol. 74. The complete ten-vow set.
+
+### III. Modern Scholarship
 
 - Hershock, Peter D. *Buddhism and Intelligent Technology: Toward a More Humane Future*. London: Bloomsbury Academic, 2021.
 - Lopez, Donald S., Jr. *The Scientific Buddha: His Short and Happy Life*. Terry Lectures. New Haven: Yale University Press, 2012.
@@ -340,7 +352,7 @@ NIAN's coda business stops here. *Buddhānusmṛti* is still *buddhānusmṛti*.
 - Sharf, Robert H. "Buddhist Modernism and the Rhetoric of Meditative Experience." *Numen* 42, no. 3 (1995): 228–283.
 - Cox, Collett. (Cited by convention for "non-associated formations"; see her work on Sarvāstivāda *abhidharma*, especially her treatment of *cittaviprayuktasaṃskāra*.)
 
-### III. Sūtra & Śāstra Index
+### IV. Sūtra & Śāstra Index
 
 | Short title | Full title | Author / Translator | Taishō |
 |------|------|------------|--------|
@@ -366,7 +378,7 @@ NIAN's coda business stops here. *Buddhānusmṛti* is still *buddhānusmṛti*.
 
 ---
 
-### IV. Cross-Reference to Series Papers
+### V. Cross-Reference to Series Papers
 
 The doctrinal connections between this paper and adjacent papers are as follows.
 

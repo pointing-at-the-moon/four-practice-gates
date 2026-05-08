@@ -293,7 +293,14 @@ This perfect-teaching positioning of *niànfó*, in the late sixth century, is t
 - *Wénshū-shīlì suǒshuō Móhē-bōrě-bōluómì-jīng* 文殊師利所說摩訶般若波羅蜜經. Translated by Mandrasena 曼陀羅仙 of the Liang dynasty. CBETA T0232 (Taishō vol. 8).
 - *Huá-yán-jīng xíng-yuàn-pǐn shū-chāo* 華嚴經行願品疏鈔. Commentary by Tang Chengguan 澄觀, sub-commentary by Zongmi 宗密. CBETA X05n0229 (*Wàn xùzàng* vol. 5).
 
-### II. Modern Scholarship
+### II. Patriarchal Commentaries
+
+- Zhiyi (智顗, 538–597, spoken), Guanding (灌頂, 594–632, recorded). *Guān wúliàng shòu fó jīng shū* 觀無量壽佛經疏 (*Commentary on the Sūtra on the Contemplation of Amitāyus*), spoken by Zhiyi. Taishō vol. 37, no. T1750. **Primary source** of this paper (§IV) — cited in its capacity as an intra-Buddhist commentarial lens on the *Contemplation Sūtra*. First cited 1021 by Zhili; authorship attributed to Zhiyi is **disputed** in scholarship.
+- Zhili (知禮, 960–1028). *Guān wúliàng shòu fó jīng shū miàozōng-chāo* 觀無量壽佛經疏妙宗鈔 (*Sub-Commentary on the Miaozong Tradition of the Commentary on the Sūtra on the Contemplation of Amitāyus*), 10 fascicles, Taishō vol. 37, no. T1751. Northern Song, 1021 CE. Deepening of Zhiyi's commentary from the Song-dynasty Tiantai perspective.
+- Zhiyi (智顗, spoken), Guanding (recorded). *Móhē zhǐguān* 摩訶止觀 (*Mahāyāna Calming-and-Contemplation*), 30 fascicles, Taishō vol. 46, no. T1911. The doctrinal framework of the four *samādhi*s.
+- Zongmi (宗密). *Huáyán-jīng xíng-yuàn pǐn shūchāo* 華嚴經行願品疏鈔 (*Commentary on the Practices and Vows Chapter Commentary*), Chengguan's *Separate Commentary* with Zongmi's *Sub-commentary*, Wànxù cáng X05n0229. Cross-reference to P25.
+
+### III. Modern Scholarship
 
 - Donner, Neal, and Daniel B. Stevenson. *The Great Calming and Contemplation: A Study and Annotated Translation of the First Chapter of Chih-i's Mo-ho chih-kuan*. Honolulu: University of Hawai'i Press, 1993.
 - Stevenson, Daniel B. "The Four Kinds of Samādhi in Early T'ien-t'ai Buddhism." In Peter N. Gregory, ed., *Traditions of Meditation in Chinese Buddhism*, 45–97. Honolulu: University of Hawai'i Press, 1986.
@@ -302,7 +309,21 @@ This perfect-teaching positioning of *niànfó*, in the late sixth century, is t
 
 ---
 
-### IV. Cross-Reference to Series Papers
+### III. Sūtra & Śāstra Index
+
+| Abbr. | Full Title | Translator / Author | Date |
+|---|---|--|------|
+| T1911 | *Móhē zhǐguān* 摩訶止觀 (*Mahāyāna Calming-and-Contemplation*) | Zhiyi (spoken) / Guanding (recorded) | Sui Kaihuang 13–18, 593–598 CE |
+| T1962 | *Wǔ fāngbiàn niànfó mén* 五方便念佛門 (*Five Expedient Gates of Buddha-Recollection*) | attributed to Zhiyi (authorship disputed) | crystallized between Sui and Tang |
+| T1750 | *Guān wúliàng shòu fó jīng shū* 觀無量壽佛經疏 (*Commentary on the Sūtra on the Contemplation of Amitāyus*) | attributed to Zhiyi ⚠️ disputed (first cited 1021) | Sui (attribution) / Northern Song (first citation) |
+| T1751 | *Guān wúliàng shòu fó jīng shū miàozōng-chāo* 觀無量壽佛經疏妙宗鈔 | Siming Zhili 四明知禮 (960–1028) | Northern Song, 1021 CE |
+| T0418 | *Bānzhōu sānmèi jīng* 般舟三昧經 (*Pratyutpanna-samādhi Sūtra*) | Lokakṣema of Later Han (後漢·支婁迦讖) | 179 CE |
+| T0232 | *Wénshū-shīlì suǒshuō Móhē-bōrě-bōluómì jīng* 文殊師利所說摩訶般若波羅蜜經 (*Mañjuśrī Prajñāpāramitā Sūtra*) | Mandrasena 曼陀羅仙 of Liang dynasty | Liang |
+| X05n0229 | *Huá-yán-jīng xíng-yuàn-pǐn shū-chāo* 華嚴經行願品疏鈔 (*Commentary on the Vows of Samantabhadra*) | Chengguan 澄觀 (commentary) / Zongmi 宗密 (sub-commentary) | Tang |
+
+---
+
+### V. Cross-Reference to Series Papers
 
 ### Backward references
 

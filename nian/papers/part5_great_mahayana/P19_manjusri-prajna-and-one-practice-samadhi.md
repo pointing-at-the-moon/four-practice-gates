@@ -461,16 +461,19 @@ Part V, across its eight papers — P12 (the *Śūraṃgama* on "gathering the s
 - T0232 *Wénshū shīlì suǒ shuō móhē bōrěbōluómì jīng* 文殊師利所說摩訶般若波羅蜜經 (*Mañjuśrī-prajñāpāramitā-sūtra*), translated by Mandrasena (Liang Tianjian era, c. 503 CE), two fascicles, *Taishō Shinshū Daizōkyō* vol. 8.
 - T0233 *Wénshū shīlì suǒ shuō bōrěbōluómì jīng* 文殊師利所說般若波羅蜜經, translated by Saṃghavarman (Liang Tianjian–Putong years, c. 506–520 CE), one fascicle, *Taishō* vol. 8.
 - T0670 *Léngqié ábátuōluó bǎo jīng* 楞伽阿跋多羅寶經 (*Laṅkāvatāra-sūtra*), translated by Guṇabhadra, four fascicles, *Taishō* vol. 16.
-- T1753 *Guān Wúliàngshòu fó jīng shū* 觀無量壽佛經疏 (*Guānjīng Sìtiè Shū* 觀經四帖疏), compiled by Shandao, four fascicles, *Taishō* vol. 37.
-- T1911 *Móhē zhǐguān* 摩訶止觀, spoken by Zhiyi and recorded by Guanding, twenty fascicles, *Taishō* vol. 46.
-- T1958 *Ānlè Jí* 安樂集, compiled by Daochuo, two fascicles, *Taishō* vol. 47.
-- T1959 *Guānniàn Ēmítuófó Xiānghǎi Sānmèi Gōngdé Fǎmén* 觀念阿彌陀佛相海三昧功德法門, compiled by Shandao, one fascicle, *Taishō* vol. 47.
-- T2008 *Liùzǔ dàshī fǎbǎo tánjīng* 六祖大師法寶壇經, edited by Zongbao, one fascicle, *Taishō* vol. 48.
-- T2017 *Wànshàn Tóngguī Jí* 萬善同歸集, compiled by Yongming Yanshou, three fascicles, *Taishō* vol. 48.
-- T2076 *Jǐngdé chuándēng lù* 景德傳燈錄, compiled by Daoyuan, thirty fascicles, *Taishō* vol. 51.
-- T2837 *Léngqié shīzī jì* 楞伽師資記, compiled by Jìngjué, one fascicle, *Taishō* vol. 85.
 
-### II. Modern Scholarship
+### II. Patriarchal Commentaries
+
+- T1753 *Guān Wúliàngshòu fó jīng shū* 觀無量壽佛經疏 (*Guānjīng Sìtiè Shū* 觀經四帖疏), compiled by Shandao, four fascicles, *Taishō* vol. 37. **Shandao's *Guan-jing* commentary — key interlocutor in §3.5.**
+- T1911 *Móhē zhǐguān* 摩訶止觀, spoken by Zhiyi and recorded by Guanding, twenty fascicles, *Taishō* vol. 46. **Zhiyi's *Zhiguan* — key interlocutor in §3.4.**
+- T1958 *Ānlè Jí* 安樂集, compiled by Daochuo, two fascicles, *Taishō* vol. 47. **Daochuo's *Anle Ji* — key interlocutor in §3.6.**
+- T1959 *Guānniàn Ēmítuófó Xiānghǎi Sānmèi Gōngdé Fǎmén* 觀念阿彌陀佛相海三昧功德法門, compiled by Shandao, one fascicle, *Taishō* vol. 47. **Shandao's *Guannian Famen* — key interlocutor in §3.5.**
+- T2008 *Liùzǔ dàshī fǎbǎo tánjīng* 六祖大師法寶壇經, edited by Zongbao, one fascicle, *Taishō* vol. 48. **Huineng's *Platform Sūtra* — key interlocutor in §3.3.**
+- T2017 *Wànshàn Tóngguī Jí* 萬善同歸集, compiled by Yongming Yanshou, three fascicles, *Taishō* vol. 48. **Yongming's *Wanshan Ji* — key interlocutor in §3.7.**
+- T2076 *Jǐngdé chuándēng lù* 景德傳燈錄, compiled by Daoyuan, thirty fascicles, *Taishō* vol. 51. **Daoyuan's *Transmission of the Lamp* — background for Chan genealogy.**
+- T2837 *Léngqié shīzī jì* 楞伽師資記, compiled by Jìngjué, one fascicle, *Taishō* vol. 85. **Jingjue's *Shizi Ji* — background for East Mountain lineage.**
+
+### III. Modern Scholarship
 
 - Bielefeldt, Carl. *Dōgen's Manuals of Zen Meditation*. Berkeley: University of California Press, 1988.
 - Conze, Edward. *The Perfection of Wisdom in Eight Thousand Lines and Its Verse Summary*. Bolinas: Four Seasons Foundation, 1973.
@@ -485,7 +488,7 @@ Part V, across its eight papers — P12 (the *Śūraṃgama* on "gathering the s
 - Sharf, Robert H. "Mindfulness and Mindlessness in Early Chan." *Philosophy East and West* 64/4 (2014): 933–964.
 - Stevenson, Daniel B. "The Four Kinds of Samādhi in Early T'ien-t'ai Buddhism." In Gregory 1986, 45–97.
 
-### III. Sūtra & Śāstra Index
+### IV. Sūtra & Śāstra Index
 
 | Abbreviation | Full Title | *Taishō* No. | Author / Translator |
 |---|---|---|---|
@@ -503,7 +506,7 @@ Part V, across its eight papers — P12 (the *Śūraṃgama* on "gathering the s
 
 ---
 
-### IV. Cross-Reference to Series Papers
+### V. Cross-Reference to Series Papers
 
 **Backward cross-references (within Part V and earlier):**
 

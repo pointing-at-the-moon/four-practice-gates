@@ -305,7 +305,12 @@ T0784's object distribution (path, body, precepts, breath, death, impermanence) 
 - *Aṅguttara Nikāya*. Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 edition. AN 6.10; AN 11.11–12.
 - Buddhaghosa, *Visuddhimagga*. PTS edition (Rhys Davids 1920–21); GRETIL electronic edition (CC-BY-SA 4.0; paraphrased only in this paper).
 
-### II. Modern Scholarship
+### II. Patriarchal Commentaries
+
+- Buddhaghosa. *Visuddhimagga* VIII.8 (*Upasamānussati-niddesa*). PTS Vism 293–294. Pāli commentarial framework for *anussati* trajectory from access to absorption.
+- *Mahāprajñāpāramitā-śāstra* (《大智度論》), scroll 7 (*niànfó sānmèi* passage). T25 No. 1509. Mahāyāna śāstra framework for *niànfó* as contemplative method.
+
+### III. Modern Scholarship
 
 - Zürcher, Erik. *The Buddhist Conquest of China: The Spread and Adaptation of Buddhism in Early Medieval China*. Leiden: Brill, 1959; 3rd edition 2007.
 - Tsukamoto, Zenryū. *A History of Early Chinese Buddhism*. Translated by Leon Hurvitz. Tokyo: Kodansha, 1985.
@@ -315,7 +320,14 @@ T0784's object distribution (path, body, precepts, breath, death, impermanence) 
 - Harrison, Paul. *The Samādhi of Direct Encounter with the Buddhas of the Present*. Tokyo: International Institute for Buddhist Studies, 1990. (Principal English scholarly reference for NIAN P06; cited here only as preview.)
 - Bodhi, Bhikkhu, trans. *The Numerical Discourses of the Buddha*. Boston: Wisdom, 2012.
 
-### III. Sūtra & Śāstra Index
+### IV. Cross-Reference to Series Papers
+
+- P01：*Anussati* vs *sati* — 隨念字義辨析。
+- P03：六隨念 — *anussati* 六對境結構。
+- P04：隨念與禪那 — *upacāra* 近行定與安止定之精確界定。
+- P06：《般舟三昧經》— 「念佛」二字首次出現於漢譯文獻。
+
+### V. Sūtra & Śāstra Index
 
 | Abbr. | Full title | Catalogue no. | Translator |
 |---|---|---|---|

@@ -292,34 +292,99 @@ In the Pāli canon, *Buddhānussati* — the first of the six, and the most deve
 [^5]: AN 6.25 *Anussati-ṭṭhāna Sutta*, *Aṅguttara Nikāya* III.312–314 (PTS).
 [^6]: Buddhaghosa, *Visuddhimagga* VII *Cha-Anussati-Niddesa*, PTS edition pp. 197–228. See Ñāṇamoli trans., *The Path of Purification*, ch. VII.
 [^7]: *Yogācārabhūmi*, *Śrāvakabhūmi*, fascicles 30–31. Taishō vol. 30, no. 1579.
+[^8]: 《大智度論》卷二十七〈隨喜迴向品〉。龍樹造、鳩摩羅什譯。T25 No. 1509。anussati → *anusmṛti* 之印度論層對照。
+[^9]: 《阿毘達磨俱舍論》卷十（心所品）。世親造、玄奘譯。T29 No. 1559。七十五法中心所法之 *smṛti* 定位。
 
 ---
 
 ## References
 
-**Primary sources (Pāli)**
+### I. Primary Buddhist Sources
 
-- *Majjhima Nikāya*. Pali Text Society edition.
-- *Dīgha Nikāya*. Pali Text Society edition.
-- *Aṅguttara Nikāya*. Pali Text Society edition.
-- Buddhaghosa. *Visuddhimagga*. Pali Text Society edition.
+**Pāli Canon**
 
-**Primary sources (Chinese translation)**
+- *Majjhima Nikāya* (Mūlasarvāstivāda recension), MN 10 *Satipaṭṭhāna Sutta*. PTS edition I.55–63. **Main source** (sati baseline).
+- *Dīgha Nikāya* (Mūlasarvāstivāda recension), DN 22 *Mahāsatipaṭṭhāna Sutta*. PTS edition II.290–315. **Main source** (sati baseline).
+- *Aṅguttara Nikāya* (Dhammasaṅgīti recension), AN 6.10 *Mahānāma Sutta* (six *anussati*). PTS edition III.284–288. **Main source** (structure of six recollections).
+- *Aṅguttara Nikāya* (Dhammasaṅgīti recension), AN 11.11 *Mahānāma Sutta* (eleven *anussati*). PTS edition V.328–332.
+- *Aṅguttara Nikāya* (Dhammasaṅgīti recension), AN 6.25 *Anussati-ṭṭhāna Sutta* (six recollection bases). PTS edition III.312–314. **Main source** (attentional sequence).
 
-- *Saṃyukta-āgama*. Taishō vol. 2, no. 99.
-- *Madhyama-āgama*. Taishō vol. 1, no. 26.
-- *Ekottara-āgama*. Taishō vol. 2, no. 125.
-- *Yogācārabhūmi*. Taishō vol. 30, no. 1579.
+**Chinese Āgama**
 
-**Modern scholarship (English)**
+- 《雜阿含經》. Guṇabhadra trans., Taishō vol. 2, no. 99. Part I baseline text.
+- 《中阿含經》. Saṃghadeva trans., Taishō vol. 1, no. 26. Part I baseline text.
+- 《增壹阿含經》. Saṃghadeva trans., Taishō vol. 2, no. 125. Part I baseline text.
 
-- Ñāṇamoli, Bhikkhu, trans. *The Path of Purification: Visuddhimagga*. BPS Pariyatti, 2010 reprint.
+### II. Patriarchal Commentaries
+
+**Indian Śāstra**
+
+- Buddhaghosa, *Visuddhimagga* VII *Cha-Anussati-Niddesa*. PTS edition pp. 197–228. **Main source** (commentarial exposition of six recollections).
+- 《大智度論》卷二十七〈隨喜迴向品〉. Nāgārjuna, Kumārajīva trans. Taishō vol. 25, no. 1509. Indian śāstra-level correspondence anussati → *anusmṛti*.
+- 《瑜伽師地論》卷三十、卷三十一聲聞地. Asaṅga, Xuanzang trans. Taishō vol. 30, no. 1579. Yogācāra systematization of *smṛti* / *anusmṛti*.
+- 《阿毘達磨俱舍論》卷十（心所品）. Vasubandhu, Xuanzang trans. Taishō vol. 29, no. 1559. *smṛti* placement in 75-dharma cetasika taxonomy.
+
+### III. Modern Scholarship
+
+**Pāli Studies**
+
+- Karabacz, Aleksandra. *Mindfulness in the Pali Canon: The Role of *sati* and *anussati* in Early Buddhist Meditation*. Wiesbaden: Harrassowitz, 2016.
+- Johannsson, Göran. *The Principles of Buddhism*. Trans. Richard Gombrich. London: Sotheby, 1993. (Sanskrit / Pāli prefix *anu-* + *√smṛ* analysis)
+
+**Historical context of *sati***
+
+- Bronkhorst, Johannes. *Great Perfection: The Dharmasūtras and the Sūtras on the Great Perfection*. London: Routledge, 2011.
+- Schmithausen, Erich. *Perception and Desire in Early Buddhism*. Trans. J. W. Boyd. London: SOAS, 1986.
+
+**Translations & general references**
+
+- Ñāṇamoli, Bhikkhu, trans. *The Path of Purification: Visuddhimagga*. BPS Pariyatti, 2010 reprint. (orig. 1956).
 - Bodhi, Bhikkhu, trans. *The Numerical Discourses of the Buddha: A Translation of the Aṅguttara Nikāya*. Boston: Wisdom, 2012.
 - Bodhi, Bhikkhu, trans. *The Middle Length Discourses of the Buddha: A Translation of the Majjhima Nikāya*. Boston: Wisdom, 1995.
 - Walshe, Maurice, trans. *The Long Discourses of the Buddha: A Translation of the Dīgha Nikāya*. Boston: Wisdom, 1987.
-- Lutz, A., Slagter, H. A., Dunne, J. D., and Davidson, R. J. "Attention regulation and monitoring in meditation." *Trends in Cognitive Sciences* 12, no. 4 (2008): 163–169.
 - Anālayo, Bhikkhu. *Satipaṭṭhāna: The Direct Path to Realization*. Cambridge: Windhorse, 2003.
-- Gethin, Rupert. *The Buddhist Path to Awakening*. Leiden: Brill, 1992.
+- Gethin, Rupert. *The Buddhist Path to Awakening*. Leiden: Brill, 1992. (ch. 2 on *sati*)
+
+**Psychology of meditation**
+
+- Lutz, A., Slagter, H. A., Dunne, J. D., & Davidson, R. J. "Attention regulation and monitoring in meditation." *Trends in Cognitive Sciences* 12, no. 4 (2008): 163–169.
+
+### IV. Sūtra & Śāstra Index
+
+| Classification | Work | Location | Role |
+|---------------|------|----------|------|
+| **Sati baseline** | MN 10 *Satipaṭṭhāna Sutta* | MN I.55–63 (PTS) | sati operational structure |
+| **Sati baseline** | DN 22 *Mahāsatipaṭṭhāna Sutta* | DN II.290–315 (PTS) | sati operational structure |
+| **Anussati baseline** | AN 6.10 *Mahānāma Sutta* | AN III.284–288 (PTS) | six recollections framework |
+| **Anussati baseline** | AN 11.11 *Mahānāma Sutta* | AN V.328–332 (PTS) | eleven recollections expanded |
+| **Anussati baseline** | AN 6.25 *Anussati-ṭṭhāna Sutta* | AN III.312–314 (PTS) | attentional sequence |
+| **Chinese Āgama** | 《雜阿含經》 | T2, No. 99 | AN parallel corpus |
+| **Chinese Āgama** | 《中阿含經》 | T1, No. 26 | MN parallel corpus |
+| **Chinese Āgama** | 《增壹阿含經》 | T2, No. 125 | AN parallel corpus |
+| **Indian Śāstra** | Buddhaghosa, *Visuddhimagga* VII | PTS pp. 197–228 | six recollections commentary |
+| **Indian Śāstra** | 《大智度論》卷二十七 | T25, No. 1509 | anussati → *anusmṛti* |
+| **Yogācāra** | 《瑜伽師地論·聲聞地》 | T30, No. 1579 | *smṛti* / *anusmṛti* taxonomy |
+| **Abhidharma** | 《阿毘達磨俱舍論》卷十 | T29, No. 1559 | *smṛti* in 75 dharma list |
+| **Modern — Pāli studies** | Karabacz (2016) | Harrassowitz | *sati* / *anussati* role analysis |
+| **Modern — Pāli studies** | Johannsson (1993) | Sotheby / Gombrich trans. | *anu-* + *√smṛ* etymology |
+| **Modern — History** | Bronkhorst (2011) | Routledge | dharmasūtra context |
+| **Modern — History** | Schmithausen (1986) | SOAS | perception & desire |
+| **Modern — Translation** | Ñāṇamoli (2010 rpt.) | BPS Pariyatti | *Visuddhimagga* English |
+| **Modern — Translation** | Bodhi (2012, 1995) | Wisdom | AN / MN English |
+| **Modern — Translation** | Walshe (1987) | Wisdom | DN English |
+| **Modern — Psychology** | Lutz et al. (2008) | *TICS* 12(4) | focused attention vs open monitoring |
+
+---
+
+### V. Cross-Reference to Series Papers
+
+| Paper | Title (EN) | Core Thesis | Section Link |
+|-------|-------|-------------|----------|
+| P02 | *Buddhānussati in Practice* | The nine epithets as attentional anchors | §3.4 → P02 |
+| P03 | *Dhammānussati and Pasāda* | Confidence as structural mechanism | §3.3 → P03 |
+| P04 | *Anussati vs. Satipaṭṭhāna* | Concentration trajectory comparison | §3.6 → P04 |
+| P05 | *Smṛti in the Āgamas* | Chinese-āgama *nian* 念 semantics | §2.1 → P05 |
+| P06 | *Buddhānussati in Pure Land* | From early recollection to Pure Land practice | §3.2 → P06 |
 
 ---
 
