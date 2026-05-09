@@ -263,10 +263,11 @@ Another contemporary-liable reading is the **wealth-oligarchy misreading** — "
 - **NIAN volume Part I, P02 *Nine Epithets of the Buddha***: The term *sandiṭṭhika* has its canonical locus in the *Dhammānussati* standard formula "*svākkhāto bhagavatā dhammo, sandiṭṭhiko, akāliko* …" (as a "visible" attribute of the Dhamma); this paper concretizes the term at the *dāna* end (as a "visible" attribute of the fruit of giving), forming a structural resonance with the Nine-Epithets analysis of P02 at the DĀNA end.
 - **NIAN volume Part I, P03 *Six Recollection System***: *Cāgānussati* is the fifth node in the six recollections, taking the giver's past act of giving as its object; the second step in §III 3.1 of this paper — Sīha's self-attestation as experiential confirmation — is the concrete manifestation of *cāgānussati*'s object-operation at the AN 5.34 end, as argued in NIAN volume P03. The two volumes are structurally interlocked on the *cāga* axis.
 
+
 ---
 
-**Author:** 釋慧鏡 (Shi Huijing)
-**Project:** 指月 *Pointing at the Moon · DĀNA volume*
-**License:** CC BY-NC-SA 4.0
-**CBETA proofing:** Citations from *Ekottara Āgama juan* 24, 〈Chapter of Good Assembly〉 sūtra 10; *juan* 51, 〈Chapter of the Parinirvāṇa of Mahāprajāpatī〉 sūtra 6; *juan* 3, 〈Chapter of Lay Disciples〉 sūtra 4; and *Madhyama Āgama juan* 4, 〈Chapter of Karma-Correspondence〉 sūtra 18 *Sīha Sutta* have all been proofed against the CBETA Electronic Tripiṭaka Collection v. 2024. Pāli citations (AN 5.34, AN 7.57, AN 5.36, AN 8.31, AN 8.32, It 26) follow the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 edition as hosted on SuttaCentral, with PTS numbering given in parallel; Bhikkhu Sujato's English translations are CC0-licensed. AN 8.12 *Sīhasutta*, AN 4.57–58, AN 4.51–53, AN 6.37, *Udāna* 4.3, SN 3.24, AN 5.38, *Vinaya Mahāvagga* VI.31 Sīha passage, and other texts not currently collected in vault-pali are not supplemented online per v2.5.2-NIAN discipline; Sīha's conversion biography uses *Madhyama Āgama juan* 4 *Sīha Sutta* as the Chinese replacement entry point.
-**GitHub:** https://github.com/pointing-at-the-moon/four-practice-gates
+*Paper:* DANA-P06 · *The Sīha Sutta* · **DĀNA · Part II · The Āgama View**
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates (四行門)
+*License:* CC BY-NC-SA 4.0
+*CBETA verification:* Citations from *Ekottara Āgama juan* 24, 51, 3, and *Madhyama Āgama juan* 4 sūtra 18 *Sīha Sutta* verified against CBETA Electronic Tripiṭaka 2024 edition. Pāli citations (AN 5.34, AN 7.57, AN 5.36, AN 8.31, AN 8.32, It 26) follow SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 with PTS numbering.
+*Repository:* https://github.com/pointing-at-the-moon/four-practice-gates

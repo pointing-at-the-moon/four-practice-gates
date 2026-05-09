@@ -307,10 +307,11 @@ Both axes together serve the *cāgānussati* established in P03 — a *dāna* ev
 - **This volume, P11 *From Dāna to Dāna-Pāramitā***: §IV's inward, soteriologically-vectored character of position 8 *cittālaṅkāra* runs in structural continuity with the *dāna-pāramitā* "three-sphere purity" (三輪體空) structure to be argued in P11 of Part IV. This paper serves as the Pāli-layer anchor for AN 8.31 position 8, and P11 will be the early-Mahāyāna-layer thoroughgoing unfolding of that anchor.
 - **NIAN volume Part I, P03 *The Six Recollections as a System***: within the same six-recollection material, the full skeleton of the positional structure of *cāgānussati* is unfolded by NIAN P03; the present paper (DĀNA P04) supplies the structural analysis of the preconditions for object-generation (motivation axis / quality axis). The two volumes are complementary at the *cāgānussati* node: NIAN P03 treats the anussati verb-perspective, DĀNA P04 treats the motivation-quality configuration preceding object-generation.
 
+
 ---
 
-**Author:** 釋慧鏡 (Shi Huijing)
-**Project:** 指月 *Pointing at the Moon · DĀNA volume*
-**License:** CC BY-NC-SA 4.0
-**CBETA proofing:** The citations from *Ekottara Āgama juan* 37, "Chapter on the Eight Difficulties," sūtras 8 and 9, and the T0099 passages referenced from *Saṃyukta Āgama juan* 33, have all been proofed against the CBETA Electronic Tripiṭaka Collection v. 2024. The Pāli citations follow the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 edition as hosted on SuttaCentral, with PTS numbering given in parallel. Bhikkhu Sujato's English translations are CC0-licensed. AN 8.33 *Dānavatthusutta* is absent from the current state of the vault-pali collection; per v2.5.2-NIAN vault-only discipline, this paper does not cross-check it online.
-**GitHub:** https://github.com/pointing-at-the-moon/four-practice-gates
+*Paper:* DANA-P04 · *Eight Bases of Giving* · **DĀNA · Part II · Āgama View**
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates (四行門)
+*License:* CC BY-NC-SA 4.0
+*CBETA verification:* Citations from *Ekottara Āgama juan* 37 and *Saṃyukta Āgama juan* 33 verified against CBETA Electronic Tripiṭaka 2024 edition. Pāli citations follow SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 with PTS numbering.
+*Repository:* https://github.com/pointing-at-the-moon/four-practice-gates

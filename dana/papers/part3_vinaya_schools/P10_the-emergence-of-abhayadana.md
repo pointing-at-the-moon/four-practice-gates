@@ -396,8 +396,22 @@ Wittgenstein, Ludwig. *Philosophische Untersuchungen / Philosophical Investigati
 - DANA-P20–P22 *Body-Giving in the Lotus Sūtra*: P10 does not engage body-life giving; the body-offering narratives across the *Lotus*'s chapters are the home-court of P20–P22.
 - DANA-P24–P25 *Samantabhadra's Vast Offerings*: P10's "city where fearlessness is given" idiom does not extend into the *Avataṃsaka*'s Dharmadhātu-scale offering; the third of Samantabhadra's ten great vows ("vast-offering cultivation") is the home-court of P24–P25.
 
+
+
+### IV. Sutra & Śāstra Index
+
+| Abbrev. | Full Name | Author/Translator | Taisho |
+|---------|---------|---------|-------|
+| 雜阿含經 | 雜阿含經 | unknown | T0100 |
+| 雜寶藏經 | 雜寶藏經 | unknown | T0203 |
+| 四分律 | 四分律 | unknown | T1425 |
+| 優婆塞戒 | 優婆塞戒經 | unknown | T1509 |
+
+
 ---
 
-**License:** CC BY-NC-SA 4.0
-**Canonical source collation:** CBETA Chinese Buddhist Electronic Text Association
-**Repository:** github.com/pointing-at-the-moon/four-practice-gates
+*Paper:* DANA-P10 · *The Emergence of Abhayadāna* · **DĀNA · Part III · Vinaya and Early Schools**
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates (四行門)
+*License:* CC BY-NC-SA 4.0
+*CBETA verification:* Citations from the four Vinaya collections verified against CBETA Electronic Tripiṭaka 2024 edition.
+*Repository:* https://github.com/pointing-at-the-moon/four-practice-gates

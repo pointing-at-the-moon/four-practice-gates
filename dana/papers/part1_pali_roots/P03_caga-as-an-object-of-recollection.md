@@ -295,10 +295,11 @@ Already surfaced in §3.3; briefly restated here. The previous paper's "systemat
 
 - ***Pointing at the Moon* Part V, *Diamond Sūtra* series**: the "event-character object" and "object not centered on the self" structures argued in §3.3 have methodological resonance with the *Diamond Sūtra*'s non-abiding mind — "should arouse the mind without abiding anywhere." *Cāga*-recollection stops at *upacāra*; *prajñā*'s non-abiding mind points toward *appanā* and liberation itself — the structural relation between the two on the meditative path will be unfolded further in P15.
 
+
 ---
 
-**Author:** Shi Huijing (釋慧鏡)
-**Project:** *Pointing at the Moon* 指月 · DĀNA Volume (《施》卷)
-**License:** CC BY-NC-SA 4.0
-**CBETA collation:** Citations from *Saṃyukta Āgama* (雜阿含經) *juan* 33 sūtras 931 and 932, and from *Ekottara Āgama* (增一阿含經) *juan* 1 "Chapter on the Ten Recollections" and *juan* 2 "Chapter of Extended Exposition" are collated against CBETA's Electronic Buddhist Canon edition, v. 2024. Pāli citations follow the SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 edition, with dual-track PTS reference numbers. Bhikkhu Sujato's English renderings are under CC0 license. *Visuddhimagga* citations follow the Ñāṇamoli English translation and the PTS Pāli text, rendered in paraphrase-only form in accord with the GRETIL CC-BY-SA licensing discipline.
-**GitHub:** https://github.com/pointing-at-the-moon/four-practice-gates
+*Paper:* DANA-P03 · *Cāga as an Object of Recollection* · **DĀNA · Part I · Pāli Roots**
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates (四行門)
+*License:* CC BY-NC-SA 4.0
+*CBETA verification:* Citations from *Saṃyukta Āgama* *juan* 33 sūtras 931 and 932, and from *Ekottara Āgama* *juan* 1 and 2 collated against CBETA Electronic Tripiṭaka 2024 edition. Pāli citations follow SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 with PTS numbering.
+*Repository:* https://github.com/pointing-at-the-moon/four-practice-gates

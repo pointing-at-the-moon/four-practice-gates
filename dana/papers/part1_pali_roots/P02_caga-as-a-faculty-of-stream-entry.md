@@ -3,6 +3,7 @@ title: "Cāga as a Faculty of Stream-Entry — The Independent Position of Cāga
 author: "Shi Huijing"
 series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu · Part I · Pāli Roots"
 paper_id: "DANA-P02"
+date: "2026-04"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -397,10 +398,11 @@ The more immediate extension is the next chapter (P03, *The Six Recollections an
 - **NIAN P03, *The Six Recollections as a System***: §II Group 3's use of AN 6.25 and AN 11.11 shares source material with the six-recollection skeleton treated in *NIAN* P03. *NIAN* unfolds the material from the *recollection* (念) angle, this volume unfolds it from the *letting-go* (捨 / *cāga*) angle — same material, distinct depth-allocations per the project's cross-volume convention.
 - ***Pointing at the Moon* Octalogy, S2 series (*Heart Sūtra*)**: §3.5's claim that "mine-making is the root construction of saṃsāra" runs methodologically parallel to the *Heart Sūtra*'s "seeing through the five aggregates' emptiness, liberating from all suffering" — *cāga* works the "mine" face of the five-aggregate self-grasping, while *prajñā* works the "I" face. A full cross-reference at the mental-factor level will appear in P15.
 
+
 ---
 
-**Author:** Shi Huijing (釋慧鏡)
-**Project:** Pointing at the Moon · *DĀNA* volume
-**License:** CC BY-NC-SA 4.0
-**CBETA Verification:** All citations from *Saṃyuktāgama* fascicle 33, sūtras 927–936, have been verified against the CBETA Electronic Tripiṭaka v. 2024. Pāli references use the SuttaCentral edition (Mahāsaṅgīti Tipiṭaka Buddhavasse 2500), with PTS numbering provided in parallel. Bhikkhu Sujato's English translations are CC0-licensed.
-**GitHub:** https://github.com/pointing-at-the-moon/four-practice-gates
+*Paper:* DANA-P02 · *Cāga as a Faculty of Stream-Entry* · **DĀNA · Part I · Pāli Roots**
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates (四行門)
+*License:* CC BY-NC-SA 4.0
+*CBETA verification:* Citations from *Saṃyuktāgama* fascicle 33, sūtras 927–936, verified against CBETA Electronic Tripiṭaka 2024 edition. Pāli references follow SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 with PTS numbering.
+*Repository:* https://github.com/pointing-at-the-moon/four-practice-gates

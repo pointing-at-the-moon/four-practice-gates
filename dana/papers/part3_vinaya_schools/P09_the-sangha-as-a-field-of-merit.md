@@ -295,9 +295,10 @@ If the vinaya's answer to the temporal problem of material giving is the suspens
 - **DANA-P06** *Sīha Sutta and the Four-Plus-One* — temporal axis of fruit; AN 5.34 *Sīhasenāpatisutta* as the *sandiṭṭhika* / *samparāyika* epistemic partition operating within *dānamaya*.
 - **DANA-P07** *Dakkhiṇāvibhaṅga Sutta and the Category Switch* — recipient-category axis; MN 142 as the canonical distinction between the fourteen personal gifts and the seven saṅgha-bound gifts. The recipient-category distinction of P07 is the proximate precursor to the class-beneficiary structure of P09.
 - **DANA-P08** *The Three Bases of Meritorious Activity* — three-base container (*puññakiriyavatthu*); *dānamaya* as the volitional entrance, the twin-engine observation of the sense-sphere realm at AN 8.36, and the cross-sectarian stability of 施業 / 平等業 / 思惟業. Direct forward-bridge to P09's institutional extension of the entrance-function.
-- **DANA-P10** *Abhayādāna: The Gift of Fearlessness* (forthcoming) — Part III second paper; the structural counterpart for non-material giving. The provisional thesis (see P09 §VI open-question): *abhayādāna* institutionalizes through the *sīla* (virtue) layer rather than the property layer.
-- **DANA-P11** *From Dāna to Dāna-Pāramitā* (forthcoming) — Part IV opening; the Mahāyāna turn in which the institutional structure of P09 is re-registered as the internal vow-horizon of the bodhisattva's *dāna-pāramitā*.
-- **DANA-P30** *What You Just Walked Through* (forthcoming) — Part IX volume-closing synthesis. The DĀNA volume-thesis (giving as *ahaṁkāra*-loosening) culminates here; P09's institutional landing is one of its structural foundations.
+- **DANA-P10** *Abhayādāna: The Gift of Fearlessness* — Part III second paper; the structural counterpart for non-material giving. The provisional thesis (see P09 §VI open-question): *abhayādāna* institutionalizes through the *sīla* (virtue) layer rather than the property layer.
+- **DANA-P11** *From Dāna to Dāna-Pāramitā* — Part IV opening; the Mahāyāna turn in which the institutional structure of P09 is re-registered as the internal vow-horizon of the bodhisattva's *dāna-pāramitā*.
+- **DANA-P30** *What You Just Walked Through* — Part IX volume-closing synthesis. The DĀNA volume-thesis (giving as *ahaṁkāra*-loosening) culminates here; P09's institutional landing is one of its structural foundations.
+
 
 ---
 
@@ -308,5 +309,3 @@ If the vinaya's answer to the temporal problem of material giving is the suspens
 *License:* CC BY-NC-SA 4.0
 *Canonical source verification:* All Pāli citations verified against Bhikkhu Brahmali's CC0 Vinaya translation at SuttaCentral (https://suttacentral.net). All Chinese citations verified against CBETA-derived Obsidian vault exports of the corresponding Taishō fascicles; electronic base-text is CBETA (Chinese Buddhist Electronic Text Association, https://www.cbeta.org).
 *Repository:* https://github.com/pointing-at-the-moon/four-practice-gates
-
-
