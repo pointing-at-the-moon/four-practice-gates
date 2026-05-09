@@ -20,6 +20,7 @@ license: "CC BY-NC-SA 4.0"
 **Date:** April 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
+**Series:** NIAN — Mindful of the Buddha
 
 ---
 
@@ -367,8 +368,8 @@ And concerning §3.2's third level — the fact that the Chinese Pure Land patri
 - **P15 — *Seeing the Form and Attaining the Precepts: The Precept-Dependent Verb-Axis of the Brahma-Net Bodhisattva Precepts and Continuous Buddha-Recollection*:** the boundaries of precept; pairs with the continuity requirement of P18 §6.1's "conditional supplying for the emergence of pure-reliance."
 - **P16 — *Confession as Buddha-Recollection: The Dream-Sighted Golden Drum of the Suvarṇaprabhāsa-sūtra as the Activating Device of the Dispersed Subject*:** event-chain of dispersed subject; P18 §6.1's single-practitioner internal-examination path forms, with P16's dispersed-subject activation, the inner-outer twin routes.
 - **P17 — *Hearts of All Buddhas First: The Laṅkā's Absence of Buddha-Recollection as the Scriptural Ground of Bodhidharma's Mind-Seal*:** object-substance (hearts-of-all-buddhas, *hṛdaya*); §I and §III of the present paper repeatedly mark the forward handoff P17 → P18 — P17 establishes the epistemological face of the object-substance; P18 establishes the ontological-mechanical face of the functional-stratum reversal; the two, on the Yogācāra horizon, co-constitute the twin-axis structure of buddha-recollection.
-- **P19 — *The Mañjuśrī-Prajñāpāramitā Single-Practice Samādhi* (forthcoming):** method-form (*eka-vyūha-samādhi*); P18 §6.2 marks the explicit forward handoff to P19's home territory — the complete tri-axis P17 → P18 → P19: object-substance → functional mechanism → method-form.
-- **P20–P24 — *The Two-Line Interweaving of Pure Land and the Chinese Confluence* (forthcoming):** P18 §6.2 notes the fact that the Chinese Pure Land patriarchs do not engage the *Ghanavyūha*, and marks P18 as a constructive-bridge proposal rather than historical inquiry; Part VI will treat the historical and doctrinal interweaving of the Pure Land and Chan lines head-on.
+- **P19 — *The Mañjuśrī-Prajñāpāramitā Single-Practice Samādhi*:** method-form (*eka-vyūha-samādhi*); P18 §6.2 marks the explicit forward handoff to P19's home territory — the complete tri-axis P17 → P18 → P19: object-substance → functional mechanism → method-form.
+- **P20–P24 — *The Two-Line Interweaving of Pure Land and the Chinese Confluence*:** P18 §6.2 notes the fact that the Chinese Pure Land patriarchs do not engage the *Ghanavyūha*, and marks P18 as a constructive-bridge proposal rather than historical inquiry; Part VI treats the historical and doctrinal interweaving of the Pure Land and Chan lines head-on.
 
 ### V. Sūtra & Śāstra Index
 
@@ -379,7 +380,7 @@ And concerning §3.2's third level — the fact that the Chinese Pure Land patri
 | T0672 | *Laṅkāvatāra-sūtra* 大乘入楞伽經 | Śikṣānanda | Tang, 700–704 CE (P17 late layer) |
 | T0681 | *Dàshèng mìyán jīng* 大乘密嚴經 | Divākara | Tang, c. 685–688 CE (**P18 early layer**) |
 | T0682 | *Dàshèng mìyán jīng* 大乘密嚴經 | Amoghavajra | Tang, c. 766–774 CE (**P18 late layer**; *Chapter 8: The Ālaya is Ghanavyūha*) |
-| T0232 | *Wénshūshīlì suǒshuō mǒhē bōrěbōluómì jīng* 文殊師利所說摩訶般若波羅蜜經 | Mandrasena | Liang, c. 502 CE (P19 principal text, forthcoming) |
+| T0232 | *Wénshūshīlì suǒshuō mǒhē bōrěbōluómì jīng* 文殊師利所說摩訶般若波羅蜜經 | Mandrasena | Liang, c. 502 CE (P19 principal text) |
 | T0353 | *Shèngmán shīzǐhǒu jīng* 勝鬘師子吼一乘大方便方廣經 | Guṇabhadra | Liu-Song, 436 CE (*tathāgatagarbha* cognate) |
 | T1579 | *Yogācārabhūmi-śāstra* 瑜伽師地論 | Maitreyanātha / Xuanzang | Tang, 648 CE (**§2.5 gross obstructions of the ten grounds**) |
 | T1585 | *Cheng Weishi Lun* 成唯識論 | Dharmapāla et al. / Xuanzang | Tang, 659 CE (**§2.5 six positions / four aspects of transmutation**) |

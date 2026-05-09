@@ -20,6 +20,7 @@ license: "CC BY-NC-SA 4.0"
 **Date:** May 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
+**Series:** NIAN — Mindful of the Buddha
 
 ---
 
@@ -458,7 +459,17 @@ AN 5.36. *Kāladānasutta*. Pali Text Society edition, *AN* III 41-42.
 
 AN 8.36. *Puññakiriyavatthusutta*. Pali Text Society edition, *AN* IV 241-243.
 
-### II. Modern Scholarship
+### II. Patriarchal Commentaries
+
+- Chengguan. *Huayan-jing Xingyuan-pin Shu* (Commentary on the Practice-and-Vow Chapter). X05n0227, *Wàn xùzàng* vol. 5.
+- Zongmi. *Huayan-jing Xingyuan-pin Bie-xing Shuchao* (Detailed Sub-Commentary on the Practice-and-Vow Chapter). X05n0229, *Wàn xùzàng* vol. 5.
+- Zhiyi. *Mohe Zhiguan* (Great Calmness and Insight). T1911, *Taishō* vol. 46. 無生懺核心定義.
+- Zhiyi. *Fahua Sanmei Chan Yi* (Lotus Samādhi Repentance Liturgy). T1941, *Taishō* vol. 46. 十科儀軌之懺悔定型.
+- Shandao. *Wangsheng Lizan Ge* (Verses for the Six Times of Reverence-Praise). T1980, *Taishō* vol. 47. 五念門隨喜段.
+- Nāgārjuna. *Mahāprajñāpāramitā-śāstra* (T1509), fascicle 61 on rejoicing-and-dedication. Kumārajīva trans. *Taishō* vol. 25.
+- Dharmakṣema. *Suvarṇaprabhāsa-sūtra* (Golden Light Sūtra). T0663, *Taishō* vol. 16. 懺悔品.
+
+### III. Modern Scholarship
 
 Heim, Maria. *Theories of the Gift in South Asia: Hindu, Buddhist, and Jain Reflections on Dāna*. New York: Routledge, 2004.
 
@@ -473,6 +484,38 @@ Stevenson, Daniel B. "The Four Kinds of Samādhi in Early T'ien-t'ai Buddhism." 
 Stevenson, Daniel B. "Protocols of Power: Tz'u-yün Tsun-shih and the Sung Dynasty Synthesis." In *Buddhism in the Sung*, edited by Peter N. Gregory and Daniel A. Getz, Jr., 340-408. Honolulu: University of Hawai'i Press, 1999.
 
 Tsongkhapa. *The Great Treatise on the Stages of the Path to Enlightenment* (*Lamrim Chenmo*). Translated by the Lamrim Chenmo Translation Committee. 3 vols. Ithaca: Snow Lion, 2000-2004.
+
+### IV. Cross-Reference to Series Papers
+
+- P25 *Samantabhadra's Ten Great Vows: An Introduction*: the vow-king structural operator;愿王整体化.
+- P26 *Reverencing Buddhas, Praising Tathāgatas, Cultivating Offerings*:愿1-3三業合構; the body-speech-mind triad.
+- P28 *Requesting the Turning of the Dharma-wheel, Requesting the Buddhas to Abide*:愿6+7 as法之久住雙模; follows愿4-5.
+- P29 *Constantly Following the Buddha, Accommodating Sentient Beings, Universal Dedication*:愿8-10 as the upward-downward + dedication triad.
+- P24 *The Synthesis from Yongming through Yunqi to Ouyi*: 永明—雲棲—蕅益合流; Pure Land-Huayan confluence.
+- P16 *Confession as Buddha Recollection*: Zhiyi's repentance liturgy as structural tool.
+
+### V. Sūtra & Śāstra Index
+
+| 簡稱 | 全名 | 造／譯者 | T／X 編號 | 冊數 |
+|------|------|----------|-----------|------|
+| 長阿含 | 《長阿含經》 | 佛陀耶舍譯 | T0001 | 1 |
+| 中阿含 | 《中阿含經》 | 僧伽提婆譯 | T026 | 1 |
+| 雜阿含 | 《雜阿含經》 | 求那跋陀羅譯 | T099 | 2 |
+| 法華經 | 《妙法蓮華經》 | 鳩摩羅什譯 | T262 | 9 |
+| 觀佛三昧 | 《觀佛三昧海經》 | 東晉·佛馱跋陀羅譯 | T0277 | 9 |
+| 行願品 | 《大方廣佛華嚴經·普賢行願品》 | 般若譯 | T0293 | 10 |
+| 金光明經 | 《金光明經》 | 曇無讖譯 | T0663 | 16 |
+| 五分律 | 《五分律》 | 佛陀耆婆譯 | T1421 | 22 |
+| 大智度論 | 《大智度論》 | 龍樹造、鳩摩羅什譯 | T1509 | 25 |
+| 中論 | 《中論》 | 龍樹造、鳩摩羅什譯 | T1564 | 30 |
+| 成唯識論 | 《成唯識論》 | 護法等造、玄奘譯 | T1585 | 31 |
+| 四分業疏 | 《四分業疏行持鈔記》 | 元照撰 | T1805 | 40 |
+| 三論疏 | 《三論疏》 | 吉藏撰 | T1824/1827 | 42 |
+| 摩訶止觀 | 《摩訶止觀》 | 智顗講、灌頂筆錄 | T1911 | 46 |
+| 法華懺儀 | 《法華三昧懺儀》 | 智顗撰 | T1941 | 46 |
+| 往生禮讚偈 | 《往生禮讚偈》 | 善導集記 | T1980 | 47 |
+| 行願品疏 | 《華嚴經行願品疏》 | 澄觀撰 | X0227 | 卍續 5 |
+| 行願品疏鈔 | 《華嚴經行願品疏鈔》（別行疏鈔） | 宗密述 | X0229 | 卍續 5 |
 
 ---
 

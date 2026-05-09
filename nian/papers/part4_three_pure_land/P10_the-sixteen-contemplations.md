@@ -20,6 +20,7 @@ license: "CC BY-NC-SA 4.0"
 **Date:** April 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
+**Series:** NIAN — Mindful of the Buddha
 
 ---
 
@@ -482,20 +483,18 @@ The question is not answered within P10's scope. The convergence-differentiation
 - *Pratyutpanna-samādhi Sūtra* (*Bān-zhōu sān-mèi jīng* 般舟三昧經), translated by Lokakṣema of the Later Han. Taishō vol. 13, no. 418. Primary source of P06; background citation in §2.5 and §IV.
 - *Upadeśa on the Sūtra of Immeasurable Life* (*Wúliàngshòu jīng yōu-pó-tí-shè* 無量壽經優波提舍), composed by Vasubandhu, translated by Bodhiruci. Taishō vol. 26, no. 1524. Primary source of P09; background citation in §IV.
 
-### II. Cross-Reference to Series Papers
+### II. Patriarchal Commentaries
 
-| Referenced Paper | Invocation Point in Present Paper | Function |
-|---|---|---|
-| NIAN-P06 | §2.5, §IV | T0418 *pratyutpanna-samādhi* background; constant-walking *samādhi* lineage in T1911 |
-| NIAN-P07 | — | T0361 buddha-field ontology background (not directly invoked here) |
-| NIAN-P08 | §2.4 | Shandao's five right-practices; *niàn*-*chēng* verbal analysis |
-| NIAN-P09 | §I, §3.3, §VI | T0360's forty-eight-vow designed architecture; vow 18's floor-not-pinnacle position; Part IV dual-architecture meta-thesis |
-| NIAN-P11 (forthcoming) | §I, §3.3, §VI | T0366's "holding the name" compression; the convergence-or-new-architecture question |
-| NIAN-P17 (forthcoming) | §V | *Laṅkāvatāra* / *Ghanavyūha* full Yogācāra reading (not unfolded here) |
-| NIAN-P22 (forthcoming) | §2.4, §IV, §V | Full development of Shandao's ordinary-being-into-recompense-land, two-kinds-of-deep-faith, right-determining-act, essential-and-extensive gate |
-| NIAN-P23 (forthcoming) | §IV, §V | Tiantai's buddha-recollection classification and T1962's five-gate architecture |
+1. Shandao (善導, 613–681). *Guān-jīng sì-tiē shū* 觀經四帖疏 (*Commentary on the Sūtra on the Contemplation of Amitāyus*, Four-Fascicle Commentary), compiled by Shandao of the Tang, four fascicles. Taishō vol. 37, no. 1753. **Primary source** of this paper (structural tools).
+2. Zhiyi (智顗, 538–597, spoken), Guanding (灌頂, 594–632, recorded). *Guān wúliàng shòu fó jīng shū* 觀無量壽佛經疏 (*Commentary on the Sūtra on the Contemplation of Amitāyus*), spoken by Zhiyi. Taishō vol. 37, no. 1750. **Primary source** of this paper (intra-Buddhist commentarial lens).
+3. Zhiyi (智顗, 538–597, spoken), Guanding (灌頂, 594–632, recorded). *Móhē zhǐguān* 摩訶止觀 (*Mahāyāna Calming-and-Contemplation*), spoken by Zhiyi, recorded by Guanding. Taishō vol. 46, no. 1911. **Primary source** of this paper (four *samādhi*s).
 
-### III. Sūtra & Śāstra Index
+### III. Modern Scholarship
+
+1. Gómez, Luis O. *The Land of Bliss: The Paradise of the Buddha of Measureless Light*. Honolulu: University of Hawaiʻi Press, 1996. Key secondary reference for the doctrinal architecture of T0365's contemplative program and its relation to Pure Land ontology.
+2. Tanaka, Kenneth K. *The Dawn of Chinese Pure Land Buddhist Doctrine: Ching-ying Hui-yüan's Commentary on the Visualization Sūtra*. Albany: SUNY Press, 1990. Background reference for the reception history of T0365-type contemplation in early Chinese Pure Land.
+
+### IV. Sūtra & Śāstra Index
 
 | Abbr. | Full Title | Reference | Translator / Author | Date |
 |---|---|---|---|---|
@@ -510,6 +509,20 @@ The question is not answered within P10's scope. The convergence-differentiation
 | T1753 | *Commentary on the Sūtra on the Contemplation of Amitāyus* (*Four-Fascicle Commentary*) | Taishō vol. 37, no. 1753 | Shandao | Early Tang |
 | T1911 | *Mahāyāna Calming-and-Contemplation* | Taishō vol. 46, no. 1911 | Zhiyi, rec. Guanding | Sui |
 | T1962 | *Five Expedient Gates of Buddha-Recollection* | Taishō vol. 47, no. 1962 | attributed to Zhiyi (authorship disputed) | crystallized between Sui and Tang |
+
+### V. Cross-Reference to Series Papers
+
+| Referenced Paper | Invocation Point in Present Paper | Function |
+|---|---|---|
+| NIAN-P06 | §2.5, §IV | T0418 *pratyutpanna-samādhi* background; constant-walking *samādhi* lineage in T1911 |
+| NIAN-P07 | — | T0361 buddha-field ontology background (not directly invoked here) |
+| NIAN-P08 | §2.4 | Shandao's five right-practices; *niàn*-*chēng* verbal analysis |
+| NIAN-P09 | §I, §3.3, §VI | T0360's forty-eight-vow designed architecture; vow 18's floor-not-pinnacle position; Part IV dual-architecture meta-thesis |
+| NIAN-P11 | §I, §3.3, §VI | T0366's "holding the name" compression; the convergence-or-new-architecture question |
+| NIAN-P17 | §V | *Laṅkāvatāra* / *Ghanavyūha* full Yogācāra reading (not unfolded here) |
+| NIAN-P22 | §2.4, §IV, §V | Full development of Shandao's ordinary-being-into-recompense-land, two-kinds-of-deep-faith, right-determining-act, essential-and-extensive gate |
+| NIAN-P23 | §IV, §V | Tiantai's buddha-recollection classification and T1962's five-gate architecture |
+
 
 ---
 

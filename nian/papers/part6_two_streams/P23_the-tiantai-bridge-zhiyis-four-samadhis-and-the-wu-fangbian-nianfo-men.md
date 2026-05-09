@@ -22,6 +22,7 @@ license: "CC BY-NC-SA 4.0"
 **Date:** May 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
+**Series:** NIAN — Mindful of the Buddha
 
 ---
 
@@ -293,7 +294,14 @@ This perfect-teaching positioning of *niànfó*, in the late sixth century, is t
 - *Wénshū-shīlì suǒshuō Móhē-bōrě-bōluómì-jīng* 文殊師利所說摩訶般若波羅蜜經. Translated by Mandrasena 曼陀羅仙 of the Liang dynasty. CBETA T0232 (Taishō vol. 8).
 - *Huá-yán-jīng xíng-yuàn-pǐn shū-chāo* 華嚴經行願品疏鈔. Commentary by Tang Chengguan 澄觀, sub-commentary by Zongmi 宗密. CBETA X05n0229 (*Wàn xùzàng* vol. 5).
 
-### II. Modern Scholarship
+### II. Patriarchal Commentaries
+
+- Zhiyi (智顗, 538–597, spoken), Guanding (灌頂, 594–632, recorded). *Guān wúliàng shòu fó jīng shū* 觀無量壽佛經疏 (*Commentary on the Sūtra on the Contemplation of Amitāyus*), spoken by Zhiyi. Taishō vol. 37, no. T1750. **Primary source** of this paper (§IV) — cited in its capacity as an intra-Buddhist commentarial lens on the *Contemplation Sūtra*. First cited 1021 by Zhili; authorship attributed to Zhiyi is **disputed** in scholarship.
+- Zhili (知禮, 960–1028). *Guān wúliàng shòu fó jīng shū miàozōng-chāo* 觀無量壽佛經疏妙宗鈔 (*Sub-Commentary on the Miaozong Tradition of the Commentary on the Sūtra on the Contemplation of Amitāyus*), 10 fascicles, Taishō vol. 37, no. T1751. Northern Song, 1021 CE. Deepening of Zhiyi's commentary from the Song-dynasty Tiantai perspective.
+- Zhiyi (智顗, spoken), Guanding (recorded). *Móhē zhǐguān* 摩訶止觀 (*Mahāyāna Calming-and-Contemplation*), 30 fascicles, Taishō vol. 46, no. T1911. The doctrinal framework of the four *samādhi*s.
+- Zongmi (宗密). *Huáyán-jīng xíng-yuàn pǐn shūchāo* 華嚴經行願品疏鈔 (*Commentary on the Practices and Vows Chapter Commentary*), Chengguan's *Separate Commentary* with Zongmi's *Sub-commentary*, Wànxù cáng X05n0229. Cross-reference to P25.
+
+### III. Modern Scholarship
 
 - Donner, Neal, and Daniel B. Stevenson. *The Great Calming and Contemplation: A Study and Annotated Translation of the First Chapter of Chih-i's Mo-ho chih-kuan*. Honolulu: University of Hawai'i Press, 1993.
 - Stevenson, Daniel B. "The Four Kinds of Samādhi in Early T'ien-t'ai Buddhism." In Peter N. Gregory, ed., *Traditions of Meditation in Chinese Buddhism*, 45–97. Honolulu: University of Hawai'i Press, 1986.
@@ -302,17 +310,26 @@ This perfect-teaching positioning of *niànfó*, in the late sixth century, is t
 
 ---
 
-### IV. Cross-Reference to Series Papers
+### IV. Sūtra & Śāstra Index
 
-### Backward references
+| Abbr. | Full Title | Translator / Author | Date |
+|---|---|--|------|
+| T1911 | *Móhē zhǐguān* 摩訶止觀 (*Mahāyāna Calming-and-Contemplation*) | Zhiyi (spoken) / Guanding (recorded) | Sui Kaihuang 13–18, 593–598 CE |
+| T1962 | *Wǔ fāngbiàn niànfó mén* 五方便念佛門 (*Five Expedient Gates of Buddha-Recollection*) | attributed to Zhiyi (authorship disputed) | crystallized between Sui and Tang |
+| T1750 | *Guān wúliàng shòu fó jīng shū* 觀無量壽佛經疏 (*Commentary on the Sūtra on the Contemplation of Amitāyus*) | attributed to Zhiyi ⚠️ disputed (first cited 1021) | Sui (attribution) / Northern Song (first citation) |
+| T1751 | *Guān wúliàng shòu fó jīng shū miàozōng-chāo* 觀無量壽佛經疏妙宗鈔 | Siming Zhili 四明知禮 (960–1028) | Northern Song, 1021 CE |
+| T0418 | *Bānzhōu sānmèi jīng* 般舟三昧經 (*Pratyutpanna-samādhi Sūtra*) | Lokakṣema of Later Han (後漢·支婁迦讖) | 179 CE |
+| T0232 | *Wénshū-shīlì suǒshuō Móhē-bōrě-bōluómì jīng* 文殊師利所說摩訶般若波羅蜜經 (*Mañjuśrī Prajñāpāramitā Sūtra*) | Mandrasena 曼陀羅仙 of Liang dynasty | Liang |
+| X05n0229 | *Huá-yán-jīng xíng-yuàn-pǐn shū-chāo* 華嚴經行願品疏鈔 (*Commentary on the Vows of Samantabhadra*) | Chengguan 澄觀 (commentary) / Zongmi 宗密 (sub-commentary) | Tang |
+
+---
+
+### V. Cross-Reference to Series Papers
 
 - **P06 (*Face-to-Face with the Buddhas*)**: *Bānzhōu-sānmèi-jīng* (T0418) on the threefold semantic register of *pratyutpanna*, the seven-day vision threshold, the red-hot iron-ball simile, and the *"mind is buddha"* closing turn. The present paper invokes T0418 only as cross-reference in §II and §III.2, and does not re-argue T0418's own doctrinal substance.
 - **P19 (*The Mañjuśrī Prajñāpāramitā and the One-Practice Samādhi*)**: T0232 *Wénshū-bōrě-jīng* and the *yī-xíng-sānmèi* of Mañjuśrī's devotion. The present paper's §III.1 invokes T0232 only in passing as the canonical source for *constantly seated samādhi*; the doctrinal substance of *yī-xíng-sānmèi* is not re-developed.
 - **P21 (*The Inward Reading of Patriarchal Chan*)**: *zì-xìng Mítuó* (self-nature Amitābha), *niànfó shì shéi* (who is reciting?), the *Liù-zǔ tán-jīng*'s *Yí-wèn-pǐn* (Chapter on Doubts), and Zongmi's (780–841) four kinds of *niànfó* in X05n0229. The present paper §I echoes the *inward stream* line; §III.2 establishes the common-ancestor thesis; §IV.1 references Zongmi (developed in P24); §V establishes the 6th–9th-century non-conflation while adding the new third stratum at the 16th–17th century.
 - **P22 (*The Pure Land Patriarchs II: Shandao on the Establishment of the Name*)**: Shandao (613–681), the entry of the ordinary unenlightened being into the Recompense Land, the threefold mind, the exclusive name-holding, the *Guān-jīng sì-tiē shū* (T1753). The present paper §I directly continues the doctrinal-pluralism tension established at the close of P22; §V Warning Two cross-references T1750 (attributed Zhiyi) versus T1753 (Shandao authentic) as two commentaries on the same sūtra at different historical-authorial levels, but does not re-develop.
-
-### Forward references
-
 - **P24 (*The Yongming–Yunqi–Ouyi Synthesis*, working title)**: Yongming Yanshou (904–975), *Wàn-shàn tóng-guī jí* (T2017) and *Zōng-jìng-lù* (T2016); Yunqi Zhuhong (1535–1615), *Āmítuó-jīng shūchāo* and the *shì-chí / lǐ-chí* distinction; Zhongfeng Mingben (1263–1323), *Sān-shí xì-niàn*; Hanshan Deqing (1546–1623); Ouyi Zhixu (1599–1655), *Āmítuó-jīng yāo-jiě* — the late-Ming Chan/Pure-Land/Tiantai synthesis. The present paper's §III.3 perfect-teaching ceiling, §IV's extension of Stevenson's classificatory architecture, §V's third stratum on Yunqi's compression, and §VI's open question all point forward to P24. *Zhiyi gave the classificatory vocabulary; how the later line performed the synthesis on that vocabulary is P24's main subject.*
 
 ---
@@ -321,6 +338,7 @@ This perfect-teaching positioning of *niànfó*, in the late sixth century, is t
 > Shi Huijing (釋慧鏡)
 > First draft, May 2026
 > This work is licensed under CC BY-NC-SA 4.0
+
 
 ---
 

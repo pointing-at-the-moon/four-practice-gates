@@ -357,14 +357,15 @@ A structural completion of buddha-field ontology has taken place. In Luoyang in 
 | NIAN-P04 | *Recollection and the Jhānas* | §3.4 | Extension of the three-sense framework of *niànfó sānmèi* (A / B / C) into the dual-line structure |
 | NIAN-P05 | *The Early Niànfó Sūtra Before the Word* | §I | Inheritance of the Chinese register-jump thesis |
 | NIAN-P06 | *Seeing the Buddhas Face to Face* | §I, §2.1, §3.1, §IV | Destination-grammar baseline; three-fold semantics of presence; continuation of the interdisciplinary dialogue structure |
-| NIAN-P08 (forthcoming) | *From Recollection to Calling* | §VI | The verb shift *niàn* → *chēng* |
-| NIAN-P09 (forthcoming) | *The Forty-Eight Vows* | §I, §2.3, §VI | T0360 48-vow system |
-| NIAN-P10 (forthcoming) | *The Sixteen Contemplations* | §I, §VI | T0365 system of contemplations |
-| NIAN-P11 (forthcoming) | *The Shorter Sūtra and the Single Name* | §I, §VI | T0366 description of Sukhāvatī |
-| NIAN-P12 (forthcoming) | *The Śūraṅgama* | §3.4 | Location of the *Mahāsthāmaprāpta* chapter's *niànfó* within the dual-line frame |
-| NIAN-P13 (forthcoming) | *The Lotus* | §3.4 | Location of the name-calling of the *Universal Gateway* chapter within the dual-line frame |
-| NIAN-P17 (forthcoming) | *The Laṅkāvatāra* | §3.4 | Location of "all buddhas' mind is foremost" within the dual-line frame |
-| NIAN-P22 (forthcoming) | *Shandao's Settling of the Name* | §V Caveat 2, §VI | The systematic uptake of name-recitation rebirth and its relation to the present chapter's ontological parity thesis |
+| NIAN-P08 | *From Recollection to Calling* | §VI | The verb shift *niàn* → *chēng* |
+| NIAN-P09 | *The Forty-Eight Vows* | §I, §2.3, §VI | T0360 48-vow system |
+| NIAN-P10 | *The Sixteen Contemplations* | §I, §VI | T0365 system of contemplations |
+| NIAN-P11 | *The Shorter Sūtra and the Single Name* | §I, §VI | T0366 description of Sukhāvatī |
+| NIAN-P12 | *The Śūraṅgama* | §3.4 | Location of the *Mahāsthāmaprāpta* chapter's *niànfó* within the dual-line frame |
+| NIAN-P13 | *The Lotus* | §3.4 | Location of the name-calling of the *Universal Gateway* chapter within the dual-line frame |
+| NIAN-P17 | *The Laṅkāvatāra* | §3.4 | Location of "all buddhas' mind is foremost" within the dual-line frame |
+| NIAN-P22 | *Shandao's Settling of the Name* | §V Caveat 2, §VI | The systematic uptake of name-recitation rebirth and its relation to the present chapter's ontological parity thesis |
+
 
 ---
 

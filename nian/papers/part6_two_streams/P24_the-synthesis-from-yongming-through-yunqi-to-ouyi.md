@@ -22,6 +22,7 @@ license: "CC BY-NC-SA 4.0"
 **Date:** May 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
+**Series:** NIAN — Mindful of the Buddha
 
 ---
 
@@ -255,7 +256,20 @@ The open question of the present paper, in single-line form: *Yongming gave the 
 - T1911 *Móhē zhǐguān* (摩訶止觀). Zhiyi (智顗, 538–597), recorded by Guanding (灌頂, 561–632). Cross-reference to P23.
 - T1962 *Wǔ-fāngbiàn niànfó-mén* (五方便念佛門). Attributed Zhiyi. Cross-reference to P23.
 
-### II. Modern Scholarship
+### II. Patriarchal Commentaries
+
+- Shandao (善導). *Guānjīng sì-tiē shū* 觀經四帖疏 (T1753, *Taishō* vol. 37).凡夫入報土、三心、一向專稱.
+- Tanluan (曇鸞). *Wángshēng lùnzhù* 往生論註 (T1819, *Taishō* vol. 40). Other-power vocabulary creation.
+- Daochuo (道綰). *Ānlè jí* 安樂集 (T1958, *Taishō* vol. 47). Seven-fold *niànfó* sense inventory.
+- Zhiyi (智顗). *Fǎhuá sānmèi chànyí* 法華三昧懺儀 (T1941, *Taishō* vol. 46). Ten-decade ritual structure of dedication.
+- Zongmi (宗密). *Huáyán jīng xíngyuàn pín biéxíng shāochāo* 華嚴經行願品別行疏鈔 (X05n0229, *Wàn xùzàng* vol. 5). Three-way dedication schema.
+- Chengguan (澄觀). *Huáyán jīng xíngyuàn pín shū* 華嚴經行願品疏 (X05n0227, *Wàn xùzàng* vol. 5). Substance-attribute-function tri-direction.
+- Yongming Yanshou (永明延壽). *Wànshàn tóngguī jí* 萬善同歸集 (T2017, *Taishō* vol. 48). Praṇidhāna as principle-enrichment.
+- Yunqi Zhuhong (雲棲祩宏). *Āmítuó-jīng shūchāo* 阿彌陀經疏鈔 (X22n0424, *Wàn xùzàng* vol. 22). Praṇidhāna king not apart from present-moment.
+- Ouyi Zhixu (蕅益智旭). *Āmítuó-jīng yàojiě* 阿彌陀經要解 (X22n0430, *Wàn xùzàng* vol. 22). Guiding compass of myriad practices.
+- Zhongfeng Mingben (中峰明本). *Sānshí xìniàn fóshì* 三時繫念佛事 (X74n1464, *Wàn xùzàng* vol. 74). Ten-vows complete set.
+
+### III. Modern Scholarship
 
 - Eichman, Jennifer. 2016. *A Late Sixteenth-Century Chinese Buddhist Fellowship: Spiritual Ambitions, Intellectual Debates, and Epistolary Connections*. Leiden: Brill.
 - Getz, Daniel A. 1999. "T'ien-t'ai Pure Land Societies and the Creation of the Pure Land Patriarchate." In *Buddhism in the Sung*, edited by Peter N. Gregory and Daniel A. Getz, 477–523. Honolulu: University of Hawai'i Press.
@@ -266,16 +280,28 @@ The open question of the present paper, in single-line form: *Yongming gave the 
 
 ---
 
-### IV. Cross-Reference to Series Papers
+### IV. Sūtra & Śāstra Index
 
-### Backward references
+| Abbr. | Full Title | Translator / Author | Use |
+|---|---|--|---|
+| T2017 | *Wànshàn tóngguī jí* 萬善同歸集 (*Compendium of the Common End of Myriad Goodnesses*) | Yongming Yanshou (永明延壽) | Primary source (§III.2) |
+| T2016 | *Zōngjìng lù* 宗鏡錄 (*Record of the Whole Mind*) | Yongming Yanshou | Primary source (§III.3) |
+| X22n0424 | *Āmítuó-jīng shūchāo* 阿彌陀經疏鈔 | Yunqi Zhuhong (雲棲祩宏) | Primary source (§III.4, §IV.1) |
+| X22n0430 | *Āmítuó-jīng yàojiě* 阿彌陀經要解 | Ouyi Zhixu (蕅益智旭) | Primary source (§III.4) |
+| X74n1464 | *Sānshí xìniàn fóshì* 三時繫念佛事 | Attributed to Zhongfeng Mingben (中峰明本) | Primary source (§V Caution Two) |
+| X73n1456 | *Hānshān lǎorén mèng yóu jí* 憨山老人夢遊集 | Hanshan Deqing (憨山德清) | Primary source (§III.4) |
+| T1753 | *Guānjīng sì-tiē shū* 觀經四帖疏 | Shandao (善導) | Cross-reference to P22 |
+| T1911 | *Móhē zhǐguān* 摩訶止觀 | Zhiyi (智顗), rec. Guanding (灌頂) | Cross-reference to P23 |
+| T1962 | *Wǔ-fāngbiàn niànfó-mén* 五方便念佛門 | Attributed Zhiyi | Cross-reference to P23 |
+
+---
+
+### V. Cross-Reference to Series Papers
 
 - **P20 (*The Pure Land Patriarchs I: Tanluan and Daochuo*)**: The other-power doctrinal warrant of the *easy-practice path* (*yì-xíng dào* 易行道) and the *time-far-name-is-primary* inversion. The present paper §III.1 echoes Tanluan and Daochuo's *dependent-arising co-operation* of conditional support and inward direction; §III.4 receives Ouyi's *xìn-zì / xìn-tā* dyad as completing the inward-and-other reciprocity P20 first articulated.
 - **P21 (*The Chan Position: Turning the Name Inward*)**: The ninth-century Zongmi gradient and the *self-nature Amitābha* inward-redirection. The present paper §III.4 distinguishes Hanshan's sixteenth-century *buddha-recollection-is-Chan-inquiry* declaration from Zongmi's ninth-century fourfold *niànfó* gradient: the two operations belong to distinct historical strata and must not be conflated. §III.4 explicitly flags the distinction.
 - **P22 (*The Pure Land Patriarchs II: Shandao on the Establishment of the Name*)**: The *axial transposition* of name-recitation in the seventh century. The present paper §I sets out the *re-reading* framing across six centuries of integrated cultivation; §III throughout positions the synthesis vis-à-vis P22's central thesis; §IV.1 names the *occlusion* dimension that Yü's harmonious-synthesis frame leaves under-described, recovering the cost P22 documented.
 - **P23 (*The Tiantai Bridge: Zhiyi's Four Samādhis and the *Wǔ-fāngbiàn niànfó-mén**)**: The *classificatory bridge* established by Zhiyi (594) and redeployed by Zongmi, Zhili, Yongming, Yunqi, and Ouyi. The present paper picks up P23's closing thread on the millennium-long doctrinal genealogy (§I); §III.2 distinguishes *Yunqi's fourfold compression of T1962* (P23's main subject) from *Yunqi's shì-chí / lǐ-chí architecture* (P24's main subject) — the two are distinct codifications by the same figure for distinct purposes.
-
-### Forward references
 
 - **P25 (*Samantabhadra's Ten Great Vows: Introduction*, Part VII opens)**: The bodhisattva-path development of the synthesis's held tension. The Ten Great Vows — reverence, praise, offering, repentance, rejoicing, requesting the turning of the dharma wheel, requesting the buddhas' abiding, learning, accord, dedication — supply the framework within which the synthesis's held tension is *enacted* as a sustained directional life rather than *codified* as a doctrinal formula. The present paper's §III.4 *xìn-yuàn-xíng* enrollment, §III.4 *yuán-shōu yuán-chāo* keystone, and §VI open question all point forward to P25. *Part VI gave the bridge; Part VII will give the road across it.*
 
@@ -285,6 +311,7 @@ The open question of the present paper, in single-line form: *Yongming gave the 
 > Shi Huijing (釋慧鏡)
 > First draft, May 2026
 > This work is licensed under CC BY-NC-SA 4.0
+
 
 ---
 

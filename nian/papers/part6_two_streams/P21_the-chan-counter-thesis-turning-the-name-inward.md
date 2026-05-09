@@ -22,6 +22,7 @@ license: "CC BY-NC-SA 4.0"
 **Date:** April 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
+**Series:** NIAN — Mindful of the Buddha
 
 ---
 
@@ -388,7 +389,17 @@ One open question is left to the reader: if Part VI's Two Streams have, througho
 - *Gāofēng Yuánmiào chánshī chányào* (*Chan Essentials of Chan Master Gaofeng Yuanmiao*), by Gaofeng Yuanmiao, Wànxù cáng X70n1401.
 - *Tiānmù Zhōngfēng héshang guǎnglù* (*Extensive Discourse Record of Master Zhongfeng of Tianmu*), by Zhongfeng Mingben, ed. Cíjì, Wànxù cáng X70n1402.
 
-### II. Modern Scholarship
+### II. Patriarchal Commentaries
+
+- Zongmi (宗密). *Huáyán-jīng xíng-yuàn pǐn shū* (華嚴經行願品疏), X05n0227, *Wàn xùzàng* vol. 5.
+- Zongmi (宗密). *Huáyán-jīng xíng-yuàn pǐn biéxíng shūchāo* (華嚴經行願品別行疏鈔), X05n0229, *Wàn xùzàng* vol. 5.
+- Zongmi (宗密). *Chányuán zhūquánjí dūxù* (禪源諸詮集都序), T2015, Taishō vol. 48. Four kinds of *niànfó* (功德念佛、實相念佛、唯心念佛、捨相念佛) typology, core exegesis of §3.3 of this paper.
+- Yongming Yanshou (永明延壽). *Wànshàn tóngguī jí* (萬善同歸集), T2017, Taishō vol. 48.
+- Yongming Yanshou (永明延壽). *Zōngjìng lù* (宗鏡錄), T2016, Taishō vol. 48.
+- Yunqi Zhuhong (雲棲袾宏). *Āmítuó-jīng shūchāo* (阿彌陀經疏鈔), X22n0424, *Wàn xùzàng* vol. 22.
+- Ouyi Zhixu (蕅益智旭). *Āmítuó-jīng yàojiě* (阿彌陀經要解), X22n0430, *Wàn xùzàng* vol. 22.
+
+### III. Modern Scholarship
 
 - Faure, Bernard. *The Rhetoric of Immediacy: A Cultural Critique of Chan/Zen Buddhism.* Princeton University Press, 1991.
 - Faure, Bernard. *Chan Insights and Oversights: An Epistemological Critique of the Chan Tradition.* Princeton University Press, 1993.
@@ -406,7 +417,7 @@ One open question is left to the reader: if Part VI's Two Streams have, througho
 - Welter, Albert. *Yongming Yanshou's Conception of Chan in the Zongjing lu: A Special Transmission Within the Scriptures.* Oxford University Press, 2011.
 - Yanagida Seizan 柳田聖山. *Shoki zenshūshisho no kenkyū* 初期禪宗史書の研究. Kyoto: Hōzōkan, 1967.
 
-### III. Sūtra & Śāstra Index
+### IV. Sūtra & Śāstra Index
 
 | Short title | Full title | Author / Translator | T / X No. | Vol. |
 |-------------|------------|---------------------|-----------|------|
@@ -437,7 +448,7 @@ One open question is left to the reader: if Part VI's Two Streams have, througho
 
 ---
 
-### IV. Cross-Reference to Series Papers
+### V. Cross-Reference to Series Papers
 
 **Backward references within the NIAN volume:**
 
@@ -456,6 +467,15 @@ One open question is left to the reader: if Part VI's Two Streams have, througho
 
 - **S2 (*Heart Sūtra*):** The semantic turn in §3.1 of this paper — Daoxin's "recollecting the buddha is recollecting the mind, seeking the mind is seeking the buddha" — shares an axis with S2's *Heart Sūtra*'s "*while practicing the deep perfection of wisdom, saw that the five aggregates are all empty*": both are Chinese Buddhism's ontological relocation of "the subject of thought/contemplation."
 - **S5 (*Laṅkāvatāra*):** The S5 series reserves the *Laṅkāvatāra*'s "mind-as-juggler" passage as material for a sixth-consciousness *kōan* treatment; this paper's §3.1 strictly avoids that passage (see the P17-vs-S5 *Laṅkāvatāra* demarcation in NIAN_PLAN §VI), using only the "mind of all buddhas is foremost" passage as the textual root for Daoxin's dual-scripture declaration, without intruding into the reserved S5 ground.
+
+
+
+### IV. Sutra & Śāstra Index
+
+| Abbrev. | Full Name | Author/Translator | Taisho |
+|---------|---------|---------|-------|
+| 楞伽 | 楞伽 | unknown | T0232 |
+
 
 ---
 

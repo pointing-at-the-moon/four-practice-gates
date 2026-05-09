@@ -22,6 +22,7 @@ license: "CC BY-NC-SA 4.0"
 **Date:** April 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
+**Series:** NIAN — Mindful of the Buddha
 
 ---
 
@@ -228,7 +229,7 @@ This argument carries three direct implications for contemporary practitioners. 
 
 **Open Question**
 
-The present paper occupies the third position in Part VI's *Two Streams* arc, continuing the dual framing of P20 (Tanluan and Daochuo's *dependent-arising co-operation* foundation of other-power) and P21 (Chan's *inward redirection* of the Pure Land vocabulary), and completing the third motif of *discontinuity-not-development*. The forthcoming P23 will address Zhiyi's (538–597) Tiantai bridge of the *four samādhis* (name-recitation / image-contemplation / visualization / reality-contemplation) — the Tiantai move forming a tension-structure with Shandao's *exclusivization*: Tiantai neither cancels name-recitation nor elevates it to a singular axis but, through the parallel-arrangement of the four samādhis, holds name-holding *in its original position within an integrated matrix*. P22's thesis is *institutional discontinuity*; P23's thesis will be *doctrinal pluralism within practice*. P24 will address Yongming Yanshou (904–975), Yunqi Zhuhong (1535–1615), Zhongfeng Mingben (1263–1323), Hanshan Deqing (1546–1623), and Ouyi Zhixu (1599–1655) — the late-Ming confluents — who across six centuries of joined Chan-Pure Land cultivation re-read P22's discontinuity. The three together form the documentary groundwork for the latter three papers of Part VI.
+The present paper occupies the third position in Part VI's *Two Streams* arc, continuing the dual framing of P20 (Tanluan and Daochuo's *dependent-arising co-operation* foundation of other-power) and P21 (Chan's *inward redirection* of the Pure Land vocabulary), and completing the third motif of *discontinuity-not-development*. The subsequent P23 addresses Zhiyi's (538–597) Tiantai bridge of the *four samādhis* (name-recitation / image-contemplation / visualization / reality-contemplation) — the Tiantai move forming a tension-structure with Shandao's *exclusivization*: Tiantai neither cancels name-recitation nor elevates it to a singular axis but, through the parallel-arrangement of the four samādhis, holds name-holding *in its original position within an integrated matrix*. P22's thesis is *institutional discontinuity*; P23's thesis is *doctrinal pluralism within practice*. P24 addresses Yongming Yanshou (904–975), Yunqi Zhuhong (1535–1615), Zhongfeng Mingben (1263–1323), Hanshan Deqing (1546–1623), and Ouyi Zhixu (1599–1655) — the late-Ming confluents — who across six centuries of joined Chan-Pure Land cultivation re-read P22's discontinuity. The three together form the documentary groundwork for the latter three papers of Part VI.
 
 The open question left for the reader: if Shandao's act is the *Tang-completed discontinuity* in Chinese soil, what is its relation to the later Kamakura radicalization in Japan — *transmission*? *divergence*? *re-radicalization*? Or *incommensurable* on some doctrinal point? This question is not answered within the present paper; it is left to the reader to unfold within their own ongoing practice and reading.
 
@@ -327,6 +328,15 @@ The open question left for the reader: if Shandao's act is the *Tang-completed d
 
 - **P15 (*The Mahāsthāmaprāpta Buddha-Recollection Section of the Śūraṅgama*):** P15's *gathering-the-six-sense-faculties, with pure recollection continuously sustained* (*dū-shè liù-gēn, jìng-niàn xiāng-jì* 都攝六根，淨念相繼) finds psychological resonance within the structure of Shandao's three minds in P22 §3.2 — specifically with the continuous everyday name-holding described in the *primary-act-of-right-concentration* taxonomy.
 - **P05 (*The Sūtra in Forty-Two Sections*):** P05's record of the earliest forms of Han-soil buddha-recollection establishes the historical distance against which the Tang institutionalization of P22 §3.3 measures itself.
+
+
+
+### IV. Sutra & Śāstra Index
+
+| Abbrev. | Full Name | Author/Translator | Taisho |
+|---------|---------|---------|-------|
+| 觀經四帖 | 觀經四帖疏 | unknown | T1753 |
+
 
 ---
 

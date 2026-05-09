@@ -22,6 +22,7 @@ license: "CC BY-NC-SA 4.0"
 **Date:** April 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
+**Series:** NIAN — Mindful of the Buddha
 
 ---
 
@@ -282,6 +283,7 @@ Weinstein, Stanley. *Buddhism under the T'ang*. Cambridge: Cambridge University 
 - P21 *The Chan Position: Turning the Name Inward* (Daoxin, Huineng, Zongmi): the counter-move to P20's documentation. Chan does not dispute either the invented vocabulary or the 凡夫 subject; it proposes that the name, once invoked, be heard inwardly as the recognition of the already-present buddha-mind rather than outwardly as an address to a buddha in another direction. P21's methodological radicalism is legible precisely against P20's subject-fixing.
 - P22 *The Pure Land Patriarchs II: Shandao's Settling of the Name* (T1753): the institutional and liturgical completion of the Tanluan-Daochuo architecture. Shandao inherits the 凡夫 subject (from Tanluan-Daochuo) and the nine-grade anthropology (from T0365) and assembles the practice-system (*guannian famen*) that would carry Pure Land practice into the Song and beyond. P20 lays the doctrinal foundation Shandao builds upon.
 - P23 (*Tiantai's Four Kinds of Recollection*) and P24 (*From Yongming to the Late Ming Masters*) extend the cross-sectarian conversation P20 opens: Tiantai systematizes the 凡夫's contemplative itinerary in its four *samādhis*, and the Ming-dynasty confluence assembles Chan, Pure Land, and doctrinal elements for the same subject. All four later papers depend on P20's subject-fixing to be narratable as a single conversation.
+
 
 ---
 

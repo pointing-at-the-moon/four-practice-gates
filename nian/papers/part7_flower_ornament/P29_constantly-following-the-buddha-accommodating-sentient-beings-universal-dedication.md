@@ -20,6 +20,7 @@ license: "CC BY-NC-SA 4.0"
 **Date:** May 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
+**Series:** NIAN — Mindful of the Buddha
 
 ---
 
@@ -346,7 +347,7 @@ X22n0424. *Sub-Commentary on the Amitābha Sūtra*. Composed by Yunqi Zhuhong. *
 
 X74n1464. *Three-Time Mindfulness Service*. Traditionally attributed to the Zhongfeng line. *Wàn xùzàng* vol. 74.
 
-### II. Modern Scholarship
+### III. Modern Scholarship
 
 Cleary, Thomas, trans. *The Flower Ornament Scripture: A Translation of the Avatamsaka Sutra*. 3 vols. Boston: Shambhala, 1984–1987.
 
@@ -360,16 +361,58 @@ McMahan, David L. *Empty Vision: Metaphor and Visionary Imagery in Mahāyāna Bu
 
 Williams, Paul. *Mahāyāna Buddhism: The Doctrinal Foundations*. 2nd ed. London: Routledge, 2009.
 
----
+### II. Patriarchal Commentaries
+
+- Chengguan. *Huayan-jing Xingyuan-pin Shu* (Commentary on the Practice-and-Vow Chapter). X05n0227, *Wàn xùzàng* vol. 5. 體相用三方向、大悲下化大智上求.
+- Zongmi. *Huayan-jing Xingyuan-pin Bie-xing Shuchao* (Detailed Sub-Commentary on the Practice-and-Vow Chapter). X05n0229, *Wàn xùzàng* vol. 5. 三處迴向圖式.
+- Zhiyi. *Fahua Sanmei Chan Yi* (Lotus Samādhi Repentance Liturgy). T1941, *Taishō* vol. 46. 十科儀軌之迴向發願定型.
+- Shandao. *Wangsheng Lizan Ge* (Verses for the Six Times of Reverence-Praise). T1980, *Taishō* vol. 47. 五念門中第五迴向門.
+- Yongming Yanshou. *Wanshan Tonggui Ji* (Universal Convergence of the Ten Thousand Goods). T2017, *Taishō* vol. 48. 普賢以行嚴理.
+- Yongming Yanshou. *Zongjing lu* (Mirror of the Source-Record). T2016, *Taishō* vol. 48.
+- Yunqi Zhuhong. * Amituo Jing Shuchao* (Sub-Commentary on the Amitābha Sūtra). X22n0424, *Wàn xùzàng* vol. 22. 普賢願王不離當念.
+- Ouyi Zhixu. * Amituo Jing Yaojie* (Essentials of the Amitābha Sūtra). T1762, *Taishō* vol. 37. 萬行司南.
+- Zhongfeng Mingben. *Sishi Xiinian* (Three-Time Mindfulness Service). X74n1464, *Wàn xùzàng* vol. 74. 十願全套.
 
 ### IV. Cross-Reference to Series Papers
 
+- P25 *Samantabhadra's Ten Great Vows: An Introduction*: the vow-king (願王) as the收攝 operator;愿8-10 as体/相/用三方向.
+- P26 *Reverencing Buddhas, Praising Tathāgatas, Cultivating Offerings*:愿1-3三業合構.
+- P27 *Repenting Karmic Obstructions, Rejoicing in Merit*:愿4-5业之雙翼.
+- P28 *Requesting the Turning of the Dharma-wheel, Requesting the Buddhas to Abide*:愿6-7法之久住雙模.
+- P24 *The Synthesis from Yongming through Yunqi to Ouyi*: Pure Land-Huayan confluence;普賢願王導歸極樂.
+- P17 *Hearts of All Buddhas First*: Śūraṅgama sūtra's pure recollection as the operational pivot.
+- P22 *The Pure Land Patriarchs II: Shandao's Settling of the Name*: 善導's name-settling as the ultimate dedication.
 - **NIAN P25** (Part VII opener): the framing entry-point question — *what is the meaning of Samantabhadra's vow-king as a totality?* The present paper's §VI first-and-last echo answers this question.
 - **NIAN P26** (vows 1–3): the three-karma assembly thesis. Retrospectively paired with *substance* in the present paper's §III.5.
 - **NIAN P27** (vows 4–5): the karma dyad thesis. Retrospectively paired with the first of three sub-pairs of *attribute* in the present paper's §III.5.
 - **NIAN P28** (vows 6–7): the dharma-persistence dyad thesis. Retrospectively paired with the second of three sub-pairs of *attribute* in the present paper's §III.5.
 - **NIAN P29** (vows 8–10, the present paper): the above-bearing-and-below-transforming dedication closure-triad and the retrospective substance-attribute-function closure of vows one through ten. **Part VII closer.**
 - **Part VIII coda (NIAN P30 and P31)**: forward-references from the present paper's §VI open questions — the wider hypothesis about Mahāyāna vow-architecture and the contemporary reader's framework concerns.
+
+### V. Sūtra & Śāstra Index
+
+| 簡稱 | 全名 | 造／譯者 | T／X 編號 | 冊數 |
+|------|------|----------|-----------|------|
+| 法華經 | 《妙法蓮華經》 | 鳩摩羅什譯 | T262 | 9 |
+| 六十華嚴 | 《大方廣佛華嚴經》（六十華嚴） | 佛馱跋陀羅譯 | T0278 | 9 |
+| 八十華嚴 | 《大方廣佛華嚴經》（八十華嚴） | 實叉難陀譯 | T0279 | 10 |
+| 行願品 | 《大方廣佛華嚴經·普賢行願品》 | 般若譯 | T0293 | 10 |
+| 維摩詰經 | 《維摩詰所說經》 | 鳩摩羅什譯 | T0475 | 14 |
+| 大智度論 | 《大智度論》 | 龍樹造、鳩摩羅什譯 | T1509 | 25 |
+| 中論 | 《中論》 | 龍樹造、鳩摩羅什譯 | T1564 | 30 |
+| 成唯識論 | 《成唯識論》 | 護法等造、玄奘譯 | T1585 | 31 |
+| 攝大乘論 | 《攝大乘論釋》 | 世親造、玄奘譯 | T1593 | 31 |
+| 起信論 | 《大乘起信論》 | 傳馬鳴造、真諦譯 | T1666 | 32 |
+| 華嚴經疏 | 《大方廣佛華嚴經疏》 | 澄觀撰 | T1735 | 35 |
+| 阿弥陀經要解 | 《阿彌陀經要解》 | 蕅益智旭撰 | T1762 | 37 |
+| 法華懺儀 | 《法華三昧懺儀》 | 智顗撰 | T1941 | 46 |
+| 往生禮讚偈 | 《往生禮讚偈》 | 善導集記 | T1980 | 47 |
+| 宗鏡錄 | 《宗鏡錄》 | 永明延壽集 | T2016 | 48 |
+| 万善同歸集 | 《萬善同歸集》 | 永明延壽撰 | T2017 | 48 |
+| 行願品疏 | 《華嚴經行願品疏》 | 澄觀撰 | X0227 | 卍續 5 |
+| 行願品疏鈔 | 《華嚴經行願品疏鈔》（別行疏鈔） | 宗密述 | X0229 | 卍續 5 |
+| 阿弥陀經疏鈔 | 《阿彌陀經疏鈔》 | 雲棲祩宏撰 | X0424 | 卍續 22 |
+| 三時繫念 | 《三時繫念佛事》 | 中峰明本 | X1464 | 卍續 74 |
 
 ---
 
@@ -378,6 +421,29 @@ Williams, Paul. *Mahāyāna Buddhism: The Doctrinal Foundations*. 2nd ed. London
 > Shi Huijing (釋慧鏡)
 > First draft, May 2026
 > This work is licensed under CC BY-NC-SA 4.0
+
+
+
+### IV. Sutra & Śāstra Index
+
+| Abbrev. | Full Name | Author/Translator | Taisho |
+|---------|---------|---------|-------|
+| 大方廣佛 | 大方廣佛華嚴經 | unknown | T0278 |
+| 大方廣佛 | 大方廣佛華嚴經 | unknown | T0279 |
+| 大方廣佛 | 大方廣佛華嚴經·普賢行願品 | unknown | T0293 |
+| 維摩詰所 | 維摩詰所說經 | unknown | T0475 |
+| 大智度論 | 大智度論 | unknown | T1509 |
+| 中論 | 中論 | unknown | T1564 |
+| 成唯識論 | 成唯識論 | unknown | T1585 |
+| 攝大乘論 | 攝大乘論釋 | unknown | T1593 |
+| 大乘起信 | 大乘起信論 | unknown | T1666 |
+| 大方廣佛 | 大方廣佛華嚴經疏 | unknown | T1735 |
+| 阿彌陀經 | 阿彌陀經要解 | unknown | T1762 |
+| 法華三昧 | 法華三昧懺儀 | unknown | T1941 |
+| 往生禮讚 | 往生禮讚偈 | unknown | T1980 |
+| 宗鏡錄 | 宗鏡錄 | unknown | T2016 |
+| 萬善同歸 | 萬善同歸集 | unknown | T2017 |
+
 
 ---
 

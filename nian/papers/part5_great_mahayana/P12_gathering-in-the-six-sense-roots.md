@@ -20,6 +20,7 @@ license: "CC BY-NC-SA 4.0"
 **Date:** April 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
+**Series:** NIAN — Mindful of the Buddha
 
 ---
 
@@ -372,7 +373,7 @@ The eight sūtras each enter distinctively — neither a single-line derivation 
 - P09: The Forty-Eight Vows — Dharmākara's vow-system as a designed architecture.
 - P10: The Sixteen Contemplations — a designed cognitive-visual architecture.
 - P11: Holding the Name — the name-layer as parallel access.
-- P13 (forthcoming): The *Lotus Sūtra*'s Universal-Gate-chapter name-invocation and the *Lotus* view of buddha-recollection.
+- P13: The *Lotus Sūtra*'s Universal-Gate-chapter name-invocation and the *Lotus* view of buddha-recollection.
 
 ### V. Sūtra & Śāstra Index
 

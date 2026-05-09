@@ -464,7 +464,7 @@ P15's argument here concludes. The sixth layer, grounding-in-precepts, has estab
 - **P12** *Gathering in the Six Sense-Roots*: spatial inward integration — the dual-axis intra-seated structure of faculty-reception. P15 §V discusses how gathering-the-six-faculties is institutionalized through grounding-in-precepts, taking the precept-clauses as the six-faculty operational norms in daily time.
 - **P13** *Universal-Gate Name-Invocation*: three-karmic outward unfolding — the three-karmic architecture of Lotus buddha-recollection. P15 with P13 composes the outward dimension of final-age practice.
 - **P14** *Binding the Three Periods*: time-dependent verbal grammar of final-age recollection — time-rhythm (the morning-midday-evening tri-temporal structure); Zongmi's dual-layer recollection (phenomenal/noumenal) and the four-disease metronome; the Zongmi-versus-Fazang pairing as the first counterpoint of the Huayan commentarial mind-dialectical / ontological-structural dual lineage. P15 §IV directly answers P14; §V discusses how the two papers together compose the time-and-space twin axes of final-age practice.
-- **P16** *Golden Light Sūtra* (forthcoming): repentance-based recollection — the four structures of the dream-golden-drum, Ruciraketu's dream-manifestation, Jalavāhana's son rescuing the fish, and giving one's body to the starving tigress; with P15 composing Part V's middle-run precept-and-repentance twin axis.
+- **P16** *Golden Light Sūtra*: repentance-based recollection — the four structures of the dream-golden-drum, Ruciraketu's dream-manifestation, Jalavāhana's son rescuing the fish, and giving one's body to the starving tigress; with P15 composing Part V's middle-run precept-and-repentance twin axis.
 
 ### V. Sūtra & Śāstra Index
 
@@ -490,6 +490,7 @@ P15's argument here concludes. The sixth layer, grounding-in-precepts, has estab
 | T2054 | *Fazang-héshàng-zhuàn* (*Biography of Master Fazang*) | Cui Zhiyuan | Late Tang |
 | X09n0248 | *Yuánjué jīng lüèshū zhī chāo* (*Subcommentary on the Abridged Commentary to the Sūtra of Perfect Enlightenment*) | Guifeng Zongmi | Mid-to-late Tang |
 | X0275 | *Dà Fódǐng Shǒuléngyán jīng Zhèngmài shū* (*Commentary on the Straight Vein of the Śūraṅgama*) | Jiaoguang Zhenjian | Ming, Wanli 22–24, 1594–1596 CE |
+
 
 ---
 

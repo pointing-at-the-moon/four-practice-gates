@@ -20,6 +20,7 @@ license: "CC BY-NC-SA 4.0"
 **Date:** April 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
+**Series:** NIAN — Mindful of the Buddha
 
 ---
 
@@ -272,7 +273,7 @@ The next paper, P17 on the *Laṅkāvatāra Sūtra*, will take up this suspended
 - **P13 *Universal-Gate Name-Invocation***: The three-karmic outward unfolding in the *Lotus*'s buddha-recollection. P16's §III reception-in-dream mechanism supplements the three-karmic framework with a distinctive configuration: "mental-karma as entry; verbal-karma as re-telling."
 - **P14 *Binding the Three Periods***: The time-dependent verb-grammar of final-age buddha-recollection in the *Perfect Enlightenment* — segmented rhythm and Zongmi's phenomenal-noumenal dual-layer. Multiple points of counterpoint with P16 §3.4 and §IV — P14 is schedule-bound vs P16 event-chain-bound; Zongmi's mind-dialectic vs the Zhiyi-Zhili liturgiology.
 - **P15 *Seeing the Sign, Obtaining the Precept***: The precept-body ontology of the *Brahma Net* — Fazang's thousand-flower thousand-hundred-million source-ontology and the three-fold negation of precept-essence as the primordial buddha. P16 §IV opening and §V(b) are in counterpoint — P15's ontology-axis vs P16's ritual-axis; together the two papers compose Part V's dual-ledger of commentator ontology ↔ ritual.
-- **P17 *Laṅkāvatāra*** (forthcoming): "The minds of the buddhas are foremost," "to recollect the buddha is to recollect the mind," the Bodhidharma "sealing of the mind" tradition. P16 §VI's open question and the P17 forecast explicitly reserve the *what-is-being-recollected* ontological inquiry for P17: the *Golden Light* solves *how to confess*; the *Laṅkāvatāra* solves *what is being recollected*.
+- **P17 *Laṅkāvatāra***: "The minds of the buddhas are foremost," "to recollect the buddha is to recollect the mind," the Bodhidharma "sealing of the mind" tradition. P16 §VI's open question and the P17 forecast explicitly reserve the *what-is-being-recollected* ontological inquiry for P17: the *Golden Light* solves *how to confess*; the *Laṅkāvatāra* solves *what is being recollected*.
 
 ### V. Sūtra & Śāstra Index
 

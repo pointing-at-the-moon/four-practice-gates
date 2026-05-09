@@ -20,6 +20,7 @@ license: "CC BY-NC-SA 4.0"
 **Date:** April 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
+**Series:** NIAN — Mindful of the Buddha
 
 ---
 
@@ -332,7 +333,7 @@ The Lotus self-sufficiently presents the name-invocation spectrum through its si
 
 [^21]: T1718, Fascicle 10, Universal Gate Chapter exegesis, T34.0145c24–29, middle-way ultimate-reality exegesis of the "gate" character.
 
-[^22]: The "holding the name" passage of T0263 is in the name-invocation merit-comparison section of Fascicle 10 (verified line-by-line against the vault), 114 years earlier than Kumārajīva's T0366. Tanluan (c. 476–542), Daochuo (562–645), and Shandao (613–681) are the three patriarchs of the formal establishment of Chinese Pure Land Buddhism; for details see NIAN Part VI, P20–P22 (forthcoming).
+[^22]: The "holding the name" passage of T0263 is in the name-invocation merit-comparison section of Fascicle 10 (verified line-by-line against the vault), 114 years earlier than Kumārajīva's T0366. Tanluan (c. 476–542), Daochuo (562–645), and Shandao (613–681) are the three patriarchs of the formal establishment of Chinese Pure Land Buddhism; for details see NIAN Part VI, P20–P22.
 
 [^23]: For the three-sūtra parallel argument, see P11 "Holding the Name," §3.3.
 
@@ -380,7 +381,7 @@ The Lotus self-sufficiently presents the name-invocation spectrum through its si
 - P10: The Sixteen Contemplations — A Designed Cognitive-Visual Architecture.
 - P11: Holding the Name — The Name-Layer as Parallel Access.
 - P12: Gathering in the Six Sense-Roots — The Dual-Axis Deepening of the Verbal Grammar of Buddha-Recollection.
-- P14 (forthcoming): *Sūtra of Perfect Enlightenment* — Final-Age Buddha-Recollection and the Pure-*Samādhi*-Wheels.
+- P14: *Sūtra of Perfect Enlightenment* — Final-Age Buddha-Recollection and the Pure-*Samādhi*-Wheels.
 
 ### V. Sūtra & Śāstra Index
 

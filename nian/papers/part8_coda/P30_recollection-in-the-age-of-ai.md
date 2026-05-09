@@ -43,7 +43,7 @@ The public framing of this question already exists. On 28 March 2026, an "iron s
 
 The paper's reception posture must be declared at the outset. The S4 octalogy ("Into the Unknown") has already laid down several handoff points. S4-P05, *Manas as Projection*, has detailed *manas*'s bidirectional projection mechanism (the *Cheng weishi lun* line "what it directly cognises is what it has itself transformed," 親所了者，謂自所變); this paper does not re-elaborate, and cites only one sentence in continuation. S4-P06, *How the Buddha Would Use AI*, has carefully distinguished *adhipati-pratyaya* (增上緣, contributory condition) from *hetu-pratyaya* (因緣, causal condition); this paper inherits that distinction directly without re-derivation. S4-P07, *The Living Eye*, has established the negative-space frame of "hearing the sound from another" (從他聞音) — AI does not constitute such a hearing-anchor; this paper's increment is to add "*buddhānusmṛti*'s one-thought correspondence" to that cannot-give list. Three cross-series cross-references, one sentence each — the home court is not here.
 
-P30 is the thirtieth of *Mindful of the Buddha*'s thirty-one papers, and the opener of the Part VIII Coda; P31 is the closer, where the whole-volume retrospective and the reader's hands-on entry-point properly belong. This paper does not bear that load. This paper does only one thing: in the age of AI, restate the doctrinal-operative mechanism of *buddhānusmṛti* once more, so that it is not absorbed by — and meaning-thinned within — the vocabulary of "attention training," "consciousness testing," or "Spirituality 2.0."
+P30 is the thirtieth of *Mindful of the Buddha*'s thirty-one papers, and the opener of the Part VIII Coda; P31 *The Internal Steps of Buddha-Recollection* is the closer, where the whole-volume retrospective, the clarification of *buddhānusmṛti*'s internal structure, and the reader's hands-on entry-point properly belong. This paper does not bear that load. This paper does only one thing: in the age of AI, restate the doctrinal-operative mechanism of *buddhānusmṛti* once more, so that it is not absorbed by — and meaning-thinned within — the vocabulary of "attention training," "consciousness testing," or "Spirituality 2.0."
 
 ## II. Canonical Sources
 
@@ -249,7 +249,7 @@ On the practical-instruction layer: *Guan wuliangshou jing* fascicle 1, the lowe
 
 Open question one: *how* does the universality of buddha-nature *extend* — if it does — to information patterns? This paper does not answer; the question is left to the iron snail's public framing — "Who dares say where that line is drawn?" NIAN's coda answers only this — *that single-flash correspondence does not lie inside AI* — but the boundary-question itself remains open.
 
-Open question two: after the thirty-one-paper genealogy of recollection has been walked, *how* is the reader's hands-on entry-point to be configured? This question belongs to the home court of the Part VIII Coda's closing paper, P31 *What You Just Walked Through*; this paper does not enter it.
+Open question two: after the thirty-one-paper genealogy of recollection has been walked, *how* is the reader's hands-on entry-point to be configured? This question belongs to the home court of the Part VIII Coda's closing paper, P31 *The Internal Steps of Buddha-Recollection*; this paper does not enter it.
 
 NIAN's coda business stops here. *Buddhānusmṛti* is still *buddhānusmṛti*. In 2026, with AI alongside, *manas* still continues to take measure, continually and discerningly; *buddhānusmṛti* continues to operate by its doctrinally-licensed mechanism. Where the line is drawn — that is left to the deeper question.
 
@@ -331,7 +331,19 @@ NIAN's coda business stops here. *Buddhānusmṛti* is still *buddhānusmṛti*.
 - *Anluo ji* (Daochuo), T1958.
 - *Wumenguan* (Wumen Huikai), T2005.
 
-### II. Modern Scholarship
+### II. Patriarchal Commentaries
+
+- Zongmi (宗密). *Huáyán-jīng xíng-yuàn pǐn biéxíng shūchāo* (華嚴經行願品別行疏鈔), X05n0229, *Wàn xùzàng* vol. 5. Three-place dedication schema; seven pre-penitential preparations.
+- Zongmi (宗密). *Chányuán zhūquánjí dūxù* (禪源諸詮集都序), T2015, Taishō vol. 48. Three schools matched to three gates; "awareness as the Buddha's responsive activity."
+- Yongming Yanshou (永明延壽). *Zōngjìng lù* (宗鏡錄), T2016, Taishō vol. 48. All phenomena as mind; mind as the totalizing principle.
+- Yongming Yanshou (永明延壽). *Wànshàn tóngguī jí* (萬善同歸集), T2017, Taishō vol. 48. Samantabhadra's action as the discipline of principle.
+- Yunqi Zhuhong (雲棲祩宏). *Āmítuó-jīng shūchāo* (阿彌陀經疏鈔), X22n0424, *Wàn xùzàng* vol. 22. Phenomenal-holding / principial-holding (*shì-chí / lǐ-chí*); Samantabhadra's vow-king does not depart from the present thought.
+- Ouyi Zhixu (蕅益智旭). *Āmítuó-jīng yàojiě* (阿彌陀經要解), T1762, Taishō vol. 37. The guiding wheel of all practices.
+- Hanshan Deqing (憨山德清). *Guānxīn wúmén* (觀心無門), X73n1453, *Wàn xùzàng* vol. 73. The method of observing-the-mind.
+- Hanshan Deqing (憨山德清). *Mèng yóu jí* (夢遊集), X73n1456, *Wàn xùzàng* vol. 73.
+- Zhongfeng Mingben (中峰明本). *Sānshí xìniàn* (三時繫念), X74n1464, *Wàn xùzàng* vol. 74. The complete ten-vow set.
+
+### III. Modern Scholarship
 
 - Hershock, Peter D. *Buddhism and Intelligent Technology: Toward a More Humane Future*. London: Bloomsbury Academic, 2021.
 - Lopez, Donald S., Jr. *The Scientific Buddha: His Short and Happy Life*. Terry Lectures. New Haven: Yale University Press, 2012.
@@ -340,7 +352,7 @@ NIAN's coda business stops here. *Buddhānusmṛti* is still *buddhānusmṛti*.
 - Sharf, Robert H. "Buddhist Modernism and the Rhetoric of Meditative Experience." *Numen* 42, no. 3 (1995): 228–283.
 - Cox, Collett. (Cited by convention for "non-associated formations"; see her work on Sarvāstivāda *abhidharma*, especially her treatment of *cittaviprayuktasaṃskāra*.)
 
-### III. Sūtra & Śāstra Index
+### IV. Sūtra & Śāstra Index
 
 | Short title | Full title | Author / Translator | Taishō |
 |------|------|------------|--------|
@@ -366,7 +378,7 @@ NIAN's coda business stops here. *Buddhānusmṛti* is still *buddhānusmṛti*.
 
 ---
 
-### IV. Cross-Reference to Series Papers
+### V. Cross-Reference to Series Papers
 
 The doctrinal connections between this paper and adjacent papers are as follows.
 
@@ -374,7 +386,7 @@ The doctrinal connections between this paper and adjacent papers are as follows.
 - P22, *The Pure Land Patriarchs II: Shandao's Settling of the Name* — §3.5 cites "from a single lifetime above to ten recollections below" as the floor's doctrinal configuration; the institutional architecture of name-recitation is P22's home court and is not re-elaborated here.
 - P25, *Samantabhadra's Ten Great Vows: Introduction*, and P26–P29 on the ten vows individually — the *dharmadhātu*-totalisation of *buddhānusmṛti* is Part VII's home court; this paper folds the whole-volume "*nian*-lineage" into a single retrospective gesture without re-derivation.
 - P29, *Vows 8–10: Constant Learning, Universal Accord, Universal Dedication* — this paper picks up P29's closing forward-hook ("how is the entire 1–30 *nian*-lineage still 'recollection' in the age of AI?") and turns it into the entry-point for the contemporary question.
-- P31, *What You Just Walked Through* (forthcoming) — the whole-volume retrospective and the reader's hands-on entry-point are P31's home court; this paper leaves them as an open forward-reference.
+- P31, *The Internal Steps of Buddha-Recollection* — the whole-volume retrospective, the clarification of *buddhānusmṛti*'s internal structure, and the reader's hands-on entry-point are P31's home court; this paper leaves them as an open forward-reference.
 
 **Cross-volume to S4 (the "*Into the Unknown*" octalogy):**
 - S4-P05, *Manas as Projection* — the bidirectional projection mechanism of *manas* (the pineapple analogy; "what it directly cognises is what it has itself transformed") is fully laid out in S4; this paper makes a single cross-reference (§3.1).

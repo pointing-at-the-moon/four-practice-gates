@@ -20,6 +20,7 @@ license: "CC BY-NC-SA 4.0"
 **Date:** April 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
+**Series:** NIAN — Mindful of the Buddha
 
 ---
 
@@ -417,7 +418,7 @@ From T0366's "holding the name, one mind, undistracted" to T0945's "gathering in
 - P08: From recollection to name-invocation — the four-step analysis of the *niàn-chēng* 念稱 verbal coupling.
 - P09: The Forty-Eight Vows — Dharmākara's vow-system as a designed architecture.
 - P10: The Sixteen Contemplations — a designed cognitive-visual architecture.
-- P12 (forthcoming): The *Śūraṅgama Sūtra*'s "Chapter on the Perfect Penetration of Buddha-Recollection" by Mahāsthāmaprāpta — gathering in the six sense-roots, with pure recollection uninterrupted.
+- P12: The *Śūraṅgama Sūtra*'s "Chapter on the Perfect Penetration of Buddha-Recollection" by Mahāsthāmaprāpta — gathering in the six sense-roots, with pure recollection uninterrupted.
 
 ### V. Sūtra & Śāstra Index
 
@@ -430,6 +431,7 @@ From T0366's "holding the name, one mind, undistracted" to T0945's "gathering in
 | T0945 | *Śūraṅgama Sūtra* | Pāramiti | Tang, Shenlong period, 705 CE |
 | T1762 | *Essential Explanation of the Amitābha Sūtra* | Ouyi Zhixu | Qing, Shunzhi 4, 1647 CE |
 | X0424 | *Commentary and Notes on the Amitābha Sūtra* | Yunqi Zhuhong | Ming, Wanli 23, 1595 CE |
+
 
 ---
 

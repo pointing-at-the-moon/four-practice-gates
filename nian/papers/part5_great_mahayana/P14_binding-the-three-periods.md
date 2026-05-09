@@ -20,6 +20,7 @@ license: "CC BY-NC-SA 4.0"
 **Date:** April 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
+**Series:** NIAN — Mindful of the Buddha
 
 ---
 
@@ -473,7 +474,7 @@ P14's answer: the action-rhythm of final-age buddha-recollection is jointly defi
 - P11: Holding the Name — The Name-Layer as Parallel Access.
 - P12: Gathering in the Six Sense-Roots — The Dual-Axis Deepening of the Verbal Grammar of Buddha-Recollection.
 - P13: Universal-Gate Name-Invocation — The Three-Karmic Architecture of Lotus Buddha-Recollection.
-- P15 (forthcoming): *Brahma Net Sūtra* — The Bodhisattva Precepts and the Precept-Dependent Verbal Grammar of Sustained Buddha-Recollection.
+- P15: *Brahma Net Sūtra* — The Bodhisattva Precepts and the Precept-Dependent Verbal Grammar of Sustained Buddha-Recollection.
 
 ### V. Sūtra & Śāstra Index
 
@@ -493,6 +494,7 @@ P14's answer: the action-rhythm of final-age buddha-recollection is jointly defi
 | X1475 | *Yuánjué jīng dàochǎng xiūzhèng yí* (*Ritual Manual for the Perfect Enlightenment Retreat*) | Guifeng Zongmi | Mid-to-late Tang |
 | X0275 | *Dà Fódǐng Shǒuléngyán jīng Zhèngmài shū* (*Commentary on the Straight Vein of the Śūraṅgama*) | Jiaoguang Zhenjian | Ming, Wanli 22–24, 1594–1596 CE |
 | X0424 | *Fóshuō Āmítuó jīng shūchāo* (*Commentary and Notes on the Amitābha Sūtra*) | Yunqi Zhuhong | Ming, Wanli 23, 1595 CE |
+
 
 ---
 

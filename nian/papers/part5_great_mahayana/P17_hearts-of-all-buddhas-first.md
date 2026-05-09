@@ -20,6 +20,7 @@ license: "CC BY-NC-SA 4.0"
 **Date:** April 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
+**Series:** NIAN — Mindful of the Buddha
 
 ---
 
@@ -462,20 +463,7 @@ P17's argument is here concluded. The seventh layer of the verb-axis, seeing-the
 12. Monier-Williams, Sir Monier. *A Sanskrit-English Dictionary*. Oxford: Clarendon Press, 1899. Standard Sanskrit-English dictionary.
 13. Edgerton, Franklin. *Buddhist Hybrid Sanskrit Grammar and Dictionary*. New Haven: Yale University Press, 1953. Dictionary of Buddhist Hybrid Sanskrit.
 
-### IV. Cross-Reference to Series Papers
-
-- **P08 "From Calling-to-Mind to Name-Invocation — A Four-Step Analysis of *Niàn-Chēng* Verb-Coupling"**: the beginning of the verb-axis; the four-step coupling of recollection / invocation / remembrance / holding. P17 §III's seventh layer of "seeing-the-mind" extends this four-step basis into the ontological dimension of the object.
-- **P11 "Holding the Name — Juxtaposed Name-Layers"**: the resolute-severance and steady-preservation name-acts stand side by side; first layer of P17's §I vertical.
-- **P12 "Gathering the Six Faculties — A Dual-Axis Deepening of the Verb-Structure of Buddha-Recollection"**: the *Śūraṃgama*'s gathering of the six faculties — spatial integration as inward convergence; second layer of P17's §I vertical; §3.3 Daoxin's "no clinging arises" resonates with P12's "gathering."
-- **P13 "Universal Gate Name-Invocation — The Three-Karmic Structure of Buddha-Recollection in the *Lotus***": the outward unfolding of the three-karmic structure; third layer of P17's §I vertical.
-- **P14 "Binding the Three Periods — The Time-Dependent Verb-Structure of Final-Age Buddha-Recollection in the *Perfect Enlightenment***": temporal-segment rhythm; fourth layer of P17's §I vertical; the Zongmi "thinking-of-the-Buddha is also a samsaric mind" warning in §3.1 and §5.1 corresponds to P14.
-- **P15 "Seeing the Sign, Obtaining the Precept — The *Brahma Net* Bodhisattva Precepts and the Precept-Dependent Verb-Structure of Sustained Buddha-Recollection"**: the precept-boundary; fifth layer of P17's §I vertical.
-- **P16 "Confession as Buddha-Recollection — The Dream-Drum of the *Golden Light Sūtra* and the Distributed-Agency Event-Chain"**: the event-chain of the distributed subject; sixth layer of P17's §I vertical; P16 §VI made explicit the division of labor "the *Golden Light* solves *how to confess*; the *Laṅkā* solves *who is being recollected*," and P17 §I continues that forward handoff.
-- **P18 "The *Ghanavyūha-sūtra* — Buddha-Recollection as *Ālaya*-Transmutation"** (forthcoming): *ālaya*-transmutation; P17 §VI makes explicit the forward handoff to the field of P18; eighth layer of the verb-axis: "transmutation."
-- **P19 "The Single-Practice Samādhi of the *Mañjuśrī-Prajñā-Sūtra*"** (forthcoming): the independent unfolding of the "single-practice samādhi" methodology in Daoxin's formula; P17 §3.3 and §4.2 have provided the structural preparation, which P19 will deepen.
-- **P21 (Southern School *Platform Sūtra*; Zongmi's four-fold division)** (forthcoming): the Southern School Chan's subsequent use of the *Laṅkā*; P17 §4.4 closes at Zongmi's late-Tang retrospective, and P21 will continue the account.
-
-### V. Index of Sūtras and Treatises
+### IV. Sūtra & Śāstra Index
 
 | T# / X# | Title | Translator / Author | Date |
 |---------|--------|-----------|------|
@@ -501,6 +489,19 @@ P17's argument is here concluded. The seventh layer of the verb-axis, seeing-the
 | T2076 | *Jingde Record of the Transmission of the Lamp* | Daoyuan | Northern Song Dazhong-Xiangfu 4, 1011 CE |
 | T2837 | *Record of the Masters and Disciples of the Laṅkā* | Jìngjué | Start of Tang Kaiyuan, 713–714 CE (§IV and §3.3 textual carrier of the Daoxin section) |
 | X09n0248 | *Abridged Commentary with Extracts on the Sūtra of Perfect Enlightenment* | Guifeng Zongmi | Middle-to-late Tang (primary commentary of P14) |
+
+### V. Cross-Reference to Series Papers
+
+- **P08 "From Calling-to-Mind to Name-Invocation — A Four-Step Analysis of *Niàn-Chēng* Verb-Coupling"**: the beginning of the verb-axis; the four-step coupling of recollection / invocation / remembrance / holding. P17 §III's seventh layer of "seeing-the-mind" extends this four-step basis into the ontological dimension of the object.
+- **P11 "Holding the Name — Juxtaposed Name-Layers"**: the resolute-severance and steady-preservation name-acts stand side by side; first layer of P17's §I vertical.
+- **P12 "Gathering the Six Faculties — A Dual-Axis Deepening of the Verb-Structure of Buddha-Recollection"**: the *Śūraṃgama*'s gathering of the six faculties — spatial integration as inward convergence; second layer of P17's §I vertical; §3.3 Daoxin's "no clinging arises" resonates with P12's "gathering."
+- **P13 "Universal Gate Name-Invocation — The Three-Karmic Structure of Buddha-Recollection in the *Lotus***": the outward unfolding of the three-karmic structure; third layer of P17's §I vertical.
+- **P14 "Binding the Three Periods — The Time-Dependent Verb-Structure of Final-Age Buddha-Recollection in the *Perfect Enlightenment***": temporal-segment rhythm; fourth layer of P17's §I vertical; the Zongmi "thinking-of-the-Buddha is also a samsaric mind" warning in §3.1 and §5.1 corresponds to P14.
+- **P15 "Seeing the Sign, Obtaining the Precept — The *Brahma Net* Bodhisattva Precepts and the Precept-Dependent Verb-Structure of Sustained Buddha-Recollection"**: the precept-boundary; fifth layer of P17's §I vertical.
+- **P16 "Confession as Buddha-Recollection — The Dream-Drum of the *Golden Light Sūtra* and the Distributed-Agency Event-Chain"**: the event-chain of the distributed subject; sixth layer of P17's §I vertical; P16 §VI made explicit the division of labor "the *Golden Light* solves *how to confess*; the *Laṅkā* solves *who is being recollected*," and P17 §I continues that forward handoff.
+- **P18 "The *Ghanavyūha-sūtra* — Buddha-Recollection as *Ālaya*-Transmutation"**: *ālaya*-transmutation; P17 §VI makes explicit the forward handoff to the field of P18; eighth layer of the verb-axis: "transmutation."
+- **P19 "The Single-Practice Samādhi of the *Mañjuśrī-Prajñā-Sūtra*"**: the independent unfolding of the "single-practice samādhi" methodology in Daoxin's formula; P17 §3.3 and §4.2 have provided the structural preparation, which P19 will deepen.
+- **P21 (Southern School *Platform Sūtra*; Zongmi's four-fold division)**: the Southern School Chan's subsequent use of the *Laṅkā*; P17 §4.4 closes at Zongmi's late-Tang retrospective, and P21 will continue the account.
 
 ---
 

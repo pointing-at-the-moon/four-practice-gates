@@ -473,14 +473,15 @@ This warning continues the Kripke-Lewis dialogue structure of P07 §IV and the T
 | NIAN-P04 | *Recollection and the Jhānas* | §2.1 | Inheritance of the Pāli *sati* / *anussati* ground |
 | NIAN-P06 | *Seeing the Buddhas Face to Face* | §I, §3.1, §4.3 | Starting point of access-verb evolution; T0418's "always recollect me" baseline; continuation of the interdisciplinary dialogue structure (Thompson → Kripke-Lewis → Austin-Searle) |
 | NIAN-P07 | *Constructing the Buddha-Field* | §I, §3.1, §V Caveat 3 | Buddha-field ontology shift baseline; the access-verb partner to T0361 vow 17's outward-optimization |
-| NIAN-P09 (forthcoming) | *The Forty-Eight Vows* | §VI | Full architectural treatment of T0360's 48-vow system |
-| NIAN-P10 (forthcoming) | *The Sixteen Contemplations* | §VI | T0365's architecture of sixteen contemplations; this chapter extracts only the lower-grade rebirth passages, leaving concentrated/dispersed comparison for P22 |
-| NIAN-P11 (forthcoming) | *The Shorter Sūtra and the Single Name* | §2.2, §VI | Full treatment of T0366's *zhíchí mínghào*; this chapter mentions it only briefly |
-| NIAN-P19 (forthcoming) | *The Mañjuśrī Prajñā Sūtra and One-Practice Samādhi* | §2.6, §3.5 | Full treatment of One-Practice Samādhi; this chapter extracts only the three-verb chain as cross-sectarian witness |
-| NIAN-P21 (forthcoming) | *The Chan Position: Turning the Name Inward* | §V Caveat 2 | Uptake dynamics of Chan name-recollection |
-| NIAN-P22 (forthcoming) | *Shandao's Settling of the Name* | §2.5, §4.2, §V Correction 3 / Caveat | Shandao's three minds, two-fold deep faith, ordinary-person's entry into recompense-land, self-power/other-power division — all reserved for P22 |
-| NIAN-P23 (forthcoming) | *Tiantai's Four Kinds of Recollection* | §V Caveat 2 | Uptake dynamics of Tiantai's four-fold *niànfó* |
-| NIAN-P24 (forthcoming) | *The Synthesis: From Yongming to the Late Ming Masters* | §V Caveat 2 | Re-framing of calling-verb-grammar in the Ming-dynasty Chan-Pure Land synthesis |
+| NIAN-P09 | *The Forty-Eight Vows* | §VI | Full architectural treatment of T0360's 48-vow system |
+| NIAN-P10 | *The Sixteen Contemplations* | §VI | T0365's architecture of sixteen contemplations; this chapter extracts only the lower-grade rebirth passages, leaving concentrated/dispersed comparison for P22 |
+| NIAN-P11 | *The Shorter Sūtra and the Single Name* | §2.2, §VI | Full treatment of T0366's *zhíchí mínghào*; this chapter mentions it only briefly |
+| NIAN-P19 | *The Mañjuśrī Prajñā Sūtra and One-Practice Samādhi* | §2.6, §3.5 | Full treatment of One-Practice Samādhi; this chapter extracts only the three-verb chain as cross-sectarian witness |
+| NIAN-P21 | *The Chan Position: Turning the Name Inward* | §V Caveat 2 | Uptake dynamics of Chan name-recollection |
+| NIAN-P22 | *Shandao's Settling of the Name* | §2.5, §4.2, §V Correction 3 / Caveat | Shandao's three minds, two-fold deep faith, ordinary-person's entry into recompense-land, self-power/other-power division — all reserved for P22 |
+| NIAN-P23 | *Tiantai's Four Kinds of Recollection* | §V Caveat 2 | Uptake dynamics of Tiantai's four-fold *niànfó* |
+| NIAN-P24 | *The Synthesis: From Yongming to the Late Ming Masters* | §V Caveat 2 | Re-framing of calling-verb-grammar in the Ming-dynasty Chan-Pure Land synthesis |
+
 
 ---
 
