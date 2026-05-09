@@ -36,3 +36,5 @@ PAPER_STYLE.md
 # Volume-level canonical format & audit docs (private reference docs)
 nian/NIAN_CANONICAL_FORMAT_*.md
 nian/NIAN_FORMAT_AUDIT_*.md
+nian/NIAN_PHASE_*.md
+nian/NIAN_REMEDIATION_*.md
