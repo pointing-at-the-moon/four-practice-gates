@@ -317,10 +317,11 @@ MBSR-style short meditation is a therapeutic practice whose purpose is emotional
 - **NIAN volume Part I, P04 *Recollection and Jhāna***: The Velāma ladder's eleventh rung (loving-kindness for the cow-milking interval) and twelfth rung (perception of impermanence for the finger-snap) engage the structure argued in *Visuddhimagga* chapter 7 — loving-kindness, as a *brahmavihāra bhāvanā*, can reach *appanā* (the main venue of NIAN P04); the perception of impermanence, as a *vipassanā bhāvanā*, does not lie within the recollection system. The structural cross-reference between the two volumes at this point: this paper uses Buddhaghosa's stratification of "recollection reaches *upacāra*, four divine abidings reach *appanā*, *vipassanā* is a categorical switch," the complete unfolding of which is in NIAN P04.
 - **Pointing at the Moon Part V *Vajracchedikā* series**: §III 3.5's It 98 as an orthogonal reference of the content axis has a long-range resonance with the *Dharmadhātu* offering structure of S8 (Avataṃsaka) in the Eight-Volume series — Velāma's recipient axis unfolds in the Mahāyāna transmission as It 98's content axis (with Dhamma-giving as supreme), eventually completing the structural turn at the "supreme of all offerings is the Dhamma offering" section of Samantabhadra's Practice of Extensive Offering. P24 is the main venue of this long-range resonance.
 
+
 ---
 
-**Author:** 釋慧鏡 (Shi Huijing)
-**Project:** 指月 *Pointing at the Moon · DĀNA volume*
-**License:** CC BY-NC-SA 4.0
-**CBETA proofing:** Citations from *Fo shuo Xuda jing* T0073 (whole sūtra), *Madhyama Āgama juan* 39 sūtra 155 *Xudaduo jing*, and *Ekottara Āgama juan* 19 〈Chapter on Equal Approach to the Four Truths〉 sūtra 3 have all been proofed against the CBETA Electronic Tripiṭaka Collection v. 2024. T0073, because the current Chinese translation vault did not hit, was rescued via CBETA XML fallback per v2.5.2-NIAN discipline. Pāli citations (AN 9.20, SN 55.31–33, SN 55.40, AN 5.148, AN 10.60, It 98, Vin Cv VI.4) follow the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 edition as hosted on SuttaCentral, with PTS numbering given in parallel; Bhikkhu Sujato's English translations are CC0-licensed. It 27 / AN 11.16 *Mettānisaṁsa* is absent from the current vault-pali collection; per vault-only discipline, this paper does not cross-check online.
-**GitHub:** https://github.com/pointing-at-the-moon/four-practice-gates
+*Paper:* DANA-P05 · *The Velāma Case and the Apex of the Recipient Ladder* · **DĀNA · Part II · Āgama View**
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates (四行門)
+*License:* CC BY-NC-SA 4.0
+*CBETA verification:* Citations from *Fo shuo Xuda jing* T0073, *Madhyama Āgama juan* 39 sūtra 155, and *Ekottara Āgama juan* 19 sūtra 3 verified against CBETA Electronic Tripiṭaka 2024 edition. Pāli citations (AN 9.20, SN 55.31–33, SN 55.40, AN 5.148, AN 10.60, It 98, Vin Cv VI.4) follow SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 with PTS numbering.
+*Repository:* https://github.com/pointing-at-the-moon/four-practice-gates

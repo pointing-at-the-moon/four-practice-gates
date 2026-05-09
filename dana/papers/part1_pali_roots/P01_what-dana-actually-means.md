@@ -3,6 +3,7 @@ title: What Dāna Actually Means — Dāna, Cāga, Yāga, and the Loosening of "
 author: Shi Huijing
 series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu · Part I · Pāli Roots"
 paper_id: DANA-P01
+date: "2026-04"
 license: CC BY-NC-SA 4.0
 ---
 
@@ -17,7 +18,7 @@ Contemporary Western readers translate *dāna* uniformly as "giving" or "generos
 
 ---
 
-## 1. Introduction
+## I. Introduction
 
 You're at the supermarket checkout. The screen prompts: "Donate $1 to children's charity?" Your finger hovers between "yes" and "skip" for a fraction of a second, and there's a small inward contraction. That contraction has a technical name in early Buddhist psychology, with its own developmental mechanism and its own antidote. The name is *macchera* — stinginess.
 
@@ -33,7 +34,7 @@ The Pāli evidence comes next.
 
 ---
 
-## 2. Canonical Foundation
+## II. Canonical Foundation
 
 This section runs in two streams: discourses (the *sutta* layer) organized by which of the three terms is centered, and a treatise (the *Visuddhimagga*) for systematic exposition. Each Pāli reference is paired with its Chinese-translation parallel where available, in keeping with the bilingual convention of this volume.
 
@@ -84,7 +85,7 @@ A bilingual observation: the three-term distinction is comparatively clean in P�
 **Note on commentarial structure**: this chapter operates as a *two-voice exposition* — Buddhaghosa as primary, Yogācāra *Śrāvakabhūmi* as supplementary cross-reference — rather than the *three-family dialogue* that is the methodological signature of the Pointing-at-the-Moon project. The reason is documentary: the early Pāli material has only one systematically developed commentarial tradition (Theravāda); the full three-family dialogue (Nāgārjuna / Asaṅga–Vasubandhu / Buddhaghosa) becomes available in Part IV when the early Mahāyāna treatises on giving enter the picture. Honest disclosure of this methodological constraint is itself a commitment of the project: not every paper in this volume can mechanically apply three-family dialogue; each application must follow the actual density of the commentarial tradition at hand. All three papers of Part I share this two-voice structure as a coherent local discipline.
 
 ---
-## 3. Core Argument
+## III. Core Argument
 
 ### 3.1 *Dāna*: The Word for the Visible Event
 
@@ -186,7 +187,7 @@ Three different "eights" track three different analytical levels — and *those 
 The full three-eight comparison and its doctrinal analysis belongs to chapter 4. The present chapter records it only as a corroboration of the three-term thesis.
 
 ---
-## 4. Interdisciplinary Dialogue: *Macchera* and the Scarcity Mindset
+## IV. Interdisciplinary Dialogue: *Macchera* and the Scarcity Mindset
 
 Contemporary behavioral economics has a concept called *scarcity mindset*, articulated by economist Sendhil Mullainathan and psychologist Eldar Shafir in their 2013 work *Scarcity: Why Having Too Little Means So Much*. Its central observation: when a resource (time, money, attention) is perceived as insufficient, the brain enters a self-protective mode — attention narrows around the scarce resource, cognitive bandwidth is consumed, and decision-making in unrelated domains degrades. The phenomenology overlaps with *macchera*: the mind is bound to "mine," resists sharing, cannot release.
 
@@ -208,7 +209,7 @@ The analogy travels in one direction only: from scarcity to *macchera*, for purp
 
 ---
 
-## 5. Middle Way Corrections
+## V. Middle Way Corrections
 
 ### ❌ Misreading 1: *dāna* = charity / philanthropy
 
@@ -239,7 +240,7 @@ In actual Pāli texts, the three terms occasionally cross-substitute — *dāna*
 §4 establishes the analogy in one direction (from *scarcity* to *macchera*, for Western recognition). The reverse does not hold — one cannot apply *macchera* doctrine to scarcity-mindset's policy problems. The first is the cultivation domain; the second is the institutional domain. Mixing the interventions of the two domains fails on both ends: using personal cultivation to address structural poverty deflects institutional responsibility, and using policy design to address *macchera* misses the inner pathology. The two are not in competition; they are different intervention points in different domains, and they require parallel rather than substitutive engagement.
 
 ---
-## 6. Conclusion
+## VI. Conclusion
 
 ### 6.1 The Core Thesis Restated
 
@@ -342,10 +343,11 @@ This is the opening paper of *DĀNA*, establishing the three-term vocabulary use
 
 **Relation to the *Pointing-at-the-Moon Octalogy***: the present chapter's analysis of *cāga* as a mental factor resonates structurally with the Octalogy's S3 series (*The Hundred Dharmas Treatise*) on *alobha* (non-greed) — *cāga* is the specific manifestation of *alobha* in the object-domain "what one possesses." A full mental-factor cross-reference appears in chapter 12.
 
+
 ---
 
-**Author:** Shi Huijing (釋慧鏡)
-**Project:** Pointing at the Moon · *DĀNA* volume
-**License:** CC BY-NC-SA 4.0
-**CBETA Verification:** All citations from the *Ekottarikāgama*, *Saṃyuktāgama*, and *Yogācārabhūmi-śāstra* have been verified against the CBETA Electronic Tripiṭaka v. 2024. Pāli references use the SuttaCentral edition (Mahāsaṅgīti Tipiṭaka Buddhavasse 2500), with PTS numbering provided in parallel.
-**GitHub:** https://github.com/pointing-at-the-moon/four-practice-gates
+*Paper:* DANA-P01 · *What Dāna Actually Means* · **DĀNA · Part I · Pāli Roots**
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates (四行門)
+*License:* CC BY-NC-SA 4.0
+*CBETA verification:* Citations from the *Ekottarikāgama*, *Saṃyuktāgama*, and *Yogācārabhūmi-śāstra* verified against CBETA Electronic Tripiṭaka 2024 edition. Pāli references follow SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 with PTS numbering.
+*Repository:* https://github.com/pointing-at-the-moon/four-practice-gates

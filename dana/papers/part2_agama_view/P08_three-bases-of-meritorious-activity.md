@@ -276,8 +276,11 @@ Giving being the entrance to the three bases, how does the institutionalized fie
 
 **Forward indicator**: This paper is the closing paper of Part II, handing off to the ninth paper *The Sangha as a Field of Merit* of Part III — the institutionalization of the field of merit and the vinaya-side structure of *cātuddisa saṅgha* (the sangha of the four quarters), the three-layer (doctrinal / practical / vinaya) structure of the sangha as a "sustainable communal undertaking" institutional field of merit.
 
+
 ---
 
-*This paper is licensed under CC BY-NC-SA 4.0; citation should indicate the source.*
-*Citations from primary sources follow the CBETA Chinese Tripiṭaka (https://cbetaonline.dila.edu.tw/) and the PTS Pāli editions, with reference to Bhikkhu Sujato's CC0 English translations at SuttaCentral.*
-*This paper belongs to the *Pointing-at-the-Moon · Four Practice Gates* series, *Volume Two: DĀNA Part II*, the eighth paper, held at github.com/pointing-at-the-moon/four-practice-gates.*
+*Paper:* DANA-P08 · *The Three Bases of Meritorious Activity* · **DĀNA · Part II · The Āgama View**
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates (四行門)
+*License:* CC BY-NC-SA 4.0
+*CBETA verification:* Citations from *Aṅguttara Nikāya* and *Saṃyukta Āgama* verified against CBETA Electronic Tripiṭaka 2024 edition. Pāli citations follow SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 with PTS numbering.
+*Repository:* https://github.com/pointing-at-the-moon/four-practice-gates
