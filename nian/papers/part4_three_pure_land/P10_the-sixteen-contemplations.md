@@ -518,10 +518,10 @@ The question is not answered within P10's scope. The convergence-differentiation
 | NIAN-P07 | — | T0361 buddha-field ontology background (not directly invoked here) |
 | NIAN-P08 | §2.4 | Shandao's five right-practices; *niàn*-*chēng* verbal analysis |
 | NIAN-P09 | §I, §3.3, §VI | T0360's forty-eight-vow designed architecture; vow 18's floor-not-pinnacle position; Part IV dual-architecture meta-thesis |
-| NIAN-P11 (forthcoming) | §I, §3.3, §VI | T0366's "holding the name" compression; the convergence-or-new-architecture question |
-| NIAN-P17 (forthcoming) | §V | *Laṅkāvatāra* / *Ghanavyūha* full Yogācāra reading (not unfolded here) |
-| NIAN-P22 (forthcoming) | §2.4, §IV, §V | Full development of Shandao's ordinary-being-into-recompense-land, two-kinds-of-deep-faith, right-determining-act, essential-and-extensive gate |
-| NIAN-P23 (forthcoming) | §IV, §V | Tiantai's buddha-recollection classification and T1962's five-gate architecture |
+| NIAN-P11 | §I, §3.3, §VI | T0366's "holding the name" compression; the convergence-or-new-architecture question |
+| NIAN-P17 | §V | *Laṅkāvatāra* / *Ghanavyūha* full Yogācāra reading (not unfolded here) |
+| NIAN-P22 | §2.4, §IV, §V | Full development of Shandao's ordinary-being-into-recompense-land, two-kinds-of-deep-faith, right-determining-act, essential-and-extensive gate |
+| NIAN-P23 | §IV, §V | Tiantai's buddha-recollection classification and T1962's five-gate architecture |
 
 
 ---

@@ -526,12 +526,12 @@ _N/A_ — This paper's canonical basis (T0360 / T0362 / Vasubandhu's *Upadeśa*)
 | NIAN-P06 | *Seeing the Buddha Face to Face* | §I, §IV | T0418 vision-layer background inheritance; continuity of the cross-disciplinary dialogue structure |
 | NIAN-P07 | *The Construction of a Buddha-Field* | §I, §2.3, §V Correction 2 | T0361 twenty-four-vow buddha-field ontology; the 210-billion-buddha-fields selection-combination operation; method for handling attribution disputes |
 | NIAN-P08 | *From Recollection to Calling* | §I, §2.3, §3.4 | The verbal analysis of vow 18's "even-ten-recollections" as semantic hinge; §3.4's architectural-floor analysis and P08's verbal hinge are two dimensions of the same fact |
-| NIAN-P10 (forthcoming) | *The Sixteen Contemplations* | §VI | T0365's cognitive-visualization architecture |
-| NIAN-P11 (forthcoming) | *The Shorter Sūtra and the Single Name* | §VI | T0366's Sukhāvatī-description and "holding the name" |
-| NIAN-P12 (forthcoming) | *The Śūraṅgama* | — | Mahāsthāmaprāpta's *buddhānusmṛti* penetration-chapter treated adjacently to Pure Land |
-| NIAN-P17 (forthcoming) | *The Laṅkāvatāra* | §2.4 domain delimitation | *ālaya-vijñāna*, *tathatā*, *dharma-kāya* full-doctrinal meanings not treated here; T1524's broader Yogācāra reading reserved for *Laṅkāvatāra* / *Ghanavyūha* |
-| NIAN-P22 (forthcoming) | *Doctrinal Closure of Early Tang Pure Land* | §2.6, §3.4, §V Correction 3 | Full development of Daochuo's other-power dominant condition; doctrinal closure of Shandao's five right-practices |
-| NIAN Part VI (forthcoming) | *Divergences of Chinese Pure Land* | §2.6, §V Caution 3 | Tiantai's four *buddhānusmṛti*, Huayan's Pure Land perspective, Chan-Pure-Land convergence, and other reception-history instances |
+| NIAN-P10 | *The Sixteen Contemplations* | §VI | T0365's cognitive-visualization architecture |
+| NIAN-P11 | *The Shorter Sūtra and the Single Name* | §VI | T0366's Sukhāvatī-description and "holding the name" |
+| NIAN-P12 | *The Śūraṅgama* | — | Mahāsthāmaprāpta's *buddhānusmṛti* penetration-chapter treated adjacently to Pure Land |
+| NIAN-P17 | *The Laṅkāvatāra* | §2.4 domain delimitation | *ālaya-vijñāna*, *tathatā*, *dharma-kāya* full-doctrinal meanings not treated here; T1524's broader Yogācāra reading reserved for *Laṅkāvatāra* / *Ghanavyūha* |
+| NIAN-P22 | *Doctrinal Closure of Early Tang Pure Land* | §2.6, §3.4, §V Correction 3 | Full development of Daochuo's other-power dominant condition; doctrinal closure of Shandao's five right-practices |
+| NIAN Part VI | *Divergences of Chinese Pure Land* | §2.6, §V Caution 3 | Tiantai's four *buddhānusmṛti*, Huayan's Pure Land perspective, Chan-Pure-Land convergence, and other reception-history instances |
 
 
 ---
