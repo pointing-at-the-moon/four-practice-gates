@@ -422,6 +422,29 @@ Williams, Paul. *Mahāyāna Buddhism: The Doctrinal Foundations*. 2nd ed. London
 > First draft, May 2026
 > This work is licensed under CC BY-NC-SA 4.0
 
+
+
+### IV. Sutra & Śāstra Index
+
+| Abbrev. | Full Name | Author/Translator | Taisho |
+|---------|---------|---------|-------|
+| 大方廣佛 | 大方廣佛華嚴經 | unknown | T0278 |
+| 大方廣佛 | 大方廣佛華嚴經 | unknown | T0279 |
+| 大方廣佛 | 大方廣佛華嚴經·普賢行願品 | unknown | T0293 |
+| 維摩詰所 | 維摩詰所說經 | unknown | T0475 |
+| 大智度論 | 大智度論 | unknown | T1509 |
+| 中論 | 中論 | unknown | T1564 |
+| 成唯識論 | 成唯識論 | unknown | T1585 |
+| 攝大乘論 | 攝大乘論釋 | unknown | T1593 |
+| 大乘起信 | 大乘起信論 | unknown | T1666 |
+| 大方廣佛 | 大方廣佛華嚴經疏 | unknown | T1735 |
+| 阿彌陀經 | 阿彌陀經要解 | unknown | T1762 |
+| 法華三昧 | 法華三昧懺儀 | unknown | T1941 |
+| 往生禮讚 | 往生禮讚偈 | unknown | T1980 |
+| 宗鏡錄 | 宗鏡錄 | unknown | T2016 |
+| 萬善同歸 | 萬善同歸集 | unknown | T2017 |
+
+
 ---
 
 *CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*

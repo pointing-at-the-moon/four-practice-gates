@@ -366,6 +366,7 @@ A structural completion of buddha-field ontology has taken place. In Luoyang in 
 | NIAN-P17 (forthcoming) | *The Laṅkāvatāra* | §3.4 | Location of "all buddhas' mind is foremost" within the dual-line frame |
 | NIAN-P22 (forthcoming) | *Shandao's Settling of the Name* | §V Caveat 2, §VI | The systematic uptake of name-recitation rebirth and its relation to the present chapter's ontological parity thesis |
 
+
 ---
 
 *CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*

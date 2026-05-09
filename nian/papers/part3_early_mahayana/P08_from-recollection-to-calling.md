@@ -482,6 +482,7 @@ This warning continues the Kripke-Lewis dialogue structure of P07 §IV and the T
 | NIAN-P23 (forthcoming) | *Tiantai's Four Kinds of Recollection* | §V Caveat 2 | Uptake dynamics of Tiantai's four-fold *niànfó* |
 | NIAN-P24 (forthcoming) | *The Synthesis: From Yongming to the Late Ming Masters* | §V Caveat 2 | Re-framing of calling-verb-grammar in the Ming-dynasty Chan-Pure Land synthesis |
 
+
 ---
 
 *CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*

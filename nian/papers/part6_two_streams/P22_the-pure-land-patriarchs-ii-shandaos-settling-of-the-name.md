@@ -329,6 +329,15 @@ The open question left for the reader: if Shandao's act is the *Tang-completed d
 - **P15 (*The Mahāsthāmaprāpta Buddha-Recollection Section of the Śūraṅgama*):** P15's *gathering-the-six-sense-faculties, with pure recollection continuously sustained* (*dū-shè liù-gēn, jìng-niàn xiāng-jì* 都攝六根，淨念相繼) finds psychological resonance within the structure of Shandao's three minds in P22 §3.2 — specifically with the continuous everyday name-holding described in the *primary-act-of-right-concentration* taxonomy.
 - **P05 (*The Sūtra in Forty-Two Sections*):** P05's record of the earliest forms of Han-soil buddha-recollection establishes the historical distance against which the Tang institutionalization of P22 §3.3 measures itself.
 
+
+
+### IV. Sutra & Śāstra Index
+
+| Abbrev. | Full Name | Author/Translator | Taisho |
+|---------|---------|---------|-------|
+| 觀經四帖 | 觀經四帖疏 | unknown | T1753 |
+
+
 ---
 
 *CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*

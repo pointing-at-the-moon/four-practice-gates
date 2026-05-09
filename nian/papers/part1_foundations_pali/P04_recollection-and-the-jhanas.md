@@ -373,6 +373,7 @@ The next paper, P05, takes up the first wave of Chinese *niànfó* reception: th
 | [^12] | §2.3 | *Ekottara Āgama* scroll 2 | Taishō |
 | [^13] | §3.1 | Piatigorsky 1984 | — |
 
+
 ---
 
 *CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*

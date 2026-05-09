@@ -468,6 +468,15 @@ One open question is left to the reader: if Part VI's Two Streams have, througho
 - **S2 (*Heart Sūtra*):** The semantic turn in §3.1 of this paper — Daoxin's "recollecting the buddha is recollecting the mind, seeking the mind is seeking the buddha" — shares an axis with S2's *Heart Sūtra*'s "*while practicing the deep perfection of wisdom, saw that the five aggregates are all empty*": both are Chinese Buddhism's ontological relocation of "the subject of thought/contemplation."
 - **S5 (*Laṅkāvatāra*):** The S5 series reserves the *Laṅkāvatāra*'s "mind-as-juggler" passage as material for a sixth-consciousness *kōan* treatment; this paper's §3.1 strictly avoids that passage (see the P17-vs-S5 *Laṅkāvatāra* demarcation in NIAN_PLAN §VI), using only the "mind of all buddhas is foremost" passage as the textual root for Daoxin's dual-scripture declaration, without intruding into the reserved S5 ground.
 
+
+
+### IV. Sutra & Śāstra Index
+
+| Abbrev. | Full Name | Author/Translator | Taisho |
+|---------|---------|---------|-------|
+| 楞伽 | 楞伽 | unknown | T0232 |
+
+
 ---
 
 *CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*

@@ -407,6 +407,7 @@ _N/A_ — This paper's canonical basis (T0418 / Nikāya / *Visuddhimagga*) does 
 | NIAN-P17 (forthcoming) | The Laṅkāvatāra | §III.3 | The *tathāgatagarbha* face of "mind is Buddha" reserved for P17; only the visionary hermeneutic face is established here |
 | NIAN-P21, P23 (forthcoming) | Chan; Tiantai as Bridge | §III.3, §VI | Long-term treatment of the three-stream differentiation; institutionalization of *chángxíng sānmèi* |
 
+
 ---
 
 *CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*

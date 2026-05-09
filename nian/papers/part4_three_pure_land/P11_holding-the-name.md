@@ -432,6 +432,7 @@ From T0366's "holding the name, one mind, undistracted" to T0945's "gathering in
 | T1762 | *Essential Explanation of the Amitābha Sūtra* | Ouyi Zhixu | Qing, Shunzhi 4, 1647 CE |
 | X0424 | *Commentary and Notes on the Amitābha Sūtra* | Yunqi Zhuhong | Ming, Wanli 23, 1595 CE |
 
+
 ---
 
 *CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*

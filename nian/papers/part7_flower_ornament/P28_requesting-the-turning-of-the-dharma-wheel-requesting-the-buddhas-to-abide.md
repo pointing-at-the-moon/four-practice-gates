@@ -462,6 +462,25 @@ Schopen, Gregory. *Bones, Stones, and Buddhist Monks: Collected Papers on the Ar
 | 行願品疏鈔 | 《華嚴經行願品疏鈔》（別行疏鈔） | 宗密述 | X0229 | 卍續 5 |
 | 阿弥陀經疏鈔 | 《阿彌陀經疏鈔》 | 雲棲祩宏撰 | X0424 | 卍續 22 |
 
+
+
+### IV. Sutra & Śāstra Index
+
+| Abbrev. | Full Name | Author/Translator | Taisho |
+|---------|---------|---------|-------|
+| 長阿含經 | 長阿含經 | unknown | T0001 |
+| 大方廣佛 | 大方廣佛華嚴經·普賢行願品 | unknown | T0293 |
+| 維摩詰所 | 維摩詰所說經 | unknown | T0475 |
+| 大智度論 | 大智度論 | unknown | T1509 |
+| 成唯識論 | 成唯識論 | unknown | T1585 |
+| 攝大乘論 | 攝大乘論釋 | unknown | T1593 |
+| 大乘起信 | 大乘起信論 | unknown | T1666 |
+| 阿彌陀經 | 阿彌陀經要解 | unknown | T1762 |
+| 法華三昧 | 法華三昧懺儀 | unknown | T1941 |
+| 往生禮讚 | 往生禮讚偈 | unknown | T1980 |
+| 宗鏡錄 | 宗鏡錄 | unknown | T2016 |
+
+
 ---
 
 *CBETA collation: all T-number and X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*

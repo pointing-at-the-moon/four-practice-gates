@@ -495,6 +495,7 @@ P14's answer: the action-rhythm of final-age buddha-recollection is jointly defi
 | X0275 | *Dà Fódǐng Shǒuléngyán jīng Zhèngmài shū* (*Commentary on the Straight Vein of the Śūraṅgama*) | Jiaoguang Zhenjian | Ming, Wanli 22–24, 1594–1596 CE |
 | X0424 | *Fóshuō Āmítuó jīng shūchāo* (*Commentary and Notes on the Amitābha Sūtra*) | Yunqi Zhuhong | Ming, Wanli 23, 1595 CE |
 
+
 ---
 
 *CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*

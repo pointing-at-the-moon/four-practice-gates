@@ -490,6 +490,7 @@ A distant foreshadowing left here: the access/absorption boundary repeatedly not
 | *DZDL* 21–22 | 《大智度論》卷二十一—二十二〈釋初品中八念義〉 | T25 No. 1509 | Nāgārjuna (attrib.) / Kumārajīva trans. |
 | *DZDL* 24 | 《大智度論》卷二十四(念佛三昧段) | T25 No. 1509 | Nāgārjuna (attrib.) / Kumārajīva trans. |
 
+
 ---
 
 *CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*

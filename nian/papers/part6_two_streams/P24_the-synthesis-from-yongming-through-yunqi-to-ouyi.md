@@ -312,6 +312,7 @@ The open question of the present paper, in single-line form: *Yongming gave the 
 > First draft, May 2026
 > This work is licensed under CC BY-NC-SA 4.0
 
+
 ---
 
 *CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*

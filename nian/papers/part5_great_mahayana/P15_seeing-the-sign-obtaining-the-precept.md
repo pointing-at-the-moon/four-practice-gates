@@ -491,6 +491,7 @@ P15's argument here concludes. The sixth layer, grounding-in-precepts, has estab
 | X09n0248 | *Yuánjué jīng lüèshū zhī chāo* (*Subcommentary on the Abridged Commentary to the Sūtra of Perfect Enlightenment*) | Guifeng Zongmi | Mid-to-late Tang |
 | X0275 | *Dà Fódǐng Shǒuléngyán jīng Zhèngmài shū* (*Commentary on the Straight Vein of the Śūraṅgama*) | Jiaoguang Zhenjian | Ming, Wanli 22–24, 1594–1596 CE |
 
+
 ---
 
 *CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition. T1484 citations follow the original text of fascicle two; T1501 citations follow Xuanzang's translated *Bodhisattva-prātimokṣa*; T1813 citations follow Fazang's six-fascicle commentary.*

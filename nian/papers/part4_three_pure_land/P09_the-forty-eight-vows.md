@@ -533,6 +533,7 @@ _N/A_ — This paper's canonical basis (T0360 / T0362 / Vasubandhu's *Upadeśa*)
 | NIAN-P22 (forthcoming) | *Doctrinal Closure of Early Tang Pure Land* | §2.6, §3.4, §V Correction 3 | Full development of Daochuo's other-power dominant condition; doctrinal closure of Shandao's five right-practices |
 | NIAN Part VI (forthcoming) | *Divergences of Chinese Pure Land* | §2.6, §V Caution 3 | Tiantai's four *buddhānusmṛti*, Huayan's Pure Land perspective, Chan-Pure-Land convergence, and other reception-history instances |
 
+
 ---
 
 *CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*

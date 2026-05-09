@@ -523,6 +523,7 @@ The question is not answered within P10's scope. The convergence-differentiation
 | NIAN-P22 (forthcoming) | §2.4, §IV, §V | Full development of Shandao's ordinary-being-into-recompense-land, two-kinds-of-deep-faith, right-determining-act, essential-and-extensive gate |
 | NIAN-P23 (forthcoming) | §IV, §V | Tiantai's buddha-recollection classification and T1962's five-gate architecture |
 
+
 ---
 
 *CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*

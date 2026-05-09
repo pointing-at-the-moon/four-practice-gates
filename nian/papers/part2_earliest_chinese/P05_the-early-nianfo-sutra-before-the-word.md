@@ -338,6 +338,7 @@ T0784's object distribution (path, body, precepts, breath, death, impermanence) 
 | AN 11.11–12 | *Paṭhama-/Dutiya-Mahānāma Sutta* | PTS AN v 328, 332 | (canonical) |
 | Vism VII | *Anussati-niddesa* | PTS Vism 197–230 | Buddhaghosa |
 
+
 ---
 
 *CBETA collation: all T-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
