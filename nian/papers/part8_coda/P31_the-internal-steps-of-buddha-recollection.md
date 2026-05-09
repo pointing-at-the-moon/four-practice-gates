@@ -78,6 +78,8 @@ The nine entrances of the *itipi so* each carry the practitioner through these f
 
 (The above sequence follows the canonical Pāli ordering of *itipi so*, treated in detail in P02.)[^2]
 
+**Note on the Sinitic enumeration.** The Sinitic tradition enumerates the same canonical formula as **ten** epithets (*rúlái shíhào* 如來十號), the standard list (e.g. *Mahāprajñāpāramitā-śāstra* fasc. 2; *Buddhabhūmi-śāstra* fasc. 1) being: *rúlái* 如來, *yìnggòng* 應供, *zhèngbiànzhī* 正遍知, *míngxíngzú* 明行足, *shànshì* 善逝, *shìjiānjiě* 世間解, *wúshàngshì* 無上士, *tiáoyù-zhàngfū* 調御丈夫, *tiānrénshī* 天人師, *fó-shìzūn* 佛世尊. The Sinitic count of ten is reached by splitting the Pāli sixth item (*Anuttaro purisadamma-sārathi*) into two — *wúshàngshì* and *tiáoyù-zhàngfū* — and by either prefacing the list with *rúlái* or treating *fó* and *shìzūn* as a closing dyad. The number-difference between Pāli nine and Sinitic ten is a matter of enumeration convention, not doctrinal addition. The present paper anchors its analysis on the Pāli nine because the *structural* claim of §I (nine entrances × fourfold rhythm) is P02's primary thesis; the Sinitic ten-item enumeration figures more decisively in the *liturgical* horizon of P11 (the holding of the name) and P25–P29 (Samantabhadra's vows of reverence, praise, dedication).
+
 Any one of these epithets can stand alone as the object of *buddhānusmṛti*. To begin with *Araham* (Worthy One) and to begin with *Buddho* (Awakened) feel different at the start; the operation differs in nuance; the joy that arises differs. But the four steps are identical. The nine entrances were given by the Buddha himself. He did not need to say "you must choose this one," because the four steps run automatically through any of the nine.
 
 The Six Recollections are not a checklist. They are six interlocking operative systems: recollection of the Buddha, of the Dharma, of the Saṅgha, of the *devas*, of generosity, of moral conduct.[^3] *Buddhānusmṛti* sits first not because the Buddha is "more important," but because the other five all depend on the Buddha's qualities as their background object. *Buddhānusmṛti* is the system's hub; the other five are five rings circling the hub. The first ring of the Six Recollections is *buddhānusmṛti* itself — not "one option among six," but the entrance to the system.
@@ -270,7 +272,7 @@ The rest is just time, and repetition.
 
 [^12]: For the twenty-five perfect-penetrations sequence and the position of Mahāsthāmaprāpta, see *Śūraṅgama-sūtra* (T0945) fascicles 5–6. Mahāsthāmaprāpta is twenty-fourth (great-element / faculty), Avalokiteśvara is twenty-fifth (ear-faculty). Mañjuśrī's selection-verse — "in this realm, the true teaching-substance is purity through hearing-sound" — is at T0945, fasc. 6. Jiaoguang's "position is not ranking" reading is in X0275, fasc. 5, in the section "the seven great-elements end with consciousness, but here end with the faculty." §II here cites P12 and X0275.
 
-[^13]: The *Ghanavyūha-sūtra* (T0681, trans. Devendrarakṣita) presents *buddhānusmṛti* as the mechanism of *ālaya-parāvṛtti*. P18 details how this sūtra constructs the specific mechanism by which *buddhānusmṛti* operates as consciousness-turning. §III here cites P18's doctrinal warrant.
+[^13]: The *Ghanavyūha-sūtra* / *Dàshèng mìyán jīng* 大乘密嚴經 (T0681, trans. Divākara, Tang Wuzhou Chuigong era; the parallel translation T0682 is by Amoghavajra, Tang Daizong Dali era) presents *buddhānusmṛti* as the mechanism of *ālaya-parāvṛtti*. P18 details how this sūtra constructs the specific mechanism by which *buddhānusmṛti* operates as consciousness-turning. §III here cites P18's doctrinal warrant.
 
 [^14]: *Cheng weishi lun* (Dharmapāla et al., trans. Xuanzang), fascicle 4: "In the pre-turning state, [*manas*] continuously and discerningly cognises the appropriated self-mark; in the post-turning state, it likewise discerningly cognises the no-self mark." P30 takes this line as its central thesis, arguing that *buddhānusmṛti* is the doctrinally-licensed *manas*-turning mechanism. §III here cites P30's argument.
 
@@ -301,7 +303,7 @@ The rest is just time, and repetition.
 - *Amitāyur-dhyāna-sūtra* (trans. Kālayaśas), T0365.
 - *Smaller Sukhāvatī-vyūha* (trans. Kumārajīva), T0366.
 - *Pratyutpanna-buddha-saṃmukhāvasthita-samādhi-sūtra* (trans. Lokakṣema), T0418.
-- *Ghanavyūha-sūtra* (trans. Devendrarakṣita), T0681.
+- *Ghanavyūha-sūtra* / *Dàshèng mìyán jīng* 大乘密嚴經 (trans. Divākara), T0681; (trans. Amoghavajra), T0682.
 - *Sūtra in Forty-Two Sections*, T0784.
 - *Śūraṅgama-sūtra* (trans. Pāramiti et al.), T0945.
 - *Cheng weishi lun* (Dharmapāla et al., trans. Xuanzang), T1585.
@@ -336,6 +338,28 @@ The rest is just time, and repetition.
 - Lopez, Donald S., Jr. *The Scientific Buddha: His Short and Happy Life*. New Haven: Yale University Press, 2012.
 - McMahan, David L. *The Making of Buddhist Modernism*. New York: Oxford University Press, 2008.
 - Schmithausen, Lambert. *Ālayavijñāna: On the Origin and the Early Development of a Central Concept of Yogācāra Philosophy*. Tokyo: International Institute for Buddhist Studies, 1987.
+
+
+### IV. Sūtra & Śāstra Index
+
+| Abbrev. | Full Name | Author / Translator | Taishō / Manji-zokuzō |
+|---------|-----------|---------------------|------------------------|
+| *Saṃyukta Āgama* | *Zá āhán jīng* 雜阿含經 | trans. Guṇabhadra (Liu-Song) | T0099 |
+| *Avataṃsaka* | *Dàfāngguǎng fó huāyán jīng* 大方廣佛華嚴經 | trans. Śikṣānanda (Tang) | T0278 |
+| *Sukhāvatī-vyūha* | *Wúliángshòu jīng* 無量壽經 | trans. Saṃghavarman (Cao-Wei) | T0360 |
+| *Amitāyur-dhyāna* | *Guān wúliángshòu fó jīng* 觀無量壽佛經 | trans. Kālayaśas (Liu-Song) | T0365 |
+| *Smaller Sukhāvatī-vyūha* | *Āmítuó jīng* 阿彌陀經 | trans. Kumārajīva (Later Qin) | T0366 |
+| *Pratyutpanna-samādhi* | *Bānzhōu sānmèi jīng* 般舟三昧經 | trans. Lokakṣema (E. Han) | T0418 |
+| *Ghanavyūha* (Divākara) | *Dàshèng mìyán jīng* 大乘密嚴經 | trans. Divākara (Tang Wuzhou) | T0681 |
+| *Ghanavyūha* (Amoghavajra) | *Dàshèng mìyán jīng* 大乘密嚴經 | trans. Amoghavajra (Tang Daizong) | T0682 |
+| *Sūtra in Forty-Two Sections* | *Sìshí'èr zhāng jīng* 四十二章經 | trad. attrib. Kāśyapa-mātaṅga & Dharmaratna (E. Han) | T0784 |
+| *Śūraṅgama* | *Dà fódǐng shǒulèngyán jīng* 大佛頂首楞嚴經 | trans. Pāramiti et al. (Tang) | T0945 |
+| *Cheng weishi lun* | *Chéng wéishí lùn* 成唯識論 | Dharmapāla et al., trans. Xuanzang (Tang) | T1585 |
+| *Sifen shu* | *Guān wúliángshòu fó jīng shū* 觀無量壽佛經疏 | by Shandao (Tang) | T1753 |
+| *Yao jie* | *Āmítuó jīng yàojiě* 阿彌陀經要解 | by Ouyi Zhixu (Qing) | T1762 |
+| *Anluo ji* | *Ānlè jí* 安樂集 | by Daochuo (Tang) | T1958 |
+| *Zhengmai shu* | *Lèngyán jīng zhèngmài shū* 楞嚴經正脈疏 | by Jiaoguang Zhenjian (Ming) | X0275 |
+| *Shu chao* | *Āmítuó jīng shūchāo* 阿彌陀經疏鈔 | by Yunqi Zhuhong (Ming) | X0424 |
 
 ---
 
