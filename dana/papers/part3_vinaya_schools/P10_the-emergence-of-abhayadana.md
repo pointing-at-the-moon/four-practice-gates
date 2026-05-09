@@ -8,10 +8,9 @@ license: "CC BY-NC-SA 4.0"
 ---
 
 # The Emergence of *Abhayadāna*
-## The Millennium-Long Substance–Name Asymmetry and the Taxonomic Axis-Switch from Recipient-Axis to Content-Axis
+**The Millennium-Long Substance–Name Asymmetry and the Taxonomic Axis-Switch from Recipient-Axis to Content-Axis**
 
-*中文主標：無畏施的出現*
-*副標：實體早於名稱的千年不對稱與從受者軸到內容軸的分類學軸轉換*
+*中文主題：無畏施的出現——實體早於名稱的千年不對稱與從受者軸到內容軸的分類學軸轉換*
 
 ---
 
@@ -255,7 +254,7 @@ If *abhayadāna* is the third slot of the triad, how is the triad restructured b
 
 [^11]: *Sìfēn lǜ* 《四分律》, *juan* 37, *Vassūpanāyikakkhandhaka* (〈安居揵度〉), translated by Buddhayaśas and Zhu Fonian, Later Qin, Taishō vol. 22, no. 1428, p. 830a–b.
 
-[^12]: *Shísòng lǜ* 《十誦律》, *juan* 24, 〈七法中安居法〉, translated by Puṇyatrāta, Kumārajīva, and Dharmaruci, Later Qin, Taishō vol. 23, no. 1435, p. 173c–174a.
+[^12]: *Shísòng lǜ* 《十誦律》， *juan* 24, 〈七法中安居法〉， translated by Puṇyatrāta, Kumārajīva, and Dharmaruci, Later Qin, Taishō vol. 23, no. 1435, p. 173c–174a.
 
 [^13]: *Mísāsèbù hé xī wǔfēn lǜ* 《彌沙塞部和醯五分律》, *juan* 19, 〈安居法〉, translated by Buddhajīva and Daosheng, Liu-Song, Taishō vol. 22, no. 1421, p. 129a. The most direct of the four Chinese *vinaya*s in connecting the rain-retreat to compassion.
 
@@ -317,20 +316,20 @@ If *abhayadāna* is the third slot of the triad, how is the triad restructured b
 
 **Chinese Tripiṭaka (Taishō; CBETA critical edition)**
 
-*Dīrgha-āgama* 《長阿含經》, translated by Buddhayaśas and Zhu Fonian, Eastern Jin, ca. 413 CE, Taishō vol. 1, no. 1.
-*Madhyama-āgama* 《中阿含經》, translated by Gautama Saṅghadeva, Eastern Jin, ca. 398 CE, Taishō vol. 1, no. 26.
-*Saṃyukta-āgama* 《雜阿含經》, translated by Guṇabhadra, Liu-Song, ca. 435–443 CE, Taishō vol. 2, no. 99.
-*Saṃyukta-āgama* (alternate recension) 《別譯雜阿含經》, translator unknown (Qin-dynasty register), Taishō vol. 2, no. 100.
-*Ekottara-āgama* 《增一阿含經》, translated by Gautama Saṅghadeva, Eastern Jin, ca. 398 CE, Taishō vol. 2, no. 125.
-*Liù dù jí jīng* 《六度集經》, translated by Kāng Sēnghuì, Wu, ca. 251 CE, Taishō vol. 3, no. 152.
-*Zá bǎozàng jīng* 《雜寶藏經》, translated by Jíjiāyè and Tányào, Yuan-Wei, ca. 472 CE, Taishō vol. 4, no. 203.
-*Mahīśāsaka-vinaya* 《彌沙塞部和醯五分律》, translated by Buddhajīva and Daosheng, Liu-Song, ca. 423 CE, Taishō vol. 22, no. 1421.
-*Mahāsāṃghika-vinaya* 《摩訶僧祇律》, translated by Buddhabhadra and Faxian, Eastern Jin, ca. 418 CE, Taishō vol. 22, no. 1425.
-*Dharmaguptaka-vinaya* 《四分律》, translated by Buddhayaśas and Zhu Fonian, Later Qin, ca. 410–412 CE, Taishō vol. 22, no. 1428.
+*Dīrgha-āgama* 《長阿含經》， translated by Buddhayaśas and Zhu Fonian, Eastern Jin, ca. 413 CE, Taishō vol. 1, no. 1.
+*Madhyama-āgama* 《中阿含經》， translated by Gautama Saṅghadeva, Eastern Jin, ca. 398 CE, Taishō vol. 1, no. 26.
+*Saṃyukta-āgama* 《雜阿含經》， translated by Guṇabhadra, Liu-Song, ca. 435–443 CE, Taishō vol. 2, no. 99.
+*Saṃyukta-āgama* (alternate recension) 《別譯雜阿含經》， translator unknown (Qin-dynasty register), Taishō vol. 2, no. 100.
+*Ekottara-āgama* 《增一阿含經》， translated by Gautama Saṅghadeva, Eastern Jin, ca. 398 CE, Taishō vol. 2, no. 125.
+*Liù dù jí jīng* 《六度集經》， translated by Kāng Sēnghuì, Wu, ca. 251 CE, Taishō vol. 3, no. 152.
+*Zá bǎozàng jīng* 《雜寶藏經》， translated by Jíjiāyè and Tányào, Yuan-Wei, ca. 472 CE, Taishō vol. 4, no. 203.
+*Mahīśāsaka-vinaya* 《彌沙塞部和醯五分律》， translated by Buddhajīva and Daosheng, Liu-Song, ca. 423 CE, Taishō vol. 22, no. 1421.
+*Mahāsāṃghika-vinaya* 《摩訶僧祇律》， translated by Buddhabhadra and Faxian, Eastern Jin, ca. 418 CE, Taishō vol. 22, no. 1425.
+*Dharmaguptaka-vinaya* 《四分律》， translated by Buddhayaśas and Zhu Fonian, Later Qin, ca. 410–412 CE, Taishō vol. 22, no. 1428.
 *Sarvāstivāda-vinaya* 《十誦律》, translated by Puṇyatrāta, Kumārajīva, and Dharmaruci, Later Qin, ca. 404–409 CE, Taishō vol. 23, no. 1435.
 *Mūlasarvāstivāda-vinaya* 《根本說一切有部毘奈耶》, translated by Yijing, Tang, ca. 703 CE (transmitted source belonging to the pre-schismatic common-ancestor stratum), Taishō vol. 23, no. 1442.
-*Upāsaka-śīla-sūtra* 《優婆塞戒經》, translated by Dharmakṣema, Northern Liang, ca. 421–433 CE, Taishō vol. 24, no. 1488.
-*Dà zhìdù lùn* 《大智度論》, composed by Nāgārjuna, translated by Kumārajīva, Later Qin, ca. 404–406 CE, Taishō vol. 25, no. 1509.
+*Upāsaka-śīla-sūtra* 《優婆塞戒經》， translated by Dharmakṣema, Northern Liang, ca. 421–433 CE, Taishō vol. 24, no. 1488.
+*Dà zhìdù lùn* 《大智度論》， composed by Nāgārjuna, translated by Kumārajīva, Later Qin, ca. 404–406 CE, Taishō vol. 25, no. 1509.
 
 ### II. Modern Scholarship
 
@@ -411,7 +410,7 @@ Wittgenstein, Ludwig. *Philosophische Untersuchungen / Philosophical Investigati
 ---
 
 *Paper:* DANA-P10 · *The Emergence of Abhayadāna* · **DĀNA · Part III · Vinaya and Early Schools**
-*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates (四行門)
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates （四行門）
 *License:* CC BY-NC-SA 4.0
-*CBETA verification:* Citations from the four Vinaya collections verified against CBETA Electronic Tripiṭaka 2024 edition.
+*CBETA collation:* Citations from the four Vinaya collections verified against CBETA Electronic Tripiṭaka 2024 edition.
 *Repository:* https://github.com/pointing-at-the-moon/four-practice-gates

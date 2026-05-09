@@ -8,7 +8,9 @@ license: CC BY-NC-SA 4.0
 ---
 
 # What *Dāna* Actually Means
-## *Dāna*, *Cāga*, *Yāga*, and the Loosening of "Mine"
+***Dāna*, *Cāga*, *Yāga*, and the Loosening of "Mine"**
+
+*中文主題：施究竟在做什麼——dāna／cāga／yāga 三詞辨義與我所的鬆動*
 
 **Abstract**
 
@@ -349,5 +351,5 @@ This is the opening paper of *DĀNA*, establishing the three-term vocabulary use
 *Paper:* DANA-P01 · *What Dāna Actually Means* · **DĀNA · Part I · Pāli Roots**
 *Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates (四行門)
 *License:* CC BY-NC-SA 4.0
-*CBETA verification:* Citations from the *Ekottarikāgama*, *Saṃyuktāgama*, and *Yogācārabhūmi-śāstra* verified against CBETA Electronic Tripiṭaka 2024 edition. Pāli references follow SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 with PTS numbering.
+*CBETA collation:* Citations from the *Ekottarikāgama*, *Saṃyuktāgama*, and *Yogācārabhūmi-śāstra* verified against CBETA Electronic Tripiṭaka 2024 edition. Pāli references follow SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 with PTS numbering.
 *Repository:* https://github.com/pointing-at-the-moon/four-practice-gates

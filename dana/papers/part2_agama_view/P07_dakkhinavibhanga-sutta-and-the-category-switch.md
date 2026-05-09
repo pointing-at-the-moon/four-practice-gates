@@ -8,10 +8,9 @@ license: "CC BY-NC-SA 4.0"
 ---
 
 # The Dakkhiṇāvibhaṅga Sutta
-## The Category-Switch Between Personal and Sangha Giving — The Triple-Layered Co-Structure of Fourteen Fields, Seven Sanghas, and Four Purities
+**The Category-Switch Between Personal and Sangha Giving — The Triple-Layered Co-Structure of Fourteen Fields, Seven Sanghas, and Four Purities**
 
-*中文主標：施分別經*
-*副標：個人施與僧伽施的範疇換軌——十四田、七僧、四淨的三層共構*
+*中文主題：施分別經——個人施與僧伽施的範疇換軌——十四田、七僧、四淨的三層共構*
 
 ---
 
@@ -206,8 +205,8 @@ To read T0026's temporal re-framing ("in ages to come") against T0084's preserva
 
 #### Chinese Canonical Translations
 
-- *Madhyamāgama* (《中阿含經》), translated by Gautama Saṅghadeva of the Eastern Jin, *Taishō* vol. 1, No. 26.
-- *Fenbie bushi jing* (《分別布施經》), translated by Dānapāla of the Song, *Taishō* vol. 1, No. 84.
+- *Madhyamāgama* （《中阿含經》）， translated by Gautama Saṅghadeva of the Eastern Jin, *Taishō* vol. 1, No. 26.
+- *Fenbie bushi jing* （《分別布施經》）， translated by Dānapāla of the Song, *Taishō* vol. 1, No. 84.
 
 ### II. Commentarial Literature
 
@@ -260,7 +259,7 @@ To read T0026's temporal re-framing ("in ages to come") against T0084's preserva
 ---
 
 *Paper:* DANA-P07 · *The Dakkhiṇāvibhaṅga Sutta* · **DĀNA · Part II · The Āgama View**
-*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates (四行門)
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates （四行門）
 *License:* CC BY-NC-SA 4.0
-*CBETA verification:* Citations from *Madhyamāgama juan* 47 sūtra 180 verified against CBETA Electronic Tripiṭaka 2024 edition. Pāli citations (MN 142, It 98) follow SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 with PTS numbering.
+*CBETA collation:* Citations from *Madhyamāgama juan* 47 sūtra 180 verified against CBETA Electronic Tripiṭaka 2024 edition. Pāli citations (MN 142, It 98) follow SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 with PTS numbering.
 *Repository:* https://github.com/pointing-at-the-moon/four-practice-gates

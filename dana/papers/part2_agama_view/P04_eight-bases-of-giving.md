@@ -8,10 +8,9 @@ license: "CC BY-NC-SA 4.0"
 ---
 
 # Eight Bases of Giving
-## The Motivation Axis and the Quality Axis in Early Buddhism — Two Independent Taxonomies
+**The Motivation Axis and the Quality Axis in Early Buddhism — Two Independent Taxonomies**
 
-*中文主標：八事布施*
-*副標：早期佛教的動機軸與品質軸——兩種獨立分類學*
+*中文主題：八事布施——早期佛教的動機軸與品質軸——兩種獨立分類學*
 
 ---
 
@@ -64,7 +63,7 @@ The sūtra opens with the short framing clause "Mendicants, there are these eigh
 
 **Group 2: T0125 *juan* 37, sūtra 9 — The quality axis of eight bases**
 
-*Ekottara Āgama* (增一阿含經) *juan* 37, "Chapter on the Eight Difficulties" (〈八難品第四十二之二〉), sūtra 9[^2]:
+*Ekottara Āgama* （增一阿含經） *juan* 37, "Chapter on the Eight Difficulties" （〈八難品第四十二之二〉）， sūtra 9[^2]:
 
 > "If a son or daughter of good family gives gifts of material goods, they acquire eight kinds of merit. What are the eight? First, giving at the right time, not at the wrong time; second, giving what is fresh and pure, not what is foul and defiled; third, giving with one's own hand, not having another do it; fourth, giving with a clear vow, without pride or extravagance; fifth, giving out of liberation, not looking for return; sixth, giving aimed at cessation, not seeking rebirth in the heavens; seventh, seeking a worthy field for the giving, not giving to barren soil; eighth, then taking this merit and dedicating it to all beings, not keeping it for oneself." (translation mine)
 
@@ -272,8 +271,8 @@ Both axes together serve the *cāgānussati* established in P03 — a *dāna* ev
 
 #### Chinese Canonical Translations
 
-- *Saṃyukta Āgama* (雜阿含經), trans. Guṇabhadra (劉宋求那跋陀羅). Taishō vol. 2, No. 0099.
-- *Ekottara Āgama* (增一阿含經), trans. Gautama Saṅghadeva (東晉瞿曇僧伽提婆). Taishō vol. 2, No. 0125.
+- *Saṃyukta Āgama* （雜阿含經）， trans. Guṇabhadra （劉宋求那跋陀羅）. Taishō vol. 2, No. 0099.
+- *Ekottara Āgama* （增一阿含經）， trans. Gautama Saṅghadeva （東晉瞿曇僧伽提婆）. Taishō vol. 2, No. 0125.
 
 ### 2. Commentarial Literature
 
@@ -311,7 +310,7 @@ Both axes together serve the *cāgānussati* established in P03 — a *dāna* ev
 ---
 
 *Paper:* DANA-P04 · *Eight Bases of Giving* · **DĀNA · Part II · Āgama View**
-*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates (四行門)
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates （四行門）
 *License:* CC BY-NC-SA 4.0
-*CBETA verification:* Citations from *Ekottara Āgama juan* 37 and *Saṃyukta Āgama juan* 33 verified against CBETA Electronic Tripiṭaka 2024 edition. Pāli citations follow SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 with PTS numbering.
+*CBETA collation:* Citations from *Ekottara Āgama juan* 37 and *Saṃyukta Āgama juan* 33 verified against CBETA Electronic Tripiṭaka 2024 edition. Pāli citations follow SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 with PTS numbering.
 *Repository:* https://github.com/pointing-at-the-moon/four-practice-gates

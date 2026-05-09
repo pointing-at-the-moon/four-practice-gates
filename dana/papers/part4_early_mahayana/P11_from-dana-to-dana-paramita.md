@@ -8,10 +8,9 @@ license: "CC BY-NC-SA 4.0"
 ---
 
 # From Dāna to Dāna-Pāramitā
-## Prajñā as the Transformative Condition of Giving and the Systematic Inauguration of the Six Perfections
+**Prajñā as the Transformative Condition of Giving and the Systematic Inauguration of the Six Perfections**
 
-*中文主標：從施到波羅蜜*
-*副標：般若作為施的轉化條件與六度的系統性開創*
+*中文主題：從施到波羅蜜——般若作為施的轉化條件與六度的系統性開創*
 
 ---
 
@@ -267,13 +266,13 @@ T1509 is not the product of a single author. P11 should not attribute the "with-
 
 ### I. Primary Sources
 
-*Mahāprajñāpāramitā-sūtra* 《大般若波羅蜜多經》, translated by Xuanzang, Tang, ca. 660–663 CE, Taishō vols. 5–7, no. 220.
-*Ekottara-āgama* 《增一阿含經》, translated by Gautama Saṅghadeva, Eastern Jin, ca. 398 CE, Taishō vol. 2, no. 125.
-*Liù dù jí jīng* 《六度集經》, translated by Kāng Sēnghuì, Wu, ca. 251 CE, Taishō vol. 3, no. 152.
-*Dà zhìdù lùn* 《大智度論》, composed by Nāgārjuna, translated by Kumārajīva, Later Qin, ca. 404–406 CE, Taishō vol. 25, no. 1509.
-*Madhyamaka-śāstra* 《中觀論》, attributed to Nāgārjuna, Taishō vol. 30, no. 1577.
-*Mahāyāna-saṃgraha* 《攝大乘論》, by Asaṅga, translated by Xuanzang, Taishō vol. 31, no. 1592.
-*Mahāyāna-sūtrālaṃkāra* 《大乘莊嚴經論》, by Asaṅga, translated by Prabhākaramitra (and others), Taishō vol. 31, no. 1604.
+*Mahāprajñāpāramitā-sūtra* 《大般若波羅蜜多經》， translated by Xuanzang, Tang, ca. 660–663 CE, Taishō vols. 5–7, no. 220.
+*Ekottara-āgama* 《增一阿含經》， translated by Gautama Saṅghadeva, Eastern Jin, ca. 398 CE, Taishō vol. 2, no. 125.
+*Liù dù jí jīng* 《六度集經》， translated by Kāng Sēnghuì, Wu, ca. 251 CE, Taishō vol. 3, no. 152.
+*Dà zhìdù lùn* 《大智度論》， composed by Nāgārjuna, translated by Kumārajīva, Later Qin, ca. 404–406 CE, Taishō vol. 25, no. 1509.
+*Madhyamaka-śāstra* 《中觀論》， attributed to Nāgārjuna, Taishō vol. 30, no. 1577.
+*Mahāyāna-saṃgraha* 《攝大乘論》， by Asaṅga, translated by Xuanzang, Taishō vol. 31, no. 1592.
+*Mahāyāna-sūtrālaṃkāra* 《大乘莊嚴經論》， by Asaṅga, translated by Prabhākaramitra (and others), Taishō vol. 31, no. 1604.
 *Majjhima Nikāya* 142, *Dakkhiṇāvibhaṅgasutta*, PTS edition.
 
 ### II. Modern Scholarship
@@ -319,7 +318,7 @@ Nattier, Jan. *A Few Good Men: The Bodhisattva Path according to The Inquiry of 
 ---
 
 *Paper:* DANA-P11 · *From Dāna to Dāna-Pāramitā* · **DĀNA · Part IV · The Early Mahāyāna Turn to Dāna-Pāramitā**
-*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates (四行門)
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates （四行門）
 *License:* CC BY-NC-SA 4.0
-*CBETA verification:* All T-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.
+*CBETA collation:* All T-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.
 *Repository:* https://github.com/pointing-at-the-moon/four-practice-gates

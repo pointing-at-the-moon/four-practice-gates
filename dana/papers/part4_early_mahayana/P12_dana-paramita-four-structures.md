@@ -8,10 +8,9 @@ license: "CC BY-NC-SA 4.0"
 ---
 
 # From Dāna to Dāna-Pāramitā
-## The *Dà zhìdù lùn*'s Treatise on the Perfection of Giving I
+**The *Dà zhìdù lùn*'s Treatise on the Perfection of Giving I**
 
-*中文主標：從施到波羅蜜*
-*副標：《大智度論》檀波羅蜜初論*
+*中文主題：從施到波羅蜜——《大智度論》檀波羅蜜初論*
 
 ---
 
@@ -426,5 +425,5 @@ Lamotte, Étienne. *Le Traité de la Grande Vertu de Sagesse de Nāgārjuna (Mah
 *Paper:* DANA-P12 · *From Dāna to Dāna-Pāramitā — The Dà zhìdù lùn's Treatise on the Perfection of Giving I* · **DĀNA · Part IV · The Early Mahāyāna Turn to Dāna-Pāramitā**
 *Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates (四行門)
 *License:* CC BY-NC-SA 4.0
-*CBETA verification:* All T-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.
+*CBETA collation:* All T-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.
 *Repository:* https://github.com/pointing-at-the-moon/four-practice-gates

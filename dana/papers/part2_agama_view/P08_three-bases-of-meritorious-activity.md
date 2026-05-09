@@ -8,10 +8,9 @@ license: "CC BY-NC-SA 4.0"
 ---
 
 # The Three Bases of Meritorious Activity
-## Dāna, Sīla, Bhāvanā as the Three-Layer Container of Merit — AN 8.36 as Part II's Closing Container and the Structural Case for Dāna in First Place
+**Dāna, Sīla, Bhāvanā as the Three-Layer Container of Merit — AN 8.36 as Part II's Closing Container and the Structural Case for Dāna in First Place**
 
-*中文主標：三福業事*
-*副標：施、戒、修的三層福業容器——AN 8.36 作為 Part II 收束容器與施居首之結構性證成*
+*中文主題：三福業事——施、戒、修的三層福業容器——AN 8.36 作為 Part II 收束容器與施居首之結構性證成*
 
 ---
 
@@ -43,7 +42,7 @@ The argument unfolds across six sections. §II takes AN 8.36 as its Pāli proto-
 
 The citations in this section are arranged along two tracks: the first is **sūtra** (甲), in four groups — the AN 8.36 Pāli proto-form (Group 1), the T0125 *juan* 12 Three-Jewels Chapter sūtra 2 as Chinese master anchor (Group 2), the T0001 *juan* 8 *Saṅgīti Sūtra* as sectarian parallel (Group 3), and the T0099 *juan* 30 SĀ 841 as verse-form transmission (Group 4) — followed by an "honest-absence declaration" that positively acknowledges the T0026 structural lacuna, the non-inclusion of the Itivuttaka version, and the limits on Abhidhamma-layer expansion. The second track is **commentary** (乙), handled briefly with the four sūtra-layer texts functioning as internal cross-glosses in lieu of a separate commentarial layer. Following the NIAN-A dual-track discipline, Pāli materials carry PTS references; Chinese materials carry Taishō volume and sūtra numbers.
 
-### 2.1 Sūtra (甲)
+### 2.1 Sūtra （甲）
 
 **Group 1: AN 8.36 *Puññakiriyavatthusutta* — the Pāli proto-form**
 
@@ -87,7 +86,7 @@ The closing line "the merits of giving, virtue, and cultivation, are where the h
 
 Three points must be stated frontally. **First**, T0026 *Madhyamāgama* has no direct correspondence to the three bases of meritorious activity[^6] — a full-canon search for 三福業, 施業, 平等業, and 思惟業 returns no matches. This is not an indexing defect but a structural lacuna: the crystallization of the three bases into a formula belongs to the catalogue-of-*saṅgīti* style of the *Dīrgha* collection (enumeration by number as a memorandum against disputation), while the *Madhyama* collection favors the long-form narrative-argumentative style and does not carry this three-item formula. The *Madhyamāgama* preserves many giving-themed narrative sūtras (*Pāyāsi Sutta* MĀ 71, *Soṇa Koṭikaṇṇa Sutta* MĀ 123, *Raṭṭhapāla Sutta* MĀ 132, *Uposatha Sutta*, and others), but in these sūtras the subject of giving unfolds in narrative scenes rather than being gathered by the three-item formula; this is a divergence in sectarian *saṅgīti* style, acknowledged positively at the end of §III.2. **Second**, the *Itivuttaka* sūtra 60 *Puññakiriyavatthu Sutta* (It 3.19) is another Pāli version of the three bases of meritorious activity, which weights *mettā* (loving-kindness) as the core content of merit-of-cultivation[^7]; this version is not present in the current working corpus and is not directly cited by this paper — the related structural connection (the junction of the three bases with the cultivation of loving-kindness) is left for future treatment. **Third**, the Abhidhamma expansion to the ten bases of meritorious activity (*dasa-puñña-kiriya-vatthu*) in the *Dhammasaṅgaṇi* and the *Vibhaṅga* is a later development; this paper remains at the sūtra-layer three bases and does not develop the Abhidhamma-layer expansion.
 
-### 2.2 Commentary (乙)
+### 2.2 Commentary （乙）
 
 The commentarial layer of this paper is treated briefly. Buddhaghosa's *Manorathapūraṇī* (the commentary on AN) treats AN 8.36 through scattered phrase-level glosses — a doctrinal disambiguation of the *-maya* construction, a judgment on the criteria of the "slight / moderate / strong" grading of practice, and a doctrinal underpinning for the fruit-ranking across the six sense-sphere heavens — whose structural contribution to the "giving as entrance to the three bases" thesis of this paper is limited. This paper takes the sūtra-layer unfolding of the three bases across the four sūtra-texts (AN 8.36 + T0125 + T0001 + T0099) as a "commentary-function substitute" of the Pāli-to-Chinese internal cross-gloss — the four texts gloss one another; the sūtra layer already exhibits in full the structural role of the three bases as material classification. The full two-voice commentarial dialogue (Buddhaghosa as main voice, Yogācāra as counter-voice), following the Part I convention, will be restarted at the Part IV stage of the Mahāyāna *dāna-pāramitā*.
 
@@ -280,7 +279,7 @@ Giving being the entrance to the three bases, how does the institutionalized fie
 ---
 
 *Paper:* DANA-P08 · *The Three Bases of Meritorious Activity* · **DĀNA · Part II · The Āgama View**
-*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates (四行門)
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates （四行門）
 *License:* CC BY-NC-SA 4.0
-*CBETA verification:* Citations from *Aṅguttara Nikāya* and *Saṃyukta Āgama* verified against CBETA Electronic Tripiṭaka 2024 edition. Pāli citations follow SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 with PTS numbering.
+*CBETA collation:* Citations from *Aṅguttara Nikāya* and *Saṃyukta Āgama* verified against CBETA Electronic Tripiṭaka 2024 edition. Pāli citations follow SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 with PTS numbering.
 *Repository:* https://github.com/pointing-at-the-moon/four-practice-gates

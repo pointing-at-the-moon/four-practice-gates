@@ -8,10 +8,9 @@ license: "CC BY-NC-SA 4.0"
 ---
 
 # The Saṅgha as a Field of Merit
-## The *Cātuddisa Saṅgha* as Early Buddhism's Legal Answer to the Temporal Problem of Giving — Donor-Recipient Asymmetry and the Suspension of Ownership as Institutional *Ahaṁkāra*-Loosening
+**The *Cātuddisa Saṅgha* as Early Buddhism's Legal Answer to the Temporal Problem of Giving — Donor-Recipient Asymmetry and the Suspension of Ownership as Institutional *Ahaṁkāra*-Loosening**
 
-*中文主標：僧伽作為施田*
-*副標：四方僧伽作為早期佛教對施之時間難題的律法回應——捐受不對稱與懸置擁有權作為制度性我執鬆動*
+*中文主題：僧伽作為施田——四方僧伽作為早期佛教對施之時間難題的律法回應——捐受不對稱與懸置擁有權作為制度性我執鬆動*
 
 ---
 
@@ -272,8 +271,8 @@ If the vinaya's answer to the temporal problem of material giving is the suspens
 - **AN 8.36** *Puññakiriyavatthusutta*, PTS AN iv 241. Cited from DANA-P08 carryover; Bhikkhu Sujato, English translation (CC0), SuttaCentral.
 - **T1428** *Sifen lü* (四分律, *Dharmaguptaka-vinaya*), fascicle 50 (房舍揵度) and fascicle 43 (迦絺那衣揵度), T22.1428. Translated by Buddhayaśas, Zhu Fonian, et al., Later Qin. CBETA electronic edition.
 - **T1435** *Shisong lü* (十誦律, *Sarvāstivāda-vinaya*), fascicles 34 (臥具法) and 48 (雜誦·優波離問佛), T23.1435. Translated by Puṇyatrāta, Kumārajīva, et al., Later Qin. CBETA electronic edition.
-- **T1421** *Wufen lü* (五分律, *Mahīśāsaka-vinaya*), fascicle 25 (房舍法), T22.1421. (Cited for four-vinaya convergence in §3.3.)
-- **T1425** *Moheseng’qi lü* (摩訶僧祇律, *Mahāsāṃghika-vinaya*), fascicle 27 (房舍法), T22.1425. (Cited for four-vinaya convergence in §3.3.)
+- **T1421** *Wufen lü* （五分律， *Mahīśāsaka-vinaya*), fascicle 25 （房舍法）， T22.1421. (Cited for four-vinaya convergence in §3.3.)
+- **T1425** *Moheseng’qi lü* （摩訶僧祇律， *Mahāsāṃghika-vinaya*), fascicle 27 （房舍法）， T22.1425. (Cited for four-vinaya convergence in §3.3.)
 - **T1442** *Genben shuoyiqieyoubu lü* (根本說一切有部律, *Mūlasarvāstivāda-vinaya*), fascicle 12 (造房法式), T23.1442. (Cited for four-vinaya convergence in §3.3.)
 
 ### Commentary
@@ -305,7 +304,7 @@ If the vinaya's answer to the temporal problem of material giving is the suspens
 ## Footer
 
 *Paper:* DANA-P09 · *The Saṅgha as a Field of Merit* · **DĀNA · Part III · Vinaya and Early Schools**
-*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates (四行門)
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates （四行門）
 *License:* CC BY-NC-SA 4.0
-*Canonical source verification:* All Pāli citations verified against Bhikkhu Brahmali's CC0 Vinaya translation at SuttaCentral (https://suttacentral.net). All Chinese citations verified against CBETA-derived Obsidian vault exports of the corresponding Taishō fascicles; electronic base-text is CBETA (Chinese Buddhist Electronic Text Association, https://www.cbeta.org).
+*CBETA collation:* All Pāli citations verified against Bhikkhu Brahmali's CC0 Vinaya translation at SuttaCentral (https://suttacentral.net). All Chinese citations verified against CBETA-derived Obsidian vault exports of the corresponding Taishō fascicles; electronic base-text is CBETA (Chinese Buddhist Electronic Text Association, https://www.cbeta.org).
 *Repository:* https://github.com/pointing-at-the-moon/four-practice-gates

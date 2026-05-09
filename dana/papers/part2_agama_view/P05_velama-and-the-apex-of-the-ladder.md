@@ -8,10 +8,9 @@ license: "CC BY-NC-SA 4.0"
 ---
 
 # The Velāma Sūtra
-## The Ladder of Giving and the Apex of the Perception of Impermanence — A Four-Tradition Synoptic View of the Four Soteriological Vectors
+**The Ladder of Giving and the Apex of the Perception of Impermanence — A Four-Tradition Synoptic View of the Four Soteriological Vectors**
 
-*中文主標：鞞羅摩經*
-*副標：施的階梯與無常想的頂位——四傳承的四向共觀*
+*中文主題：鞞羅摩經——施的階梯與無常想的頂位——四傳承的四向共觀*
 
 ---
 
@@ -272,9 +271,9 @@ MBSR-style short meditation is a therapeutic practice whose purpose is emotional
 
 #### Chinese Canonical Translations
 
-- *Fo shuo Xuda jing* (佛說須達經), translated by Guṇavṛddhi of the Southern Qi, *Taishō* vol. 1, No. 73.
-- *Madhyama Āgama* (中阿含經), translated by Gautama Saṅghadeva of the Eastern Jin, *Taishō* vol. 1, No. 26.
-- *Ekottara Āgama* (增一阿含經), translated by Gautama Saṅghadeva of the Eastern Jin, *Taishō* vol. 2, No. 125.
+- *Fo shuo Xuda jing* （佛說須達經）， translated by Guṇavṛddhi of the Southern Qi, *Taishō* vol. 1, No. 73.
+- *Madhyama Āgama* （中阿含經）， translated by Gautama Saṅghadeva of the Eastern Jin, *Taishō* vol. 1, No. 26.
+- *Ekottara Āgama* （增一阿含經）， translated by Gautama Saṅghadeva of the Eastern Jin, *Taishō* vol. 2, No. 125.
 
 ### 2. Commentarial Literature
 
@@ -321,7 +320,7 @@ MBSR-style short meditation is a therapeutic practice whose purpose is emotional
 ---
 
 *Paper:* DANA-P05 · *The Velāma Case and the Apex of the Recipient Ladder* · **DĀNA · Part II · Āgama View**
-*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates (四行門)
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates （四行門）
 *License:* CC BY-NC-SA 4.0
-*CBETA verification:* Citations from *Fo shuo Xuda jing* T0073, *Madhyama Āgama juan* 39 sūtra 155, and *Ekottara Āgama juan* 19 sūtra 3 verified against CBETA Electronic Tripiṭaka 2024 edition. Pāli citations (AN 9.20, SN 55.31–33, SN 55.40, AN 5.148, AN 10.60, It 98, Vin Cv VI.4) follow SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 with PTS numbering.
+*CBETA collation:* Citations from *Fo shuo Xuda jing* T0073, *Madhyama Āgama juan* 39 sūtra 155, and *Ekottara Āgama juan* 19 sūtra 3 verified against CBETA Electronic Tripiṭaka 2024 edition. Pāli citations (AN 9.20, SN 55.31–33, SN 55.40, AN 5.148, AN 10.60, It 98, Vin Cv VI.4) follow SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 with PTS numbering.
 *Repository:* https://github.com/pointing-at-the-moon/four-practice-gates

@@ -8,10 +8,9 @@ license: "CC BY-NC-SA 4.0"
 ---
 
 # *Cāga* as an Object of Recollection
-## The Fifth Position of *Cāga* in the Six-*Anussati* Sequence
+**The Fifth Position of *Cāga* in the Six-*Anussati* Sequence**
 
-*中文主標：捨作為隨念對境*
-*副標：cāga 在六隨念序列中的第五位*
+*中文主題：捨作為隨念對境——cāga 在六隨念序列中的第五位*
 
 ---
 
@@ -253,8 +252,8 @@ Already surfaced in §3.3; briefly restated here. The previous paper's "systemat
 
 #### Chinese Canonical Translations
 
-- *Saṃyukta Āgama* (雜阿含經), trans. Guṇabhadra (劉宋求那跋陀羅). Taishō vol. 2, No. 0099.
-- *Ekottara Āgama* (增一阿含經), trans. Gautama Saṅghadeva (東晉瞿曇僧伽提婆). Taishō vol. 2, No. 0125.
+- *Saṃyukta Āgama* （雜阿含經）， trans. Guṇabhadra （劉宋求那跋陀羅）. Taishō vol. 2, No. 0099.
+- *Ekottara Āgama* （增一阿含經）， trans. Gautama Saṅghadeva （東晉瞿曇僧伽提婆）. Taishō vol. 2, No. 0125.
 
 ### 2. Commentarial Literature
 
@@ -299,7 +298,7 @@ Already surfaced in §3.3; briefly restated here. The previous paper's "systemat
 ---
 
 *Paper:* DANA-P03 · *Cāga as an Object of Recollection* · **DĀNA · Part I · Pāli Roots**
-*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates (四行門)
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates （四行門）
 *License:* CC BY-NC-SA 4.0
-*CBETA verification:* Citations from *Saṃyukta Āgama* *juan* 33 sūtras 931 and 932, and from *Ekottara Āgama* *juan* 1 and 2 collated against CBETA Electronic Tripiṭaka 2024 edition. Pāli citations follow SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 with PTS numbering.
+*CBETA collation:* Citations from *Saṃyukta Āgama* *juan* 33 sūtras 931 and 932, and from *Ekottara Āgama* *juan* 1 and 2 collated against CBETA Electronic Tripiṭaka 2024 edition. Pāli citations follow SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 with PTS numbering.
 *Repository:* https://github.com/pointing-at-the-moon/four-practice-gates

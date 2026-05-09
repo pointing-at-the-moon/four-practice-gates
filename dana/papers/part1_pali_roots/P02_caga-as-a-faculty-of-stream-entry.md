@@ -8,10 +8,9 @@ license: "CC BY-NC-SA 4.0"
 ---
 
 # *Cāga* as a Faculty of Stream-Entry
-## The Independent Position of *Cāga* on the Path of Liberation
+**The Independent Position of *Cāga* on the Path of Liberation**
 
-*中文主標：捨作為預流之支*
-*副標：cāga 在解脫道中的獨立位置*
+*中文主題：捨作為預流之支——cāga 在解脫道中的獨立位置*
 
 ---
 
@@ -363,8 +362,8 @@ The more immediate extension is the next chapter (P03, *The Six Recollections an
 
 #### Chinese Canonical Translations
 
-- *Saṃyuktāgama* (《雜阿含經》). Translated by Guṇabhadra, Liu Song. Taishō Tripiṭaka vol. 2, no. 0099.
-- *Yogācārabhūmi-śāstra* (《瑜伽師地論》). Spoken by Maitreya, translated by Xuanzang, Tang. Taishō Tripiṭaka vol. 30, no. 1579.
+- *Saṃyuktāgama* （《雜阿含經》）. Translated by Guṇabhadra, Liu Song. Taishō Tripiṭaka vol. 2, no. 0099.
+- *Yogācārabhūmi-śāstra* （《瑜伽師地論》）. Spoken by Maitreya, translated by Xuanzang, Tang. Taishō Tripiṭaka vol. 30, no. 1579.
 
 ### II. Modern Scholarship
 
@@ -402,7 +401,7 @@ The more immediate extension is the next chapter (P03, *The Six Recollections an
 ---
 
 *Paper:* DANA-P02 · *Cāga as a Faculty of Stream-Entry* · **DĀNA · Part I · Pāli Roots**
-*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates (四行門)
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates （四行門）
 *License:* CC BY-NC-SA 4.0
-*CBETA verification:* Citations from *Saṃyuktāgama* fascicle 33, sūtras 927–936, verified against CBETA Electronic Tripiṭaka 2024 edition. Pāli references follow SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 with PTS numbering.
+*CBETA collation:* Citations from *Saṃyuktāgama* fascicle 33, sūtras 927–936, verified against CBETA Electronic Tripiṭaka 2024 edition. Pāli references follow SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 with PTS numbering.
 *Repository:* https://github.com/pointing-at-the-moon/four-practice-gates

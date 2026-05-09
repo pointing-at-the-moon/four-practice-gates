@@ -8,10 +8,9 @@ license: "CC BY-NC-SA 4.0"
 ---
 
 # The Sīha Sutta
-## Present-Life Visible Fruits of Giving and the Four-Plus-One Epistemic Structure
+**Present-Life Visible Fruits of Giving and the Four-Plus-One Epistemic Structure**
 
-*中文主標：師子經*
-*副標：施的現世可見果與四加一的認識論結構*
+*中文主題：師子經——施的現世可見果與四加一的認識論結構*
 
 ---
 
@@ -224,8 +223,8 @@ Another contemporary-liable reading is the **wealth-oligarchy misreading** — "
 
 #### Chinese Canonical Translations
 
-- *Madhyama Āgama* (《中阿含經》), translated by Gautama Saṅghadeva of the Eastern Jin. *Taishō* vol. 1, No. 26.
-- *Ekottara Āgama* (《增一阿含經》), translated by Gautama Saṅghadeva of the Eastern Jin. *Taishō* vol. 2, No. 125.
+- *Madhyama Āgama* （《中阿含經》）， translated by Gautama Saṅghadeva of the Eastern Jin. *Taishō* vol. 1, No. 26.
+- *Ekottara Āgama* （《增一阿含經》）， translated by Gautama Saṅghadeva of the Eastern Jin. *Taishō* vol. 2, No. 125.
 
 ### 2. Commentarial Literature
 
@@ -267,7 +266,7 @@ Another contemporary-liable reading is the **wealth-oligarchy misreading** — "
 ---
 
 *Paper:* DANA-P06 · *The Sīha Sutta* · **DĀNA · Part II · The Āgama View**
-*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates (四行門)
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates （四行門）
 *License:* CC BY-NC-SA 4.0
-*CBETA verification:* Citations from *Ekottara Āgama juan* 24, 51, 3, and *Madhyama Āgama juan* 4 sūtra 18 *Sīha Sutta* verified against CBETA Electronic Tripiṭaka 2024 edition. Pāli citations (AN 5.34, AN 7.57, AN 5.36, AN 8.31, AN 8.32, It 26) follow SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 with PTS numbering.
+*CBETA collation:* Citations from *Ekottara Āgama juan* 24, 51, 3, and *Madhyama Āgama juan* 4 sūtra 18 *Sīha Sutta* verified against CBETA Electronic Tripiṭaka 2024 edition. Pāli citations (AN 5.34, AN 7.57, AN 5.36, AN 8.31, AN 8.32, It 26) follow SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 with PTS numbering.
 *Repository:* https://github.com/pointing-at-the-moon/four-practice-gates
