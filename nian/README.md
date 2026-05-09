@@ -74,7 +74,7 @@ See [`NIAN_PLAN.md`](./NIAN_PLAN.md) for full skeleton and methodology.
 
 **Part VIII — Coda** · 2/2 ✅
 - **P30** [AI 時代之念佛](./papers/part8_coda/P30_AI時代之念佛.md) / [Recollection in the Age of AI](./papers/part8_coda/P30_recollection-in-the-age-of-ai.md)
-- **P31** [你剛走過了什麼](./papers/part8_coda/P31_你剛走過了什麼.md) / [What You Just Walked Through](./papers/part8_coda/P31_what-you-just-walked-through.md)
+- **P31** [念佛的內部步驟](./papers/part8_coda/P31_念佛的內部步驟.md) / [The Internal Steps of Buddha-Recollection](./papers/part8_coda/P31_the-internal-steps-of-buddha-recollection.md)
 
 ### 🎉 NIAN 全卷封筆 — 31/31 ✅ COMPLETE (2026-05-03)
 
