@@ -30,6 +30,7 @@ PAPER_STYLE.md
 */papers/*/rag/
 */papers/*_draft*.md
 */papers/*_ideas.md
+*/papers/*/*_drafts/
 
 # Book build outputs
 */book/build/output/
