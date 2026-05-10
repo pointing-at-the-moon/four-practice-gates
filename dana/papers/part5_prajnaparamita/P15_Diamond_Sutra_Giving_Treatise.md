@@ -15,6 +15,14 @@ license: CC BY-NC-SA 4.0
 
 ---
 
+## Abstract
+
+This paper examines the *Vajracchedikā-prajñāpāramitā* (T0235, Kumārajīva's *Diamond Sūtra*) on the reconfiguration of dāna-pāramitā through the paradox of "non-abiding giving" (無住施) and "empty merit" (福德性空). Using CBETA XML as ground truth and systematic vault searches across prajñāpāramitā, Yogācāra, and madhyamaka corpora -- with parallel comparison against Xuanzang's *Mahāprajñāpāramitā-sūtra* (T0220a), Vasubandhu's *Vajracchedikā-śāstra* (T1511), and six Chinese translations -- I argue that T0235's "non-abiding giving" is not a negative negation of giving but the epistemic condition of giving itself. The merit paradox ("because merit is empty, the Tathāgata says great merit is gained") employs a truncated *X is-not X* triad (missing the third step "is named") to prevent grasping at emptiness itself. A philological finding: T0235 contains zero instances of the term "three wheels empty" (三輪體空) -- a later scholastic summary -- so the text's own vocabulary is "non-grasping at marks" (不住相). The core finding: non-abiding giving is not a utilitarian merit-accumulation strategy but the genuine expression of dharma-empty; when the giver grasps at no marks, merit shifts from limited saṃvṛti-causality to unlimited nirvāṇa-oriented causality.
+
+**Keywords:** non-abiding giving, empty merit, truncated triad, three-wheel emptiness, Vajracchedikā, Mahāprajñāpāramitā-śāstra, Madhyāntavibhāga-ūṇatīkā, merit paradox, Kumārajīva, prajñāpāramitā
+
+---
+
 > "Subhūti! If merit were truly existent, the Tathāgata would not say that merit is gained. Because merit is empty, the Tathāgata says that merit is gained."
 > — *Vajracchedikā-prajñāpāramitā-sūtra* (T0235, Kumārajīva's translation), CBETA T08n0235 0751b29–c04
 
@@ -350,12 +358,6 @@ The third layer is **the continuity of the doctrine of giving**: from P13's "thr
 T0235 closes with "not grasping marks, thus and so immovable" -- this is the condition of giving, and the suspension point of practice. But another core text of the Prajñāpāramitā tradition, the *Heart Sūtra*, does not mention giving at all -- what does this silence mean? P16 enters the field.
 
 ---
-
-## Abstract
-
-This paper examines the *Vajracchedikā-prajñāpāramitā* (T0235, Kumārajīva's *Diamond Sūtra*) on the reconfiguration of dāna-pāramitā through the paradox of "non-abiding giving" (無住施) and "empty merit" (福德性空). Using CBETA XML as ground truth and systematic vault searches across prajñāpāramitā, Yogācāra, and madhyamaka corpora -- with parallel comparison against Xuanzang's *Mahāprajñāpāramitā-sūtra* (T0220a), Vasubandhu's *Vajracchedikā-śāstra* (T1511), and six Chinese translations -- I argue that T0235's "non-abiding giving" is not a negative negation of giving but the epistemic condition of giving itself. The merit paradox ("because merit is empty, the Tathāgata says great merit is gained") employs a truncated *X is-not X* triad (missing the third step "is named") to prevent grasping at emptiness itself. A philological finding: T0235 contains zero instances of the term "three wheels empty" (三輪體空) -- a later scholastic summary -- so the text's own vocabulary is "non-grasping at marks" (不住相). The core finding: non-abiding giving is not a utilitarian merit-accumulation strategy but the genuine expression of dharma-empty; when the giver grasps at no marks, merit shifts from limited saṃvṛti-causality to unlimited nirvāṇa-oriented causality.
-
-**Keywords:** non-abiding giving, empty merit, truncated triad, three-wheel emptiness, Vajracchedikā, Mahāprajñāpāramitā-śāstra, Madhyāntavibhāga-ūṇatīkā, merit paradox, Kumārajīva, prajñāpāramitā
 
 ## Footnotes
 
