@@ -46,4 +46,4 @@ Nine parts, ~30 papers:
 **Part 4 — The early Mahāyāna turn to dāna-pāramitā**
 - **P11** [從施到波羅蜜](./papers/part4_early_mahayana/P11_從施到波羅蜜.md) / [From Dāna to Dāna-Pāramitā](./papers/part4_early_mahayana/P11_from-dana-to-dana-paramita.md)
 - **P12** [檀波羅蜜的四章結構](./papers/part4_early_mahayana/P12_檀波羅蜜的四章結構.md) / [The Dà zhìdù lùn's Treatise on the Perfection of Giving I](./papers/part4_early_mahayana/P12_dana-paramita-four-structures.md)
-- **P13** [從三輪有到三輪體空](./papers/part4_early_mahayana/P13_從三輪有到三輪體空.md) / [The Sources of Trilakṣaṇa-Śūnya](./papers/part4_early_mahayana/P13_sources-of-trilakṣaṇa-śūnya.md)
+- **P13** [從三輪有到三輪體空](./papers/part4_early_mahayana/P13_從三輪有到三輪體空.md) / [The Sources of Trilakṣaṇa-Śūnya](./papers/part4_early_mahayana/P13_sources-of-trilaksana-sunya.md)
