@@ -9,7 +9,7 @@ A companion to [*Mindful of the Buddha*](../nian/) (Volume 1). Where NIAN establ
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: Paper phase — Part 4 opened (13 papers published)
+- **Status**: Paper phase — Part 4 opened (14 papers, P13/14 draft stage)
 
 ### Planned Structure
 
@@ -46,4 +46,5 @@ Nine parts, ~30 papers:
 **Part 4 — The early Mahāyāna turn to dāna-pāramitā**
 - **P11** [從施到波羅蜜](./papers/part4_early_mahayana/P11_從施到波羅蜜.md) / [From Dāna to Dāna-Pāramitā](./papers/part4_early_mahayana/P11_from-dana-to-dana-paramita.md)
 - **P12** [檀波羅蜜的四章結構](./papers/part4_early_mahayana/P12_檀波羅蜜的四章結構.md) / [The Dà zhìdù lùn's Treatise on the Perfection of Giving I](./papers/part4_early_mahayana/P12_dana-paramita-four-structures.md)
-- **P13** [從三輪有到三輪體空](./papers/part4_early_mahayana/P13_從三輪有到三輪體空.md) / [The Sources of Trilakṣaṇa-Śūnya](./papers/part4_early_mahayana/P13_sources-of-trilaksana-sunya.md)
+- **P13** [從三輪有到三輪體空](./papers/part4_early_mahayana/P13_從三輪有到三輪體空.md) / [The Sources of Trilakṣaṇa-Śūnya](./papers/part4_early_mahayana/P13_sources-of-trilakṣaṇa-śūnya.md)
+- **P14** [瑜伽師地論的九種相施](./papers/part4_early_mahayana/P14_瑜伽師地論的九種相施.md) / [The Nine Characteristics of Giving](./papers/part4_early_mahayana/P14_the-nine-characteristics-of-giving.md)
