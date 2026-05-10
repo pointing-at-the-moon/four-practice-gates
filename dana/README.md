@@ -9,7 +9,7 @@ A companion to [*Mindful of the Buddha*](../nian/) (Volume 1). Where NIAN establ
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: Paper phase — Part 4 opened (14 papers, P13/14 draft stage)
+- **Status**: Paper phase — Part 5 opened (16 papers published)
 
 ### Planned Structure
 
@@ -48,3 +48,7 @@ Nine parts, ~30 papers:
 - **P12** [檀波羅蜜的四章結構](./papers/part4_early_mahayana/P12_檀波羅蜜的四章結構.md) / [The Dà zhìdù lùn's Treatise on the Perfection of Giving I](./papers/part4_early_mahayana/P12_dana-paramita-four-structures.md)
 - **P13** [從三輪有到三輪體空](./papers/part4_early_mahayana/P13_從三輪有到三輪體空.md) / [The Sources of Trilakṣaṇa-Śūnya](./papers/part4_early_mahayana/P13_sources-of-trilakṣaṇa-śūnya.md)
 - **P14** [瑜伽師地論的九種相施](./papers/part4_early_mahayana/P14_瑜伽師地論的九種相施.md) / [The Nine Characteristics of Giving](./papers/part4_early_mahayana/P14_the-nine-characteristics-of-giving.md)
+
+**Part 5 — Prajñā literature: giving without abiding**
+- **P15** [金剛般若波羅蜜經施論](./papers/part5_prajnaparamita/P15_金剛般若波羅蜜經施論.md) / [The Diamond Sūtra's Treatise on Giving](./papers/part5_prajnaparamita/P15_Diamond_Sutra_Giving_Treatise.md)
+- **P16** [心經靜默施論](./papers/part5_prajnaparamita/P16_心經靜默施論.md) / [The Silence of the Heart Sūtra](./papers/part5_prajnaparamita/P16_the-silence-of-the-heart-sutra.md)
