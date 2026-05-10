@@ -12,7 +12,7 @@ license: "CC BY-NC-SA 4.0"
 
 **Giving's Disappearance as Theological Statement**
 
-*中文主題：心經沉默施論——施的缺席作為神學表態*
+*中文主題：心經靜默施論——施的缺席作為神學表態*
 
 ---
 
