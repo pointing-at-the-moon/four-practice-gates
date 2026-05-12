@@ -2,7 +2,7 @@
 title: "五十陰魔之 dāna 教誡：禪定深處邪施的類型學"
 author: "釋慧鏡 (Shi Huijing)"
 series: "DĀNA 卷二 施"
-paper_id: "DĀNA-P20"
+paper_id: "DANA-P20"
 date: "2026-05-12"
 license: "CC BY-NC-SA 4.0"
 ---
