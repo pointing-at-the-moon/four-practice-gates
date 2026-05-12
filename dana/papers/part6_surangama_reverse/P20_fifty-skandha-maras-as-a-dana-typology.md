@@ -57,7 +57,7 @@ Jiehuan further clarified in his *Yaojie*:
 
 "Slaying wisdom-life, taking wholesome dharmas" reaches the core of dāna's teaching: māra does not want to kill your body, but to slay your wisdom-life — your correct understanding and practice of dāna. When dāna is inverted, the giver's wholesome action is taken (transformed into inverted giving), and the recipient's proper virtue is taken (self-perceiving virtue where none exists); both lives of wisdom are cut.
 
-## II. Primary Sūtra: The Architecture of T0945's Five-Skandha Māra-Realms
+## II. Primary Sūtra: The Architecture of the Śūraṅgama's Five-Skandha Māra-Realms
 
 To understand how dāna is inverted within samādhi, one must first analyze the ontological structure of the fifty skandha-māras themselves. The Buddha divided māra-activities across five aggregate-domains, ten per aggregate, their architecture presenting a progressive movement from "purely internal" to "externally-attached."
 
