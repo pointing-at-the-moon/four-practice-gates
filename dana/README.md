@@ -9,7 +9,7 @@ A companion to [*Mindful of the Buddha*](../nian/) (Volume 1). Where NIAN establ
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: Paper phase — Part 6 in progress (19 papers published)
+- **Status**: Paper phase — Part 7 opened (21 papers published; Parts I–VI complete, Part VI sealed 2026-05-12)
 
 ### Planned Structure
 
@@ -58,3 +58,6 @@ Nine parts, ~30 papers:
 - **P18** [楞嚴四種清淨明誨之不盜誨背面](./papers/part6_surangama_reverse/P18_楞嚴四種清淨明誨之不盜誨背面.md) / [The Reverse-Giving Hidden in Not-Taking](./papers/part6_surangama_reverse/P18_the-reverse-giving-hidden-in-not-taking.md)
 - **P19** [二十五圓通中的布施相](./papers/part6_surangama_reverse/P19_二十五圓通中的布施相.md) / [Dāna in the Twenty-Five Gateways of Perfect Penetration](./papers/part6_surangama_reverse/P19_dana-in-the-twenty-five-gateways-of-perfect-penetration.md)
 - **P20** [五十陰魔之 dāna 教誡](./papers/part6_surangama_reverse/P20_五十陰魔之dāna教誡.md) / [The Fifty Skandha-Māras as a Dāna Typology](./papers/part6_surangama_reverse/P20_fifty-skandha-maras-as-a-dana-typology.md)
+
+**Part 7 — The Lotus Sūtra: the gift of body and life**
+- **P21** [法師品法供養](./papers/part7_lotus_body/P21_法師品法供養.md) / [Dharma-Offering in the Lotus](./papers/part7_lotus_body/P21_dharma-offering-in-the-lotus.md)
