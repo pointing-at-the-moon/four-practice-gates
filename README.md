@@ -10,7 +10,7 @@ Four volumes, four gates of practice:
 | Vol. | Gate | Title | Status |
 |------|------|-------|--------|
 | 1 | **念** NIAN | [Mindful of the Buddha](./nian/) | ✅ **Sealed 2026-05-03 — 31/31 (all 8 Parts complete)** |
-| 2 | **施** DANA | [The Practice of Giving](./dana/) | In progress — 30/~31 (Parts I–VIII complete + **Part IX #2 published 2026-05-15** · P29 現代診斷 opener + P30 AI 時代之施 · AI 作為 adhipati-pratyaya doctrinal grounding · 一念 cetanā 教證 + 隨喜 mediated-giving warrant · 跨書系 polyphony with NIAN P30) |
+| 2 | **施** DANA | [The Practice of Giving](./dana/) | ✅ **Sealed 2026-05-15 — 31/31 (all 9 Parts complete)** — Part IX closer P31 走過之路 / *What You Just Walked Through* · 30-anchor retrospective + bilingual pastoral closure · 「檀為涅槃之初緣」 7-char volume-anchor · forward to SĪLA Volume 3 |
 | 3 | **戒** SILA | *forthcoming* | -- |
 | 4 | **定** DHYANA | *forthcoming* | -- |
 

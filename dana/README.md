@@ -9,7 +9,7 @@ A companion to [*Mindful of the Buddha*](../nian/) (Volume 1). Where NIAN establ
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: Paper phase — Part IX #2 published (30 papers published; Parts I–VIII complete · Part VIII Huayan 五部曲圓收 2026-05-14 · Part IX opener P29 + P30 published 2026-05-15)
+- **Status**: ✅ **Paper phase SEALED 2026-05-15 — 31/31 (all 9 Parts complete)** · Volume closer P31 走過之路 · Part IX triad (P29 modern-diagnosis + P30 AI 時代之施 + P31 全卷收束) · forward to SĪLA Volume 3
 
 ### Planned Structure
 
@@ -74,3 +74,4 @@ Nine parts, ~30 papers:
 **Part 9 — Contemporary diagnosis and AI coda**
 - **P29** [現代診斷：七覺支喜輕安雙因子作為診斷工具](./papers/part9_modern_diagnosis/P29_現代診斷.md) / [Modern Diagnosis: Pīti + Passaddhi as Cross-Traditional Diagnostic Instrument](./papers/part9_modern_diagnosis/P29_modern-diagnosis.md) — Part IX opener · register pivot · 七覺支 喜+輕安 雙因子 cross-traditional diagnostic · 內生 critique 1300 年 recovery · 漢傳念佛 求-交易化 + 西方 mindfulness 工具化 雙案例
 - **P30** [AI 時代之施：增上緣、一念心力與隨喜之教證](./papers/part9_modern_diagnosis/P30_AI時代之施.md) / [Giving in the Age of AI: The Doctrinal Grounding of Adhipati-Pratyaya, Momentary Cetanā, and Anumodanā](./papers/part9_modern_diagnosis/P30_giving-in-the-age-of-ai.md) — Part IX #2 · AI 作為 adhipati-pratyaya doctrinal grounding · 一念 cetanā 教證 + 隨喜 mediated-giving warrant · 跨書系 polyphony with NIAN P30
+- **P31** [走過之路：全卷收束與下手處](./papers/part9_modern_diagnosis/P31_走過之路.md) / [What You Just Walked Through: The Volume's Close and the Place to Begin](./papers/part9_modern_diagnosis/P31_what-you-just-walked-through.md) — Part IX #3 · DĀNA volume closer · 30-anchor retrospective + bilingual pastoral closure · 漸次說法 anupubbi-kathā opening + 「檀為涅槃之初緣」 7-char volume-anchor · ✅ **DĀNA SEALED 31/31**
