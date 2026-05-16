@@ -1,9 +1,15 @@
 ---
 title: "From Dāna to Dāna-Pāramitā — The Dà zhìdù lùn's Treatise on the Perfection of Giving I"
-author: "Shi Huijing"
-series: "DĀNA · Part IV · The Early Mahāyāna Turn to Dāna-Pāramitā"
+author: "釋慧鏡 (Shi Huijing)"
+series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series_short: "DĀNA"
+volume: 2
 paper_id: "DANA-P12"
+paper_number: 12
+part: "Part IV · The Early Mahāyāna Turn to Dāna-Pāramitā"
+part_number: 4
 date: "2026-05-09"
+version: "1.0"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -11,6 +17,14 @@ license: "CC BY-NC-SA 4.0"
 **The *Dà zhìdù lùn*'s Treatise on the Perfection of Giving I**
 
 *中文主題：從施到波羅蜜——《大智度論》檀波羅蜜初論*
+
+---
+
+**Author:** 釋慧鏡 (Shi Huijing)
+**Date:** May 2026
+**License:** CC BY-NC-SA 4.0
+**Version:** 1.0
+**Series:** DĀNA — The Practice of Giving
 
 ---
 

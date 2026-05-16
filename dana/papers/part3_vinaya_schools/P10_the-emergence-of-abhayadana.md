@@ -1,9 +1,15 @@
 ---
 title: "The Emergence of Abhayadāna — The Millennium-Long Substance–Name Asymmetry and the Taxonomic Axis-Switch from Recipient-Axis to Content-Axis"
-author: "Shi Huijing"
-series: "DĀNA · Part III · Vinaya and Early Schools"
+author: "釋慧鏡 (Shi Huijing)"
+series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series_short: "DĀNA"
+volume: 2
 paper_id: "DANA-P10"
+paper_number: 10
+part: "Part III · Vinaya and the Early Schools"
+part_number: 3
 date: "2026-04-23"
+version: "1.0"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -11,6 +17,14 @@ license: "CC BY-NC-SA 4.0"
 **The Millennium-Long Substance–Name Asymmetry and the Taxonomic Axis-Switch from Recipient-Axis to Content-Axis**
 
 *中文主題：無畏施的出現——實體早於名稱的千年不對稱與從受者軸到內容軸的分類學軸轉換*
+
+---
+
+**Author:** 釋慧鏡 (Shi Huijing)
+**Date:** April 2026
+**License:** CC BY-NC-SA 4.0
+**Version:** 1.0
+**Series:** DĀNA — The Practice of Giving
 
 ---
 

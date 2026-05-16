@@ -1,10 +1,15 @@
 ---
 title: "The Fifty Skandha-Māras as a Dāna Typology: A Śūraṅgama Warning from the Depths of Meditation"
 author: "釋慧鏡 (Shi Huijing)"
-series: "DĀNA · Part VI · The Reverse-Giving Thesis"
+series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series_short: "DĀNA"
+volume: 2
 paper_id: "DANA-P20"
-part: "Part VI · The Reverse-Giving Thesis"
+paper_number: 20
+part: "Part VI · The Śūraṅgama Reverse"
+part_number: 6
 date: "2026-05-12"
+version: "1.0"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -20,6 +25,7 @@ license: "CC BY-NC-SA 4.0"
 **Date:** May 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
+**Series:** DĀNA — The Practice of Giving
 
 ---
 

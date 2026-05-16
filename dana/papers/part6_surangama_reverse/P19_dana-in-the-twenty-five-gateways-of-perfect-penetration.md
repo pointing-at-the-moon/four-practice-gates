@@ -1,10 +1,15 @@
 ---
 title: "Dāna in the Twenty-Five Gateways of Perfect Penetration: A Map of Meditation-and-Wisdom Giving in the Śūraṅgama Sūtra"
 author: "釋慧鏡 (Shi Huijing)"
-series: "DĀNA · Part VI · Reverse-Giving Thesis"
+series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series_short: "DĀNA"
+volume: 2
 paper_id: "DANA-P19"
-part: "Part VI · Reverse-Giving Thesis"
+paper_number: 19
+part: "Part VI · The Śūraṅgama Reverse"
+part_number: 6
 date: "2026-05-10"
+version: "1.0"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -20,6 +25,7 @@ license: "CC BY-NC-SA 4.0"
 **Date:** May 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
+**Series:** DĀNA — The Practice of Giving
 
 ---
 

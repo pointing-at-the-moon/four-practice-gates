@@ -1,11 +1,14 @@
 ---
 title: "Samantabhadra's Vow of Vast Offerings: The Third Vow as Entry-Architecture"
-subtitle: "From Indian Offering Theory to Huayan Contemplative Offering across Five Centuries"
 author: "釋慧鏡 (Shi Huijing)"
-series: "DĀNA"
+series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series_short: "DĀNA"
+volume: 2
 paper_id: "DANA-P25"
-part: "Part VIII · Huayan Dharmadhātu"
-date: "2026-05"
+paper_number: 25
+part: "Part VIII · The Huayan Dharmadhātu"
+part_number: 8
+date: "2026-05-14"
 version: "1.0"
 license: "CC BY-NC-SA 4.0"
 ---
@@ -22,6 +25,7 @@ license: "CC BY-NC-SA 4.0"
 **Date:** May 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
+**Series:** DĀNA — The Practice of Giving
 
 ---
 

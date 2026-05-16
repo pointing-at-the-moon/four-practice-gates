@@ -1,9 +1,15 @@
 ---
 title: "Eight Bases of Giving — The Motivation Axis and the Quality Axis in Early Buddhism"
-author: "Shi Huijing"
-series: "DĀNA · Part II · The Āgama View"
+author: "釋慧鏡 (Shi Huijing)"
+series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series_short: "DĀNA"
+volume: 2
 paper_id: "DANA-P04"
+paper_number: 4
+part: "Part II · The Āgama View on Giving"
+part_number: 2
 date: "2026-04-19"
+version: "1.0"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -11,6 +17,14 @@ license: "CC BY-NC-SA 4.0"
 **The Motivation Axis and the Quality Axis in Early Buddhism — Two Independent Taxonomies**
 
 *中文主題：八事布施——早期佛教的動機軸與品質軸——兩種獨立分類學*
+
+---
+
+**Author:** 釋慧鏡 (Shi Huijing)
+**Date:** April 2026
+**License:** CC BY-NC-SA 4.0
+**Version:** 1.0
+**Series:** DĀNA — The Practice of Giving
 
 ---
 

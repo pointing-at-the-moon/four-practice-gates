@@ -1,15 +1,31 @@
 ---
 title: "五十陰魔之 dāna 教誡：禪定深處邪施的類型學"
 author: "釋慧鏡 (Shi Huijing)"
-series: "DĀNA 卷二 施"
+series: "四行門卷二《施——從巴利之根到法界供養》"
+series_short: "DĀNA"
+volume: 2
 paper_id: "DANA-P20"
+paper_number: 20
+part: "第六部 · 楞嚴的反向施論"
+part_number: 6
 date: "2026-05-12"
+version: "1.0"
 license: "CC BY-NC-SA 4.0"
 ---
 
 # 五十陰魔之 dāna 教誡
 
 **禪定深處邪施的類型學**
+
+---
+
+**作者：** 釋慧鏡 (Shi Huijing)
+**日期：** 2026-05-12
+**授權：** CC BY-NC-SA 4.0
+**版本：** 1.0
+**書系：** DĀNA — The Practice of Giving
+
+---
 
 ## 摘要
 

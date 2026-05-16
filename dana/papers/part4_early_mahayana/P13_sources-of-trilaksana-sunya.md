@@ -1,10 +1,15 @@
 ---
 title: "The Sources of Trilakṣaṇa-Śūnya — From the Mahāprajñāpāramitā-Sūtra to Nāgārjuna's Systematization"
-author: "Shi Huijing (釋慧鏡)"
-series: "DĀNA · Part IV · The Early Mahāyāna Turn to Dāna-Pāramitā"
+author: "釋慧鏡 (Shi Huijing)"
+series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series_short: "DĀNA"
+volume: 2
 paper_id: "DANA-P13"
+paper_number: 13
 part: "Part IV · The Early Mahāyāna Turn to Dāna-Pāramitā"
+part_number: 4
 date: "2026-05-09"
+version: "1.0"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -12,6 +17,14 @@ license: "CC BY-NC-SA 4.0"
 **The Mahāprajñāpāramitā-Sūtra and Nāgārjuna's Argument for the Emptiness of the Three Wheels**
 
 *中文主題：從三輪有到三輪體空——大般若經與龍樹的三輪體空論證*
+
+---
+
+**Author:** 釋慧鏡 (Shi Huijing)
+**Date:** May 2026
+**License:** CC BY-NC-SA 4.0
+**Version:** 1.0
+**Series:** DĀNA — The Practice of Giving
 
 ---
 

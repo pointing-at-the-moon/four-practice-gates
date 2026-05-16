@@ -1,9 +1,15 @@
 ---
 title: "From Dāna to Dāna-Pāramitā — Prajñā as the Transformative Condition of Giving and the Systematic Inauguration of the Six Perfections"
-author: "Shi Huijing"
-series: "DĀNA · Part IV · The Early Mahāyāna Turn to Dāna-Pāramitā"
+author: "釋慧鏡 (Shi Huijing)"
+series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series_short: "DĀNA"
+volume: 2
 paper_id: "DANA-P11"
+paper_number: 11
+part: "Part IV · The Early Mahāyāna Turn to Dāna-Pāramitā"
+part_number: 4
 date: "2026-05-08"
+version: "1.0"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -11,6 +17,14 @@ license: "CC BY-NC-SA 4.0"
 **Prajñā as the Transformative Condition of Giving and the Systematic Inauguration of the Six Perfections**
 
 *中文主題：從施到波羅蜜——般若作為施的轉化條件與六度的系統性開創*
+
+---
+
+**Author:** 釋慧鏡 (Shi Huijing)
+**Date:** May 2026
+**License:** CC BY-NC-SA 4.0
+**Version:** 1.0
+**Series:** DĀNA — The Practice of Giving
 
 ---
 

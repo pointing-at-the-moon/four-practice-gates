@@ -1,9 +1,15 @@
 ---
 title: "Bhaiṣajyarāja's Self-Offering: A Hermeneutic Crisis"
 author: "釋慧鏡 (Shi Huijing)"
-series: "DĀNA 卷二 施"
+series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series_short: "DĀNA"
+volume: 2
 paper_id: "DANA-P23"
+paper_number: 23
+part: "Part VII · The Lotus and the Gift of Body"
+part_number: 7
 date: "2026-05-13"
+version: "1.0"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -16,6 +22,14 @@ license: "CC BY-NC-SA 4.0"
 *Chinese: 藥王菩薩本事品之身命施：一個詮釋危機*
 
 *Author: 釋慧鏡 (Shi Huijing)*
+
+---
+
+**Author:** 釋慧鏡 (Shi Huijing)
+**Date:** May 2026
+**License:** CC BY-NC-SA 4.0
+**Version:** 1.0
+**Series:** DĀNA — The Practice of Giving
 
 ---
 

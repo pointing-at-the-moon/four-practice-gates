@@ -1,10 +1,15 @@
 ---
 title: "The Reverse-Giving Hidden in Not-Taking: The Śūraṅgama Sūtra's Third Pure Precept and Its Doctrine of Dāna-in-Negation"
-author: "Shi Huijing (釋慧鏡)"
-series: "DĀNA · Part VI · The Reverse-Giving Doctrine"
+author: "釋慧鏡 (Shi Huijing)"
+series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series_short: "DĀNA"
+volume: 2
 paper_id: "DANA-P18"
-part: "Part VI · The Reverse-Giving Doctrine"
+paper_number: 18
+part: "Part VI · The Śūraṅgama Reverse"
+part_number: 6
 date: "2026-05-10"
+version: "1.0"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -33,6 +38,14 @@ This paper examines the third of the *Śūraṅgama Sūtra*'s Four Pure Precepts
 — *Śūraṅgama Sūtra*, ch.6, T19n0945, p0132b01–b28
 
 These two paragraphs constitute the complete portrait of the third decision pure precept. The first establishes the ontological priority of abandoning theft over giving with "if stealing-mind is not abandoned, the dust cannot be left." The second completes the reverse-giving doctrine with "give the residue of alms to feed starving beings." Within these two paragraphs, the sūtra itself embeds a profound paradox: "not-taking" is not the endpoint, but the **precondition for giving**.
+
+---
+
+**Author:** 釋慧鏡 (Shi Huijing)
+**Date:** May 2026
+**License:** CC BY-NC-SA 4.0
+**Version:** 1.0
+**Series:** DĀNA — The Practice of Giving
 
 ---
 

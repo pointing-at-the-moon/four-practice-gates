@@ -1,9 +1,15 @@
 ---
 title: "The Three Bases of Meritorious Activity — Dāna, Sīla, Bhāvanā as the Three-Layer Container of Merit"
-author: "Shi Huijing"
-series: "DĀNA · Part II · The Āgama View"
+author: "釋慧鏡 (Shi Huijing)"
+series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series_short: "DĀNA"
+volume: 2
 paper_id: "DANA-P08"
+paper_number: 8
+part: "Part II · The Āgama View on Giving"
+part_number: 2
 date: "2026-04-21"
+version: "1.0"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -11,6 +17,14 @@ license: "CC BY-NC-SA 4.0"
 **Dāna, Sīla, Bhāvanā as the Three-Layer Container of Merit — AN 8.36 as Part II's Closing Container and the Structural Case for Dāna in First Place**
 
 *中文主題：三福業事——施、戒、修的三層福業容器——AN 8.36 作為 Part II 收束容器與施居首之結構性證成*
+
+---
+
+**Author:** 釋慧鏡 (Shi Huijing)
+**Date:** April 2026
+**License:** CC BY-NC-SA 4.0
+**Version:** 1.0
+**Series:** DĀNA — The Practice of Giving
 
 ---
 

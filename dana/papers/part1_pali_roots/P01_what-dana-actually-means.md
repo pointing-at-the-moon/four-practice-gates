@@ -1,10 +1,16 @@
 ---
-title: What Dāna Actually Means — Dāna, Cāga, Yāga, and the Loosening of "Mine"
-author: Shi Huijing
+title: "What Dāna Actually Means — Dāna, Cāga, Yāga, and the Loosening of \"Mine\""
+author: "釋慧鏡 (Shi Huijing)"
 series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu · Part I · Pāli Roots"
-paper_id: DANA-P01
-date: "2026-04"
-license: CC BY-NC-SA 4.0
+series_short: "DĀNA"
+volume: 2
+paper_id: "DANA-P01"
+paper_number: 1
+part: "Part I · Pāli Roots"
+part_number: 1
+date: "2026-04-15"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
 ---
 
 # What *Dāna* Actually Means
@@ -17,6 +23,14 @@ license: CC BY-NC-SA 4.0
 Contemporary Western readers translate *dāna* uniformly as "giving" or "generosity," flattening an entire doctrinal field into a single behavioral category. This paper argues that the flattening loses the most important layer. Early Pāli texts deploy a *three-term semantic field* for what English collapses into one word — *dāna* (the giving event), *cāga* (the inner letting-go that makes the event possible), and *yāga* (the ritual-sacrificial register inherited from Vedic culture and reframed). Drawing on AN 6.25, AN 11.11, SN 55.31–32, the three Itivuttaka discourses on giving (It 26, 75, 98), and Buddhaghosa's *Cāgānussati-niddesa* (*Visuddhimagga* VII.5), this paper demonstrates how the three terms divide the labor: *dāna* names what an outside observer can see, *cāga* names what only the practitioner can witness inwardly — the loosening of "mine-making" — and *yāga* names the ritual resonance that early Buddhism deliberately retained from its Vedic environment while replacing the object and the goal. Recognizing this division is the entry ticket for reading the twenty-nine chapters that follow, from the eight grounds for giving in the Aṅguttara, through Nāgārjuna's treatise on *dāna-pāramitā*, through the threefold purity of giver-receiver-gift in the *Diamond Sūtra*, to Samantabhadra's universal worship in the *Avataṃsaka*. Giving in the Buddhist analysis was never the question of "how to give." It was the question of whether what is mine can become *not only mine*.
 
 **Keywords:** *dāna*, *cāga*, *yāga*, *macchera*, generosity, recollection of generosity, four limbs of stream-entry, *Visuddhimagga*
+
+---
+
+**Author:** 釋慧鏡 (Shi Huijing)
+**Date:** April 2026
+**License:** CC BY-NC-SA 4.0
+**Version:** 1.0
+**Series:** DĀNA — The Practice of Giving
 
 ---
 

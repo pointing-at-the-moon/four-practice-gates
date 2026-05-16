@@ -1,17 +1,30 @@
 ---
-title: Diamond Sutra Giving Treatise — The Non-abiding and the Paradox of the Emptiness of Merit
-author: 釋慧鏡 (Shi Huijing)
-series: DĀNA · Part V · The Non-abiding Giving of the Prajñāpāramitā Tradition
-paper_id: DANA-P15
-part: Part V · The Non-abiding Giving of the Prajñāpāramitā Tradition
-date: 2026-05-09
-license: CC BY-NC-SA 4.0
+title: "Diamond Sutra Giving Treatise — The Non-abiding and the Paradox of the Emptiness of Merit"
+author: "釋慧鏡 (Shi Huijing)"
+series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series_short: "DĀNA"
+volume: 2
+paper_id: "DANA-P15"
+paper_number: 15
+part: "Part V · Non-Abiding Giving in the Prajñāpāramitā Tradition"
+part_number: 5
+date: "2026-05-09"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
 ---
 
 # Diamond Sutra Giving Treatise
 **The Non-abiding and the Paradox of the Emptiness of Merit**
 
 *中文主題：金剛般若波羅蜜經施論——無住與福德性空悖論*
+
+---
+
+**Author:** 釋慧鏡 (Shi Huijing)
+**Date:** May 2026
+**License:** CC BY-NC-SA 4.0
+**Version:** 1.0
+**Series:** DĀNA — The Practice of Giving
 
 ---
 

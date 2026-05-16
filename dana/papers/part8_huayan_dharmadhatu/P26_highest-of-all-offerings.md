@@ -1,13 +1,16 @@
 ---
 title: "The Highest of All Offerings: Dharmapūjā as Convergence-Point and the Textual Bridge of Chan-Jiao Unity"
 author: "釋慧鏡 (Shi Huijing)"
-series: "DĀNA 施"
+series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series_short: "DĀNA"
+volume: 2
 paper_id: "DANA-P26"
-part: "Part VIII · Huayan Dharmadhātu"
-date: "2026-05"
+paper_number: 26
+part: "Part VIII · The Huayan Dharmadhātu"
+part_number: 8
+date: "2026-05-14"
 version: "1.0"
 license: "CC BY-NC-SA 4.0"
-
 ---
 
 # The Highest of All Offerings
@@ -24,6 +27,7 @@ license: "CC BY-NC-SA 4.0"
 **Date:** May 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
+**Series:** DĀNA — The Practice of Giving
 
 ---
 

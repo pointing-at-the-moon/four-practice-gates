@@ -1,10 +1,15 @@
 ---
 title: "The Silence of the Heart Sūtra: Giving's Disappearance as Theological Statement"
-author: "Shi Huijing (Shi Huijing)"
-series: "DĀNA · Part V · Non-Abiding Giving in the Prajñāpāramitā Tradition"
+author: "釋慧鏡 (Shi Huijing)"
+series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series_short: "DĀNA"
+volume: 2
 paper_id: "DANA-P16"
+paper_number: 16
 part: "Part V · Non-Abiding Giving in the Prajñāpāramitā Tradition"
+part_number: 5
 date: "2026-05-10"
+version: "1.0"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -16,10 +21,11 @@ license: "CC BY-NC-SA 4.0"
 
 ---
 
-**Author:** Shi Huijing (Shi Huijing)
+**Author:** 釋慧鏡 (Shi Huijing)
 **Date:** May 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
+**Series:** DĀNA — The Practice of Giving
 
 ---
 ## Abstract

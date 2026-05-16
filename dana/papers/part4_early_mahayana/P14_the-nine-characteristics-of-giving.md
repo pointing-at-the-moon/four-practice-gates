@@ -1,17 +1,30 @@
 ---
-title: the nine characteristics of giving
-author: 釋慧鏡
-series: DĀNA · Part IV · The early Mahāyāna turn to dāna-pāramitā
-paper_id: DANA-P14
-part: Part IV · The early Mahāyāna turn to dāna-pāramitā
-date: 2026-05-09
-license: CC BY-NC-SA 4.0
+title: "the nine characteristics of giving"
+author: "釋慧鏡 (Shi Huijing)"
+series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series_short: "DĀNA"
+volume: 2
+paper_id: "DANA-P14"
+paper_number: 14
+part: "Part IV · The Early Mahāyāna Turn to Dāna-Pāramitā"
+part_number: 4
+date: "2026-05-09"
+version: "1.0"
+license: "CC BY-NC-SA 4.0"
 ---
 
 # The Nine Characteristics of Giving
 **T1579's Yogācāra Construction of the Perfection of Giving**
 
 *中文主題：瑜伽師地論的九種相施——T1579 施波羅蜜的 Yogācāra 建構*
+
+---
+
+**Author:** 釋慧鏡 (Shi Huijing)
+**Date:** May 2026
+**License:** CC BY-NC-SA 4.0
+**Version:** 1.0
+**Series:** DĀNA — The Practice of Giving
 
 ---
 

@@ -1,9 +1,14 @@
 ---
 title: "AI 時代之施：增上緣、一念心力與隨喜之教證"
 author: "釋慧鏡 (Shi Huijing)"
-series: "DĀNA 施 — Four Practice Gates 四行門 · 第二卷"
+series: "四行門卷二《施——從巴利之根到法界供養》"
+series_short: "DĀNA"
+volume: 2
 paper_id: "DANA-P30"
-date: "2026-05"
+paper_number: 30
+part: "第九部 · 現代診斷"
+part_number: 9
+date: "2026-05-15"
 version: "1.0"
 license: "CC BY-NC-SA 4.0"
 ---
@@ -17,10 +22,11 @@ The Doctrinal Grounding of Adhipati-Pratyaya, Momentary Cetanā, and Anumodanā*
 
 ---
 
-**作者 Author:** 釋慧鏡 (Shi Huijing)  
-**日期 Date:** 2026 年 5 月  
-**授權 License:** CC BY-NC-SA 4.0  
-**版本 Version:** 1.0
+**作者：** 釋慧鏡 (Shi Huijing)
+**日期：** 2026-05-15
+**授權：** CC BY-NC-SA 4.0
+**版本：** 1.0
+**書系：** DĀNA — The Practice of Giving
 
 ---
 

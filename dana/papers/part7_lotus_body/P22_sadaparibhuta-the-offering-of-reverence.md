@@ -1,9 +1,14 @@
 ---
 title: "Sadāparibhūta: The Offering of Reverence — An Axiomatic Expression of Prasāda-dāna"
 author: "釋慧鏡 (Shi Huijing)"
-series: "DĀNA"
+series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series_short: "DĀNA"
+volume: 2
 paper_id: "DANA-P22"
-date: "2026-05"
+paper_number: 22
+part: "Part VII · The Lotus and the Gift of Body"
+part_number: 7
+date: "2026-05-13"
 version: "1.0"
 license: "CC BY-NC-SA 4.0"
 ---
@@ -18,6 +23,7 @@ license: "CC BY-NC-SA 4.0"
 **Date:** May 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
+**Series:** DĀNA — The Practice of Giving
 
 ---
 

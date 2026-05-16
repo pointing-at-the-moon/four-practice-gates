@@ -1,9 +1,15 @@
 ---
 title: "The Saṅgha as a Field of Merit — The Cātuddisa Saṅgha as Early Buddhism's Legal Answer to the Temporal Problem of Giving"
-author: "Shi Huijing"
-series: "DĀNA · Part III · Vinaya and Early Schools"
+author: "釋慧鏡 (Shi Huijing)"
+series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series_short: "DĀNA"
+volume: 2
 paper_id: "DANA-P09"
+paper_number: 9
+part: "Part III · Vinaya and the Early Schools"
+part_number: 3
 date: "2026-04-21"
+version: "1.0"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -11,6 +17,14 @@ license: "CC BY-NC-SA 4.0"
 **The *Cātuddisa Saṅgha* as Early Buddhism's Legal Answer to the Temporal Problem of Giving — Donor-Recipient Asymmetry and the Suspension of Ownership as Institutional *Ahaṁkāra*-Loosening**
 
 *中文主題：僧伽作為施田——四方僧伽作為早期佛教對施之時間難題的律法回應——捐受不對稱與懸置擁有權作為制度性我執鬆動*
+
+---
+
+**Author:** 釋慧鏡 (Shi Huijing)
+**Date:** April 2026
+**License:** CC BY-NC-SA 4.0
+**Version:** 1.0
+**Series:** DĀNA — The Practice of Giving
 
 ---
 

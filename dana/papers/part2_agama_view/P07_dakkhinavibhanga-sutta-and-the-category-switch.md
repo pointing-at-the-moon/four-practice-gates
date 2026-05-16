@@ -1,9 +1,15 @@
 ---
 title: "The Dakkhiṇāvibhaṅga Sutta — The Category-Switch Between Personal and Sangha Giving"
-author: "Shi Huijing"
-series: "DĀNA · Part II · The Āgama View"
+author: "釋慧鏡 (Shi Huijing)"
+series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series_short: "DĀNA"
+volume: 2
 paper_id: "DANA-P07"
+paper_number: 7
+part: "Part II · The Āgama View on Giving"
+part_number: 2
 date: "2026-04-20"
+version: "1.0"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -11,6 +17,14 @@ license: "CC BY-NC-SA 4.0"
 **The Category-Switch Between Personal and Sangha Giving — The Triple-Layered Co-Structure of Fourteen Fields, Seven Sanghas, and Four Purities**
 
 *中文主題：施分別經——個人施與僧伽施的範疇換軌——十四田、七僧、四淨的三層共構*
+
+---
+
+**Author:** 釋慧鏡 (Shi Huijing)
+**Date:** April 2026
+**License:** CC BY-NC-SA 4.0
+**Version:** 1.0
+**Series:** DĀNA — The Practice of Giving
 
 ---
 

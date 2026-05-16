@@ -1,9 +1,15 @@
 ---
 title: "The Sīha Sutta — Present-Life Visible Fruits of Giving and the Four-Plus-One Epistemic Structure"
-author: "Shi Huijing"
-series: "DĀNA · Part II · The Āgama View"
+author: "釋慧鏡 (Shi Huijing)"
+series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series_short: "DĀNA"
+volume: 2
 paper_id: "DANA-P06"
+paper_number: 6
+part: "Part II · The Āgama View on Giving"
+part_number: 2
 date: "2026-04-20"
+version: "1.0"
 license: "CC BY-NC-SA 4.0"
 ---
 
@@ -11,6 +17,14 @@ license: "CC BY-NC-SA 4.0"
 **Present-Life Visible Fruits of Giving and the Four-Plus-One Epistemic Structure**
 
 *中文主題：師子經——施的現世可見果與四加一的認識論結構*
+
+---
+
+**Author:** 釋慧鏡 (Shi Huijing)
+**Date:** April 2026
+**License:** CC BY-NC-SA 4.0
+**Version:** 1.0
+**Series:** DĀNA — The Practice of Giving
 
 ---
 

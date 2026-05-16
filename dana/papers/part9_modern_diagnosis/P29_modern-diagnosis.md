@@ -1,10 +1,14 @@
 ---
 title: "Modern Diagnosis: Pīti + Passaddhi as Cross-Traditional Diagnostic Instrument"
 author: "釋慧鏡 (Shi Huijing)"
-series: "DĀNA 施"
+series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series_short: "DĀNA"
+volume: 2
 paper_id: "DANA-P29"
+paper_number: 29
 part: "Part IX · Modern Diagnosis"
-date: "2026-05"
+part_number: 9
+date: "2026-05-15"
 version: "1.0"
 license: "CC BY-NC-SA 4.0"
 ---
@@ -21,6 +25,7 @@ license: "CC BY-NC-SA 4.0"
 **Date:** May 2026
 **License:** CC BY-NC-SA 4.0
 **Version:** 1.0
+**Series:** DĀNA — The Practice of Giving
 
 ---
 
