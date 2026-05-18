@@ -9,7 +9,7 @@ A companion to [*Mindful of the Buddha*](../nian/) (Volume 1) and [*The Practice
 
 - **Author**: 釋慧鏡 (Shi Huijing)
 - **License**: [CC BY-NC-SA 4.0](../LICENSE)
-- **Status**: 🟢 **Paper phase 5/30 — Part I SEALED 4/4 + Part II opened 1/4 (P05 八正道三戒支 landed 2026-05-17)** · forward through 五戒 / 八關齋 / 戒香 / 三系律藏 / 戒體論 / 藥師主場 / 般若無相戒 / 楞嚴四清淨明誨 (DHYĀNA handoff) / 現代日用
+- **Status**: 🟢 **Paper phase 6/30 — Part I SEALED 4/4 + Part II opened 2/4 (P05 八正道三戒支 + P06 五戒之經典範圍 landed 2026-05-18)** · forward through 八關齋 / 戒香 / 三系律藏 / 戒體論 / 藥師主場 / 般若無相戒 / 楞嚴四清淨明誨 (DHYĀNA handoff) / 現代日用
 
 ### Planned Structure
 
@@ -35,6 +35,7 @@ Nine parts, ~29 papers:
 
 **Part II — The Āgama View**
 - **P05** [八正道之三戒支](./papers/part2_agama_view/P05_八正道之三戒支.md) / [*The Eightfold Path's Three Ethical Limbs: Right Speech, Right Action, Right Livelihood as Constitutive Path-Elements*](./papers/part2_agama_view/P05_three-ethical-limbs-of-the-eightfold-path.md) — **Part II 開卷篇** · 三戒支 (正語 / 正業 / 正命) 讀為八正道內之「道之構成」(constitutive path-elements),非「戒禁清單」(constraint-list) · 同一 *veramaṇī*(離 X)公式於語詞層為四離戒禁形式,於結構層為四聖諦第四諦 *dukkhanirodhagāminī paṭipadā* 之八支構成——結構層讀為主、語詞層讀為從 · 巴利錨:DN 22 §21 *vibhaṅga* 雙重面相 + AN 8.39 *Abhisanda-sutta mahā-dāna* 重新解讀(離殺=施無畏/施無怨/施無瞋,SĪLA↔DĀNA 語典層橋接)+ DN 31 六方架構 · 漢譯主錨:SA 785(T0099 卷28 求那跋陀羅)世俗/出世間兩層讀法為 MN 117 之 functional 對應 + MĀ 31「念苦是苦時」觀照前綴句法 + MĀ 189「此三支隨正語從見方便」循環互依 + EA 卷38 + DA 9/DA 10 法藏部跨譯場見證 · 論藏層:T1579 卷29 聲聞地 + T1605 卷5 / T1606 卷10「令他信支」功能分類 + T1509 卷19 雙重語域 +「八正道有三分:三種為戒分,三種為定分,二種為慧分」分位 textbook 句(T25 p.0203a23-24) · 註疏層:智顗《摩訶止觀》卷三上「正業、正語、正命,屬戒,即止攝」(T46 p.0030c10) cameo only(天台主場 protect) · 三家「讓+推」承自 P04 · 7 缺失巴利目標(MN 117 / SN 45.8 / AN 5.177 / SN 45.1-2 / DN 2 / AN 4.61-62 / AN 10.176)PTS-only firewall · ZH-only audience 紀律 全篇架構性英文翻為中文(規範性 / 略提 / 文獻紀錄 / 註疏層 / 框架 etc.)
+- **P06** [五戒之經典範圍](./papers/part2_agama_view/P06_五戒之經典範圍.md) / [*The Five Precepts and Their Canonical Scope: Cross-Layer Architecture from Āgama through Abhidharma to the Chinese Commentaries*](./papers/part2_agama_view/P06_five-precepts-and-their-canonical-scope.md) — **Part II #2** · 承接 P05 path-element 範疇性主張 · 五戒(殺/盜/婬/妄/酒)非同質之在家戒禁列舉,乃五個各承擔不同經典範圍之 path-element 集合 ·「同受戒儀軌異經典範圍」之架構性觀察為核心命題:殺戒=*abhaya-dāna* 施之框架 / 盜戒=身識純淨 / 婬戒=*brahmacariya* 與在家 *kāmesumicchācāra* 定義性差異 / 妄戒=五項正面語德德性形成 / 酒戒=後果論六失 + *pamāda-ṭṭhāna* 詞名自我說明 · **酒戒護持道本身之派生性護持戒**為跨阿含、唯識、大乘三傳統一致之架構性發現(阿含層之四業外、T1606 唯識十業道外、T1579 菩薩戒開緣外,皆獨守絕對禁制位)·《長部》第三十一經之 *paññāya dubbalikaraṇī*(慧之削弱者)為 SĪLA→DHYĀNA 在家側預埋 · 巴利錨:AN 5.178 *Rāja-sutta* 開篇 + AN 8.39 + AN 5.174 + DN 1 *Cūḷasīla* + DN 31 §27-28 + AN 8.42 cameo · 漢譯錨:SA 916 業性 framing + SA 927 摩訶男五戒儀軌 + DA 16 善生經六損財業 + DA 21 梵動經佛陀範例 + DA 20/22/23 戒蘊 + MA 175 受法經(隆安 397-398 譯場校正)· 大乘在家戒專書錨:T1488《優婆塞戒經》卷六五戒品(曇無讖 426 · vault 缺 CBETA XML 校)為漢譯側單一最強前置 · 論藏錨:T1509 卷十三酒戒三十五失 + 卷十四般若雙遣 + T1605 三種律儀業 + T1606 十業道分析酒戒不入 + T1579 開戒例覆蓋殺盜淫妄四戒酒戒不入 · 註疏層:智顗《摩訶止觀》卷四上性戒/遮戒 distinction cameo · 律藏三軌(T1421+T1428+T1442)受戒公式互證 cameo · 三家陣容承自 P01-P05 + Harvey 為次要學者音聲不入三家 · 10+ 缺失巴利目標(AN 5.177 / MN 61 / MN 117 / SN 45.8 / AN 10.176 / MN 41 / AN 7.50 / SN 42.13 / KP 2)PTS-only firewall
 
 ---
 
