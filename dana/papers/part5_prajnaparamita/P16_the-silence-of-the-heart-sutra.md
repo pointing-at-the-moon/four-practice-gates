@@ -1,7 +1,7 @@
 ---
 title: "The Silence of the Heart Sūtra: Giving's Disappearance as Theological Statement"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series: "Six Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
 series_short: "DĀNA"
 volume: 2
 paper_id: "DANA-P16"
@@ -411,7 +411,7 @@ P17's question is: the Great Prajñāpāramitā (T0220), in six hundred volumes,
 
 ## Cross-Reference Index
 
-### Four Practice Gates · Vol. 2 DĀNA Internal
+### Six Practice Gates · Vol. 2 DĀNA Internal
 
 | Paper | Topic | Relation to P16 |
 |-------|-------|------|
@@ -424,7 +424,7 @@ P17's question is: the Great Prajñāpāramitā (T0220), in six hundred volumes,
 | DANA-P15 | Diamond Sūtra non-abiding giving | **P16's predecessor**: from paradoxical saying to silence |
 | **DANA-P16** | **Silence of the Heart Sūtra** | **This paper** |
 
-### Four Practice Gates Series
+### Six Practice Gates Series
 
 | Paper | Series | Topic | Relation to P16 |
 |-------|--------|-------|------|
@@ -440,4 +440,4 @@ P17's question is: the Great Prajñāpāramitā (T0220), in six hundred volumes,
 
 This paper is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 CBETA collation: all T-number / X-number citations verified against CBETA 電子佛典集成 (https://www.cbeta.org).
-Four Practice Gates series: https://github.com/pointing-at-the-moon/four-practice-gates
+Six Practice Gates series: https://github.com/pointing-at-the-moon/six-practice-gates

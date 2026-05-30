@@ -1,7 +1,7 @@
 ---
 title: "Gathering in the Six Sense-Roots: The Dual-Axis Deepening of the Verbal Grammar of Buddha-Recollection — From the Śūraṅgama's Perfect-Penetration Hierarchy to Jiaoguang's Straight-Vein Reading"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series: "Six Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
 series_short: "NIAN"
 volume: 1
 paper_id: "NIAN-P12"
@@ -293,7 +293,7 @@ The eight sūtras each enter distinctively — neither a single-line derivation 
 
 ## Footnotes
 
-[^1]: See Shi Huijing, "Holding the Name: The Name-Layer as Parallel Access," §2.4 (Lianchi's philological gloss of "holding"), §2.5 (Zhixu's six faiths and faith-vow-practice), §3.1 (surface minimalism), §3.2 (depth saturation), §V (middle-way correction). In *Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision* (2026), Part IV, P11.
+[^1]: See Shi Huijing, "Holding the Name: The Name-Layer as Parallel Access," §2.4 (Lianchi's philological gloss of "holding"), §2.5 (Zhixu's six faiths and faith-vow-practice), §3.1 (surface minimalism), §3.2 (depth saturation), §V (middle-way correction). In *Six Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision* (2026), Part IV, P11.
 
 [^2]: *Dà Fódǐng Shǒuléngyán Jīng* 大佛頂首楞嚴經, translated by Pāramiti et al. of Tang, *Taishō* vol. 19, No. T0945 (T19.105–155). The traditionally received date is Tang Shenlong 1 (705 CE); the translation-site, translator-identity, and dating are subject to debate in modern Chinese scholarship and Western Buddhist studies. This chapter adopts a functional stance on this controversy; see §V.
 
@@ -395,6 +395,6 @@ The eight sūtras each enter distinctively — neither a single-line derivation 
 
 *CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
-*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+*Repo: github.com/pointing-at-the-moon/six-practice-gates · CC BY-NC-SA 4.0*
 
 *NIAN-P12 · 釋慧鏡 (Shi Huijing) · 2026-04-18*

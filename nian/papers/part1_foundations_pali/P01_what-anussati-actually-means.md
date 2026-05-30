@@ -1,7 +1,7 @@
 ---
 title: "What Anussati Actually Means — The Semantic, Attentional, and Structural Separation from Sati"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision · Part I · Foundations (Pāli)"
+series: "Six Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision · Part I · Foundations (Pāli)"
 series_short: "NIAN"
 volume: 1
 paper_id: "NIAN-P01"
@@ -393,6 +393,6 @@ In the Pāli canon, *Buddhānussati* — the first of the six, and the most deve
 
 ---
 
-*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+*Repo: github.com/pointing-at-the-moon/six-practice-gates · CC BY-NC-SA 4.0*
 
 *NIAN-P01 · 釋慧鏡 (Shi Huijing) · 2026-04-14*

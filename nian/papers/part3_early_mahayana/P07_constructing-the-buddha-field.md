@@ -1,7 +1,7 @@
 ---
 title: "Constructing the Buddha-Field — The Akṣobhya and Amitābha Lines as Parallel Answers to T0418's Opening"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series: "Six Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
 series_short: "NIAN"
 volume: 1
 paper_id: "NIAN-P07"
@@ -376,6 +376,6 @@ A structural completion of buddha-field ontology has taken place. In Luoyang in 
 
 *CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
-*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+*Repo: github.com/pointing-at-the-moon/six-practice-gates · CC BY-NC-SA 4.0*
 
 *NIAN-P07 · 釋慧鏡 (Shi Huijing) · 2026-04-17*

@@ -1,7 +1,7 @@
 ---
 title: "The Pure Land Patriarchs II: Shandao's Settling of the Name — From the Doctrinal Anchor of *Fánfū rù bàotǔ* to the Institutionalization of *Yīxiàng zhuānchēng* in the *Guānjīng Sìtiē Shū*"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series: "Six Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
 series_short: "NIAN"
 volume: 1
 paper_id: "NIAN-P22"
@@ -347,6 +347,6 @@ The open question left for the reader: if Shandao's act is the *Tang-completed d
 
 *CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
-*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+*Repo: github.com/pointing-at-the-moon/six-practice-gates · CC BY-NC-SA 4.0*
 
 *NIAN-P22 · 釋慧鏡 (Shi Huijing) · 2026-04-29*

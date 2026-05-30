@@ -1,7 +1,7 @@
 ---
 title: "The Reverse-Giving Hidden in Not-Taking: The Śūraṅgama Sūtra's Third Pure Precept and Its Doctrine of Dāna-in-Negation"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series: "Six Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
 series_short: "DĀNA"
 volume: 2
 paper_id: "DANA-P18"
@@ -402,4 +402,4 @@ The thread from precept-body flowing to giving-body is planted in Mañjuśrī's 
 
 > This paper is published under CC BY-NC-SA 4.0.
 > *CBETA collation:* All sūtra and śāstra quotes verified against CBETA Taishō / Wanxin digital editions.
-> github.com/pointing-at-the-moon/four-practice-gates
+> github.com/pointing-at-the-moon/six-practice-gates

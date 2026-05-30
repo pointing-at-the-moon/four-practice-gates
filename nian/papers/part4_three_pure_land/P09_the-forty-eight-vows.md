@@ -1,7 +1,7 @@
 ---
 title: "The Forty-Eight Vows: Dharmākara's Vow-System as a Designed Architecture — From Twenty-Four Vows to Twenty-Nine Adornments and the Dual Purity"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series: "Six Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
 series_short: "NIAN"
 volume: 1
 paper_id: "NIAN-P09"
@@ -543,6 +543,6 @@ _N/A_ — This paper's canonical basis (T0360 / T0362 / Vasubandhu's *Upadeśa*)
 
 *CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
-*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+*Repo: github.com/pointing-at-the-moon/six-practice-gates · CC BY-NC-SA 4.0*
 
 *NIAN-P09 · 釋慧鏡 (Shi Huijing) · 2026-04-17*

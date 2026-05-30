@@ -10,8 +10,8 @@ language: en
 date: 2026-05-28
 author: 釋慧鏡 Shi Huijing
 license: CC BY-NC-SA 4.0
-series: Four Practice Gates
-series_zh: 四行門 · 卷三 戒
+series: Six Practice Gates
+series_zh: 六行門 · 卷三 戒
 part: V
 part_title: The Precept-Substance Studies
 part_title_zh: 戒體論
@@ -399,7 +399,7 @@ The question of the precept-substance — from early Buddhism, where no such ind
 
 *正法眼藏，不立文字——The value of the Dharma lies in the Dharma itself, not in the identity of the one who expounds it.*
 
-**Pointing at the Moon** ｜ Four Practice Gates · SĪLA 戒 ｜ CC BY-NC-SA 4.0
-Scriptural citations collated against the CBETA Electronic Tripiṭaka ｜ github.com/pointing-at-the-moon/four-practice-gates
+**Pointing at the Moon** ｜ Six Practice Gates · SĪLA 戒 ｜ CC BY-NC-SA 4.0
+Scriptural citations collated against the CBETA Electronic Tripiṭaka ｜ github.com/pointing-at-the-moon/six-practice-gates
 
-*Pointing at the Moon · The Four Practice Gates · Volume III SĪLA · Paper 18 · Part V #3 · May 2026*
+*Pointing at the Moon · The Six Practice Gates · Volume III SĪLA · Paper 18 · Part V #3 · May 2026*

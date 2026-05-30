@@ -1,7 +1,7 @@
 ---
 title: "Samantabhadra's Vow of Vast Offerings: The Third Vow as Entry-Architecture"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series: "Six Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
 series_short: "DĀNA"
 volume: 2
 paper_id: "DANA-P25"
@@ -368,4 +368,4 @@ One question is left for what follows. The two-layer frame of "thought after tho
 
 *This paper is published under CC BY-NC-SA 4.0. Sūtra and śāstra quotations follow the CBETA *Taishō* edition.*
 > *CBETA collation:* All sūtra and śāstra quotes in this paper have been collated against the CBETA *Taishō* canon.
-*GitHub: github.com/pointing-at-the-moon/four-practice-gates*
+*GitHub: github.com/pointing-at-the-moon/six-practice-gates*

@@ -1,7 +1,7 @@
 ---
 title: "AI 時代之念佛：末那-轉依機制仍然有效"
 author: "釋慧鏡 (Shi Huijing)"
-series: "四行門卷一《念——從阿含隨念到華嚴念佛》"
+series: "六行門卷一《念——從阿含隨念到華嚴念佛》"
 series_short: "NIAN"
 volume: 1
 paper_id: "NIAN-P30"
@@ -407,12 +407,12 @@ NIAN 終卷之事到此為止。念佛仍是念佛。AI 在側之 2026 年，末
 - S4-P06《佛陀會怎麼用 AI》：增上緣（adhipati-pratyaya）對因緣（hetu-pratyaya）之區分為 S4 主場，本論直接繼承不重 derive（§3.3）。
 - S4-P07《活眼》：「從他聞音」之 negative-space 框架為 S4 主場，本論增量為「念佛一念相應加入此 cannot-give 之列」（§3.6）。
 
-*本論為《四行門》第一卷《念》之 Part VIII Coda opener。© 釋慧鏡 2026 · CC BY-NC-SA 4.0 · 本論引用之大正藏資料皆據 CBETA 電子佛典集成。全書與本論之 source 開源於 github.com/pointing-at-the-moon/four-practice-gates。*
+*本論為《六行門》第一卷《念》之 Part VIII Coda opener。© 釋慧鏡 2026 · CC BY-NC-SA 4.0 · 本論引用之大正藏資料皆據 CBETA 電子佛典集成。全書與本論之 source 開源於 github.com/pointing-at-the-moon/six-practice-gates。*
 
 ---
 
 *CBETA 校對：所有 T-number 引文均據 CBETA 電子佛典集成 2024 版實體驗證。*
 
-*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+*Repo: github.com/pointing-at-the-moon/six-practice-gates · CC BY-NC-SA 4.0*
 
 *NIAN-P30 · 釋慧鏡 · 2026-05-04*

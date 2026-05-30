@@ -1,7 +1,7 @@
 # The Practice of Giving
 ## 《施——從巴利之根到法界供養》
 
-**Volume 2 of [The Four Practice Gates](../README.md)** — the gate of outward action.
+**Volume 2 of [The Six Practice Gates](../README.md)** — the gate of outward action.
 
 *DĀNA — From Pāli Roots to the Dharmadhātu*
 

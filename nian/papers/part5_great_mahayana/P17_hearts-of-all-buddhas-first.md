@@ -1,7 +1,7 @@
 ---
 title: "Hearts of All Buddhas First: Laṅkā's Absence of Buddha-Recollection as the Scriptural Ground of Bodhidharma's Mind-Seal — The Seventh Layer of the Verb-Axis: Seeing-the-Mind"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series: "Six Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
 series_short: "NIAN"
 volume: 1
 paper_id: "NIAN-P17"
@@ -377,7 +377,7 @@ P17's argument is here concluded. The seventh layer of the verb-axis, seeing-the
 
 [^17]: T0671, fascicle five, *Buddha-Mind Chapter, Chapter Four*, from p.539b25. The content of this chapter is the teaching on the three modes of the *manomaya-kāya* — the mind-made body of samādhi-joy-right-reception, the mind-made body of the awakening-to-the-self-nature of dharmas, and the mind-made body of the unwrought accompaniment-by-kind — and has no direct connection with the "hearts of all buddhas" *hṛdaya*. The T0671 passage corresponding to T0670's "hearts of all buddhas first" is located at fascicle two, p.520b12-15 (not in "Buddha-Mind Chapter").
 
-[^18]: The NIAN verb-axis is developed in detail in Shi Huijing, "From Calling-to-Mind to Name-Invocation — A Four-Step Analysis of *Niàn-Chēng* Verb-Coupling" (P08), "Holding the Name — Juxtaposed Name-Layers" (P11), "Gathering the Six Faculties — A Dual-Axis Deepening of the Verb-Structure of Buddha-Recollection" (P12), "Universal Gate Name-Invocation — The Three-Karmic Structure of Buddha-Recollection in the *Lotus*" (P13), "Binding the Three Periods — The Time-Dependent Verb-Structure of Final-Age Buddha-Recollection in the *Perfect Enlightenment*" (P14), "Seeing the Sign, Obtaining the Precept — The *Brahma Net* Bodhisattva Precepts and the Precept-Dependent Verb-Structure of Sustained Buddha-Recollection" (P15), and "Confession as Buddha-Recollection — The Dream-Drum of the *Golden Light Sūtra* and the Distributed-Agency Event-Chain" (P16), all collected in *Four Practice Gates, Volume 1, Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision*.
+[^18]: The NIAN verb-axis is developed in detail in Shi Huijing, "From Calling-to-Mind to Name-Invocation — A Four-Step Analysis of *Niàn-Chēng* Verb-Coupling" (P08), "Holding the Name — Juxtaposed Name-Layers" (P11), "Gathering the Six Faculties — A Dual-Axis Deepening of the Verb-Structure of Buddha-Recollection" (P12), "Universal Gate Name-Invocation — The Three-Karmic Structure of Buddha-Recollection in the *Lotus*" (P13), "Binding the Three Periods — The Time-Dependent Verb-Structure of Final-Age Buddha-Recollection in the *Perfect Enlightenment*" (P14), "Seeing the Sign, Obtaining the Precept — The *Brahma Net* Bodhisattva Precepts and the Precept-Dependent Verb-Structure of Sustained Buddha-Recollection" (P15), and "Confession as Buddha-Recollection — The Dream-Drum of the *Golden Light Sūtra* and the Distributed-Agency Event-Chain" (P16), all collected in *Six Practice Gates, Volume 1, Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision*.
 
 [^19]: The *Laṅkā*'s internal formulation of the "eight modes of mind, thought, and consciousness" is at T0672, fascicle two, *Chapter on the Collecting of All Dharmas, Part Two*, p.594c13-22, in the verse: "**Mind, thought, and consciousness / are spoken for the sake of distinguishing marks; / the eight consciousnesses have no separate marks — / there is neither the marker nor the marked**" (translation mine); and see the parallel at T0670 fascicle one, p.484b. This eight-consciousness structure is the canonical Yogācāra discourse on consciousness as it appears in the *Laṅkā*.
 
@@ -512,6 +512,6 @@ P17's argument is here concluded. The seventh layer of the verb-axis, seeing-the
 
 *CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
-*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+*Repo: github.com/pointing-at-the-moon/six-practice-gates · CC BY-NC-SA 4.0*
 
 *NIAN-P17 · 釋慧鏡 (Shi Huijing) · 2026-04-20*

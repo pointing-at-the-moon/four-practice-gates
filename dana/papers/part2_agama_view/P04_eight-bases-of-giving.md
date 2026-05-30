@@ -1,7 +1,7 @@
 ---
 title: "Eight Bases of Giving — The Motivation Axis and the Quality Axis in Early Buddhism"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series: "Six Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
 series_short: "DĀNA"
 volume: 2
 paper_id: "DANA-P04"
@@ -324,7 +324,7 @@ Both axes together serve the *cāgānussati* established in P03 — a *dāna* ev
 ---
 
 *Paper:* DANA-P04 · *Eight Bases of Giving* · **DĀNA · Part II · Āgama View**
-*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates （四行門）
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates （六行門）
 *License:* CC BY-NC-SA 4.0
 *CBETA collation:* Citations from *Ekottara Āgama juan* 37 and *Saṃyukta Āgama juan* 33 verified against CBETA Electronic Tripiṭaka 2024 edition. Pāli citations follow SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 with PTS numbering.
-*Repository:* https://github.com/pointing-at-the-moon/four-practice-gates
+*Repository:* https://github.com/pointing-at-the-moon/six-practice-gates

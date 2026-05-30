@@ -8,7 +8,7 @@ language: en
 date: 2026-05-21
 author: 釋慧鏡 Shi Huijing
 license: CC BY-NC-SA 4.0
-series: Four Practice Gates
+series: Six Practice Gates
 status: draft
 abstract_en: "The 'three clusters of pure precepts' (sānjù jìngjiè 三聚淨戒) — Mahāyāna Buddhism's most influential structural reframing of monastic ethics — has received remarkably little focused analysis in Western Buddhist studies. This paper argues that the three clusters are not a list of three rules but a three-dimensional architectural design for bodhisattva ethics: the restraint cluster (saṃvara-śīla) inherits the seven-fold prātimokṣa as its structural foundation; the accumulation-of-virtue cluster (kuśala-dharma-saṃgrāhaka-śīla) brings the totality of bodhisattva practice within the precept's purview; and the sattva-welfare cluster (sattvārtha-kriyā-śīla) names the benefit of all sentient beings as the defining dimension of the bodhisattva precepts. Two philological findings are advanced. First, the four-character compound sānjù jìngjiè itself appears in none of the three primary transmission texts (T1581, T1582, T1485); it stabilizes only in the Chinese commentarial layer, in Zhiyi (538–597) and Daoxuan (596–667). Second, T1581 (Dharmakṣema) and T1582 (Guṇavarman), translated from the same Sanskrit Bodhisattvabhūmi, employ almost entirely non-overlapping nomenclatures; T1582 supplies not the names but the strongest doctrinal argument — the Upāli dialogue — for the third cluster's defining status. A three-way dialogue with Funayama Toru, Michael Zimmermann, and Charles Goodman situates the contribution. Zhiyi's Pusa jie yishu (T1812) supplies the paper's eponymous title: an explicit mapping of the three clusters onto the three bodies (trikāya) of Buddhahood, recasting precept-classification as a structural map of the entire bodhisattva path."
 ---
@@ -395,8 +395,8 @@ P11 closed Part III of this volume by reading the *śrāvaka*-internal historica
 *CBETA collation:* all *Taishō* T-number citations above verified against CBETA Electronic Tripiṭaka 2024; Pāli citations via SuttaCentral with Bhikkhu Sujato's translation under CC0.
 
 **Author:** 釋慧鏡 Shi Huijing
-**Project:** Point-to-the-moon · Four Practice Gates
+**Project:** Point-to-the-moon · Six Practice Gates
 **License:** CC BY-NC-SA 4.0
-**Repository:** github.com/pointing-at-the-moon/four-practice-gates
+**Repository:** github.com/pointing-at-the-moon/six-practice-gates
 
-*Pointing at the Moon · Four Practice Gates · Volume III SĪLA · Paper Twelve · May 2026*
+*Pointing at the Moon · Six Practice Gates · Volume III SĪLA · Paper Twelve · May 2026*

@@ -1,7 +1,7 @@
 ---
 title: "Diamond Sutra Giving Treatise — The Non-abiding and the Paradox of the Emptiness of Merit"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series: "Six Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
 series_short: "DĀNA"
 volume: 2
 paper_id: "DANA-P15"
@@ -459,7 +459,7 @@ T0235 closes with "not grasping marks, thus and so immovable" -- this is the con
 
 ## Series Paper Cross-Reference Index
 
-### The Four Practice Gates, Volume 2 *Dāna* Internal
+### The Six Practice Gates, Volume 2 *Dāna* Internal
 
 | Paper | Topic | Connection to P15 |
 |-------|-------|-------------------|
@@ -471,7 +471,7 @@ T0235 closes with "not grasping marks, thus and so immovable" -- this is the con
 | DANA-P06 | The position of giving-pāramitā in the six pāramitās | P15 encompassing the six pāramitās through dāna |
 | **DANA-P15** | **The Diamond Sūtra's Non-abiding Giving and Empty Merit** | **This paper** |
 
-### Four Practice Gates Series
+### Six Practice Gates Series
 
 | Paper | Series | Topic | Connection to P15 |
 |-------|--------|-------|-------------------|
@@ -495,4 +495,4 @@ T0235 closes with "not grasping marks, thus and so immovable" -- this is the con
 
 This paper is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 CBETA collation: all T-number / X-number citations verified against CBETA 電子佛典集成 (https://www.cbeta.org).
-Four Practice Gates series: https://github.com/pointing-at-the-moon/four-practice-gates
+Six Practice Gates series: https://github.com/pointing-at-the-moon/six-practice-gates

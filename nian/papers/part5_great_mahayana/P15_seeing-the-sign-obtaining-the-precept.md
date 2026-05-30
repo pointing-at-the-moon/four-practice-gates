@@ -1,7 +1,7 @@
 ---
 title: "Seeing the Sign, Obtaining the Precept: The *Brahma Net* Bodhisattva Precepts and the Precept-Dependent Verbal Grammar of Sustained Buddha-Recollection — From the Five-Layer Structure of the Ten Major and Forty-Eight Minor Precepts to Fazang's Ontology of the Precept-Body"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series: "Six Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
 series_short: "NIAN"
 volume: 1
 paper_id: "NIAN-P15"
@@ -374,7 +374,7 @@ P15's argument here concludes. The sixth layer, grounding-in-precepts, has estab
 
 [^1]: *Fànwǎng jīng* 梵網經 (*Brahma Net Sūtra*), attributed to Kumārajīva, two fascicles, Taishō Volume 24, No. T1484. The passage here is from the opening of fascicle two: "The luminous, adamantine-treasury precept is the origin of all buddhas, the origin of all bodhisattvas, the seed of buddha-nature. All sentient beings possess buddha-nature; all consciousness, form, mind — whether sentient or minded — all enter into the buddha-nature precepts; thus there is the ever-so-indeed-constant cause; thus there is the ever-so-indeed-abiding dharma-body." T24n1484, fasc. 2, p.1003c27–29. On the authenticity controversy, see [^3]; this paper adopts a functional stance — treating the sūtra's structural role in the Chinese recollection-practice tradition as its object, while bracketing the philological question of Indic provenance.
 
-[^2]: The NIAN longitudinal verb-axis is detailed in Shi Huijing, *From Recollection to Name-Invocation — The Four-Step Coupling Analysis of the niàn-chēng Verbal Grammar* (P08), *Holding the Name — The Name-Layer as Parallel Access* (P11), *Gathering in the Six Sense-Roots — The Dual-Axis Deepening of the Verbal Grammar of Buddha-Recollection* (P12), *Universal-Gate Name-Invocation — The Three-Karmic Architecture of Lotus Buddha-Recollection* (P13), and *Binding the Three Periods — The Time-Dependent Verbal Grammar of Final-Age Buddha-Recollection in the Sūtra of Perfect Enlightenment* (P14), all in *Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision*.
+[^2]: The NIAN longitudinal verb-axis is detailed in Shi Huijing, *From Recollection to Name-Invocation — The Four-Step Coupling Analysis of the niàn-chēng Verbal Grammar* (P08), *Holding the Name — The Name-Layer as Parallel Access* (P11), *Gathering in the Six Sense-Roots — The Dual-Axis Deepening of the Verbal Grammar of Buddha-Recollection* (P12), *Universal-Gate Name-Invocation — The Three-Karmic Architecture of Lotus Buddha-Recollection* (P13), and *Binding the Three Periods — The Time-Dependent Verbal Grammar of Final-Age Buddha-Recollection in the Sūtra of Perfect Enlightenment* (P14), all in *Six Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision*.
 
 [^3]: On the authenticity controversy of the *Brahma Net Sūtra* in modern scholarship: Paul Groner, "The *Fan-wang ching* and Monastic Discipline in Japanese Tendai: A Study of Annen's *Futsū jubosatsukai kōshaku*," in Robert E. Buswell Jr. (ed.), *Chinese Buddhist Apocrypha* (Honolulu: University of Hawaiʻi Press, 1990), pp. 251–290; Tsuchihashi Hidetaka 土橋秀高, *Kairitsu no kenkyū* 戒律の研究 (Kyoto: Nagata Bunshōdō 永田文昌堂, 1980), chapter 5 on the formation of the *Brahma Net*; Funayama Tōru 船山徹, *Butten wa dō kan'yaku sareta no ka — sūtora ga kyōten ni naru toki* 仏典はどう漢訳されたのか——スートラが経典になるとき (Tokyo: Iwanami Shoten, 2013), chapter 6, which treats T1484 as a representative case of mid-fifth-century Chinese composition. Mainstream scholarly consensus tends to regard the sūtra as a Chinese reconstruction of bodhisattva discipline, dated approximately 431–481 CE, rather than a direct Indic translation. This paper adopts a functional stance and does not adjudicate the authenticity question.
 
@@ -501,6 +501,6 @@ P15's argument here concludes. The sixth layer, grounding-in-precepts, has estab
 
 *CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition. T1484 citations follow the original text of fascicle two; T1501 citations follow Xuanzang's translated *Bodhisattva-prātimokṣa*; T1813 citations follow Fazang's six-fascicle commentary.*
 
-*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+*Repo: github.com/pointing-at-the-moon/six-practice-gates · CC BY-NC-SA 4.0*
 
 *NIAN-P15 · 釋慧鏡 (Shi Huijing) · 2026-04-19*

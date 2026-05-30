@@ -1,7 +1,7 @@
 ---
 title: "Sīlānussati: Sīla as an Object of Recollection"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 3 — SĪLA: From Pāli Vinaya to Sign-less Precepts · Part I · Pāli Roots"
+series: "Six Practice Gates, Volume 3 — SĪLA: From Pāli Vinaya to Sign-less Precepts · Part I · Pāli Roots"
 series_short: "SILA"
 volume: 3
 paper_id: "SILA-P03"
@@ -281,7 +281,7 @@ The present paper does not advance any Octalogy-side argument; the Octalogy is s
 ---
 
 *Paper:* SILA-P03 · *Sīlānussati*: *Sīla* as an Object of Recollection · **SĪLA · Part I · Pāli Roots**
-*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates (四行門)
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates (六行門)
 *License:* CC BY-NC-SA 4.0
 *CBETA collation:* Citations from the *Saṃyukta-āgama* (T0099, fascicle 20 sūtra 550, fascicle 30 sūtras 848 / 857 / 858, fascicle 33 sūtra 931) and the *Dīrgha-āgama* (T0001, fascicle 8 *Saṅgīti-sūtra* DA 9, fascicle 9 *Daśottara-sūtra* DA 10) have been collated against the CBETA Electronic Tripiṭaka 2024 edition. Pāli citations follow the SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 edition (AN 6.10, AN 11.11, AN 11.12, SN 55.21–22), with PTS pagination dual-tracked. *Visuddhimagga* Chapter VII §4 cited by paraphrase only; the original Pāli is held by the GRETIL repository under a publication-restricted licence and is not embedded.
-*Repository:* https://github.com/pointing-at-the-moon/four-practice-gates
+*Repository:* https://github.com/pointing-at-the-moon/six-practice-gates

@@ -1,7 +1,7 @@
 ---
 title: "Sadāparibhūta: The Offering of Reverence — An Axiomatic Expression of Prasāda-dāna"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series: "Six Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
 series_short: "DĀNA"
 volume: 2
 paper_id: "DANA-P22"
@@ -473,4 +473,4 @@ The three-fold typological arc of Dharma-Teacher Chapter substitution-move → S
 
 > This paper is published under CC BY-NC-SA 4.0.
 > *CBETA collation:* All sūtra and śāstra quotes verified against CBETA Taishō digital edition.
-> This series of papers is published at github.com/pointing-at-the-moon/four-practice-gates
+> This series of papers is published at github.com/pointing-at-the-moon/six-practice-gates

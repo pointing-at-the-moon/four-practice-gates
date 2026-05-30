@@ -1,7 +1,7 @@
 ---
 title: "Ekaggatā: Single-Pointedness and the Object-Structure Argument"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 3 — SĪLA: From Pāli Vinaya to Sign-less Precepts · Part I · Pāli Roots"
+series: "Six Practice Gates, Volume 3 — SĪLA: From Pāli Vinaya to Sign-less Precepts · Part I · Pāli Roots"
 series_short: "SILA"
 volume: 3
 paper_id: "SILA-P04"
@@ -391,7 +391,7 @@ The present paper does not advance any Octalogy-side argument; the Octalogy is s
 ---
 
 *Paper:* SILA-P04 · *Ekaggatā*: Single-Pointedness and the Object-Structure Argument · **SĪLA · Part I · Pāli Roots**
-*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates （四行門）
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates （六行門）
 *License:* CC BY-NC-SA 4.0
 *CBETA collation:* Citations from the *Saṃyukta Āgama* (T0099), the *Madhyama Āgama* (T0026), the *Mahāprajñāpāramitā-śāstra* (T1509, fascicle 13), the *Yogācārabhūmi-śāstra* (T1579, fascicle 11), the *Saṃvyākhyā-yukti* (T1602, fascicle 19), the *Abhidharma-samuccaya* (T1605, fascicle 5), the *Abhidharma-samuccaya-vyākhyā* (T1606, fascicle 9), and the *Vimuttimagga* (T1648, fascicle 1) have been collated against the CBETA Electronic Tripiṭaka 2024 edition. Pāli citations follow the SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 edition (DN 22, MN 10, AN 6.10, AN 11.1), with PTS pagination dual-tracked. *Visuddhimagga* Chapters III, IV, and VII are cited at chapter-section level only; paragraph numbering pending physical consultation with the Bhikkhu Ñāṇamoli BPS edition. The original Pāli of the *Visuddhimagga* is held by the GRETIL repository under a publication-restricted licence and is not embedded here.
-*Repository:* https://github.com/pointing-at-the-moon/four-practice-gates
+*Repository:* https://github.com/pointing-at-the-moon/six-practice-gates

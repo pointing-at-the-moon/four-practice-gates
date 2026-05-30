@@ -1,7 +1,7 @@
 ---
 title: "The Sources of Trilakṣaṇa-Śūnya — From the Mahāprajñāpāramitā-Sūtra to Nāgārjuna's Systematization"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series: "Six Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
 series_short: "DĀNA"
 volume: 2
 paper_id: "DANA-P13"
@@ -352,4 +352,4 @@ This paper hands off to P14: how does T1604's "three-wheel purification" further
 
 This paper is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 *CBETA collation:* All T-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.
-The Four Practice Gates series: https://github.com/pointing-at-the-moon/four-practice-gates
+The Six Practice Gates series: https://github.com/pointing-at-the-moon/six-practice-gates

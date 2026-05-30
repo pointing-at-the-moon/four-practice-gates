@@ -10,8 +10,8 @@ language: en
 date: 2026-05-28
 author: 釋慧鏡 Shi Huijing
 license: CC BY-NC-SA 4.0
-series: Four Practice Gates
-series_zh: 四行門 · 卷三 戒
+series: Six Practice Gates
+series_zh: 六行門 · 卷三 戒
 part: IV
 part_title: The Mahāyāna Turn
 part_title_zh: 大乘之轉向
@@ -286,8 +286,8 @@ A closing image. The tenth mode of *pariśuddhi-śīla*, "no loss of what was fi
 *CBETA collation:* The primary Chinese textual anchors of the present paper — the *Yogācārabhūmi* (T1579, "spoken by Maitreya, compiled by Asaṅga," trans. Xuanzang, Tang Zhenguan 20–22, 646–648; *Bodhisattvabhūmi*, *First Yoga Basis*, Chapter on Śīla, vols. 40–42: vol. 40 the nine-fold framing line, the four qualities of *svabhāva-śīla*, the three-cluster nested within *sarva-śīla*, the four *pārājika*-equivalents; vol. 42 the ten modes of pure śīla and the "work of śīla" passage re-collapsing the nine into the three); the *Bodhisattvabhūmi* recension *Pusa dichi jing* (T1581, Dharmakṣema, Northern Liang 414–426, vols. 4–5, the nine-list and the nine↔three hinge line); the *Pusa shanjie jing* (T1582, Guṇavarman, Liu-Song 5th c., vol. 4 Chapter on Śīla, the nine-list); the *Abhidharmasamuccaya-vyākhyā* (T1606, Sthiramati / Xuanzang, vol. 11, the passage deferring to the *Bodhisattvabhūmi* for the wholesome-dharma-gathering precept); the *Abhidharmasamuccaya* (T1605, Asaṅga / Xuanzang, register witness) — have all been collated against the CBETA Electronic Tripiṭaka (2024 edition). The Sanskrit *navavidha-śīla* terms of the *Bodhisattvabhūmi Śīlapaṭala* (Wogihara / Dutt / GRETIL editions) and the Pāli *catu-pārisuddhi-sīla* (Visuddhimagga ch. I) are copyright / CC-BY-SA materials, engaged here only as a terminological gloss-layer comparison, never quoted. Modern scholarship — Mark Tatz (*Asanga's Chapter on Ethics with the Commentary of Tsong-Kha-pa*, Edwin Mellen 1986), Ulrich Timme Kragh, ed. (*The Foundation for Yoga Practitioners*, Harvard Oriental Series 75, 2013), Maria Heim (*The Forerunner of All Things*, Oxford 2014) — is paywalled and engaged through paraphrase with page-range references; no verbatim citation.
 
 **Author:** 釋慧鏡 Shi Huijing
-**Project:** Pointing at the Moon · Four Practice Gates
+**Project:** Pointing at the Moon · Six Practice Gates
 **License:** CC BY-NC-SA 4.0
-**Repository:** github.com/pointing-at-the-moon/four-practice-gates
+**Repository:** github.com/pointing-at-the-moon/six-practice-gates
 
-*Pointing at the Moon · The Four Practice Gates · Volume III SĪLA · Paper 14 · May 2026*
+*Pointing at the Moon · The Six Practice Gates · Volume III SĪLA · Paper 14 · May 2026*

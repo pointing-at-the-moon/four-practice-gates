@@ -1,7 +1,7 @@
 ---
 title: "The Dakkhiṇāvibhaṅga Sutta — The Category-Switch Between Personal and Sangha Giving"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series: "Six Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
 series_short: "DĀNA"
 volume: 2
 paper_id: "DANA-P07"
@@ -273,7 +273,7 @@ To read T0026's temporal re-framing ("in ages to come") against T0084's preserva
 ---
 
 *Paper:* DANA-P07 · *The Dakkhiṇāvibhaṅga Sutta* · **DĀNA · Part II · The Āgama View**
-*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates （四行門）
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates （六行門）
 *License:* CC BY-NC-SA 4.0
 *CBETA collation:* Citations from *Madhyamāgama juan* 47 sūtra 180 verified against CBETA Electronic Tripiṭaka 2024 edition. Pāli citations (MN 142, It 98) follow SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 with PTS numbering.
-*Repository:* https://github.com/pointing-at-the-moon/four-practice-gates
+*Repository:* https://github.com/pointing-at-the-moon/six-practice-gates

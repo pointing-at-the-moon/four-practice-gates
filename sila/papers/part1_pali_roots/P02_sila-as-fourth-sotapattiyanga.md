@@ -1,7 +1,7 @@
 ---
 title: "Ariyakanta-sīla as the Fourth Sotāpattiyaṅga — A Reading of SĀ Sūtra 935"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 3 — SĪLA: From Pāli Vinaya to Sign-less Precepts · Part I · Pāli Roots"
+series: "Six Practice Gates, Volume 3 — SĪLA: From Pāli Vinaya to Sign-less Precepts · Part I · Pāli Roots"
 series_short: "SILA"
 volume: 3
 paper_id: "SILA-P02"
@@ -448,7 +448,7 @@ The present paper is the second piece of Part I (Pāli Roots) of Volume 3 (SĪLA
 ---
 
 *Paper:* SILA-P02 · *Ariyakanta-sīla* as the Fourth *Sotāpattiyaṅga* · **SĪLA · Part I · Pāli Roots**
-*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates (四行門)
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates (六行門)
 *License:* CC BY-NC-SA 4.0
 *CBETA collation:* Quotations from the *Saṃyukta-āgama* (*Za-ahan jing* 雜阿含經, T0099, fascicles 30, 33 sūtras 934 / 935 / 936, and the catechistic refrains of fascicle 37) and the *Madhyama-āgama* (*Zhong-ahan jing* 中阿含經 fascicle 10, *Heyi-jing* 何義經, the Chinese parallel to AN 11.1, cited in the prior paper P01) have been collated against the CBETA Electronic Tripiṭaka 2024 edition. Pāli quotations follow the SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 edition (SN 55.21 / 55.22 / 55.31 / 55.32 / 55.33 / 55.39 / 55.40, AN 5.32, AN 11.1), with PTS pagination provided.
-*Repository:* https://github.com/pointing-at-the-moon/four-practice-gates
+*Repository:* https://github.com/pointing-at-the-moon/six-practice-gates

@@ -1,7 +1,7 @@
 ---
 title: "The Velāma Sūtra — The Ladder of Giving and the Apex of the Perception of Impermanence"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series: "Six Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
 series_short: "DĀNA"
 volume: 2
 paper_id: "DANA-P05"
@@ -334,7 +334,7 @@ MBSR-style short meditation is a therapeutic practice whose purpose is emotional
 ---
 
 *Paper:* DANA-P05 · *The Velāma Case and the Apex of the Recipient Ladder* · **DĀNA · Part II · Āgama View**
-*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates （四行門）
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates （六行門）
 *License:* CC BY-NC-SA 4.0
 *CBETA collation:* Citations from *Fo shuo Xuda jing* T0073, *Madhyama Āgama juan* 39 sūtra 155, and *Ekottara Āgama juan* 19 sūtra 3 verified against CBETA Electronic Tripiṭaka 2024 edition. Pāli citations (AN 9.20, SN 55.31–33, SN 55.40, AN 5.148, AN 10.60, It 98, Vin Cv VI.4) follow SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 with PTS numbering.
-*Repository:* https://github.com/pointing-at-the-moon/four-practice-gates
+*Repository:* https://github.com/pointing-at-the-moon/six-practice-gates

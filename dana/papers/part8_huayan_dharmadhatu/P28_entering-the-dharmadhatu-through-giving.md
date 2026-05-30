@@ -1,7 +1,7 @@
 ---
 title: "Entering the Dharmadhātu through Giving: Dharma-Realm, Infinite Interpenetration, and Samantabhadra's Self-Disclosure"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series: "Six Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
 series_short: "DĀNA"
 volume: 2
 paper_id: "DANA-P28"
@@ -395,4 +395,4 @@ Vaidya, P. L., ed. *Gaṇḍavyūha-sūtra*. Darbhanga: Mithila Institute, 1960.
 
 *This paper is released under the CC BY-NC-SA 4.0 license. Primary-source citations follow the CBETA editions of the Taishō Tripiṭaka and the Manji Extended Canon.*
 > CBETA collation: all sūtra and commentary citations in this paper have been collated against the CBETA editions of the Taishō Tripiṭaka and the Manji Extended Canon.
-*GitHub: github.com/pointing-at-the-moon/four-practice-gates*
+*GitHub: github.com/pointing-at-the-moon/six-practice-gates*

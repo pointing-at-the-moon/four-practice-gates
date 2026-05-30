@@ -10,8 +10,8 @@ language: en
 date: 2026-05-28
 author: 釋慧鏡 Shi Huijing
 license: CC BY-NC-SA 4.0
-series: Four Practice Gates
-series_zh: 四行門 · 卷三 戒
+series: Six Practice Gates
+series_zh: 六行門 · 卷三 戒
 part: V
 part_title: The Precept-Substance Studies
 part_title_zh: 戒體論
@@ -366,8 +366,8 @@ The canonical compendium of this trilemma is Daoxuan's *Practice-Commentary*, wh
 *CBETA collation:* The primary Chinese textual anchors of the present paper — the *Abhidharmakośa* (T1558, the definition of the non-informative at p. 0003a23–25, its place in the form-aggregate at p. 0002b07, the three restraints at p. 0072b09–16, the embankment-precept and continuity argument at p. 0069a24–28, the Vaibhāṣika self-statement at p. 0070a21–22); the *Nyāyānusāra* (T1562, "must admit a real non-informative" at p. 0543a25–26, the persisting distinct factor at p. 0542b04–06, the ordination mechanism at p. 0549b08–14); the *Satyasiddhi-śāstra* (T1646, the non-acting as not-mind / aggregate-of-formations at p. 0290b09–12, as not-form at p. 0290b15–17, the three-item distinction at p. 0304a15–20); the *Cheng weishi lun* (T1585, the dismantling of the non-informative and the volition-seed at p. 0004c20–28, the precept's nature as the three karmas at p. 0051b18–20); the *Yogācārabhūmi* (T1579, the abstention-volition operating with its seed at p. 0590b04–08, trans. Xuanzang); the *Abhidharmasamuccaya-bhāṣya* (T1606, the non-informative reclassified as form-induced-by-reception at p. 0696b27–c02, Sthiramati); Daoxuan's *Practice-Commentary* (T1804, the precept-substance received-and-retained in mind at p. 0004c01–06, the rejection of form and the operational Nominalist layer at p. 0052b02–17); Yuanzhao's *Zizhiji* (T1805, the three-school judgment at p. 0157b24–c07, the material answer assigned to the Existence school at p. 0269c12–18, and the seed-substance formula at p. 0270b02–05 — all transmitting Daoxuan's *Karman-Commentary*); Zhiyi's *Commentary on the Meaning of the Bodhisattva Precepts* (T1811, the form-cluster / neither-form-nor-mind juxtaposition at p. 0566a19–22 and the provisional-and-real judgment at p. 0566b21–26, spoken by Zhiyi and recorded by Guanding of the Sui); and the *Saṃyuktāgama* (T0099, right action as abstention at p. 0203a12 and momentary intention at p. 0231c14, trans. Guṇabhadra) — have all been collated against the CBETA Electronic Tripiṭaka (2024 collation). On the byline: T1805 is Yuanzhao's *Zizhiji* (Song), not Daoxuan's *Han-zhu jieben shu* (a *Manji*-canon text); the true Zhiyi commentary is T1811, not T1812 (Mingkuang's Tang abridgement). The Theravāda baseline (the *virati-cetasika* analysis; the *Visuddhimagga*'s treatment of virtue) is engaged only through scholarly paraphrase and is never quoted. Modern scholarship — Dhammajoti (*Sarvāstivāda Abhidharma*, 2015), Newhall (*JCBS* 27, 2014), Cox (*Disputed Dharmas*, 1995), and Satō Tatsugen (*Studies on the Vinaya in Chinese Buddhism*, ch. 8) — is engaged through paraphrase and page-reference citation; no verbatim quotation.
 
 **Author:** 釋慧鏡 Shi Huijing
-**Project:** Pointing at the Moon · Four Practice Gates
+**Project:** Pointing at the Moon · Six Practice Gates
 **License:** CC BY-NC-SA 4.0
-**Repository:** github.com/pointing-at-the-moon/four-practice-gates
+**Repository:** github.com/pointing-at-the-moon/six-practice-gates
 
-*Pointing at the Moon · The Four Practice Gates · Volume III SĪLA · Paper 16 · Part V opener · May 2026*
+*Pointing at the Moon · The Six Practice Gates · Volume III SĪLA · Paper 16 · Part V opener · May 2026*

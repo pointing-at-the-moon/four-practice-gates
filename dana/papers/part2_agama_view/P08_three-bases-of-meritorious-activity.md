@@ -1,7 +1,7 @@
 ---
 title: "The Three Bases of Meritorious Activity — Dāna, Sīla, Bhāvanā as the Three-Layer Container of Merit"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series: "Six Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
 series_short: "DĀNA"
 volume: 2
 paper_id: "DANA-P08"
@@ -293,7 +293,7 @@ Giving being the entrance to the three bases, how does the institutionalized fie
 ---
 
 *Paper:* DANA-P08 · *The Three Bases of Meritorious Activity* · **DĀNA · Part II · The Āgama View**
-*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates （四行門）
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates （六行門）
 *License:* CC BY-NC-SA 4.0
 *CBETA collation:* Citations from *Aṅguttara Nikāya* and *Saṃyukta Āgama* verified against CBETA Electronic Tripiṭaka 2024 edition. Pāli citations follow SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 with PTS numbering.
-*Repository:* https://github.com/pointing-at-the-moon/four-practice-gates
+*Repository:* https://github.com/pointing-at-the-moon/six-practice-gates

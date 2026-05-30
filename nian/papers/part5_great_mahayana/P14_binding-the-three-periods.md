@@ -1,7 +1,7 @@
 ---
 title: "Binding the Three Periods: The Time-Dependent Verbal Grammar of Final-Age Buddha-Recollection in the *Sūtra of Perfect Enlightenment* — From the 'Severing → Leaving → Binding' Progression of the Three Final-Age Chapters to the Apex of 'Excepting Those of Sudden Awakening"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series: "Six Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
 series_short: "NIAN"
 volume: 1
 paper_id: "NIAN-P14"
@@ -379,7 +379,7 @@ P14's answer: the action-rhythm of final-age buddha-recollection is jointly defi
 
 [^2]: T0842, Fascicle 1, *Universal-Awakening Chapter*, p.920a25–a26. The twelve characters are among the most compact Chinese-Buddhist declarations on the phase-mark of the final age.
 
-[^3]: For the longitudinal axis of the NIAN verbal grammar, see Shi Huijing, "From Recollection to Name-Invocation: The Four-Step Coupling Analysis of the *niàn-chēng* Verbal Grammar" (P08); "Holding the Name: The Name-Layer as Parallel Access" (P11); "Gathering in the Six Sense-Roots: The Dual-Axis Deepening of the Verbal Grammar of Buddha-Recollection" (P12); "Universal-Gate Name-Invocation: The Three-Karmic Architecture of Lotus Buddha-Recollection" (P13); all collected in *Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision*.
+[^3]: For the longitudinal axis of the NIAN verbal grammar, see Shi Huijing, "From Recollection to Name-Invocation: The Four-Step Coupling Analysis of the *niàn-chēng* Verbal Grammar" (P08); "Holding the Name: The Name-Layer as Parallel Access" (P11); "Gathering in the Six Sense-Roots: The Dual-Axis Deepening of the Verbal Grammar of Buddha-Recollection" (P12); "Universal-Gate Name-Invocation: The Three-Karmic Architecture of Lotus Buddha-Recollection" (P13); all collected in *Six Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision*.
 
 [^4]: T0842, Fascicle 1, preface-section, p.913a27–b03. The six requisites of setting — time, master, place (the Great Bright Treasure of Spiritual Penetration), and assembly — are all explicitly marked.
 
@@ -505,6 +505,6 @@ P14's answer: the action-rhythm of final-age buddha-recollection is jointly defi
 
 *CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
-*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+*Repo: github.com/pointing-at-the-moon/six-practice-gates · CC BY-NC-SA 4.0*
 
 *NIAN-P14 · 釋慧鏡 (Shi Huijing) · 2026-04-18*

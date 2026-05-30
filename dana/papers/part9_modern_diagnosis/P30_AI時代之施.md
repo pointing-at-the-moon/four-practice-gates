@@ -1,7 +1,7 @@
 ---
 title: "AI 時代之施：增上緣、一念心力與隨喜之教證"
 author: "釋慧鏡 (Shi Huijing)"
-series: "四行門卷二《施——從巴利之根到法界供養》"
+series: "六行門卷二《施——從巴利之根到法界供養》"
 series_short: "DĀNA"
 volume: 2
 paper_id: "DANA-P30"
@@ -348,7 +348,7 @@ Hyde, Lewis. *The Gift: How the Creative Spirit Transforms the World*. Random Ho
 
 ---
 
-*本論文為「四行門」書系卷二《施》第三十篇 · Part IX #2 · AI 時代之施 · 增上緣（*adhipati-pratyaya*）之教義立基*
+*本論文為「六行門」書系卷二《施》第三十篇 · Part IX #2 · AI 時代之施 · 增上緣（*adhipati-pratyaya*）之教義立基*
 *本論文依 CC BY-NC-SA 4.0 授權釋出。原典引文依 CBETA 大正藏本。*
 > CBETA 校對：本文經論引文均已對 CBETA 大正藏原典校勘。
-*GitHub: github.com/pointing-at-the-moon/four-practice-gates*
+*GitHub: github.com/pointing-at-the-moon/six-practice-gates*

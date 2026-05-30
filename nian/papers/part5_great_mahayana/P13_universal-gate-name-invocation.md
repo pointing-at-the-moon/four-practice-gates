@@ -1,7 +1,7 @@
 ---
 title: "Universal-Gate Name-Invocation: The Three-Karmic Architecture of Lotus Buddha-Recollection — From Universal-Gate Invocation to the Reverence of Never Disparaging"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series: "Six Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
 series_short: "NIAN"
 volume: 1
 paper_id: "NIAN-P13"
@@ -300,7 +300,7 @@ The Lotus self-sufficiently presents the name-invocation spectrum through its si
 
 [^2]: Canonical grounding for the prose/verse dual track: see §2.1 on the "recollect the power of that Avalokita" verses and the closing "therefore let one constantly recollect" passage in the Universal Gate Chapter; the integrated argument for the dual-track structure appears in §3.2.
 
-[^3]: The NIAN verbal-grammar longitudinal axis is detailed in Shi Huijing, "From Recollection to Name-Invocation: The Four-Step Coupling Analysis of the *niàn-chēng* Verbal Grammar" (P08), "Holding the Name: The Name-Layer as Parallel Access" (P11), and "Gathering in the Six Sense-Roots: The Dual-Axis Deepening of the Verbal Grammar of Buddha-Recollection" (P12), collected in *Four Practice Gates, Volume 1 — Mindful of the Buddha*, Parts III–V.
+[^3]: The NIAN verbal-grammar longitudinal axis is detailed in Shi Huijing, "From Recollection to Name-Invocation: The Four-Step Coupling Analysis of the *niàn-chēng* Verbal Grammar" (P08), "Holding the Name: The Name-Layer as Parallel Access" (P11), and "Gathering in the Six Sense-Roots: The Dual-Axis Deepening of the Verbal Grammar of Buddha-Recollection" (P12), collected in *Six Practice Gates, Volume 1 — Mindful of the Buddha*, Parts III–V.
 
 [^4]: *Lotus Sūtra*, translated by Kumārajīva of Later Qin, Taishō Volume 9, No. T0262. The chapter is the Universal Gate Chapter, Chapter 25, located in Fascicle 7.
 
@@ -409,6 +409,6 @@ The Lotus self-sufficiently presents the name-invocation spectrum through its si
 
 *CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
-*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+*Repo: github.com/pointing-at-the-moon/six-practice-gates · CC BY-NC-SA 4.0*
 
 *NIAN-P13 · 釋慧鏡 (Shi Huijing) · 2026-04-18*

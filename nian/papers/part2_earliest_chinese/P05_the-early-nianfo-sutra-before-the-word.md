@@ -1,7 +1,7 @@
 ---
 title: "The Early *Niànfó* Sūtra Before the Word — The *Sūtra in Forty-Two Sections* and the Origins of Chinese Recollection Vocabulary"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series: "Six Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
 series_short: "NIAN"
 volume: 1
 paper_id: "NIAN-P05"
@@ -348,6 +348,6 @@ T0784's object distribution (path, body, precepts, breath, death, impermanence) 
 
 *CBETA collation: all T-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
-*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+*Repo: github.com/pointing-at-the-moon/six-practice-gates · CC BY-NC-SA 4.0*
 
 *NIAN-P05 · 釋慧鏡 (Shi Huijing) · 2026-04-15*

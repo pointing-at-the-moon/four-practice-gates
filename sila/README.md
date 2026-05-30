@@ -1,7 +1,7 @@
 # From Pāli Vinaya to the Sign-less Precepts
 ## 《戒——從巴利律到無相戒》
 
-**Volume 3 of [The Four Practice Gates](../README.md)** — the gate of the boundary of action.
+**Volume 3 of [The Six Practice Gates](../README.md)** — the gate of the boundary of action.
 
 *SĪLA — From the Pāli Vinaya to the Sign-less Precepts*
 

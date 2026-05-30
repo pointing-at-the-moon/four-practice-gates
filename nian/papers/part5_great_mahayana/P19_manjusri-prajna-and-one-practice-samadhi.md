@@ -1,7 +1,7 @@
 ---
 title: "The Mañjuśrī Prajñā Sūtra and One-Practice Samādhi: The Lodestone of Six Chinese Masters and the Genealogical Close of Part V"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series: "Six Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
 series_short: "NIAN"
 volume: 1
 paper_id: "NIAN-P19"
@@ -535,6 +535,6 @@ Part V, across its eight papers — P12 (the *Śūraṃgama* on "gathering the s
 
 *CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
-*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+*Repo: github.com/pointing-at-the-moon/six-practice-gates · CC BY-NC-SA 4.0*
 
 *NIAN-P19 · 釋慧鏡 (Shi Huijing) · 2026-04-21*

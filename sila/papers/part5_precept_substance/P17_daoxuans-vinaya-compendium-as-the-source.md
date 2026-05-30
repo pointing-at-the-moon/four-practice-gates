@@ -10,8 +10,8 @@ language: en
 date: 2026-05-28
 author: 釋慧鏡 Shi Huijing
 license: CC BY-NC-SA 4.0
-series: Four Practice Gates
-series_zh: 四行門 · 卷三 戒
+series: Six Practice Gates
+series_zh: 六行門 · 卷三 戒
 part: V
 part_title: The Precept-Substance Studies
 part_title_zh: 戒體論
@@ -346,8 +346,8 @@ A methodological hallmark of this project is to mark, in each paper, the red lin
 *CBETA collation:* The Chinese textual anchors of this paper — Daoxuan's *Xingshichao* (T1804, autograph: the three-fascicle architecture at p. 0001b11–13, the "not one book in a hundred" diagnosis and the cut-and-supply method at p. 0001a20–b01, the four-fold rubric of the opening chapter at p. 0004b23–c10, the self-bracketing of the substance's ontology at p. 0004c01–06, the building-a-residence receiving–following spine at p. 0054b15–21, the root-and-branch image at p. 0053a03–04, and the functional verdict at p. 0054b22–28); Yuanzhao's *Zizhiji* (T1805, transmitting Daoxuan's *Karman-Commentary*: the three-school judgment at p. 0157b24–c03, the Nominal-and-Perfect two tiers at p. 0157c03–08, the five senses of partial accord at p. 0220b16–18 with the fifth reading 塵境非根了, and the correction of Huiguang at p. 0220b18–27); and the root *Sifenlü* (T1428, the chapter on ordination at fascicles 31–35, the establishment of the formal saṅgha act at p. 0799c13–28, and the ten purposes at p. 0570c01–08) — have all been collated against the CBETA Electronic Tripiṭaka (2024 collation). On the byline: T1804 is Daoxuan's autograph (Tang); T1805 is Yuanzhao's *Zizhiji* (Song), not Daoxuan's *Han-zhu jieben shu*; the true witnesses to Daoxuan's *Jieshu* and *Karman-Commentary* are the *Manji*-canon X0714 and X0728. The Theravāda *Samantapāsādikā* (and its partial Chinese parallel, T1462) is engaged through paraphrase only and never quoted. Modern scholarship — Newhall (*JCBS* 27, 2014), Heirman (*Rules for Nuns*, 2002), Wang Jianguang (*Comprehensive History*, 2008), and Satō Tatsugen (*Studies on the Vinaya in Chinese Buddhism*, 1986) — is engaged through paraphrase and page-reference citation; no verbatim quotation.
 
 **Author:** 釋慧鏡 Shi Huijing
-**Project:** Pointing at the Moon · Four Practice Gates
+**Project:** Pointing at the Moon · Six Practice Gates
 **License:** CC BY-NC-SA 4.0
-**Repository:** github.com/pointing-at-the-moon/four-practice-gates
+**Repository:** github.com/pointing-at-the-moon/six-practice-gates
 
-*Pointing at the Moon · The Four Practice Gates · Volume III SĪLA · Paper 17 · Part V #2 · May 2026*
+*Pointing at the Moon · The Six Practice Gates · Volume III SĪLA · Paper 17 · Part V #2 · May 2026*

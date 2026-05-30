@@ -1,7 +1,7 @@
 ---
 title: "Giving in the Age of AI: The Doctrinal Grounding of Adhipati-Pratyaya, Momentary Cetanā, and Anumodanā"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series: "Six Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
 series_short: "DĀNA"
 volume: 2
 paper_id: "DANA-P30"
@@ -367,7 +367,7 @@ Hyde, Lewis. *The Gift: How the Creative Spirit Transforms the World*. Random Ho
 
 ---
 
-*This paper is the thirtieth in Volume Two (DĀNA) of the "Four Practice Gates" series · Part IX #2 · Giving in the Age of AI · *adhipati-pratyaya* doctrinal grounding*
+*This paper is the thirtieth in Volume Two (DĀNA) of the "Six Practice Gates" series · Part IX #2 · Giving in the Age of AI · *adhipati-pratyaya* doctrinal grounding*
 *This paper is released under the CC BY-NC-SA 4.0 license. Primary-source citations follow the CBETA edition of the Taishō Tripiṭaka.*
 > CBETA collation: all sūtra and commentary citations in this paper have been collated against the CBETA edition of the Taishō Tripiṭaka.
-*GitHub: github.com/pointing-at-the-moon/four-practice-gates*
+*GitHub: github.com/pointing-at-the-moon/six-practice-gates*

@@ -1,7 +1,7 @@
 ---
 title: "Cāga as an Object of Recollection — The Fifth Position of Cāga in the Six-Anussati Sequence"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu · Part I · Pāli Roots"
+series: "Six Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu · Part I · Pāli Roots"
 series_short: "DĀNA"
 volume: 2
 paper_id: "DANA-P03"
@@ -312,7 +312,7 @@ Already surfaced in §3.3; briefly restated here. The previous paper's "systemat
 ---
 
 *Paper:* DANA-P03 · *Cāga as an Object of Recollection* · **DĀNA · Part I · Pāli Roots**
-*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates （四行門）
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates （六行門）
 *License:* CC BY-NC-SA 4.0
 *CBETA collation:* Citations from *Saṃyukta Āgama* *juan* 33 sūtras 931 and 932, and from *Ekottara Āgama* *juan* 1 and 2 collated against CBETA Electronic Tripiṭaka 2024 edition. Pāli citations follow SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 with PTS numbering.
-*Repository:* https://github.com/pointing-at-the-moon/four-practice-gates
+*Repository:* https://github.com/pointing-at-the-moon/six-practice-gates

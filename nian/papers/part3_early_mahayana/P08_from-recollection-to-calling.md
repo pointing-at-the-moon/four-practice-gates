@@ -1,7 +1,7 @@
 ---
 title: "From Recollection to Calling — The Four-Step Coupling of Niàn and Chēng in Chinese Buddha-Recollection"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series: "Six Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
 series_short: "NIAN"
 volume: 1
 paper_id: "NIAN-P08"
@@ -492,6 +492,6 @@ This warning continues the Kripke-Lewis dialogue structure of P07 §IV and the T
 
 *CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
-*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+*Repo: github.com/pointing-at-the-moon/six-practice-gates · CC BY-NC-SA 4.0*
 
 *NIAN-P08 · 釋慧鏡 (Shi Huijing) · 2026-04-17*

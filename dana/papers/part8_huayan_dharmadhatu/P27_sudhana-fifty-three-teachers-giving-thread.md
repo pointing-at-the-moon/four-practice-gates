@@ -1,7 +1,7 @@
 ---
 title: "Sudhana's Fifty-Three Teachers and the Giving Thread: Dāna as Walk-Through in the Entry into the Dharma-Realm"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series: "Six Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
 series_short: "DĀNA"
 volume: 2
 paper_id: "DANA-P27"
@@ -292,4 +292,4 @@ Vaidya, P. L., ed. *Gaṇḍavyūha-sūtra*. Darbhanga: Mithila Institute, 1960.
 
 *This paper is published under CC BY-NC-SA 4.0. Sūtra and śāstra quotations follow the CBETA *Taishō* and *Manji 續藏* editions.*
 > *CBETA collation:* All sūtra and śāstra quotes in this paper have been collated against the CBETA *Taishō* and *Manji 續藏* canons.
-*GitHub: github.com/pointing-at-the-moon/four-practice-gates*
+*GitHub: github.com/pointing-at-the-moon/six-practice-gates*

@@ -1,7 +1,7 @@
 ---
 title: "the nine characteristics of giving"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series: "Six Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
 series_short: "DĀNA"
 volume: 2
 paper_id: "DANA-P14"
@@ -362,4 +362,4 @@ Handoff — next: the deep development of "non-abiding giving" in the prajñāp�
 
 This paper is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 CBETA collation: all T-number / X-number citations verified against CBETA 電子佛典集成 (https://www.cbeta.org).
-Four Practice Gates series: https://github.com/pointing-at-the-moon/four-practice-gates
+Six Practice Gates series: https://github.com/pointing-at-the-moon/six-practice-gates

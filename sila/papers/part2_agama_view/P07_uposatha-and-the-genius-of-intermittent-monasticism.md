@@ -4,7 +4,7 @@ subtitle: "Five Lay Precepts and Three Monastic Borrowings, One Day and One Nigh
 zh_title: "八關齋戒"
 zh_subtitle: "一日一夜暫時出家之週期回返機制"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 3 — SĪLA: From Pāli Vinaya to Sign-less Precepts · Part II · The Āgama View"
+series: "Six Practice Gates, Volume 3 — SĪLA: From Pāli Vinaya to Sign-less Precepts · Part II · The Āgama View"
 series_short: "SILA"
 volume: 3
 paper_id: "SILA-P07"
@@ -301,13 +301,13 @@ The open question of the present paper is this: **if the periodic-renunciation m
 
 ### Octalogy (sister series) relation
 
-- The Octalogy (八部曲) series treats *sīla* doctrinally as one of the three trainings (*tri-śikṣā*); the SĪLA volume of the *Four Practice Gates* treats *sīla* developmentally — the path-oriented (行) counterpart of the doctrinal (見 / 慧學) treatment. The present paper's intermittent-monasticism architectural argument is path-oriented; the Octalogy treats the *uposatha* (where treated at all) at the doctrinal-overview register.
+- The Octalogy (八部曲) series treats *sīla* doctrinally as one of the three trainings (*tri-śikṣā*); the SĪLA volume of the *Six Practice Gates* treats *sīla* developmentally — the path-oriented (行) counterpart of the doctrinal (見 / 慧學) treatment. The present paper's intermittent-monasticism architectural argument is path-oriented; the Octalogy treats the *uposatha* (where treated at all) at the doctrinal-overview register.
 
 ---
 
 *CBETA collation:* The Pāli anchors (AN 3.70 *Uposathasutta* · AN 5.213 *Sīlasutta* · AN 4.245 *Sikkhānisaṃsasutta* · AN 11.1 *Kimatthiyasutta* · AN 8.41–43 *Uposathavagga* cluster) follow the *Mahāsaṅgīti Tipiṭaka Buddhavasse 2500* (CC0) edition, dual-cited with PTS volume references; the Sujato (CC0) English translations are cited inline where verbatim. *Saṃyukta-āgama* (T0099 fascicle 40 + fascicle 50 sūtra 1325) · *Madhyama-āgama* (T0026 fascicle 55 sūtra 202 *Pratigraha-sūtra*) · *Dīrgha-āgama* (T0001 fascicle 20 *Lokaprajñapti-sūtra*) · *Ekottara-āgama* (T0125 fascicle 16 三齋品) · *Zhāi-jīng* (T0087, Zhi Qian, Wu 3rd c. — attribution corrected from An Shigao 2nd c. per CBETA byline) · *Upāsika-uposatha-sūtra* (T0088, anonymous, 2nd–3rd c. per Nattier 2008) · *Aṣṭāṅga-uposatha-sūtra* (T0089, Juqu Jingsheng, Liu Song 5th c.) · *Upāsaka-śīla-sūtra* (T1488 fascicles 6 and 7, **vault-absent, CBETA XML edition**) · *Mahāprajñāpāramitā-śāstra* (T1509 fascicle 13) · *Yogācārabhūmi-śāstra* (T1579 fascicle 19, cameo) · *Abhidharma-samuccaya* (T1605 fascicles 4–5) · *Abhidharma-samuccaya-vyākhyā* (T1606 fascicles 7–8, **primary abhidharmic anchor**) · *Mahīśāsaka-vinaya* (T1421 fascicle 15) · *Dharmaguptaka-vinaya* (T1428 fascicle 11) · *Mūla-sarvāstivāda-vinaya* (T1442 fascicle 34) · *Sifenlü-xingshichao* (T1804 fascicle 下, "Three Modes of the Eight-Precept Procedure" at *Taishō* volume 40 p.140b, **commentarial GOLD anchor**) · *Mohe-zhiguan* (T1911, **architecturally significant absence — zero references confirmed via CBETA XML grep**) · *Bodhisattva-precept Commentary* (T1812, four brief references) · *Wanshan-tonggui-ji* (T2017, one brief reference) — all citations verified against CBETA Electronic Tripiṭaka 2024. Vault-absent Pāli targets (AN 9.18 *Navaṅguposatha* · AN 8.44/45 · AN 7.50 *Methuna* · AN 5.176/179 · KP 2 *Dasasikkhāpada* · KP 5 *Maṅgalasutta* · AN 4.61–62 · AN 10.46 · Sn 2.14) cited by PTS reference only, never blockquoted. *Visuddhimagga* Chapter 1 *Sīla-niddesa* + Chapter 7 §4 *Sīlānussati-kathā* paraphrased at chapter-section level only; paragraph numbers pending print collation against Ñāṇamoli (BPS 4th ed.).
 
 **Author:** Shi Huijing (釋慧鏡)
-**Project:** 指月 Point-to-the-moon · 四行門 Four Practice Gates
+**Project:** 指月 Point-to-the-moon · 六行門 Six Practice Gates
 **License:** CC BY-NC-SA 4.0
-**Repository:** github.com/pointing-at-the-moon/four-practice-gates
+**Repository:** github.com/pointing-at-the-moon/six-practice-gates

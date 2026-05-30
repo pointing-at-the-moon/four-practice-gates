@@ -1,7 +1,7 @@
 ---
 title: "The Sīha Sutta — Present-Life Visible Fruits of Giving and the Four-Plus-One Epistemic Structure"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series: "Six Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
 series_short: "DĀNA"
 volume: 2
 paper_id: "DANA-P06"
@@ -280,7 +280,7 @@ Another contemporary-liable reading is the **wealth-oligarchy misreading** — "
 ---
 
 *Paper:* DANA-P06 · *The Sīha Sutta* · **DĀNA · Part II · The Āgama View**
-*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates （四行門）
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates （六行門）
 *License:* CC BY-NC-SA 4.0
 *CBETA collation:* Citations from *Ekottara Āgama juan* 24, 51, 3, and *Madhyama Āgama juan* 4 sūtra 18 *Sīha Sutta* verified against CBETA Electronic Tripiṭaka 2024 edition. Pāli citations (AN 5.34, AN 7.57, AN 5.36, AN 8.31, AN 8.32, It 26) follow SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 with PTS numbering.
-*Repository:* https://github.com/pointing-at-the-moon/four-practice-gates
+*Repository:* https://github.com/pointing-at-the-moon/six-practice-gates

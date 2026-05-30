@@ -1,7 +1,7 @@
 ---
 title: "The Fifty Skandha-Māras as a Dāna Typology: A Śūraṅgama Warning from the Depths of Meditation"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series: "Six Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
 series_short: "DĀNA"
 volume: 2
 paper_id: "DANA-P20"
@@ -567,4 +567,4 @@ Washing mind-filth, reviving the decaying wind -- this is dharma-giving's core: 
 
 > This paper is published under CC BY-NC-SA 4.0.
 > *CBETA collation:* All sūtra and śāstra quotes verified against CBETA Taishō / Wanxin digital editions.
-> github.com/pointing-at-the-moon/four-practice-gates
+> github.com/pointing-at-the-moon/six-practice-gates

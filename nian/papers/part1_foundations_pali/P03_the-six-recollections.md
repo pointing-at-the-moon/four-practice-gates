@@ -1,7 +1,7 @@
 ---
 title: "The Six Recollections: One Engine, Six Objects"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision · Part I · Foundations (Pāli)"
+series: "Six Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision · Part I · Foundations (Pāli)"
 series_short: "NIAN"
 volume: 1
 paper_id: "NIAN-P03"
@@ -467,6 +467,6 @@ Nine words open nine small doors; the six recollections open six larger doors; t
 
 *CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
-*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+*Repo: github.com/pointing-at-the-moon/six-practice-gates · CC BY-NC-SA 4.0*
 
 *NIAN-P03 · 釋慧鏡 (Shi Huijing) · 2026-04-15*

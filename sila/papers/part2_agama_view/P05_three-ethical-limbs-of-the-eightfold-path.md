@@ -1,7 +1,7 @@
 ---
 title: "The Eightfold Path's Three Ethical Limbs: Right Speech, Right Action, Right Livelihood as Constitutive Path-Elements"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 3 — SĪLA: From Pāli Vinaya to Sign-less Precepts · Part II · The Āgama View"
+series: "Six Practice Gates, Volume 3 — SĪLA: From Pāli Vinaya to Sign-less Precepts · Part II · The Āgama View"
 series_short: "SILA"
 volume: 3
 paper_id: "SILA-P05"
@@ -48,7 +48,7 @@ The Pāli canon itself supplies the structural fact that makes the question both
 
 The strongest internal-canonical evidence for the path-element reading lies one sutta further on. The *Abhisanda-sutta* of the *Aṅguttara Nikāya* (AN 8.39) takes each of the five precepts and reads its *veramaṇī*-formula not as an abstention but as a *mahā-dāna* — a great gift. For the first precept, the *Abhisanda-sutta* states: > "Firstly, a noble disciple gives up killing living creatures. By so doing they give to countless sentient beings freedom from fear, enmity, and ill will."[^3] The five precepts, in the *Abhisanda*'s reading, are not five abstentions but five great gifts: freedom from fear, freedom from enmity, freedom from ill will given by abstention from killing; analogous freedoms given by abstention from stealing, from sexual misconduct, from lying, from intoxicants. The reframing is not a later commentarial gloss; *mahā-dāna* is the *Aṅguttara*'s own classificatory term, used in the sutta itself. What does the reframing accomplish? It states, in the canon's own voice, that the lexical "refraining" of the precept-formula is in its operational reality a "giving" — a constitutive emergence of an ethical effect oriented outward toward others, not merely a private restraint. A precept-list, viewed thus, is a great-gift-list. A great-gift-list is a list of constitutive path-elements: gifts are not preconditions of giving; they are what giving *is*.
 
-The SĪLA↔DĀNA bridge between this volume and the second volume of the *Four Practice Gates* series is canonically internal: the canon itself has read the "refraining" of *sīla* as the "giving" of *dāna*. The two volumes meet at AN 8.39 by canonical doctrine, not by editorial juxtaposition.
+The SĪLA↔DĀNA bridge between this volume and the second volume of the *Six Practice Gates* series is canonically internal: the canon itself has read the "refraining" of *sīla* as the "giving" of *dāna*. The two volumes meet at AN 8.39 by canonical doctrine, not by editorial juxtaposition.
 
 ### 1.5 The five-absent-Pāli-targets honest disclosure
 
@@ -130,7 +130,7 @@ The lexical *veramaṇī*-form ("refraining from lying, divisive speech, harsh s
 
 The second evidentiary support is the *Abhisanda-sutta*'s *mahā-dāna* reframing, already cited at §1.4 and repeated here in its capacity as the architectural anchor of §V: > "Firstly, a noble disciple gives up killing living creatures. By so doing they give to countless sentient beings freedom from fear, enmity, and ill will." (cf. §1.4; the same Sujato CC0 rendering)[^3] The strongest single line of canonical-internal evidence for the path-element reading is the *Aṅguttara*'s own statement that the noble disciple's abstention from killing operates as the giving of three gifts: freedom from fear, freedom from enmity, freedom from ill will. A precept that effectuates the giving of gifts to countless sentient beings is not a private-discipline constraint; it is a constitutive operation of the path with social-field consequence. The same precept-formula operates simultaneously as the practitioner's refraining and as the beneficiary's receiving; the dual operation is canonical doctrine, not commentarial extrapolation.
 
-The SĪLA / DĀNA bridge between the present volume and the second volume of the *Four Practice Gates* meets at this single canonical line: the canon itself reads "refraining" as "giving," not as an external interpretive choice imposed from outside. AN 8.39's *mahā-dāna* reframing is the canon's own demonstration that "abstention" and "constitutive path-element" are not in tension; the *mahā-dāna* reading is the path-element reading made explicit.
+The SĪLA / DĀNA bridge between the present volume and the second volume of the *Six Practice Gates* meets at this single canonical line: the canon itself reads "refraining" as "giving," not as an external interpretive choice imposed from outside. AN 8.39's *mahā-dāna* reframing is the canon's own demonstration that "abstention" and "constitutive path-element" are not in tension; the *mahā-dāna* reading is the path-element reading made explicit.
 
 ### 5.3 SA 785: the supramundane register as path-element emergence
 
@@ -272,7 +272,7 @@ The precepts are present; their architectural placement determines their canonic
 
 ### Cross-volume relations
 
-- **DĀNA volume** — AN 8.39 *mahā-dāna* lexical-layer bridge: the present paper surfaces at §I.4 and §V.2 the *Abhisanda-sutta*'s reframing of *pañca-sīla* abstentions as "great gifts," the canonical-internal SĪLA↔DĀNA bridge between the second and third volumes of the *Four Practice Gates* series. This is structural in-text reference, not a cross-volume polyphony anchor footnote (per the architectural-acknowledgment-only pattern from earlier P03 entries).
+- **DĀNA volume** — AN 8.39 *mahā-dāna* lexical-layer bridge: the present paper surfaces at §I.4 and §V.2 the *Abhisanda-sutta*'s reframing of *pañca-sīla* abstentions as "great gifts," the canonical-internal SĪLA↔DĀNA bridge between the second and third volumes of the *Six Practice Gates* series. This is structural in-text reference, not a cross-volume polyphony anchor footnote (per the architectural-acknowledgment-only pattern from earlier P03 entries).
 - **DHYĀNA volume** (forthcoming) — P04's external categorical handoff (*sīla* → *samādhi*) hands forward to DHYĀNA; the present paper's internal path-element reading establishes that the *sīla-skandha* entering this handoff is itself a developmental structure, not a static rulebook.
 
 ### Octalogy (sister series) relation
@@ -282,7 +282,7 @@ The present paper does not advance an Octalogy-side argument; the Octalogy is se
 ---
 
 *Paper:* SILA-P05 · The Eightfold Path's Three Ethical Limbs: Right Speech, Right Action, Right Livelihood as Constitutive Path-Elements · **SĪLA · Part II · The Āgama View**
-*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates （四行門）
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates （六行門）
 *License:* CC BY-NC-SA 4.0
 *CBETA collation:* *Saṃyukta Āgama* (T0099 卷28 sūtras 784 + 785), *Madhyama Āgama* (T0026 卷7 sūtra 31 *Vibhaṅga-sutta* + 卷49 sūtra 189 *Magga-sutta*), *Ekottara Āgama* (T0125 卷38), *Dīrgha Āgama* (T0001 卷8 *Saṅgīti-sūtra* DA 9 + 卷10 *Daśottara-sūtra* DA 10), *Yogācārabhūmi-śāstra* (T1579 卷29 Śrāvakabhūmi), *Abhidharma-samuccaya* (T1605 卷5), *Abhidharma-samuccaya-vyākhyā* (T1606 卷10), *Mahāprajñāpāramitā-śāstra* (T1509 卷19), *Mohe-zhiguan* (T1911 卷3 上 + 卷7), and *Chanyuan Zhuquanji Duxu* (T2015 卷上) citations collated against CBETA Electronic Tripiṭaka 2024. Pāli citations from SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 edition (DN 22 · AN 8.39 · DN 31 · AN 5.178), dual-tracked with PTS numbering. *Visuddhimagga* Chapter I cited at chapter-section level only — paragraph numbering pending physical-text consultation with the Ñāṇamoli BPS edition; original Pāli held by GRETIL under publication-restricted license and not embedded.
-*Repository:* https://github.com/pointing-at-the-moon/four-practice-gates
+*Repository:* https://github.com/pointing-at-the-moon/six-practice-gates

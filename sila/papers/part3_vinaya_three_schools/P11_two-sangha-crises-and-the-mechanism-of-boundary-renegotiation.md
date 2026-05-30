@@ -8,7 +8,7 @@ language: en
 date: 2026-05-19
 author: 釋慧鏡 Shi Huijing
 license: CC BY-NC-SA 4.0
-series: Four Practice Gates
+series: Six Practice Gates
 status: draft
 ---
 
@@ -357,8 +357,8 @@ A final note. Yijing's seventh-century recommendation — to verify by the *Vina
 *CBETA collation:* all Taishō T-number citations above verified against CBETA Electronic Tripiṭaka 2024; Pāli citations against the Mahāsaṅgīti edition and Brahmali / Sujato translation on SuttaCentral (CC0).
 
 **Author:** 釋慧鏡 Shi Huijing
-**Project:** Point-to-the-moon · Four Practice Gates
+**Project:** Point-to-the-moon · Six Practice Gates
 **License:** CC BY-NC-SA 4.0
-**Repository:** github.com/pointing-at-the-moon/four-practice-gates
+**Repository:** github.com/pointing-at-the-moon/six-practice-gates
 
-*Pointing at the Moon · Four Practice Gates · Volume III SĪLA · Paper Eleven · May 2026*
+*Pointing at the Moon · Six Practice Gates · Volume III SĪLA · Paper Eleven · May 2026*

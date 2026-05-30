@@ -1,7 +1,7 @@
 ---
 title: "From Dāna to Dāna-Pāramitā — Prajñā as the Transformative Condition of Giving and the Systematic Inauguration of the Six Perfections"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series: "Six Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
 series_short: "DĀNA"
 volume: 2
 paper_id: "DANA-P11"
@@ -332,7 +332,7 @@ Nattier, Jan. *A Few Good Men: The Bodhisattva Path according to The Inquiry of 
 ---
 
 *Paper:* DANA-P11 · *From Dāna to Dāna-Pāramitā* · **DĀNA · Part IV · The Early Mahāyāna Turn to Dāna-Pāramitā**
-*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates （四行門）
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates （六行門）
 *License:* CC BY-NC-SA 4.0
 *CBETA collation:* All T-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.
-*Repository:* https://github.com/pointing-at-the-moon/four-practice-gates
+*Repository:* https://github.com/pointing-at-the-moon/six-practice-gates

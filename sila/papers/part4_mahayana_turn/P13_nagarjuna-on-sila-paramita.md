@@ -10,8 +10,8 @@ language: en
 date: 2026-05-21
 author: 釋慧鏡 Shi Huijing
 license: CC BY-NC-SA 4.0
-series: Four Practice Gates
-series_zh: 四行門 · 卷三 戒
+series: Six Practice Gates
+series_zh: 六行門 · 卷三 戒
 part: IV
 part_title: The Mahāyāna Turn
 part_title_zh: 大乘之轉向
@@ -330,8 +330,8 @@ T1509 fascicles 13–14 are the master architectural treatment of *śīla-pāram
 *CBETA collation:* The primary Chinese textual anchors of the present paper — Nāgārjuna's *Mahāprajñāpāramitā-śāstra* (T1509, translated by Kumārajīva, Later Qin Hongshi 401–406; fascicle 13 *Explaining the Definition of Precepts in the Opening Chapter, Section 22* and *Explaining the Praise of Śīla-pāramitā in the Opening Chapter, Section 23*; fascicle 14 the continuation of the same chapter; fascicle 4 the complete Sutasoma jātaka narrative at lines 724–781; fascicle 22 the three-precept classification within the *Eight Recollections* commentary at p0225c13–19); the *Daśabhūmika-vibhāṣā* (T1521, attributed to Nāgārjuna and translated by Kumārajīva, Yao Qin; fascicles 16–17, chapters 31 through 35, the five-chapter sister-corpus on *śīla*-pāramitā); the *Mahāprajñāpāramitā-sūtra* (T0220, Xuanzang's Tang translation 660–663; fascicle 3 the six-pāramitā mutual-pervasion section and the *anupalabdhi*-parallel passage, cameo only); the *Bodhisattvabhūmi-sūtra* (T1581, Dharmakṣema, Northern Liang fifth century, fascicle 5 three-cluster framework passage, carried from SILA-P12); and the *Mahāyānābhidharmasamuccayavyākhyā* (T1606, Sthiramati composed and Xuanzang translated, fascicle 11 śīla-pāramitā passage, cameo only) — have all been collated against the CBETA Electronic Tripiṭaka (2024 edition). The Pāli anchors *Aṅguttara Nikāya* 5.213 *Sīlasutta* and 11.1 *Kimatthiyasutta* are cited via SuttaCentral with Bhikkhu Sujato's English translation and the Mahāsaṅgīti Tipiṭaka Pāli text, both under Creative Commons Zero (CC0) license. Modern scholarship — Étienne Lamotte, *Le Traité de la Grande Vertu de Sagesse de Nāgārjuna*, 5 vols, Institut Orientaliste de Louvain 1944–1980; Paul Williams, *Mahāyāna Buddhism: The Doctrinal Foundations*, Routledge 2nd ed. 2009; Damien Keown, *The Nature of Buddhist Ethics*, Palgrave 1992 (paperback 2001) — is paywalled and engaged through paraphrase with page-range references; no verbatim citation.
 
 **Author:** 釋慧鏡 Shi Huijing
-**Project:** Pointing at the Moon · Four Practice Gates
+**Project:** Pointing at the Moon · Six Practice Gates
 **License:** CC BY-NC-SA 4.0
-**Repository:** github.com/pointing-at-the-moon/four-practice-gates
+**Repository:** github.com/pointing-at-the-moon/six-practice-gates
 
-*Pointing at the Moon · The Four Practice Gates · Volume III SĪLA · Paper 13 · May 2026*
+*Pointing at the Moon · The Six Practice Gates · Volume III SĪLA · Paper 13 · May 2026*

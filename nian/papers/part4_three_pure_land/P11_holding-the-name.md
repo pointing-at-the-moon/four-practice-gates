@@ -1,7 +1,7 @@
 ---
 title: "Holding the Name: The Name-Layer as Parallel Access — From Kumārajīva's Literary Distillation to the Phenomenal-and-Principial Dual Commentary"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series: "Six Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
 series_short: "NIAN"
 volume: 1
 paper_id: "NIAN-P11"
@@ -320,7 +320,7 @@ From T0366's "holding the name, one mind, undistracted" to T0945's "gathering in
 
 ## Notes
 
-[^1]: Shi Huijing, "The Forty-Eight Vows: Dharmākara's Vow-System as a Designed Architecture," §3.3, on the floor-structure of Vow Eighteen; and "The Sixteen Contemplations: A Designed Cognitive-Visual Architecture," §3.3, on the ten-recollection name-invocation of the lower-grade lower-birth as the architectural floor. Both are included in *Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision* (2026), Part IV.
+[^1]: Shi Huijing, "The Forty-Eight Vows: Dharmākara's Vow-System as a Designed Architecture," §3.3, on the floor-structure of Vow Eighteen; and "The Sixteen Contemplations: A Designed Cognitive-Visual Architecture," §3.3, on the ten-recollection name-invocation of the lower-grade lower-birth as the architectural floor. Both are included in *Six Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision* (2026), Part IV.
 
 [^2]: *Fóshuō Āmítuó Jīng* 佛說阿彌陀經, translated by Kumārajīva in Later Qin, *Taishō* vol. 12, No. 366 (T12.0346c11–0348b10).
 
@@ -442,6 +442,6 @@ From T0366's "holding the name, one mind, undistracted" to T0945's "gathering in
 
 *CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
-*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+*Repo: github.com/pointing-at-the-moon/six-practice-gates · CC BY-NC-SA 4.0*
 
 *NIAN-P11 · 釋慧鏡 (Shi Huijing) · 2026-04-17*

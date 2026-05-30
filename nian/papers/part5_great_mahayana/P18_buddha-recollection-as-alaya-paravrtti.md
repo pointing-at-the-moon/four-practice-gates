@@ -1,7 +1,7 @@
 ---
 title: "Buddha-Recollection as Ālaya-Parāvṛtti: The Two Ontological Anchors of the Ghanavyūha-sūtra and the Constructive-Bridge Thesis — The Eighth Layer of the Verb-Axis: Transformation-of-the-Base"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series: "Six Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
 series_short: "NIAN"
 volume: 1
 paper_id: "NIAN-P18"
@@ -403,6 +403,6 @@ And concerning §3.2's third level — the fact that the Chinese Pure Land patri
 
 *CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
-*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+*Repo: github.com/pointing-at-the-moon/six-practice-gates · CC BY-NC-SA 4.0*
 
 *NIAN-P18 · 釋慧鏡 (Shi Huijing) · 2026-04-20*

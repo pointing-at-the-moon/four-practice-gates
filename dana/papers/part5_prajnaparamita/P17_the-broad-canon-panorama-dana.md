@@ -1,7 +1,7 @@
 ---
 title: "'The Broad Canon Panorama of Dāna: The Six Pāramitās After the Heart Sūtra'"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series: "Six Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
 series_short: "DĀNA"
 volume: 2
 paper_id: "DANA-P17"
@@ -442,4 +442,4 @@ This cycle's completion is not an endpoint but a new beginning. The core questio
 
 This paper is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 CBETA collation: all T-number / X-number citations verified against CBETA 電子佛典集成 (https://www.cbeta.org).
-Four Practice Gates series: https://github.com/pointing-at-the-moon/four-practice-gates
+Six Practice Gates series: https://github.com/pointing-at-the-moon/six-practice-gates

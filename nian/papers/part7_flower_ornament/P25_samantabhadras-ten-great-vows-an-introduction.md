@@ -1,7 +1,7 @@
 ---
 title: "Samantabhadra's Ten Great Vows: An Introduction"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series: "Six Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
 series_short: "NIAN"
 volume: 1
 paper_id: "NIAN-P25"
@@ -428,7 +428,7 @@ Gregory, Peter N. *Tsung-mi and the Sinification of Buddhism*. Princeton: Prince
 
 ---
 
-> **Pointing at the Moon Research · Four Practice Gates, Volume One: *Mindful of the Buddha* · Part VII The Flower Ornament Vision · 7.1**
+> **Pointing at the Moon Research · Six Practice Gates, Volume One: *Mindful of the Buddha* · Part VII The Flower Ornament Vision · 7.1**
 > Shi Huijing (釋慧鏡)
 > First draft, May 2026
 > This work is licensed under CC BY-NC-SA 4.0
@@ -437,6 +437,6 @@ Gregory, Peter N. *Tsung-mi and the Sinification of Buddhism*. Princeton: Prince
 
 *CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
-*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+*Repo: github.com/pointing-at-the-moon/six-practice-gates · CC BY-NC-SA 4.0*
 
 *NIAN-P25 · 釋慧鏡 (Shi Huijing) · 2026-05-02*

@@ -1,7 +1,7 @@
 ---
 title: "Recollection in the Age of AI: The Manas-Turning Operator Still Operative"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series: "Six Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
 series_short: "NIAN"
 volume: 1
 paper_id: "NIAN-P30"
@@ -398,12 +398,12 @@ The doctrinal connections between this paper and adjacent papers are as follows.
 - S4-P06, *How the Buddha Would Use AI* — the distinction between *adhipati-pratyaya* and *hetu-pratyaya* is S4's home court; this paper inherits it directly without re-derivation (§3.3).
 - S4-P07, *The Living Eye* — the negative-space frame of "hearing the sound from another" is S4's home court; this paper's increment is to add "*buddhānusmṛti*'s one-thought correspondence" to that cannot-give list (§3.6).
 
-*This paper is the Part VIII Coda opener of *Mindful of the Buddha*, Volume One of *The Four Practice Gates*. © Shi Huijing 2026 · CC BY-NC-SA 4.0 · All Taishō references are drawn from the CBETA Electronic Tripiṭaka Collection. Source files for this paper and the full series are open at github.com/pointing-at-the-moon/four-practice-gates.*
+*This paper is the Part VIII Coda opener of *Mindful of the Buddha*, Volume One of *The Six Practice Gates*. © Shi Huijing 2026 · CC BY-NC-SA 4.0 · All Taishō references are drawn from the CBETA Electronic Tripiṭaka Collection. Source files for this paper and the full series are open at github.com/pointing-at-the-moon/six-practice-gates.*
 
 ---
 
 *CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
-*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+*Repo: github.com/pointing-at-the-moon/six-practice-gates · CC BY-NC-SA 4.0*
 
 *NIAN-P30 · 釋慧鏡 (Shi Huijing) · 2026-05-04*

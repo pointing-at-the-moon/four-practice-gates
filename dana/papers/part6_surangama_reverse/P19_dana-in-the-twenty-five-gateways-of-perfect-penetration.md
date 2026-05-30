@@ -1,7 +1,7 @@
 ---
 title: "Dāna in the Twenty-Five Gateways of Perfect Penetration: A Map of Meditation-and-Wisdom Giving in the Śūraṅgama Sūtra"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series: "Six Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
 series_short: "DĀNA"
 volume: 2
 paper_id: "DANA-P19"
@@ -415,4 +415,4 @@ For practitioners, this means that every meditation entry-point is a gift to bei
 
 > This paper is published under CC BY-NC-SA 4.0.
 > *CBETA collation:* All sūtra and śāstra quotes verified against CBETA Taishō / Wanxin digital editions.
-> github.com/pointing-at-the-moon/four-practice-gates
+> github.com/pointing-at-the-moon/six-practice-gates

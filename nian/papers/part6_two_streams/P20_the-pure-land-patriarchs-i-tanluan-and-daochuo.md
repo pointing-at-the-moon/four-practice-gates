@@ -1,7 +1,7 @@
 ---
 title: "The Pure Land Patriarchs I: Tanluan and Daochuo — Other-Power as Lexical Invention and the Ordinary Being as Soteriological Subject"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series: "Six Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
 series_short: "NIAN"
 volume: 1
 paper_id: "NIAN-P20"
@@ -294,6 +294,6 @@ Weinstein, Stanley. *Buddhism under the T'ang*. Cambridge: Cambridge University 
 
 *CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
-*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+*Repo: github.com/pointing-at-the-moon/six-practice-gates · CC BY-NC-SA 4.0*
 
 *NIAN-P20 · 釋慧鏡 (Shi Huijing) · 2026-04-21*

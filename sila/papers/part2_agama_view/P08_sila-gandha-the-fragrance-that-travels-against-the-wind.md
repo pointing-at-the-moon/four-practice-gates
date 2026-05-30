@@ -4,7 +4,7 @@ subtitle: "Sīla's Social-Domain Effect Across Sutta, Abhidharma, and Vinaya-Com
 zh_title: "戒香"
 zh_subtitle: "道德氣息逆風而散之社會場域效應"
 author: "Shi Huijing (釋慧鏡)"
-series: "Four Practice Gates, Volume 3 — SĪLA: From Pāli Vinaya to Sign-less Precepts · Part II · The Āgama View"
+series: "Six Practice Gates, Volume 3 — SĪLA: From Pāli Vinaya to Sign-less Precepts · Part II · The Āgama View"
 series_short: "SILA"
 volume: 3
 paper_id: "SILA-P08"
@@ -401,13 +401,13 @@ The socially perceivable effect of *sīla-gandha* holds a distinctive position w
 
 ### Octalogy (sister series) relation
 
-- The octalogy (八部曲) series treats *sīla* doctrinally as one of the three trainings (*tri-śikṣā*); the SĪLA volume of the Four Practice Gates treats *sīla* developmentally — the path-oriented (行) counterpart of the doctrinal (見 / 慧學) treatment. The argument of the present paper that *sīla-gandha* is a canonical doctrine-name is path-oriented (*sīla* manifests outwardly in the social domain; this outward manifestation is canonical doctrine, not metaphor); the octalogy treats *sīla-gandha*, where treated at all, at the doctrinal-overview register.
+- The octalogy (八部曲) series treats *sīla* doctrinally as one of the three trainings (*tri-śikṣā*); the SĪLA volume of the Six Practice Gates treats *sīla* developmentally — the path-oriented (行) counterpart of the doctrinal (見 / 慧學) treatment. The argument of the present paper that *sīla-gandha* is a canonical doctrine-name is path-oriented (*sīla* manifests outwardly in the social domain; this outward manifestation is canonical doctrine, not metaphor); the octalogy treats *sīla-gandha*, where treated at all, at the doctrinal-overview register.
 
 ---
 
 *CBETA collation:* Pāli anchors (AN 3.79 *Gandha-sutta* · AN 5.32 *Cundīsutta* · AN 11.1 *Kimatthiyasutta*) are cited by PTS reference; AN 11.1 + AN 5.32 follow the *Mahāsaṅgīti Tipiṭaka Buddhavasse 2500* (CC0) edition with Sujato CC0 English translations cited inline where verbatim. AN 3.79 + AN 3.80 + *Dhammapada* 54–56 *Puppha-vagga* + DN 1 / DN 2 / DN 33 / DN 34 + MN 27 / MN 38 / MN 51 / MN 107 + *Itivuttaka* 51 + *Visuddhimagga* Chapter 1 and other vault-absent targets are cited by PTS reference only and are never blockquoted. *Saṃyukta-āgama* (T0099 fascicle 38 sūtra 1073 *Sīla-gandha-sūtra* 戒香經 — primary Chinese anchor at T02n0099_p0278c), *Bieyi-za-ahanjing* (T0100 fascicle 1 sūtra 12 *Gandha-sūtra* 香經), *Ekottara-āgama* (T0125 fascicle 13 *Gandha-varga* 香品), *Madhyama-āgama* (T0026 fascicle 10 sūtra 42 *Kimatthiya-sūtra* 何義經), *Dīrgha-āgama* (T0001 fascicle 9 *Saṅgīti-sūtra* + fascicle 10 *Dasuttara-sūtra* + fascicle 17 *Sāmaññaphala-sūtra*), *Upāsaka-śīla-sūtra* (T1488 fascicles 6 + 7, **vault-absent, CBETA XML edition**), *Mahāprajñāpāramitā-śāstra* (T1509 fascicles 13–14 *Śīla-pāramitā*), *Yogācārabhūmi-śāstra* (**T1579 fascicle 22 *Viniścaya-saṃgrahaṇī* Śrāvakabhūmi — present paper's single strongest doctrinal anchor at T30n1579_p0402a–c**), *Abhidharma-samuccaya* (T1605 fascicle 4), *Abhidharma-samuccaya-vyākhyā* (T1606 fascicles 7–8), *Vimuttimagga* (T1648 fascicles 1–2), *Mūla-sarvāstivāda-vinaya* (T1442 fascicle 5 three-skandha correspondence at T23 p.0685b14–16), *Sifenlü-xingshichao* (**T1804 fascicle 下 *Avataṃsaka* three-fragrance verse at T40 p.0036c09–11 — vinaya-commentarial anchor**), *Mohe-zhiguan* (T1911, **architecturally significant absence — zero references to *sīla-gandha* confirmed by CBETA XML grep**), *Bodhisattva-precept Commentary* (T1812, zero references), *Wanshan-tonggui-ji* (T2017, zero references) — all citations verified against CBETA Electronic Tripiṭaka 2024. *Visuddhimagga* Chapter 1 *Sīla-niddesa* + Chapter 7 §4 *Sīlānussati-kathā* are paraphrased at chapter-section level only; paragraph numbers pending paper collation against Ñāṇamoli's BPS 4th edition.
 
 **Author:** 釋慧鏡 (Shi Huijing)
-**Project:** 指月 Point-to-the-moon · 四行門 Four Practice Gates
+**Project:** 指月 Point-to-the-moon · 六行門 Six Practice Gates
 **License:** CC BY-NC-SA 4.0
-**Repository:** github.com/pointing-at-the-moon/four-practice-gates
+**Repository:** github.com/pointing-at-the-moon/six-practice-gates

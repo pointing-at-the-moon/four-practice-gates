@@ -1,7 +1,7 @@
 ---
 title: "The Saṅgha as a Field of Merit — The Cātuddisa Saṅgha as Early Buddhism's Legal Answer to the Temporal Problem of Giving"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series: "Six Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
 series_short: "DĀNA"
 volume: 2
 paper_id: "DANA-P09"
@@ -318,7 +318,7 @@ If the vinaya's answer to the temporal problem of material giving is the suspens
 ## Footer
 
 *Paper:* DANA-P09 · *The Saṅgha as a Field of Merit* · **DĀNA · Part III · Vinaya and Early Schools**
-*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates （四行門）
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates （六行門）
 *License:* CC BY-NC-SA 4.0
 *CBETA collation:* All Pāli citations verified against Bhikkhu Brahmali's CC0 Vinaya translation at SuttaCentral (https://suttacentral.net). All Chinese citations verified against CBETA-derived Obsidian vault exports of the corresponding Taishō fascicles; electronic base-text is CBETA (Chinese Buddhist Electronic Text Association, https://www.cbeta.org).
-*Repository:* https://github.com/pointing-at-the-moon/four-practice-gates
+*Repository:* https://github.com/pointing-at-the-moon/six-practice-gates

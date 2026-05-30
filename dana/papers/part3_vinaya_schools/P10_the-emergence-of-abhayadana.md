@@ -1,7 +1,7 @@
 ---
 title: "The Emergence of Abhayadāna — The Millennium-Long Substance–Name Asymmetry and the Taxonomic Axis-Switch from Recipient-Axis to Content-Axis"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series: "Six Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
 series_short: "DĀNA"
 volume: 2
 paper_id: "DANA-P10"
@@ -424,7 +424,7 @@ Wittgenstein, Ludwig. *Philosophische Untersuchungen / Philosophical Investigati
 ---
 
 *Paper:* DANA-P10 · *The Emergence of Abhayadāna* · **DĀNA · Part III · Vinaya and Early Schools**
-*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates （四行門）
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates （六行門）
 *License:* CC BY-NC-SA 4.0
 *CBETA collation:* Citations from the four Vinaya collections verified against CBETA Electronic Tripiṭaka 2024 edition.
-*Repository:* https://github.com/pointing-at-the-moon/four-practice-gates
+*Repository:* https://github.com/pointing-at-the-moon/six-practice-gates

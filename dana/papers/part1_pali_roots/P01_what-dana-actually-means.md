@@ -1,7 +1,7 @@
 ---
 title: "What Dāna Actually Means — Dāna, Cāga, Yāga, and the Loosening of \"Mine\""
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu · Part I · Pāli Roots"
+series: "Six Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu · Part I · Pāli Roots"
 series_short: "DĀNA"
 volume: 2
 paper_id: "DANA-P01"
@@ -272,7 +272,7 @@ The next time you stand at a checkout and your finger hovers — that 0.3-second
 
 > "I am so fortunate, so very fortunate. Among people whose minds are full of the stain of stinginess, I live with a mind freed from that stain — letting-go loosened, hand washed clean, delighting in relinquishment, responsive to those who request, delighting in giving and sharing."
 
-This is not self-soothing. It is the application of *anussati* engineering to a *cāga* object — the same recollective mechanism described in volume one of the *Four Practice Gates*. Building a counter-faculty does not work by willpower forcing oneself to be generous. It works by training the mind to *notice one more time* a moment in which letting-go has already happened, allowing that moment to accumulate in the mind-stream as an object that can be returned to repeatedly.
+This is not self-soothing. It is the application of *anussati* engineering to a *cāga* object — the same recollective mechanism described in volume one of the *Six Practice Gates*. Building a counter-faculty does not work by willpower forcing oneself to be generous. It works by training the mind to *notice one more time* a moment in which letting-go has already happened, allowing that moment to accumulate in the mind-stream as an object that can be returned to repeatedly.
 
 From the first time this object is consciously recollected, *cāga* is being built. The next twenty-nine chapters are the unfolding of that path.
 
@@ -363,7 +363,7 @@ This is the opening paper of *DĀNA*, establishing the three-term vocabulary use
 ---
 
 *Paper:* DANA-P01 · *What Dāna Actually Means* · **DĀNA · Part I · Pāli Roots**
-*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates (四行門)
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates (六行門)
 *License:* CC BY-NC-SA 4.0
 *CBETA collation:* Citations from the *Ekottarikāgama*, *Saṃyuktāgama*, and *Yogācārabhūmi-śāstra* verified against CBETA Electronic Tripiṭaka 2024 edition. Pāli references follow SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 with PTS numbering.
-*Repository:* https://github.com/pointing-at-the-moon/four-practice-gates
+*Repository:* https://github.com/pointing-at-the-moon/six-practice-gates

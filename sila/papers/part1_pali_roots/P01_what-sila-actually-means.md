@@ -1,7 +1,7 @@
 ---
 title: Three Axes of Sīla — Sīla, Saṃvara, Vinaya, and the Word That English Cannot Quite Hold
 author: 釋慧鏡 (Shi Huijing)
-series: "Four Practice Gates, Volume 3 — SĪLA: From the Pāli Vinaya to the Sign-less Precepts · Part I · Pāli Roots"
+series: "Six Practice Gates, Volume 3 — SĪLA: From the Pāli Vinaya to the Sign-less Precepts · Part I · Pāli Roots"
 series_short: SĪLA
 volume: 3
 paper_id: SILA-P01
@@ -295,7 +295,7 @@ This is the opening paper of *SĪLA*, establishing the three-term vocabulary use
 ---
 
 *Paper:* SILA-P01 · *Three Axes of Sīla* · **SĪLA · Part I · Pāli Roots**
-*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Four Practice Gates (四行門)
+*Author:* 釋慧鏡 (Shi Huijing) · *Project:* 指月 / Pointing-at-the-Moon · *Series:* The Six Practice Gates (六行門)
 *License:* CC BY-NC-SA 4.0
 *CBETA collation:* Citations from the *Dīrgha Āgama* (T0001 fascicles 13 / 14 / 17), the *Madhyama Āgama* (T0026 fascicle 10), the *Dharmaguptaka Vinaya* (T1428), and the *Dharmaguptaka Bhikṣu Prātimokṣa* (T1429) verified against CBETA Electronic Tripiṭaka 2024 edition. Pāli references follow SuttaCentral Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 edition (AN 4.14 / AN 5.140 / AN 11.1) with dual PTS numbering.
-*Repository:* https://github.com/pointing-at-the-moon/four-practice-gates
+*Repository:* https://github.com/pointing-at-the-moon/six-practice-gates

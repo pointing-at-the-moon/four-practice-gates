@@ -1,7 +1,7 @@
 ---
 title: "Reverencing All Buddhas, Praising the Tathāgatas, and Extensively Making Offerings: Samantabhadra's Vows One, Two, and Three as the Body, Speech, and Mind Halves of a Three-Karma Set"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series: "Six Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
 series_short: "NIAN"
 volume: 1
 paper_id: "NIAN-P26"
@@ -485,7 +485,7 @@ Sharf, Robert H. "Ritual." In *Critical Terms for the Study of Buddhism*, edited
 
 ---
 
-> **Pointing at the Moon Research · Four Practice Gates, Volume One: *Mindful of the Buddha* · Part VII The Flower Ornament Vision · 7.2**
+> **Pointing at the Moon Research · Six Practice Gates, Volume One: *Mindful of the Buddha* · Part VII The Flower Ornament Vision · 7.2**
 > Shi Huijing (釋慧鏡)
 > First draft, May 2026
 > This work is licensed under CC BY-NC-SA 4.0
@@ -494,6 +494,6 @@ Sharf, Robert H. "Ritual." In *Critical Terms for the Study of Buddhism*, edited
 
 *CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
-*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+*Repo: github.com/pointing-at-the-moon/six-practice-gates · CC BY-NC-SA 4.0*
 
 *NIAN-P26 · 釋慧鏡 (Shi Huijing) · 2026-05-02*

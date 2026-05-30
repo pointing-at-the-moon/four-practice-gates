@@ -1,7 +1,7 @@
 ---
 title: "Requesting the Turning of the Dharma-Wheel, Requesting the Buddhas to Abide: Samantabhadra's Vows Six and Seven as the Two Modes of Dharma Persistence"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series: "Six Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
 series_short: "NIAN"
 volume: 1
 paper_id: "NIAN-P28"
@@ -490,6 +490,6 @@ Schopen, Gregory. *Bones, Stones, and Buddhist Monks: Collected Papers on the Ar
 
 *CBETA collation: all T-number and X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
-*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+*Repo: github.com/pointing-at-the-moon/six-practice-gates · CC BY-NC-SA 4.0*
 
 *NIAN-P28 · 釋慧鏡 (Shi Huijing) · 2026-05-03*

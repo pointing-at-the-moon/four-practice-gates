@@ -1,7 +1,7 @@
 ---
 title: "The Highest of All Offerings: Dharmapūjā as Convergence-Point and the Textual Bridge of Chan-Jiao Unity"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series: "Six Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
 series_short: "DĀNA"
 volume: 2
 paper_id: "DANA-P26"
@@ -189,7 +189,7 @@ This citation is a single, isolated philological caution, and no inference about
 
 The supreme-vehicle Chan, the pure Chan of the Tathāgata, the one-practice *samādhi*, the *samādhi* of suchness — the four names point to one matter. The preface to the *Preface* also has a sentence that fixes once and for all the relation of doctrine and Chan: "The two lineages of Chan and the Teaching alike issue from the Buddha. Chan is the Buddha's mind; the Teaching is the Buddha's mouth. ... [I would] cause the students of the two houses to know that for one Buddha there is no second way, that the four rivers are of no different taste."[^22]
 
-It should be noted that the present paper cites the *Preface* only to serve as background positioning for the one-practice *samādhi* anchor of fascicle four of the *Subcommentary*; the entire taxonomic system of the *Preface*, classifying the lineages by five doctrines and five houses, the present paper does not unfold — a full treatment of that system is reserved for the chapter, after the "precepts" gate of the Four Practice Gates, that treats the meeting of precepts and Chan.
+It should be noted that the present paper cites the *Preface* only to serve as background positioning for the one-practice *samādhi* anchor of fascicle four of the *Subcommentary*; the entire taxonomic system of the *Preface*, classifying the lineages by five doctrines and five houses, the present paper does not unfold — a full treatment of that system is reserved for the chapter, after the "precepts" gate of the Six Practice Gates, that treats the meeting of precepts and Chan.
 
 What is to be made clear here is only this one point: the echo of "thought after thought continuing" in the recollection-of-the-Buddha passage of fascicle four of the *Subcommentary* is not a locution Zongmi picked up at random, but a fully self-aware operation upon a sediment of vocabulary running across six generations and some two hundred years — from the *Mañjuśrī Prajñāpāramitā Sūtra*, to the *Awakening of Faith in the Mahāyāna*, to Daoxin, to Hongren, to Huineng, to Shenhui, to Zongmi. Daoxin's "to recollect the Buddha is itself to recollect the mind; to seek the mind is itself to seek the Buddha" and "mind after mind continuing, suddenly settling into stillness," in the *Essentials of the Method of Entering the Way and Pacifying the Mind*, are precisely one link in the midstream of this sediment.
 
@@ -341,4 +341,4 @@ Lamotte, Étienne. *Le Traité de la Grande Vertu de Sagesse de Nāgārjuna (Mah
 
 *This paper is published under CC BY-NC-SA 4.0. Sūtra and śāstra quotations follow the CBETA *Taishō* and *Manji 續藏* editions.*
 > *CBETA collation:* All sūtra and śāstra quotes in this paper have been collated against the CBETA *Taishō* and *Manji 續藏* canons.
-*GitHub: github.com/pointing-at-the-moon/four-practice-gates*
+*GitHub: github.com/pointing-at-the-moon/six-practice-gates*

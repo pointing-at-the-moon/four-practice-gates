@@ -1,7 +1,7 @@
 ---
 title: "The Internal Steps of Buddha-Recollection: From the Nine Epithets to Dharmadhātu-Recollection — A Clarification After Thirty-One Papers"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series: "Six Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
 series_short: "NIAN"
 volume: 1
 paper_id: "NIAN-P31"
@@ -369,6 +369,6 @@ The rest is just time, and repetition.
 
 *CBETA collation: all T-/X-number citations have been physically verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
-*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+*Repo: github.com/pointing-at-the-moon/six-practice-gates · CC BY-NC-SA 4.0*
 
 *NIAN-P31 · 釋慧鏡 (Shi Huijing) · 2026-05-07*

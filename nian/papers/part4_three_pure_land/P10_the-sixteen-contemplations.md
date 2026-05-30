@@ -1,7 +1,7 @@
 ---
 title: "The Sixteen Contemplations: A Designed Cognitive-Visual Architecture — From Buddha-Contemplation Methodology to Linear Ladder and Nine-Grade Differentiation"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
+series: "Six Practice Gates, Volume 1 — Mindful of the Buddha: From Early Buddhist Recollection to the Flower Ornament Vision"
 series_short: "NIAN"
 volume: 1
 paper_id: "NIAN-P10"
@@ -533,6 +533,6 @@ The question is not answered within P10's scope. The convergence-differentiation
 
 *CBETA collation: all T-number / X-number citations verified against the CBETA Electronic Tripiṭaka 2024 edition.*
 
-*Repo: github.com/pointing-at-the-moon/four-practice-gates · CC BY-NC-SA 4.0*
+*Repo: github.com/pointing-at-the-moon/six-practice-gates · CC BY-NC-SA 4.0*
 
 *NIAN-P10 · 釋慧鏡 (Shi Huijing) · 2026-04-17*

@@ -1,7 +1,7 @@
 ---
 title: "The Five Precepts and Their Canonical Scope: Cross-Layer Architecture from Āgama through Abhidharma to the Chinese Commentaries"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 3 — SĪLA: From Pāli Vinaya to Sign-less Precepts · Part II · The Āgama View"
+series: "Six Practice Gates, Volume 3 — SĪLA: From Pāli Vinaya to Sign-less Precepts · Part II · The Āgama View"
 series_short: "SILA"
 volume: 3
 paper_id: "SILA-P06"
@@ -264,13 +264,13 @@ Part II of the present volume opened at P05 with the categorical thesis of the t
 
 ### Octalogy (sister series) relation
 
-- The octalogy (八部曲) series treats *sīla* doctrinally as one of the three trainings (*tri-śikṣā*); the SĪLA volume of the Four Practice Gates treats *sīla* developmentally — the path-oriented (行) counterpart of the doctrinal (見 / 慧學) treatment. The present paper's per-precept canonical-scope differential argument is path-oriented; the octalogy's pañca-sīla treatment is by-and-large at the doctrinal-overview register.
+- The octalogy (八部曲) series treats *sīla* doctrinally as one of the three trainings (*tri-śikṣā*); the SĪLA volume of the Six Practice Gates treats *sīla* developmentally — the path-oriented (行) counterpart of the doctrinal (見 / 慧學) treatment. The present paper's per-precept canonical-scope differential argument is path-oriented; the octalogy's pañca-sīla treatment is by-and-large at the doctrinal-overview register.
 
 ---
 
 **Author:** Shi Huijing (釋慧鏡)
-**Project:** 指月 Point-to-the-moon · 四行門 Four Practice Gates
+**Project:** 指月 Point-to-the-moon · 六行門 Six Practice Gates
 **License:** CC BY-NC-SA 4.0
-**Repository:** github.com/pointing-at-the-moon/four-practice-gates
+**Repository:** github.com/pointing-at-the-moon/six-practice-gates
 
 *CBETA collation:* *Saṃyukta-āgama* (T0099 fasc. 32 sūtra 916 + fasc. 33 sūtra 927) · *Madhyama-āgama* (T0026 fasc. 45 sūtra 175 *Pratigraha-sūtra*) · *Dīrgha-āgama* (T0001 fasc. 11 *Sigāla-sūtra* DA 16 + fasc. 13 *Ambaṭṭha-sūtra* DA 20 + fasc. 14 *Brahmajāla-sūtra* DA 21 + fasc. 15 *Soṇadaṇḍa-sūtra* DA 22 + *Kūṭadanta-sūtra* DA 23) · *Upāsaka-śīla-sūtra* (T1488 fasc. 3 + 6 + 7) · *Mahāprajñāpāramitā-śāstra* (T1509 fasc. 13 + 14) · *Yogācārabhūmi-śāstra · Bodhisattvabhūmi-śīla-paṭala* (T1579 fasc. 40–42) · *Abhidharma-samuccaya* (T1605 fasc. 4–5) · *Abhidharma-samuccaya-vyākhyā* (T1606 fasc. 7–8) · *Mohe-zhiguan* (T1911 fasc. 4-upper) · *Mahīśāsaka-vinaya* (T1421 fasc. 15) · *Dharmaguptaka-vinaya* (T1428 fasc. 32) · *Mūla-sarvāstivāda-vinaya* (T1442 fasc. 7) — all citations verified against CBETA Electronic Tripiṭaka 2024. Pāli citations follow the *Mahāsaṅgīti Tipiṭaka Buddhavasse 2500* (CC0) edition for AN 5.174 · AN 5.178 · AN 8.39 · DN 1 *Cūḷasīla* · DN 31 *Sigālovāda*, dual-cited with PTS volume references. Vault-absent Pāli targets (AN 5.177 *Vaṇijjā* · MN 61 *Ambalaṭṭhikā-rāhulovāda* · MN 117 · SN 45.8 · AN 10.176 · MN 41 · AN 7.50 · SN 42.13 · *Khuddakapāṭha* 2 *Dasa-sikkhāpada*) are cited by PTS reference only, never blockquoted. *Visuddhimagga* chapter 1 *Sīla-niddesa* is paraphrased at the chapter-section level only; paragraph-level citation is deferred to print collation against Ñāṇamoli (BPS 4th edition).

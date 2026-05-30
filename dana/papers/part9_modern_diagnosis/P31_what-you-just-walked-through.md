@@ -1,7 +1,7 @@
 ---
 title: "What You Just Walked Through: The Volume's Close and the Place to Begin"
 author: "釋慧鏡 (Shi Huijing)"
-series: "Four Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
+series: "Six Practice Gates, Volume 2 — DĀNA: The Practice of Giving, from Pāli Roots to the Dharmadhātu"
 series_short: "DĀNA"
 volume: 2
 paper_id: "DANA-P31"
@@ -33,7 +33,7 @@ license: "CC BY-NC-SA 4.0"
 
 With the thirtieth paper concluded, the DĀNA volume comes to a close. The present paper looks back along the volume's seven-stage arc: the Pāli *muttacāga* five-marks formula; the motivational spectrum of the Āgamas; the Vinaya's institutional landing; the early-Mahāyāna *dāna-pāramitā*; the *prajñāpāramitā*'s three-wheel-empty self-witness; the *Śūraṅgama*'s three reverse layers; the *Lotus Sūtra*'s three forms of body-offering; the *Avataṃsaka*'s five-part Samantabhadra arena; and the modern-diagnosis pair — the *bojjhaṅga* twin-factor instrument and the three-axis grounding of giving in the age of artificial intelligence. Thirty canonical anchors that load-bear each preceding paper's thesis are here re-illuminated in their structural roles within the volume's argument-arc, while the author's prose deliberately restrains its own initiative: in the retrospective, the author steps aside, and the voices of *Shandao*, *Yongming Yanshou*, *Zhixu*, *Yinguang*, *Samantabhadra*, *Nāgārjuna*, and the Pāli canon carry the invitation forward. The seam to Volume Three (*SĪLA*) is not constructed by the author but already laid down in the canon — pre-eminently in the *Bhaiṣajyaguru Sūtra*'s fifth great vow, supplemented by the structural pairing of three-wheel-emptiness and the three-encompassing precepts of the *Bodhisattva-mālā-sūtra*, and by the pre-laid posture of *śīla-pāramitā*'s opening in the *Mahāprajñāpāramitā-śāstra* fascicle thirteen. The fifth section acknowledges that seam without constructing it. The volume's end indicates the place to begin — and the answer to "where to begin" is given by the Buddha himself in *anupubbi-kathā* (graduated discourse): *dāna-kathā* is always the first step. The volume closes on seven characters from the *Mahāprajñāpāramitā-śāstra*, fascicle eleven: *dāna* is the first condition for *nirvāṇa*.
 
-**Keywords:** *muttacāga*, *cāga*-faculty, the giving-arc retrospective, where to begin, *anupubbi-kathā*, *dāna* as the first condition of *nirvāṇa*, three-encompassing precepts, the Bhaiṣajyaguru's fifth vow, volume-seam, three-wheel emptiness, *Samantabhadra*, *Nāgārjuna*, *anumodanā*, Volume Two of the Four Practice Gates
+**Keywords:** *muttacāga*, *cāga*-faculty, the giving-arc retrospective, where to begin, *anupubbi-kathā*, *dāna* as the first condition of *nirvāṇa*, three-encompassing precepts, the Bhaiṣajyaguru's fifth vow, volume-seam, three-wheel emptiness, *Samantabhadra*, *Nāgārjuna*, *anumodanā*, Volume Two of the Six Practice Gates
 
 ---
 
@@ -193,7 +193,7 @@ And one further canonical line, addressing the question of the giver's accountin
 
 The *Mahāprajñāpāramitā-śāstra*, fascicle eleven, closes this entire volume on seven characters that belong equally to both readers: "**giving is the first condition for *nirvāṇa*"** (檀為涅槃之初緣) (T1509, fasc. 11). *Dāna* is not the path itself; it is the first *pratyaya* — the first conditional support — for entering the path. Joined to P29's *bojjhaṅga* path-structure (*cāgānussati* → gladness → one-pointedness → impermanence-contemplation → attaining the path), the seven characters lock down giving's structural position in the path with single-line precision.
 
-The companion closure in Volume One (NIAN) at P31, "The Internal Steps of Buddha-Recollection," completes the sister-volume diptych of the *Four Practice Gates*; the cross-reference is in the index. The seam to Volume Three (*Sīla*) was laid in the preceding section.
+The companion closure in Volume One (NIAN) at P31, "The Internal Steps of Buddha-Recollection," completes the sister-volume diptych of the *Six Practice Gates*; the cross-reference is in the index. The seam to Volume Three (*Sīla*) was laid in the preceding section.
 
 The reader has walked thirty papers. The author's further invitation here would be redundant. The canon's invitations are already enough — *Shandao*'s three-offerings-complete, four-embraces-gathered; Samantabhadra's four-exhaustions; *Vimalakīrti*'s turning of *Sudatta*'s donation-assembly into a dharma-donation-assembly; *Nāgārjuna*'s seven characters; the Pāli *anumodanā*; the Mahāpajāpatī robe-pair; the Anāthapiṇḍika dharma-eye-before-gold; the three-wheel-not-apprehended. Take whichever meets the reader where the reader stands: that is the first step of *dāna*.
 
@@ -295,7 +295,7 @@ Shandao. *Commentary on the Visualization Sūtra (Guanjing Sitie Shu)*. *Taishō
 
 ## Cross-References
 
-**Volume One (NIAN):** P31 "The Internal Steps of Buddha-Recollection" — the sister-volume closer. The two P31s complete the *Four Practice Gates* sister-volume diptych, each with its own register-type (NIAN P31 = how-to phenomenology / DĀNA P31 = synthesis-retrospective with bilingual pastoral closure). One-line acknowledgment only, with no structural mirror, per author scope-lock.
+**Volume One (NIAN):** P31 "The Internal Steps of Buddha-Recollection" — the sister-volume closer. The two P31s complete the *Six Practice Gates* sister-volume diptych, each with its own register-type (NIAN P31 = how-to phenomenology / DĀNA P31 = synthesis-retrospective with bilingual pastoral closure). One-line acknowledgment only, with no structural mirror, per author scope-lock.
 
 **Within DĀNA:** This paper's retrospective covers all thirty preceding papers (P01–P30). Each paper's load-bearing scriptural anchor is re-illuminated in §II / §III / §IV. The author's own prose from those papers is off-limits as quotation-source by the present paper's structural discipline; only the canonical voices on which those papers anchored are allowed to speak in the volume's close. Readers are directed to the Sūtra & Śāstra Index above for the T-number map of each paper's principal anchor.
 
@@ -303,7 +303,7 @@ Shandao. *Commentary on the Visualization Sūtra (Guanjing Sitie Shu)*. *Taishō
 
 ---
 
-*This paper is the thirty-first in Volume Two (DĀNA) of the "Four Practice Gates" series · Part IX #3 · the volume's close · the giving-arc retrospective and the place to begin · DĀNA volume sealed at thirty-one papers*
+*This paper is the thirty-first in Volume Two (DĀNA) of the "Six Practice Gates" series · Part IX #3 · the volume's close · the giving-arc retrospective and the place to begin · DĀNA volume sealed at thirty-one papers*
 *This paper is released under the CC BY-NC-SA 4.0 license. Primary-source citations follow the CBETA edition of the Taishō Tripiṭaka; Pāli citations from the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 (CC0 publication-safe) with PTS references.*
 > CBETA collation: all sūtra and commentary citations in this paper have been collated against the CBETA edition of the Taishō Tripiṭaka; Pāli citations have been verified against the Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 edition (CC0).
-*GitHub: github.com/pointing-at-the-moon/four-practice-gates*
+*GitHub: github.com/pointing-at-the-moon/six-practice-gates*

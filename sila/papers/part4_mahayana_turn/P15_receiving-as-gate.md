@@ -10,8 +10,8 @@ language: en
 date: 2026-05-28
 author: 釋慧鏡 Shi Huijing
 license: CC BY-NC-SA 4.0
-series: Four Practice Gates
-series_zh: 四行門 · 卷三 戒
+series: Six Practice Gates
+series_zh: 六行門 · 卷三 戒
 part: IV
 part_title: The Mahāyāna Turn
 part_title_zh: 大乘之轉向
@@ -328,8 +328,8 @@ One thing must finally be set down affirmatively. The *Yingluo* and the *Brahmā
 *CBETA collation:* The primary Chinese textual anchors of the present paper — the *Pusa yingluo benye jing* (T1485, the three grades and three-time seal at p. 1020c04–14, the three gates of reception at p. 1020b29–c03, the indestructibility and mind-as-substance passages at p. 1021b07–22, universal eligibility at p. 1020b23–25); the *Fanwang jing* (T1484, the auspicious-sign gate and master-to-master waiver at p. 1006c05–13, "enter the rank of the buddhas" at p. 1004a19–21, "whoever understands the preceptor's words" at p. 1004b09–10); the *Yogācārabhūmi* / *Bodhisattvabhūmi* (T1579, the self-reception seed at p. 0521b04–18, "reception from another" at p. 0510c16, trans. Xuanzang); the *Pusa dichi jing* (T1581, the parallel self-reception passage at p. 0917a20–28, Dharmakṣema); the *Pusa shanjie jing* (T1582, the eight-criteria preceptor-examination at p. 0992a29–b20, Guṇavarman); the *Sifenlü* (T1428) and *Wufenlü* (T1421) reception-*skandhakas*; and the commentaries *Pusajie yishu* (T1811, Zhiyi / Guanding, Sui), *Tiantai pusajie shu* (T1812, Mingkuang, Tang), and *Sifenlü shanfan buque xingshi chao* (T1804, Daoxuan, Tang) — have all been collated against the CBETA Electronic Tripiṭaka (Taishō base text). The Pāli *Mahāvagga* material (PTS Vin i) is engaged only through scholarly paraphrase and is never quoted. Modern scholarship — Paul Groner (*Saichō*, 1984 / 2000), A. Charles Muller (*The Brahmā's Net Sūtra*, BDK 2017), Funayama Tōru, Satō Tatsugen, and Yamabe Nobuyoshi — is in copyright and engaged through paraphrase; no verbatim citation.
 
 **Author:** 釋慧鏡 Shi Huijing
-**Project:** Pointing at the Moon · Four Practice Gates
+**Project:** Pointing at the Moon · Six Practice Gates
 **License:** CC BY-NC-SA 4.0
-**Repository:** github.com/pointing-at-the-moon/four-practice-gates
+**Repository:** github.com/pointing-at-the-moon/six-practice-gates
 
-*Pointing at the Moon · The Four Practice Gates · Volume III SĪLA · Paper 15 · Part IV close · May 2026*
+*Pointing at the Moon · The Six Practice Gates · Volume III SĪLA · Paper 15 · Part IV close · May 2026*
